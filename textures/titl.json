@@ -10,5 +10,6 @@
   {"texture": 3, "box": [38, 374, 384, 518], "impact_at": [0, 316]},
   {"texture": 5, "box": [38, 394, 384, 533], "impact_at": [0, 336]},
   {"texture": 5, "box": [492, 387, 856, 544], "impact_at": [463, 337], "threshold": 120, "glow": [70, 130, 255]}
- ]
+ ],
+ "backdrop": {"file": "MAP/IMNBG.BIN", "entry": 76, "note": "Title-screen backdrop (load_im(0x4C)); its painted logo is texture 3's combined logo at 1:1, offset [dx, dy] from texture-3 pixels.", "offset": [85, -290], "cut_grow": 9, "box_pad": 8, "dark_band": 9, "dark_luma": 50, "inpaint_radius": 6, "outline": 3, "outline_rgb": [8, 6, 12]}
 }

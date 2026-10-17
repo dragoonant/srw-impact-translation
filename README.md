@@ -5,7 +5,7 @@ Limited Edition disc), by **evilgouki**. It follows the team's *2nd Super Robot 
 *OG Gaiden* and *The Moon Dwellers* patches, so Banpresto's original characters read the same
 across all of them.
 
-> **Status: v0.1, public beta.** All game text is translated and the patch plays from the title
+> **Status: v0.1.1, public beta.** All game text is translated and the patch plays from the title
 > screen into the first stage. **No human editing pass has been done.** The translation was
 > machine-assisted (AI) and checked automatically for fit, line breaks and consistent names;
 > nobody has read the script end to end. Expect awkward lines, occasional mistranslations and
@@ -36,24 +36,23 @@ You need your own copy of the Japanese **Limited Edition** disc as an ISO, match
 | MD5 | `c86e93496b5bc923df2df8917050cd3c` |
 | SHA-1 | `0b93c19ae88ddfb01b9ede1f7f85caf0a72dd03d` |
 
-Download `SRW_Impact_EN_v0.1.xdelta` from [Releases](../../releases) and apply it with
+Download `SRW_Impact_EN_v0.1.1.xdelta` from [Releases](../../releases) and apply it with
 [xdelta UI](https://www.romhacking.net/utilities/598/), Delta Patcher, or xdelta3:
 
 ```
-xdelta3 -d -s "Super Robot Taisen Impact [Limited Edition] [J].iso" SRW_Impact_EN_v0.1.xdelta SRW_Impact_EN_v0.1.iso
+xdelta3 -d -s "Super Robot Taisen Impact [Limited Edition] [J].iso" SRW_Impact_EN_v0.1.1.xdelta SRW_Impact_EN_v0.1.1.iso
 ```
 
-The patched ISO has MD5 `199a1796b93190bed5b426220175cc34`. Play it in **PCSX2** (tested with
+The patched ISO has MD5 `d32e3880f1c8700ebf17009a7e6a1bf5`. Play it in **PCSX2** (tested with
 2.8.2). Real PS2 hardware and the standard (non-Limited) edition have not been tested.
 
 ## Known issues
 
 - **No editing pass** (see above). Names new to this patch series are partly our proposals
   (`glossary/impact_names.tsv`, rows marked `proposal`).
-- **Still Japanese (pictures, not text):** the logo on the title-screen backdrop (behind PRESS
-  ANY BUTTON; the logo fly-in before it is English) and possibly some other menu graphics. The
-  crawls, part title cards, episode numbers, battle-screen badges / labels / series banners, the
-  logo fly-in and the staff credits are in English.
+- **Still Japanese (pictures, not text):** possibly some menu graphics not yet seen in game. The
+  title logo (fly-in and title-screen backdrop), crawls, part title cards, episode numbers,
+  battle-screen badges / labels / series banners and the staff credits are in English.
 - Staff names in the credits are our romanizations; some kanji readings are guesses.
 - Played in PCSX2 from a new game through the opening scenes into the first stage: story and map
   dialogue, the map and unit menus, the Spirit screen, the pre-battle screen and battle quotes.

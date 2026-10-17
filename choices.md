@@ -71,11 +71,15 @@ you disagree), **open** (needs you, but nothing is blocked on it yet).
     shortened to "Sup. Attack" / "Sup. Defense" to fit 96 px; skill labels use the game-text
     terms (Afterimage, Parry, Shin Mach Special, ...). The 24 series banners use official English
     series titles. ATK badge seen in game.
-24. **Title logo** (TITLPACK): done for the logo fly-in (seen in game): our own "SUPER ROBOT WARS"
-    lettering replaces the katakana wordmark; the IMPACT art is kept. **Still Japanese:** the
-    logo on the title-screen backdrop behind PRESS ANY BUTTON. It is not in TITLPACK (RAM holds
-    our English textures while it shows), not in the PSS movies' sampled frames, not in STRM.BIN
-    or IMNBG.BIN; its source is still unidentified.
+24. **Title logo** (TITLPACK and the title-screen backdrop): done, both seen in game. Our own
+    "SUPER ROBOT WARS" lettering replaces the katakana wordmark; the IMPACT art is kept. The
+    backdrop behind PRESS ANY BUTTON is a separate picture with the logo painted in: IMNBG.BIN
+    entry 76 (the title calls `load_im(0x4C)`), 640x448 8-bit. `tools/titlbg.py` cuts the
+    katakana out (where TITLPACK texture 3 differs from the standalone IMPACT, at 1:1 offset
+    (85, -290)), restores the IMPACT art under it, inpaints the earth/space around it, and draws
+    the same English wordmark with a dark outline like the painted logo's (assumed style). Pixels
+    keep the picture's own palette. Patch file for this fix assumed to be named v0.1.1 (v0.1 is
+    already published); publishing it is evilgouki's call.
 25. **Staff credits** (SROLPACK): done (assumed). Roles in standard English credit titles; names
     romanized in Western order, Hepburn without macrons; established readings for well-known
     staff; character names as in the glossary; cast lines "Character - Actor". 104 readings are

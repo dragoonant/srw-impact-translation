@@ -17,6 +17,7 @@ Steps (each reads a file from the output folder if an earlier step wrote it):
           also a 4-byte ELF patch so part 3 gets its own title cell)
   csl     English battle console atlas: badges, labels, series banners (BTL/CSL_PACK.BIN, textures/csl.json)
   titl    English title wordmark (BTL/TITLPACK.BIN, textures/titl.json)
+  titlbg  English wordmark on the title-screen backdrop (MAP/IMNBG.BIN entry 76, textures/titl.json)
   sroll   English staff credits (BTL/SROLPACK.BIN, textures/sroll.json)
   iso     fresh copy of the pristine ISO with every changed file written in (files that grew
           move into DUMMY's space; the game opens files by name)
@@ -185,6 +186,12 @@ def step_titl():
     titl.build(os.path.join(DISC, rel), os.path.join(OUT, rel))
 
 
+def step_titlbg():
+    rel = os.path.join("MAP", "IMNBG.BIN")
+    import titlbg
+    titlbg.build(os.path.join(DISC, rel), os.path.join(DISC, "BTL", "TITLPACK.BIN"), os.path.join(OUT, rel))
+
+
 def step_sroll():
     rel = os.path.join("BTL", "SROLPACK.BIN")
     import sroll
@@ -240,6 +247,9 @@ def main():
     if want("titl"):
         os.makedirs(os.path.join(OUT, "BTL"), exist_ok=True)
         step_titl()
+    if want("titlbg"):
+        os.makedirs(os.path.join(OUT, "MAP"), exist_ok=True)
+        step_titlbg()
     if want("sroll") and os.path.exists(os.path.join(REPO, "textures", "sroll.json")):
         os.makedirs(os.path.join(OUT, "BTL"), exist_ok=True)
         step_sroll()

@@ -1,5 +1,10 @@
 # Changelog
 
+## v0.1.1 (beta)
+
+- Title screen: the logo on the backdrop behind PRESS ANY BUTTON now reads SUPER ROBOT WARS
+  IMPACT in English, matching the logo fly-in.
+
 ## v0.1 (beta)
 
 - All 62,227 translatable strings in English: story and stage scripts, battle quotes, unit /
