@@ -1,0 +1,217 @@
+{
+ "file": "BTL/BMCPACK.BIN",
+ "format": "BMC",
+ "pilot": 143,
+ "strings": [
+  {
+   "id": 0,
+   "en": "I'll hit you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "There!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "With this blow!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "I'm moving up!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "If you're going to get in my way!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Take this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Move aside!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Ngh!! Oh no!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "N-No way!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Ngh! I-If this keeps up...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Agh! N-No, it won't hold!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Aah!! Wh-What power!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "N-Not yet!! I won't go down yet!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Ngh! As expected!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Ngh! I won't let you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Not yet! It's only just starting!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Ugh! I-I can do it too...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Just a graze!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Not from this!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "This is fine!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Dodged it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "There!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "I see it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "I can't get hit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "This is fine!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Huh!? No, my ammo...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "No, this distance is too much!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Careless!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "I can't let you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Go! Funnels!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Funnels!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "With these Fin Funnels!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Fin Funnels!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "With these Fin Funnels!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Fin Funnels!!",
+   "kind": "quote",
+   "keep": false
+  }
+ ]
+}

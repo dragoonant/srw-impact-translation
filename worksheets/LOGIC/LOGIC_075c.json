@@ -1,0 +1,1555 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1884,
+ "strings": [
+  {
+   "id": 0,
+   "en": "The fortress island... is going down...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Burai's suicide charge was no match for our own charge...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Guess that's how it went.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "That's the end of that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Still, the Demon Empire, Campbellians, and Hyakki... Mostly handled.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "True. But Koji...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "I know. ...You mean Dr. Hell, right, Sayaka?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "The Demon Empire, the Campbellians, and now the oni.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "I'd say we've dealt with most of our enemies.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "But Tetsuya, there's still...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Right. Dr. Hell, who Koji and I should have defeated...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "It bothers me that Mykene, likely the one behind him, has been so quiet.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "But Commander Hazuki said we're storming Jaburo next...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Isn't that fine?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "That Dr. Hell guy got beaten once already by Kabuto and Tsurugi, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Guys who keep crawling back like sore losers can't be all that tough.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "That's right. We gotta think ahead.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Well, yeah, I guess.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "It's Jaburo, where we got right up to the door but never made it inside.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "This time for sure.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "I'd like to think so.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "...I suppose right now we do have to think about Jaburo.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Oh, there you are. Hey, no time to gawk at the Hyakki floating island!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Looks like there are Hyakki and Campbellian robots south of Jaburo.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "What!? What do you mean!? The Campbellians were definitely...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "The fortress island's burning down right in front of us,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "so it's hard to believe, y'know.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Anyway, please come up to the bridge!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Roger... I don't like this. The end's still a long way off, huh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "To think they would actually stop the colony.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "And things on the surface are starting to settle... The time is right.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "You called for me, Lady Haman?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "The Federation is in chaos from the alien invasion.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Though we've been affected in no small way, too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Mashymre, lead the new models and bring down Londo Bell.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Yes, ma'am! ...Lady Haman, what are your thoughts on the surface?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "I could send men from my unit, and we could hit the Federation's main forces",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "on the surface and in space at once. That might prove amusing.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Fear not. I've already sent a unit to Jaburo. Glemy's.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Besides... there's an interesting one among the Titans' survivors.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "The Titans...? No, more importantly, Glemy Toto...!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Lady Haman, forgive my impertinence, but that man is...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "...I know.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Pardon? Then why...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "I want to see it. How that one will move...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "You need only devote all your strength to defeating Londo Bell...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "I'm counting on you, Mashymre.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "I'm unworthy of such words...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "On the honor of Mashymre Cello, I will surely live up to your hopes,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Lady Haman...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Man, when that whole chunk of Kyoto got blasted all the way to the moon,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "I didn't know what the hell we were gonna do.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "A whole city, huh... The Meganoids' device is no laughing matter.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Yeah. They say it's not as powerful as before, but we can't relax.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Still, we got lucky.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "We got sent over early, so Dr. Tarsan...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Oh, he's the doctor who built Dangaioh.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "He sent us back with a warp beam.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Handy, though I'd rather not have been dumped right on the front line.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "What're you talkin' about, Mike?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Thanks to that, we made it in time for the fight with the Hyakki Empire.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "You sure surprised me, showing up out of nowhere.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Looks like it's chaos down on the surface as usual.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "This is actually things calming down a bit.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "And up in space, there's that plant planet thing showin' u...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Pai!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Hm?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Aw, crap, it slipped out. My bad!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "I-It's nothing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "What is it? This plant planet?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Could it be there's a new enemy force in space?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Until a little while ago, it was just a small cluster of meteorites...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "but it's been growing bigger and seems to be headed for Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "First a colony, now a meteorite...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Heh, how ironic...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "While we stopped the colony drop, a plant planet was closing in...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Captain Bright seemed to have something in mind.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "That's why he said not to tell everyone yet...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "I see. Still, it might be best to inform Commander Hazuki...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Well, wasn't it fine to tell 'em about now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Maybe so.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "About this plant planet...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "I truly apologize... Commander.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "It's not that I was deliberately hiding it. It's just...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "I understand, Captain Bright.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "My concern isn't that you kept the matter quiet.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "It's what this planet made of plants really is... and how we deal with it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Quite right. I'll transfer the data to you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "There are no major problems so far, but it has certainly",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "attacked our survey team... with humanoid weapons.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "What about the other enemy forces?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Most factions have quieted down, but we can't let our guard down yet.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "We've also confirmed reports of new forces, like the Crossbone Vanguard,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "who champion Cosmo Aristocratism.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "New enemies in space, and the Hyakki and Mykene mechs we beat are",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "at Jaburo on the surface... I wonder how long our fight will go on.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "No argument there. What a mess. Hm... We're nearing the combat zone.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Sorry, but I'll leave the Neo Zeon units that descended to you...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Commander Hazuki, I'm counting on you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Leave it to us. And I wish you the best of luck, Captain Bright...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Likewise to you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "At last...! At last... Heh, hahahaha... It's complete... My...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "my child, Apsaras...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Being complete doesn't mean it'll be of any use as a weapon.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Zabine! You have my gratitude.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "With this... with this, I can finally show up those Federation dogs...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Don't thank me... thank Iron Mask.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "I've merely come to see how you are faring.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Heh, heh heh, heh heh heh heh.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Allow me to show you... the power of my Apsaras... Heh heh heh heh.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "...So this is the completed Apsaras.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "I see. No wonder Neo Zeon scrapped the project. What a hideous thing.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "...In that sense, it's no different from Iron Mask.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "I'll gather what forces remain and bring down Jaburo...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Watch, Aina... Behold the power of my Apsaras...! Hahahaha!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "We're finally going back into Jaburo.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Before that, we're to be resupplied at Kawasaki City.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "I heard the Nadesico is in Kawasaki, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Yes, that's right.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "And now the Nadesico is being formally assigned to the Federation.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "What do you mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "I don't know the details, but Nergal's goal is still retaking Mars...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "the Scaparelli Project.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "By formally joining the military, they can borrow its strength too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "That's likely Nergal's true intent...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "So the Nadesico can't retake Mars on its own...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "I believe we'll have to go to Mars ourselves eventually, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "At present, Commander Hazard of the Mars Frontier Base",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "has been put on the back burner.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Besides, even if we're going to Mars, it's not like we can get there easily.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Couldn't we just get there easily with that Boson Jump thing?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Isn't a biological Boson Jump deadly to the crew inside?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Yeah. Seems a Federation ship's crew that Boson Jumped in the past",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "were all found dead.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Either way, it looks like going to Mars is a long way off...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Phew... Kurojishi's maintenance is done.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Good work.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Now we're all set to go back into Jaburo, Big Bro.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Huh? But we seem to be heading away from Jaburo...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "They said we're getting resupplied at Kawasaki City first.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "When we reach Kawasaki, I'd like Maya's group to help load supplies.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "We're short on hands, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "When the loading's done, feel free to head into town and relax.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "All right!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Then I'm going shopping!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "I'll come with you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "(I think I'll try poking around Nergal...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "A warship's crew can't stay civilians forever!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Normally you'd all be sacked, but this time I, yes I, made a special effort!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "For the sake of my Nadesico, I asked that you all be enlisted as soldiers.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Who asked you to?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Well, isn't it fine? We're fighting for peace on Earth, aren't we?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Admiral Munetake came here with that in mind, after all.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Then why not just keep working together like we have been?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "The situation's different from before.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "The military can't leave a warship like this alone forever, can it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Even if you leave this ship, you'll only be put under unpleasant watch...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "(Admiral Munetake... Who was it that suddenly called this man here?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "You can't just spring that on us out of nowhere.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "You have the ability to protect the Earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "The Nadesico is a ship that can make use of it. If you want peace on Earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "if you want to free the people of Mars,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "then you only have one choice, don't you?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "What'll you do, Akito?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Huh? Me? Making war my job just doesn't feel right somehow...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Oh, not you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Not me?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Right. You were only ever a temporary pilot,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "and we can't leave an Aestivalis to an amateur forever, can we?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Then Akito can focus on being a cook...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "We don't need any extra cooks.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "...So you're telling me to leave the Nadesico.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "I'm telling you this isn't where you belong.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "...Akito...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Megumi, you didn't have to leave the Nadesico with me...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "What'll you do now?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "...What about you, Akito?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Be a cook, I guess... But they'll probably call me a washed-up pilot...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "I keep saying \"I wanna be something,\"",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "but in the end, nobody really wants me.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "That's not true.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Exactly. What if we're the ones who want you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "You're just saying that so you can keep an eye on Akito!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Well? There's a job only you can do.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "Only me...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "You know the Jovian Lizards use Tulips for a kind of teleportation,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "a Boson Jump, to launch almost endless attacks, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "What about it...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "Nergal is rushing to crack that system, apart from the Federation.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "What's that got to do with me...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "The Jovian Lizards are unmanned, and the Crocus's crew all died.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "So why could only the Nadesico Boson Jump living things alive?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "And so Tenkawa holds the key to that... is that it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "Banjo!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "Why are you here!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "We're here too, you know?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "The Gandor's come to Kawasaki?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "We just arrived a little while ago.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "Figured we'd make the most of it and hit the town.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "Anyway, I'd like to hear the rest of what you were saying.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "The connection between Boson Jumps and Tenkawa, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "Inez, you too? Why are you here?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "She's taken an interest in our experiments.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "These people want to make biological Boson Jumps a reality.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "Send manned weapons to Mars or Jupiter, and the war would change.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "The Jovian side hasn't succeeded in Boson Jumping living beings either.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "We have to get ahead of them before they acquire that technology!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "\"Them\"? You mean the Jovian Lizards?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "...! Y-Yes, what of it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "Weren't the Jovian Lizards supposed to be unidentified?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "That's right. Could it be Nergal knows something?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "It's not like I know anything...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "You really don't know?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "Even you can imagine that someone",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "must have built those unmanned weapons!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "I don't know who they are, but am I not allowed to call them \"them\"!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "No need to yell like that... Sheesh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "Akito holds some clue to biological Boson Jumps?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "B-But I shouldn't have any special powers...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "No, you definitely have a mysterious power.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "And Earth needs it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "Why Akito!? Akito's just a pilot!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "Tenkawa, does this stone look familiar?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "Wow! Isn't that a pretty blue gem?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "It's no mere gem. This is... a fragment of a dream...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "(I see... A fragment of a dream, huh?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "We call this \"CC,\" Tulip Crystal. It was discovered on Mars...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "Ah......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "So you've seen one...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "It's just like the keepsake my dad left me... I lost it on Mars, though...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "And? What happened to that \"CC\" of yours?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "Huh... What?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "These crystals are made of the same stuff as Tulips. My hypothesis...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "\"CC\" triggers Boson Jumps! That day, you jumped, didn't you?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "From Mars to Earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "\"That day\"?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "The day a Tulip fell on Utopia Colony on Mars...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "(The day I couldn't save Ai... When I came to, I was on Earth...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "So that Tulip Crystal made Akito jump from Mars?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "Yes, that's right... And the only one who can use it is you, Akito.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "Even if you tell me that...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "You've experienced a biological Boson Jump twice before...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "The time at Utopia Colony I just mentioned, and the other day,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "when you jumped the Nadesico from Mars to Earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "en": "(So a biological Boson Jump needs both CC and Tenkawa?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "But why him?)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "What!? An explosion!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "en": "The Jovian Lizards!? What are they doing here...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "en": "Don't tell me they're after the Gandor and the Nadesico?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "en": "I wonder about that...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "en": "What do you mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "en": "Besides the Nadesico and the Gandor, wouldn't the Jovian Lizards",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "en": "have something else here to target?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "en": "(Atomo Corp... Nergal after all...!)",
+   "kind": "thought",
+   "keep": false
+  }
+ ]
+}

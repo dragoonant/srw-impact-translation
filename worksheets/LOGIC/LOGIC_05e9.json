@@ -1,0 +1,997 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1513,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "It's them...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "The Einst...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "An energy reading... and it's the mystery enemy?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Heh, isn't this who Kyosuke's crew wants to see most right now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "What do you mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "If that enemy shows up now that Excellen's back...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "...it means they're planning their next move.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Exactly.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "They might still be thinking of doing something to us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Not that I should be glad to run into the enemy... Moving out...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "We're heading out too, is that okay?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Yes, please sortie.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "...I don't get it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "That mystery enemy has never shown up on radar, heat sensors...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "...or any kind of search until now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Is that so?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "It always felt like they were outsmarting us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "...That's right. We've run into them many times...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "...but we've never detected them ahead of time.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "I see. So why did they suddenly show up on our sensors now...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "In other words... Amuro, you don't mean...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "It's a lure. To draw us here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "A lure?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "These guys are so vague. What are they even after?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "(Something's... still behind them...? It feels like someone's watching...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Kyosuke.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "I know. ...It's here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "If they block our path, we defeat them...! No holding back.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Annoying bunch. If you're coming, come all at once...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "I don't know... I've got a really bad feeling about this...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Whatever the case, we must shake off the sparks that fall on us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "If we could just beat 'em till they talked, it'd be easy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "...That's not the kind of thing a kid should say.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Kyosuke, Excellen... Can you hear the enemy's voices?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "No, not right now...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Seems they're the quiet type this time...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "We can't run. All units, attack!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "...Ugh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "It's over!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "You can't escape! Sorry, little girl...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "That red robot is...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Alchemie...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "There you are, little girl.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Tch, here comes a real pain...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "...It's been a while... both of you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Oh? Seems you're speaking so we can hear you too this time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Yes... I've become... quite stable now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "What do you mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "I can't... become you yet, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "What...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "(The Einst series. Not like the aliens... either... What are they?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Quit talking nonsense!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Yeah, explain it so we can understand!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "...You wouldn't be able to understand... I think.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Ugh, how rude!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "I've no interest in hearing your nonsense from the start!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "...But answer me this! ...Why did you target the Devil Gundam?!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Domon...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "...Self-evolution, self-multiplication, self-regeneration...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "I wondered if humans could become something other than human...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "That makes no sense. Get to the point.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "......But that Gundam was incomplete.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "It's not usable yet... And my body, too...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Th-That's pretty complicated... Ruri, do you get it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "I fed Omoikane various keywords to guess... It makes no sense.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "(...I can't remember... but... I feel like there's something in her body...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Not usable? Of course not!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "That's not the Ultimate Gundam my father wanted!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Yes... A complete one, perhaps. But it's already time.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "For me, and for those of the land of beginnings...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "I see, so that's why you didn't appear at the colony",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "the Devil Gundam took over...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "What's this \"land of beginnings\"?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Yeah, we keep hearing it... Does it really mean Earth?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "...There's no need... to answer.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "It's a story that will soon have nothing to do with you...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "This is pointless. ...Why not speak in your own words?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Kyosuke... I am... me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "...No, it doesn't sound like it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "What... are you to me...? What do you want?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "...Excellen... You are... my...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "We did it...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "All right, blown to pieces!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Yeah! That's the end of that!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Maybe that was a little sad... Not that I'd grown attached.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "...I wonder.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Is something wrong?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "She seemed to be the only Einst that could speak.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Now we can't get anything out of her.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "That's not it... Is that really the end? Excellen, what do you think?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "...Yeah, she's \"watching.\"",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Hey, hey, then that means...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "We can't let our guard down... is that it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Ruri.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Continuing to monitor. Omoikane, if you would.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "(...I doubt it's just needless worry.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "...What...?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "It can't be...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "I knew it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "...It won't be... that easy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "It was definitely destroyed... Even if the machine can be mass-produced...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "The pilot too?! ...Twins or something?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "...Probably... the same person.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "You can tell, Mia?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "...That strange aura... It's the same.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Aura Power differs from person to person... If it's the same...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "No need to wonder... It's definitely Alchemie... same as before.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "...This Person-Lichkeit... protects me... As many times... as it takes...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Person-Lichkeit...?! Is that the robot's name?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "...Being here, I can feel you, Kyosuke... That is because Excellen...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "(...It can't be...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "What are you trying to say?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "What're you all yakking about?!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Them showing up again ain't anything new!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "That's convincing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Once in a while, sure. ...Come on, you two! No time to space out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "...Roger.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Now, now, getting so angry will give you more wrinkles, you know?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "What did you say?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "(Whew... But I'm starting to see it... how she and I are linked...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "As I thought... it was too soon... And besides...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "What...? Its power suddenly... weakened...?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "There's... no time left...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Hey!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "...There's no time, Kyosuke... For you all... or for me...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "...Kyosuke.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Yeah, I'm starting to get the picture.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "But what they're after... whoever's behind that girl... I still don't know...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "What is she...? That girl...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "She flew off at an incredible speed...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "What the heck? What's going on?!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Just when she came back to life... she goes down awful easy.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "I doubt they just let us off... Watch out for the remaining enemies!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "And that red machine... might come back!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Alchemie...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "No time... What does she mean...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "...No enemy signals?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "So it seems.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "...But the Einst normally don't show up on our sensors anyway...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "So they might be hiding, then?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Provided they aren't hiding, there's no one around.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Huh, we've met her lots of times, but... what is she, anyway? That girl...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "...The Einst's combat leader, more or less.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Is that really all?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Oh my, Kyosuke, they're suspecting you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "You as well, as a set.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Wow, figured as much?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Hey, are you two friends of the Einst?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "What the heck? Are you guys calling them here?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Maybe you give off some sound wave people can't normally hear.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Hey now, I'm not a dog whistle.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Hmph, and a rabid dog at that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "I'm not sure... but at the very least, they'll keep coming after us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "I don't think you're hiding the truth. But... you really don't know anything?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "...I have plenty of theories. But the truth... I have no idea...",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

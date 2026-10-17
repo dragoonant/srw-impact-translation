@@ -1,0 +1,139 @@
+{
+ "file": "BTL/BMCPACK.BIN",
+ "format": "BMC",
+ "pilot": 271,
+ "strings": [
+  {
+   "id": 0,
+   "en": "There!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Let's settle this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Die!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "U-Uoooh!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "D-damn youuuuu!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "D-damn you!! I'm not finished yet!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Nnngh!! I won't allow it!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Ngh!! Well done!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Ngh!! You'll pay for that!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Ha! Not yet!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Grr!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Hmph, an attack like this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Hmph, useless!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "That had no effect!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Hmph, useless!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Hmph, where are you aiming!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Where are you aiming!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Beams won't work on me!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "I can't even counter!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Ngh! Out of reach!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Here's the finishing blow!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Impudent!!",
+   "kind": "quote",
+   "keep": false
+  }
+ ]
+}

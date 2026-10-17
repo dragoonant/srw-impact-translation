@@ -1,0 +1,55 @@
+{
+ "file": "BTL/BMCPACK.BIN",
+ "format": "BMC",
+ "pilot": 190,
+ "strings": [
+  {
+   "id": 0,
+   "en": "Get 'em!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Get 'em!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Fiiire!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Open fire!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "We can't fight back?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "We can't fight back?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "We can't fight back?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "We can't fight back?",
+   "kind": "quote",
+   "keep": false
+  }
+ ]
+}

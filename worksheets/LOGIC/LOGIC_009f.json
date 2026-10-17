@@ -1,0 +1,733 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 159,
+ "strings": [
+  {
+   "id": 0,
+   "en": "Defeat all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "All allies defeated",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "So this is the Nanbara Connection. Earthling forces are nothing much.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "I don't see why Mother is so concerned.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Hm, what's that? So you've finally come, Campbellians!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "That Gandor warship hasn't come, it seems. How dull.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Very well, attack!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Old man! Can't we launch yet!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Yeah! I ain't gonna sit here and get crushed!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Just a little longer... a little longer. I'm doing the final tuning now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Doc, never mind the little details! If we don't launch soon...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "I've contacted the Gandor Team... They'll be here soon. Wait.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Rushing out and failing to combine would be pointless...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "The Gandor Team... the only working Federation unit right now, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "I wish they'd hurry... We won't make it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "...Dr. Yotsuya! This is the Federation Far East Branch, Gandor Team.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "I'm Commander Hazuki! We'll take up direct defense of the base!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Thank you! We'll soon be able to launch our battle robot too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Speak of the devil... Heheheh, saves me the trouble of searching.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "I'll dispose of you all at once!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Commander! More enemy robots not in our records.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Dr. Yotsuya, what is this army...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "...The invasion the late Dr. Nanbara foretold... The Campbellians.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "More aliens!? What the hell is going on?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "According to Bright, nothing's come down from space lately...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "so does that mean they've been hiding here all along?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Save the debate for later. All units, launch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Still not ready, old man!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "...The Battle Machines' weapons and such are still largely unfinished...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Once we combine it won't matter! Doc, give us the launch order!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "...All right, Battle Machines... launch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "All right! I've been waitin' for this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Let's go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Yeah!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Yes!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Commander Hazuki, launching Combattler V now...! Please cover it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Understood. We'll be counting on the power of electromagnetic energy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Here we gooo!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Let's...! Coooombiiiine!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Combattlerrr V!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Bring it on, Campbellians! I'll smash every last one of you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Five machines combining!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Even Dancougar and Dangaioh only use four. How extravagant.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "As long as they're reliable, I don't care!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Whether they're reliable is another matter. Let's see what they can do.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Those guys!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "...YOUR... POWER... WE... WILL... U...SE...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "...A voice again!? Hibiki, did you hear that!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "A voice? No, Raideen didn't pick up anything.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "...Only me...? It seems it wasn't my imagination after all...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "I see, these are the ones Mother spoke of... Then no need to attack.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "These are the ones that appeared in Tokyo.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "But last time it was just those bony ones.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Right. It's the first time I've seen that red unit.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "...KYO...SUKE...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "(What!? It just said my name...!)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "It said Kyosuke, didn't it...? What's going on!? Kyosuke!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "(Hm? That voice... everyone else can hear it too...?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Yes... so you are... Kyosuke...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Who are you! How do you know my name!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "My name is Alchemie... Einst Alchemie.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Einst... Alchemie, you say?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "A girl's voice?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "I see... it's you. The woman in the red unit Excellen mentioned...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "...Kyosuke... Excellen... question...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "What are you talking about?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "What are you doing! We're in combat!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Your opponents will be these Einst Knochen.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Anyway, focus on wiping out the enemy for now!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "What...! Gaaah! Reduced to this by mere Earthlings!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Withdraw!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Hey, get back here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Commander, do we pursue!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "No need to chase them far. We know too little about the enemy.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Let's wait and see for now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Dr. Yotsuya is right.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Just mop up whatever forces are left.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "A little... understanding... Kyosuke... but still...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "...Who are you? Why don't you make yourself clear?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Answer me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "...We'll... meet again. My... Kyosuke...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "(Excellen...!?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "That one felt... different from the bony ones... Why?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Einst... Alchemie... Who on earth is she...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "(And... does she feel like Excellen...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "What is there between her and me...?)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "It seems we drove them off. Commander Hazuki, I ask once more...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "would you take the Combattler Team into the Gandor Team?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Dr. Yotsuya... I don't mind, but if the Connection is attacked again...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "I don't think you'll be able to hold them off.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "That's right, old man. Don't push it, we'll stick with you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Exactly right. Doc, don't try to act tough...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Fools! Don't get cocky!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "The Campbellians aren't our only enemy!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Unless we unite all of Earth's forces, we won't survive!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Doctor...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Even if the Connection is destroyed, we'll still have you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "That's why Dr. Yumi and Dr. Saotome left their labs empty",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "and put their super robots in the Gandor Team.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "He's absolutely right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Looks like you've got a good commander.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Hyoma, let's fight with the Gandor Team.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "That seems the quickest way to protect the Connection, and Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Hyoma... let's go.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "...All right. Commander Hazuki, Combattler will lend a hand too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Thank you, I'm counting on you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "...Dr. Yotsuya, I'll take good care of the Combattler Team.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Yes, please do. You kids, give it your all...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Still, what were those bony enemies...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "The girl in the red unit worries me, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Einst Alchemie...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "and she called the bony ones Einst Knochen...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "The Einst Series, I guess. What the hell are they?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "The Einst Series... What's their objective...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "We have no time to stand still.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Once supplies are loaded, we head to our next destination.",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

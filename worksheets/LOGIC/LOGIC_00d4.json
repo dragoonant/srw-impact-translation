@@ -1,0 +1,895 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 212,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Ah, there's a ton of those guys!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Which means the Death Army might be here too?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Yeah, and my master... Master Asia... is probably here too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Tch, I'd rather not think it, but... Akira, were they behind Jaburo...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Yeah, no doubt about it... Mister.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "... I have a really bad feeling about this...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Not Zeon, not the aliens targeting Earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Why would a totally unknown army go after Jaburo...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Commander Hazuki, won't they answer our hails?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "...I've been trying this whole time.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "But... rather than ignoring us, perhaps those machines simply have no comms.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "That may be the truth of it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "But that Alchemie person's machine,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "seemed to have comms...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "That's right, the red one did contact us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Maybe it's just them bony machines that ain't got comms?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "No, those bone-like enemies...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "those Einst Knochen... might be closer to Fossil Beasts...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Mechanical Beasts can't talk either, right? Don't sweat it, Commander.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "If we smash 'em all, the mastermind'll show up eventually!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "\"Don't smash them all, please,\" right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Oh, you get it, Sayaka.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "I know what you're thinking, at least, Koji.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "True, there's no talking to Mechanical Beasts or Mykene's Battle Beasts.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "The Mykene are practically half living creatures.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "True. Clashing without a word is unsettling in its own way, though...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Let's get this started! Dithering around won't get us anywhere.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Yeah, it'd be no fun if more aliens butted in...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "That's the idea.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "It's decided, then. Now, let's do this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "The Death Army!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "The Death Series Kasshu is chasing, appearing with the unknown enemy...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "What does this mean?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Commander, this unknown enemy, like the Death Series,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "may have been created by the Devil Gundam.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Hmm... That's possible.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "(The Devil Gundam...? ...No, that's not it...!)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "If the Death Army's here, could the Devil Gundam be nearby too!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Domon!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "...And the Master, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Come out, you fake! You're not my master... You're not Master Asia!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "What are you saying!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Save such foolish drivel until you can lay so much as a finger on me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "(If I pour every technique I've mastered, and my entire soul,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "into this fist and strike with it, Master will surely understand!)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Domon!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Master... On my name as the King of Hearts!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Fight me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Interesting! I accept your challenge!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Ooooh! Gundam Fiiiiight!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Readyyyyy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Gooooooo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Fuhahahaha, it seems the time has come...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Fuhahahaha, it's too late!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Now, behold the form of my king and reconsider!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "And walk alongside me, Domon!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Th-that's...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "So that's the Devil Gundam...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "So magnificent it leaves you speechless?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "That's right! Unlike the others, I am not being controlled.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Enthralled by the Devil Gundam's power, I chose to serve it myself!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "N-no way...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Brother?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "That man is Domon's brother?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Brother... Why...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Domon... If you will not come with us, so be it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "It's time I finished you off!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "I won't allow it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Hm!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Fuhahahaha, Master Asia, you won't have your way!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Hmm, no matter. One more small fry makes no difference!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Take this!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "He split into copies!? He's good! Who are you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "My name is Schwarz Bruder of Neo Germany.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Remember it well!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "So that's Neo Germany's Mobile Fighter, Gundam Spiegel...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "...Brother...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "What are you doing, Domon!? Hurry! Destroy the Devil Gundam now!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "But who are you...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "That doesn't matter. Hurry!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Domon! You came to Earth to defeat the Devil Gundam... Kyoji, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Then do it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Th-that's right, it's this thing... Because of this thing...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Because of this thing, Mother and Father...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Because of this thiiing!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Brother...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "You fool, why did you pull off the head!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "The Shining Finger's power is being absorbed...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "What just happened?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Looks like things just got complicated.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Behold this form!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Thanks to that power of yours, my Devil Gundam is fully revived.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "You have my thanks! Guhahaha...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Autonomous metal cells... I never imagined they were this powerful...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "What now? Taking that thing on in our current state looks pretty rough.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Guhahaha, rest easy. I won't show you the Devil Gundam's power just yet.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Running away?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "But know that the next time we meet will be your end...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Until then, reflect on your own immaturity, Domon.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Farewell, Domon. King of Hearts, guhahahaha.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "W-wait. Please wait! Master, Brother! Brother... Brotheeeer!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Domon's brain waves are dropping...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Dr. Hazuki, please retrieve the Shining Gundam!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Kasshu has been retrieved. Everyone, mop up the remaining enemies.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Who goes there!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Tobikage...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "The Ninja Warrior has arrived!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "I figured it'd be showing up about now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "We're counting on you! Tobikage!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "I'll defeat Master Asia with my own hands!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Whew, looks like that's everything taken care of...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Though the Devil Gundam got away...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "How do you know about the Devil Gundam?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "I can't go into detail now, but I'll say only this: I too am pursuing",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "the Devil Gundam...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Ah, he's gone...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Schwarz Bruder... Who in the world is he...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "There were so many things I wanted to ask...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Princess, let us save that for another time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Anyway, let's focus on storming into Jaburo for now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Sure, the Devil Gundam and that Schwarz guy bother me too, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "No, before that, I'd like you to recover the mystery enemy's wreckage.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "What do you want with wreckage?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "If we have time for that, shouldn't we just storm in already?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "We have almost no information on that mysterious enemy.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Examining the wreckage may tell us something.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "True, might be smart to gather some intel on our enemy about now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "All units, return to the Gandor, and once resupplied,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "head out to recover the wreckage. Captain, lead the recovery team.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Understood.",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

@@ -1,0 +1,1129 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1451,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Commander Gandal, how are the preparations for the operation?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "No problem. We'll put it into action shortly.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "King Vega is deeply disappointed by your repeated failures.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "This time, live up to His Majesty's expectations.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "I know that...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "(Grr, even if he is King Vega's favorite science commander,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "I can't let him lord it over me any longer...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "And I can't stand him being called the handsomest man on Vega either...)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "All forces, hear me! The time has come! Our invasion of Earth begins!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Heh heh... From now on, the Earthlings will live in fear of attacks",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "from this Skull Moon Base!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "(Still, to have to rush the operation like this...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "I never imagined Earth's defense forces would do this well...)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Duuuuuuuke... Fleeeeeeeed!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Wh-What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Grendizer, GO!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Vega Star Federation! Now I'll avenge the people of planet Fleed!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "So you've come, Duke Fleed!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "You're a moth flying straight into the flame!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Recall Gorman and Zigra!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Beat the Earthlings' greatest force here, and our dream is within reach!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "So this is it! When did they build such a huge forward base...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "I'll settle this here...! Settle everything...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Brother...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Whoa... Isn't the mood kinda intense?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "...It's the enemy's home base. Still, getting too worked up is bad...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Calm down, Umon! The enemy won't run, so don't rush!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Yeah, yeah, looks like they're all fired up too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Looks like their forces were just about to launch.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "I've never seen Daisuke like that...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Looks like this is the final battle with the Vega Star Federation too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Coming here in droves, all lined up!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "...Infuriating, they've already sniffed this place out!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Heh heh, isn't this convenient, Commander Gandal...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Our biggest source of worry has jumped right into our hands.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "What a base... So the reason they were so fixated on the Moon was...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Yeah, it was to build this base. ...They sure went all out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Looks like they managed to finish building it... but we can't leave it be!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "We'll now strike the Vega Star Federation's base! All units, launch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "What do you people think other people's planets are!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Go back to your own planet!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "If all you ever think about is bad stuff, you'll regret it later!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Grrr... Letting you talk only makes you cockier...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "...Our planet... Vega... no longer exists in this universe!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "...!? What did you say...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "What? What do you mean, Commander Zuril!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "You know it too, Duke Fleed...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Our Vega Nebula was contaminated by Vegatron radiation,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "and its stars exploded one after another...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Yes. ...D-Don't tell me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "That's right, even planet Vega has finally vanished!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "We no longer have anything we can call home!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "So that means... they're just like Daisuke...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Yet another people who lost their home world...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Truly their backs are to the wall... Be careful, all of you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "A cornered beast becomes many times more ferocious!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Ngh...! Then... then why won't you join hands",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "with the people of other planets!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Don't fight! Let's think about it together!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "That's right! It's because you attack us that we end up fighting too!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "If you'd just done that... even planet Fleed...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Don't make me laugh!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Bow our heads to mere Earthlings and beg, \"Please let us live on Earth\"...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "You think we could ever say that!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Like you did, Duke Fleed!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Zuril... Gandal... You bastards...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Calm down, Duke Fleed.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Lose your cool and you'll lose even a winnable fight...! It's unavoidable now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Sad, but... yeah.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Duke Fleed, what you should fear is not the enemy...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "but losing yourself to rage!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "...I won't hesitate anymore...! Vega Star Federation, prepare yourself!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Bring it on! All units, attack!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "(This feeling... that girl...!?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Kyaaaah!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Ah, Kirika...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Brother... the blazing planet... into a planet people can live on...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Impossible... Me, Zigra!? Me, of King Vega's Royal Guard!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "This is the end!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Commander Zigra! We win!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Gwoooooooh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "To think... the Earthlings could go this far!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Not just Earthlings! Other planets, other worlds... Peace itself won!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "I refuse! I refuse to accept it! I am of King Vega's Royal Gua...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Uoooh...! Juniorrrr!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Nwoooh! K-King Vegaaaa!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Nuooooh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Prepare yourself, you devil!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "If it comes to this... I'll rain deadly fallout down on Earth...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "King Vega, this is the end!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "I am the king of the universe... King Vega...! Bwahahaha...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Hm! What's wrong, Maria!? It's dangerous!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "You're... from back then... Kirika!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Hey, why are you fighting for people like them?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "I... want to make my brother's dream come true...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "And for that, I have to fight for King Vega!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "That's a lie! You heard it too, didn't you?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "They're the kind who keep invading even after losing their own planet!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Your research will just be used for war too!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Then what am I supposed to do!? I've no home to go back to, no family...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "How am I supposed to carry on my brother's wishes!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Fight with us, for peace in the universe. Okay?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "With all of you... But I did terrible things to Earth's people...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "You left behind a Vegatron Minus Ray Gun",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "for my brother... There's kindness in your heart.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "If someone like you fights for King Vega,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "your brother would surely be sad too... right!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Kindness... Brother... Brotherrr...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Maria, hurry! They'll pick you off!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Come on, transfer over here, quick!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "O-Okay!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Acquired skill \"Meditation\".",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Heh... Hahaha! With both Commander Gandal and Commander Zuril here,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "you seem to be having an unexpectedly hard time!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Hm! Who goes there!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "More of 'em!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "The forces that already launched... came back!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Didn't think you'd come from the other side! But too bad for you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Now that we're here, you ain't doin' as you please.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "With a force that small, against this Grendizer...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Hm!? That battleship...!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "What's that spaceship... It's sooo big...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Kukuku... Wahahaha! Long time, long time no see, Duke Fleed!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Brother, that voice!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "......King Vega!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Eeek, the enemy king showed up!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Gwahahaha! You came sooner than I thought, Duke Fleed.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Just when I was about to lead the attack on Earth myself!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "What a thoughtless king, huh.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "What if you come out yourself and get beaten?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Exactly... Is he panicking because he lost his planet?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "I'm not a coward like you lot! Begone, brats!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "You're really underestimating us...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Let me teach you that misjudging your opponent can be fatal!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Here we go, Domon! Saucers or monsters, let's take 'em all down!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "King Vega, our showdown... ends here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Who do you think I am!? I am the king of the universe, King Vega!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Commander Gandal, Commander Zuril, attack with all your might!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Yes, sire! Commander Gandal, we sortie as well!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Right, send out every last force we have! Prepare yourselves, Earthlings!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "King Vega...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Hmph, howl all you like!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "This Skull Moon Base will be your grave!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "We've come this far. No way we're losing now!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Fewer robots than our intel suggested.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Heh heh... Splitting your forces to take down this Skull Moon...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "What naive thinking!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Don't flinch! We expected this much!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Crush them in one go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "I won't bow to a devil...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Duke Fleed! You still dare defy me!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "There you are! You're late, Rom Stol!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Going back and forth was rough, you know? Some thanks would be nice.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "That can wait till this battle's over. Then we'll take our time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "So we'll thank you till you're sick of it, OK?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Bah, how annoying! What difference do a few more make!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "No, this seals your defeat, King Vega! Prepare yourself!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Such is the fate of the Royal Guard.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Junior...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "I see... He had a family too......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "We have to end this fight soon, so tragedies like this never repeat...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "You defeated the enemy commander!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "It's too soon to celebrate... Not until we defeat King Vega!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "King Vega, this is your end!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Of planet Fleed... of the people of the many planets you sacrificed...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Feel their wrath!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Heh heh, so you've come, Duke Fleed... We have no planet to return to...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "But I am King Vega, king of the universe! I'll never beg you for mercy!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Battle Mastery increased by 1.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "It's over... At last... I've defeated King Vega...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "Brother... Brother, you did it, at last...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "You did it, Daisuke.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "Now you've finally gotten your revenge.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Looks like we've managed to thin out the forces attacking Earth too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Umon, it seems your battle... is finally over.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "...Yes. My fight as a man of Fleed is over.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Next, I'll fight as an Earthling, for this blue planet...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Whew, I thought this was goodbye. Don't scare me like that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "It'd be a real problem if we lost Grendizer now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Umon... looks like we'll be sticking together a while longer.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Yes, for the beautiful Earth...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "All right, we also need to consider our next course.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "All units, return.",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

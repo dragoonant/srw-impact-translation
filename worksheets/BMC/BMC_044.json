@@ -1,0 +1,349 @@
+{
+ "file": "BTL/BMCPACK.BIN",
+ "format": "BMC",
+ "pilot": 44,
+ "strings": [
+  {
+   "id": 0,
+   "en": "I just like fighting, that's all...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Well, time to smash 'em!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "All right, it's mine!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Okay, now!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Here I goooo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "This is the last one! Full power!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Eat this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Too slow!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Oops, can you afford to look away!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "This is a new model, after all!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "I always repay a favor, you know!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Gotta return the favor!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Is this it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Whoa! These Aestivalis are pricier than you'd think, y'know.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Who says I've lost yet!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "What!? What's going on!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "I'm not... scared.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Is the field not working!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Things are getting a little dicey, I guess.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Now this is getting thrilling.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Bit of a pinch, maybe.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Stay positive, stay positive... Haha.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Seems you're not like the toys so far.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Hey, hey, you serious!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Whoa!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "What!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "An attack like that won't work!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "...What's going on!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Not good enough!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Did it get through the Distortion Field?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Oops! Did I scratch it?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Hahaha! Still not good enough!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "An attack like that won't work!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Even I can do this much!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "You're not well trained!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "What's wrong? Pull it off like in the anime!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "My, my, how unsightly.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "What are you people even doing?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Once I read the pattern, I can win!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Right on schedule!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "A truly safe, sensible way to fight.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Out of ammo?! Oh well.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Nothing I can do, huh...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Out of range, you say!? ...Good grief.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Nagare Akatsuki... here to help!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Ta-da, sorry to keep you waiting, folks!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Let me have a go too!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "You'd best withdraw!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "I'll cover you, so get out of here.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Didn't I tell you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "A knife, huh. Not really my style.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Wired Fist, launch!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "An opening! You're in range!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "An opening! You're in range!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "The field-breaking lance! Take that!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Distortion Field, maximum output!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "I just love this roar!",
+   "kind": "quote",
+   "keep": false
+  }
+ ]
+}

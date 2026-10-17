@@ -1,0 +1,1519 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 2273,
+ "strings": [
+  {
+   "id": 0,
+   "en": "Never thought they'd smash a big ol' asteroid like that...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "What're we gonna do now?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "What a nuisance they are. Devil Saturn 6!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Now, while they're relaxing, is our chance!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Ya sure? They got a whole buncha tough mechs gathered there, though!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Ain't that, uh, a bad idea!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Don't talk back! ...If you won't obey my orders...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "G-Gadessa! We're goin', we're goin'!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "(Th-This'll get us killed...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "...Don't be hasty, Diondra.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Grujios? What, are you saying you've lost your nerve too!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Now, wait. I know they've let their guard down...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "But it's also true their forces are concentrated.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "And so... I have a plan...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Oh? But I'd rather you didn't meddle in how I do things.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "...Heh heh heh... I just have to take care of them, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "You're... a Cronosian...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "We'll use this man. ...Heh heh heh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Can we trust someone who came out of nowhere?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "These are Lord Gades's orders. ...Will you defy them, Diondra?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "...Hmph, no one said anything of the sort.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Lord Gades told us to join forces with the space pirates, the Bunker,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "and work together... What's become of that?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Just watch... Heh heh heh... The Bunker has an ace in the hole too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Hmph, I hate tedious schemes. ...We lure them out and finish them fast.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Oh, do you have some plan? ...Let's see what you can do...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "...with your Tenku Chushin Ken.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "(?? ...Tenku Chushin Ken? What the... Things're gettin' messy, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "that sure saved my hide, no lie.)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "So... you have awakened...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Go... Take your revenge...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Yes, sir. ...For giving me another chance...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "I thank you, Grand Captain Garimos...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "(Heh... Heh heh heh... Yes, another chance has come...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Next time for sure... Mia Alice...!)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Kyosuke Nanbu and Rain Mikamura... reporting in.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "The Alteisen and Shining Gundam have been loaded aboard as well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Good. You both made it safely... Glad the enemy didn't attack you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Yes, the enemy's ground forces have weakened. The launch went fine.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Sounds like a lot happened on the ground. Rain, how's my brother?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "He still needs rest, but he's doing well. ...He sends his regards, Domon.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "...I see.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Thank you for your hard work... everyone.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Good work.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Ms. Purpleton... Hm, you're Amuro's...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Yes. I've been assisting the Captain...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "I'd like a moment of your time about that later.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Very well. We'll make time during resupply.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Guess when you're someone like Amuro, the girls come flocking, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Oh my, jealous, Judau?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "But Judau, you've got me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "...How stupid.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Me, I'd rather have someone more active.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "What, so a guy like Fujiwara's your type?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "No thanks, not someone that stubborn!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Enough of this nonsense. ...I'm going ahead to start tuning.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Oh, I'm coming too! Wait up, Domon!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Rain, aren't you gonna chase after him? Allenby'll have him all to herself.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Y-Yes... I have to contact the Neo Japan colony",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "about Kyoji...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "She just came up from the surface, and she's already working hard.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Come to think of it, what's Dr. Tarsan up to?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Who knows... We haven't heard from him lately...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Knowing that doctor, he's probably hiding somewhere",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "keeping an eye on things, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Drill, don't say such rude things!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "It's fine, it's fine. I'm sure Drill's right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Oh...? So you're the mechanical life-form aliens... Hmm...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "If you like, would you come by my lab later?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Ms. Purpleton, they are our allies.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Please try not to be rude...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "But if I could analyze them and feed it back into mobile suits...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "This is hopeless.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Rom, you'd better get away before she catches you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Understood. Then we'll be on the deck.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Jet, Drill, let's train while we have time.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Sis, let's go too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Yes, let's watch Rom Stol and the others train...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Master Rom, please don't leave me behind!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Nina Purpleton. Sorry to interrupt, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Oh? ...You're... Kyosuke Nanbu, aren't you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Yes. I have a favor to ask.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Oh? What is it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "This is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "The Captain designed it... the Nu Gundam.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "I'd heard about it... Looks like it made it in time for combat.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Nina always says how frustrated she is.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "She says she's never seen such a beautiful Gundam.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "It certainly is a beautiful machine... But why frustrated?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "She pours her heart and soul into Gundam design, so...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "The combat equipment is almost finished.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "We're about to start the activation checks.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "...What are those plates on its back? For heat sinks,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "they look awfully complex...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Those are Fin Funnels. Testing's done; all that's left is installing them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Funnels? So it's... a Newtype-only machine.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "...I hadn't heard the Federation had technology that advanced...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "We built it using information from the materials development division.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "You know the psycoframe, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "It's built into the frame around the cockpit.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Built into the frame? Directly...? That's an amazing idea.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "But... there's something strange.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Something... strange?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Yes... The claim that this idea came from Anaheim's materials division...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "seems to be a lie.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "A lie? Then... who?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "I don't know... But in testing, it worked perfectly.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "...That's troubling... The very fact that it works properly",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "suggests there may be something behind it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Oh, Captain, you're here too? I heard there's a new model",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "being sent to Amuro? ...Whoa, so this is it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Isn't it bigger than the Double Zeta?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Yes. For a standard mobile suit, it ended up on the large side.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Maybe it was designed with the opposite philosophy from the F91.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "You two's mobile suits are kinda on the small side, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Anyway, once this reaches Amuro... Captain Amuro, I can rest easy.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "...Captain Quattro seemed interested in it too...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "...Captain Quattro?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Yes... He said he was curious as a pilot... Is something wrong?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "No... it's nothing. But getting it to the surface now isn't realistic.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "...No. And it hasn't undergone gravity testing yet...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "What if we use it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Yes, that's the only option. Chan, do you mind?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "It's fine... It was meant to be delivered to Londo Bell anyway,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "so the paperwork doesn't change.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "(Amuro... please come back soon...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Complete... Heh heh heh... At last the true Rafflesia Project can begin...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Iron Mask.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Zabine Chareux, is it... What do you want?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "...I want to ask about the code name \"Bug.\"",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "...You'll see. Hm, Federation troops coming here? Perfect... Heh heh heh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "(...What are you plotting, Iron Mask...?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "A custom Gespenst Type 3... This is the first time I've seen one.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "A crazy-powerful booster, live-ammo arms that ignore body balance...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "It truly is the black sheep of a masterpiece Personal Trooper.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "...Could custom parts from the Mk-II be used on this thing?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "...The Gespenst Mk-II Custom... Come to think of it, one was assigned",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "to Londo Bell, wasn't it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Actually, when I asked Captain Bright about upgrading the Alteisen,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "he said to talk to you directly... Here's the upgrade plan I came up with.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "An upgrade plan? Let me see... Huh, you can draft blueprints?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Yes. I'd been thinking about it for a while... It just took me a long time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Uh-huh, I see...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "...I need it upgraded, no matter what. Otherwise...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "when I fight that thing, I'll lose out in a head-on clash...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Extra armor and stabilizers... And this cylinder on the arm?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "It's bigger than the one on the current Revolving Stake...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "The Riese type... the very first part built for the Stake.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "I heard it was too big to balance, so they switched to the current type...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Riese... German for \"giant.\" I see. ...And where's the part itself?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "...It was tossed into a spare-parts container...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "so it should have been brought here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Got it. If it's just assembly using existing parts, it shouldn't take long.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "We also have the ZZ's reinforced armor to fit, though...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "...Please do.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "...Say, this is a bit of a side job, but can I rig something into the Stake?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Rig something? I don't mind... but what is it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "I want to test a field-nullifying system Anaheim developed in-house.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Can't let Nergal beat us, after all. Well? Not a bad deal, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "No... if anything, it helps.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Everyone at Anaheim, me included, will be pulling an all-nighter, though.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "I'll send the bill to Bright.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "...Sorry for being so selfish...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "(If this works... I should be able to go toe-to-toe with it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "I'll defeat that Weissritter... and her...!)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Soon... it... will be...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Your... role... too... will... end...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "...Kyosuke...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Captain, this is bad!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "What is it, Mikamura?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "The Neo Japan colony... is being attacked by the Einst!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "They're requesting reinforcements immediately...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "What...? What's going on...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Captain Bright, is something wrong?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Yes... That enemy's signature appeared somewhere else as well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "...Right near the Moon.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "They appeared at the same time!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "That's never happened before... Don't tell me... Excellen...!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Hmm... But we can't ignore either one. ...Where's Domon?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Going wild on deck with Allenby and Rom's group. Calls it training.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Yeah, they were getting in the mechanics' way.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "Looked like fun! Maybe I'll join in too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "When those guys go wild together... nobody can get near them...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "We can tell them later. Looks like we'd better launch right away.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "Right. All ships, prepare to launch! Everyone, stay on alert.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "Hold on...! A transmission's coming in on a weird channel. I'll put it through.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "A weird channel...? Oh, it's the Doc!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Oho, you lot!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "And Captain Bright, was it? I've got vital information!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "Vital information...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "You here to peddle more shady junk again?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "Fool! It's information on the Bunker and the Gyandlar!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Truth is, they were chasing me until just a moment ago.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "Whoa! ...So, are you okay?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "Heh heh heh, with my technology, shaking them off is child's play.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "So you're good at running away?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "Call it a keen eye for opportunity.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "...Or so I'd like to say, but I was rescued.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "By who!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "Tenku Chushin Ken... the son of Kirai Stol.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "Rom and the others!? But they were on the deck just now...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "What happened? Rom and the others just rushed out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "Rushed out?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "Yeah... they got some kind of transmission, and...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "their faces changed color. Something like \"That one I'll never forgive.\"",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "(Their faces can change color?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "And where are they now!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "Well... they went straight after the Gyandlar bunch that attacked me,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "and off they went. ...Hmmm.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "Doctor? Is something bothering you? And are you all right!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "I'm fine. ...Besides, I suspect their real target wasn't me...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "It seems more like they wanted to lure out Rom Stol and his comrades.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "The Gyandlar... I see.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "After I shook them off, I checked where they went back to...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "and they entered one of Earth's space colonies.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "An Earth colony?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "...With the war dragging on, lots of colonies",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "have ended up empty.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "Maybe they're turning one of them into a hideout?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "Dr. Tarsan, where is this colony?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "Mm, I'm sending the data now... Right here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "...This is... the Texas Colony?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "Captain, you know the place?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "It was a lively tourist colony once, apparently...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "but it was abandoned around the time of the One Year War.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "Just like Judau said.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "So we can play there for free?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "...With the Gyandlar, right now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "It'd be trouble if they made it a forward base. ...We should crush it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "Way to go, Doc! Nice work, nice work!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "Mm-hm. ...Hey, don't tease an old man.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "Anyway, I've told you. I'll vanish before my pursuers show up.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "You lot take care of yourselves.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "We will. Be careful, Doctor...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "The Neo Japan colony, the lunar vicinity... and now the Texas Colony.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "...Things are getting hectic. Prepare to launch, anyway. As for Rom...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "No need to worry about them so much, right? They'll catch up eventually.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "It's not that simple...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "He's not one to fall behind easily.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "...Not to side with Allenby, but worrying won't get us anywhere.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "Yeah, that's true. If anything, the problem is us, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "A combined Bunker and Gyandlar army... They're bound to be tough...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "Why're you getting cold feet!? We can't just leave 'em be, can we?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "True... but it's eerie that the mystery enemy is active at the same time.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "en": "And the Crossbone Vanguard haven't made a single move lately...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "(The Moon... and the Neo Japan colony... Most likely, at one of them,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "en": "Excellen will be there too... Just wait. This time for sure...!)",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

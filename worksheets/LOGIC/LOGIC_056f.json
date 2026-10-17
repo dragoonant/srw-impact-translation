@@ -1,0 +1,1537 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1391,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all foes, rescue Excellen.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. Ra Cailum or Alteisen Riese destroyed. 2. Win conditions unmet.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "This is...!? ...Captain, are you sure this is the place?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Nobody's here...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "No, this is definitely it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Kyosuke?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Kyosuke... She's here?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "...Probably.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "That's all well and good, but what now? We gonna search for her?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "The Einst have appeared out of nowhere before. We can't relax, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "What'll we do? We can't dawdle forever.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "...Excellen.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Ah, Kyosuke!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Kyosuke Nanbu... Alteisen Riese, launching!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "He just went out on his own... Captain Bright?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Is he... sensing something? Like a Newtype?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "I don't think that's it... It's something else...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "...I don't get it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "We're going out too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "We have to look around anyway, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "True...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Excellen! You're nearby, aren't you!? Come out...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Captain Bright! Something's coming this way!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Hm!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "That's...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "The ID code, no doubt about it... The Weissritter...!? Open a channel!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Sorry to keep you waiting! Excellen Browning, now returning~!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Big Sis Excellen!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Geez, making us worry! What're you doing out here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Stuff happened, lots of stuff.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Grown-up reasons... you know? Right, Kyosuke?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Same as ever, it seems.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "...I hate to doubt her, but her machine may have been rigged.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Captain, I'm not sure we should let the Weissritter land right away...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "...Hmm...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Geez, Brother! She finally came back, and you're being so cold!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Better safe than sorry. What if her machine's rigged with explosives?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Either way... I'm glad for you, Kyosuke.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Huh? No permission to land? Some kind of argument?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Kyosuke, say something too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "You... aren't Excellen.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "...H-Hey now, isn't that joke a bit harsh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "She may act like that normally... but at a time like this,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "she wouldn't be cracking jokes.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "And... something about you is different. That much... is certain.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "C'mon, she's always like that. And \"something's different\"...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "...Kyosuke!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Geez... it's been so long... d-don't... s-say... th-things... like...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "...Tch.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "The sHip's hatch... is sealeD... You caNNot sortie... EarthLings...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "What did you say!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "What, just like that!? Is the hatch really... Captain!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "What...!? A powerful magnetic field is gripping the Ra Cailum...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "She's still under the enemy's control!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Or maybe she isn't that woman at all!? Like the Death Army...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "...No, King of Hearts... She's the real thing...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Kyosuke... how can you be so sure?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "...I'm certain...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "This is no time to argue! What do we do!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "If the hatch won't open, we can't even sortie!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Then... the only one who can fight is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Besides the Ra Cailum... the only one out there... is his Alteisen.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Captain, you can't mean...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "You're not gonna tell Kyosuke to shoot down Excellen... are you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "...Hmm.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Ngh... The Einst's lackeys!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "...What do I... What should I do...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Kyosuke! We'll find some way to get ourselves out there!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Until then... hold out!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Roger. ...She's the one who rigged the Ra Cailum.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "...Then... if I shoot her down...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "No!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "...Hm?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "No... Absolutely not! We can save her! We can definitely save her!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Don't do something you'll regret, Kyosuke!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Princess...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "...Understood. Sorry, Princess.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Find a way to remove this magnetic field, whatever it takes!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "All pilots, stand by on deck!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "...Here I come, Excellen...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Ugh... uuh... aaaah...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Did he do it...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Excellen!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "...Ugh... uuh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Your... role... is over...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Role...? What do you mean, role!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "(This is... coming from the Weissritter's... that red orb...!)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "...Understood... understood... under...stood.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "I don't know what you wanted to learn... but why only Excellen!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "You could've taken me too!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "...You are... incomplete... Therefore... unnecessary...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "(Incomplete...? Compared to what...!?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Ah... ngh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "The Weissritter!? Excellen! Hey!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Something's... leaving...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Yeah, that nasty feeling... it's fading!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Excellen...! Wake up! Excellen!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "...My purpose is to oversee... all who... disturb the land of beginnings...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "(What!? What is she talking about!?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "The hatch!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Still no good! Oh, what should we do...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Nanbu! Hold out a little longer!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "...Ngh... Excellen...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Kyo...su...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "...Ugh...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Th-This feeling...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Nooo, this enemy...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "What... a nasty sensation...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "What the heck is this... this uneasy feeling!? Don't tell me...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "It's that one...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "...Alchemie.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "That red one...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "I see, so this is who's been sneaking around behind the scenes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "You again...! This time, we settle it here...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "...Kyosuke...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "...My purpose is to oversee... all who... disturb the land of beginnings...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Excellen? Those words again...!? The land of beginnings... Where?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Do you mean Earth...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "The land of beginnings...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "What does that mean? Earth...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "The land of beginnings is Earth? That makes no sense!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "My role is... to oversee the universe.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "My wish is a silent... universe...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "(What... What is making Excellen say this...?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "The land of beginnings... will once again... change the universe...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "The land of beginnings that changed the universe... bears power anew...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Enough of your nonsense.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "...Kyosuke...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "...I don't know what you're getting at.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "But your business has nothing to do with Excellen...! I'm taking her back!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Nothing to do...? You should know... Kyosuke...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "that's not true at all. Me and... Excellen...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "...I said it has nothing to do with her...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Kyo...suke... I...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "......!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "I'll... handle... this... so the rest... is up to you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "The magnetic field readings...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Excellen! You...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "You just keep getting in my way... don't you, Excellen...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "All hands on deck! Prepare to sortie!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "...Sorry, Excellen. I'll save you, I swear...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "That won't do. ...If only I could have you... I...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Don't worry. I'll come for you... before Excellen.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "...Huh...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "But I'm bringing a lump of steel with me. ...Don't think you'll get off easy...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "then destroy Rein Weissritter with Alteisen Riese.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "1. Ra Cailum or Alteisen Riese destroyed. 2. Win conditions unmet.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "All right, the magnetic field's gone! All units, spread out and engage!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "...This isn't fun at all...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "...That's how the world works.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Though the people of the land of beginnings have no future left...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "I'm not about to spout something naive like \"we carve our own future.\"",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "But my will to fight right now won't bend!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "(I don't know what's happening around us... or to us ourselves.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "But I'll save you... Excellen.)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "You're going down!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Using Excellen to do as you please... It's gonna cost you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Why...? Me and... Excellen... What's the difference...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "What...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "I... can't leave this place...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "The end of the land of beginnings, a new beginning... There, perhaps...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "(This one... Could it be Excellen's...?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Ugh... But now... everything is in place.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Hm...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "The land of beginnings... a new... seed...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "...The land... of beginnings... Earth...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "In place? What is...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "...Kyosuke... then... I...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Ugh... uuh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "Excellen!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Now there's only you left...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "Do you have a plan!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "Kyosuke!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Most likely... the red orb on its forehead... If I can just crush that...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "What!? You're gonna snipe that!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "It won't be easy... You understand that!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "...I have to. And I will.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "Kyosuke!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "We'll back you up all the way...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Thanks. ...Now all that's left is to pierce it...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "It looks the same... but how is she!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "Excellen!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "Can you hear me!? Excellen Browning!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "This is Bright Noa!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "Did you do it!? Nanbu!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "The Weissritter's still the same... but what about Excellen inside!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "The Weissritter's shape!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "It's... back to normal!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "Could it be...! Can you hear me!? Excellen Browning!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "This is Bright Noa!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "Did you do it!? Nanbu!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "The Weissritter's back to normal... Is Excellen inside okay too!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "Excellen...! Come back!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "Mmm... Kyosuke...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "Excellen!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "She's conscious... Is she back to her senses!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "Ugh~, my head is pounding... Huh? Huh-huh?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "...Oh, um, Excellen Browning, reporting back!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "Excellen! Are you okay!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "You'd better be the real one this time!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "Wow, what a welcome. Couldn't you thank your big sis for her trouble?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "...Same as ever.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "Finally. She sure put us through a lot.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "But she wouldn't crack jokes at a time like this... right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "Huh? What's that about? Kyosuke?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "Nothing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "All right, now all that's left...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "Right. We wipe out the enemies in this airspace...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "...Kyosuke...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "Hm...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "...Thanks... Really. ...I...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "...Don't worry about it. Just be your usual self.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "...Okay...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "Looks like it's over...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "I don't see any others.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "Their presence has vanished too... Looks like we're safe.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "Status of this airspace!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "...No readings of note.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "Thank goodness... Looks like we prevented the worst.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "Indeed. We still don't know who the enemy really is...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "but we'll have to be content with having recovered Excellen Browning.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "...Excellen, good work. Are you all right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "...Sorry for all the trouble.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "Excellen Browning, returning to the front lines!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "Geez, where the heck have you been wandering off to all this time?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "Are you... feeling all right? Nothing wrong with you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "Totally fine! My skin's as firm and glowing as ever.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "Same old Excellen. What a relief. Right, Kyosuke?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "Yeah, I guess.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "She hasn't changed a bit either.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "en": "Uh, you're the one who's changed way too much.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "Quick comeback! But that's what makes her Excellen.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "I have plenty of questions. But for now, we head to the next point.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "en": "Roger.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "en": "Just to be safe, you're getting a thorough checkup too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "en": "Understood.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "en": "(It starts here... Something... something big is about to move.)",
+   "kind": "thought",
+   "keep": false
+  }
+ ]
+}

@@ -1,0 +1,523 @@
+{
+ "file": "BTL/BMCPACK.BIN",
+ "format": "BMC",
+ "pilot": 123,
+ "strings": [
+  {
+   "id": 0,
+   "en": "Don't get in my way!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Don't think you can escape!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "With moves like that!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "I know what you're thinking!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "I won't let you do any more!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Underestimate me and you'll get hurt!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "There! Go down!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "I decided I'd help Judau. That's why!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "You can't escape my Qubeley!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Go, Qubeley!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "With the Double Zeta's power, I can do it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Let's go, Double Zeta!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "I'll show you the Psycho Gundam's might!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "You think you can match this Queen Mansa!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Here's payback!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Now it's my turn!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Not bad at all!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "You can't escape my Qubeley!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Go, Qubeley!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "With the Double Zeta's power, I can do it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Let's go, Double Zeta!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "I'll show you the Psycho Gundam's might!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "You think you can match this Queen Mansa!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "D-damn it!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Ngh!! Is this it!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Waaaagh!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Damn! Bailing out!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Direct hit!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "No, I'm going down!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "...!! I can't go down yet!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "I-I'll hold out somehow!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Ngh! If I take another hit...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "My armor shouldn't be this weak...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "I'm not fighting just to die in a place like this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Damn, my Qubeley!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Not bad! But not yet!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Ngh!! You did it now!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Ow! How dare you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "An attack like that won't bring me down!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Damn! Are the thrusters acting up!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "It's fine, the machine still moves!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Don't think you've beaten me with this much!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Fighting the Qubeley as an equal... Did I underestimate them!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "With this!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Hmph, an attack like this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Too soft!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Damn... I couldn't dodge!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Keeping up with my moves...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "With an impact like that, the damage should be light!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "I took a hit? Me...!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Landing a hit on my Qubeley... Not bad!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Hmph, an attack like this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Nice try!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Can't hit me!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "I can see right through you!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Such an obvious attack!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "What's wrong!? I'm right here!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Hit me if you can!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "You're way too slow to take me on!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "You plan to fight me with skills like that!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "I've seen through your dark pressure!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Not to a machine that's all power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "As if you could catch the Qubeley!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Hmph! How futile!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "I said beams won't work!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "I've got a barrier!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "An attack like that!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "No good, can't counter!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Damn, I can't counter!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Out of range!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Attacking from so far away...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "I'll go next!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Leave the rest to me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Launching a wave attack!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "I'll handle this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Fall back while you can!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "I'm cutting in!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Don't think you can escape my Funnels!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Funnels, all-range attack!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Funnels, over there! Go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Fin Funnels, go!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Fin Funnels, go!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "High-output mode... Fire!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Don't think this is just a Beam Cannon!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "I'll take you all out at once!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Don't think numbers will win it for you!",
+   "kind": "quote",
+   "keep": false
+  }
+ ]
+}

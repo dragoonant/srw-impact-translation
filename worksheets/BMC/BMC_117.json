@@ -1,0 +1,187 @@
+{
+ "file": "BTL/BMCPACK.BIN",
+ "format": "BMC",
+ "pilot": 117,
+ "strings": [
+  {
+   "id": 0,
+   "en": "Sink!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "There's no way I can lose!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Got you!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "It's over!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "This is the end!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Now, where would you like me to aim?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Die!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Disappear!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "What!? I'm hit!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "What!? A direct hit!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Nnngh! B-by the likes of you!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Aagh! I-impossible, am I being pushed back!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Wh... What power this thing has!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Tch! Not bad!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Ngh! Something like that won't take me down!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Ugh! You hit me!? Now you've done it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Is that all!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Hmph, pathetic... Is that all!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "You're no match for me.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Hmph, pathetic... Is that all!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Where are you looking!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Where are you aiming!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Too slow!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Like that'll hit me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "It's useless!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "That doesn't work on me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Tch, out of ammo...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Ngh! It won't reach!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "This finishes it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Naive!",
+   "kind": "quote",
+   "keep": false
+  }
+ ]
+}

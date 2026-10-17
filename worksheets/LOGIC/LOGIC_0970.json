@@ -1,0 +1,619 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 2416,
+ "strings": [
+  {
+   "id": 0,
+   "en": "",
+   "kind": "dialogue",
+   "keep": true
+  },
+  {
+   "id": 1,
+   "en": "What!? What's going on!? Everyone, stop!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Honestly, you tell everyone not to be reckless, and then you pull this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "You'd have done this even if we left you alone.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "It's totally obvious.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "But this... how's it gonna turn out?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "We're doing it to make it turn out. Hey, Shinobu! You're good, right!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Who knows!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Quit whining! Full power!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Fall back! Don't come any closer!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "With everyone this fired up... no chance, Captain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Excellen, you too!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Well, if my darling says he's doing it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "...I told you to stop calling me that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Ya got married while I wasn't lookin'! So when's the baby comin'?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Juzo! Your arm slipped a little! Hold it steady!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "That's right! ...We might not last.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Don't give up! Give up... and it ends right there...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Raideen... I'm trusting in your power!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Stop it! You don't have to go along with this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "What... What is happening!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Heh, the Captain's right. You've all lost it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Then go ahead and Open Get out of here, Hayato.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "I'd like to, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "split up now and the Get Machines would burn up from the friction.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "I'll see it through.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "You're not honest, Hayato. ...All right, trust in Getter's power!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "We can't lose to Getter Robo, Uchuta! Keiko!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "I'm trying! But it's crazy hot. The joints might melt!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Hey! Don't say scary stuff like that!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "No! You'll just self-destruct from friction heat and overload!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Like Super Alloy Z melts that easy! ...Ow, hot!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "The glass is getting hot!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Koji! Can you hold out!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "You're in no position to worry about me, Tetsuya!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Don't push yourselves, you two!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "If I didn't mean to push it, I wouldn't be here, Daisuke!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Rain! You're not a Fighter! Get back while you can!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "I'm fine!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "...Domon's Shining Gundam will protect me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Heh... That's right. We are one in body and soul!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "One measly rock like this is nothing!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Tch, lovey-dovey and carefree on top of it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "In tennis, zero-zero is... love-all... heh heh heh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Ugh, it's so hot. Isn't the AC working?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Put a little more spirit into it, guys...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Not a chance! Gekigan Barrier, full power!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Ngh... Even modified for space... this is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "The outside temperature... I don't even want to look.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Lieutenant Amada, Lieutenant Mackenzie, fall back!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Those units can't...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "...Not yet!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "...The Alex was built for Captain Amuro, too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "...This is nothing...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Chris! Don't push it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Even with Daitarn's size...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "covering this many units is tough. ...Ngh.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "That's enough! Everyone, stop!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "In the end... sooner or later, only this kind of sorrow will spread...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "and crush the Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "So mankind must pass judgment on itself with its own hands,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "and atone to nature, and to the Earth!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Amuro... why can't you understand this...!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "If it falls like this...! Dangaioh... protect everyone...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "To all those born of fire and water, of heaven and earth...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Heaven and earth, fire and water, grant us your last strength...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Get away! The Gundam's power is...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Th-This is... the psycoframe resonating...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Is it overloading from so much human will focused at once!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Light... from Amuro's Gundam!? This is... like what happened to me!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "This feeling...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Like when we used the bio-sensor to find the way out of that dimension...!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "It's gathering... This is... aura light...!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Aura light... from everyone.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Just like that time. Everyone's feelings... are becoming power...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "What...? I feel no fear... Instead, it's warm... reassuring, even...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Kyosuke!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Yes, this power... will change the galaxy...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "...I get it, this is the power of life! It'll keep the universe going...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "I see...! But it's humans with this very warmth who'd destroy even Earth!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Understand that, Amuro!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "I do understand! That's why!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "We have to show the world the light of the human heart, don't we!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Axis is...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Did it work...!? What about Joe...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "...Captain! Axis has changed course...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "It's moving away from Earth!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "What about Akito... and everyone...!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Hey, Ruri, they're okay, right!? Right!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "...I don't know. But... I believe in them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "All units, respond! Amuro!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "...This is Amuro Ray. Returning to base.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Amuro...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Captain! What about the others...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "...Dead and missing... both zero.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "The space fortress Axis...",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "That asteroid, once a Zeon fortress,",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "was sent hurtling toward Earth by Char Aznable.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "But it never fell.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "The power of united human hearts gathered in the psycoframes as light,",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "forming a Mobius ring around Earth...",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "And that Mobius ring... was the very power to change the universe.",
+   "kind": "system",
+   "keep": false
+  }
+ ]
+}

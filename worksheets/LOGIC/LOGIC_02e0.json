@@ -1,0 +1,1087 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 736,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Hmm... It's not at full strength yet.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "The Earth Sphere's turmoil won't last long... I can't take my time.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Mm... They've sniffed us out already...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "As things stand in the Federation, the group I must be most wary of",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "is Londo Bell, it seems.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "This robot... is it a mobile suit!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "At last, an enemy we can actually identify.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "But this is no time to celebrate.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "This mobile suit... it can't be Zeon's. Whose army is this?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "And there's some huge mech out there too! Is that a battleship?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Looks kinda... like a flower.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Wow, how romantic... Or not, really.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Is it a mobile armor? But that size...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Ruri, try accessing the database.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Searching Omoikane's database... No match.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "A flower of evil blooming out of nowhere, huh?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "I, Gai Daigoji, will scatter its petals to the wind!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "It does look like a flower... but a flower of evil should be prettier.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Yeah, yeah, like some gorgeous female executive...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Ooh, why not? \"Female executive\" has a nice ring to it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "A female executive, hm? I wouldn't get my hopes up.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Agreed. They're usually total monsters.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "No data on it, but that thing's plainly nothing of the sort.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Mobile suits and a mobile armor...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "That means they're not Jovian Lizards or aliens out to invade...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "They're human, aren't they...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Yeah... but they don't look like they'll let us off, either.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "We'll have to fight... Let's go, Tenkawa, Hikaru, Izumi, Yamada!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "These guys don't look like the kind you can take on lightly.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "...Still, to develop something on that scale in secret...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "They must be quite an organization.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Why are you griping just 'cause it's a little big?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "If they're enemies, let's smash 'em all together!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Even so...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Quit sweating the small stuff, you're a guy, aren't you!? C'mon, let's sortie.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Sorry about that, Lieutenant Uraki. Pai's just more manly than most.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Is that supposed to be helping?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Captain Bright, shouldn't we sortie...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Seems this is no time to fuss over size. Captain, we're heading out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "This army is probably... Right, we'll sortie and see what they do!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "If they attack, engage and intercept! All units, launch!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "We're launching too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Come on, come at me from wherever you like...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Hey, Shinobu! We were told not to make the first move!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "I think it'll end up the same either way, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "No doubt. People skulking around in an abandoned colony like this",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "can hardly be from a legitimate organization.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Captain, have you figured out who they are?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Oh? They mean to attack. Fully prepared... it would seem.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "But... is this army really...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "What's wrong, Captain Bright?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Didn't you say earlier you'd figured out who this enemy was?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Or were you just pretending to know?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Well, Captain?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "...I don't know. It's only a possibility. Hm...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "I'd heard they had no real strength... but they seem quite well-equipped.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Even super robots from the last war... The odds are against me.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Retreating!? ...Well, at least that way we avoid needless fighting.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "You lot, crush them.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "My Rafflesia... I still have doubts about sending it into real combat.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "The Black Vanguard will arrive shortly as well. You'll hold your own.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Roger. Commencing attack.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Whoa!? It shot off like a rocket!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Something that big... How can it be so fast!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "It ran!? Tch, still, that's some incredible output.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "To get that much speed out of something so huge...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "No time to be impressed, Tetsuya! What about the rest of them!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Commence attack!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "They're attacking! Captain, we'll meet them head-on!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Damn it, this is no time for humans to fight each other...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "But we can't afford to fall here. Open fire!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "This abandoned colony... Iron Mask, this is no time to draw attention,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "and yet he does whatever he pleases...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Reinforcements?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Such efficiency... They must have planned on being discovered.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Huh!? Hey, Captain Quattro! What's that round thing?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "A mobile armor from the old Zeon remnants...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "What's the point of a project that's already been abandoned?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "A Zaku head...!? Is that a mobile armor too!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Hey, isn't it kinda cute?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "I don't think that's the point...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "If that's a new Zeon weapon... then is this army Zeon's?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Who knows?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Roux, didn't Judau stick a Zaku head on something once?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "When the Zeta's head got wrecked.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "He stuck on a stray Zaku head and hooked it right up to the monoeye.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Huh? The specs are totally different. Impressive he pulled that off.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "First a giant flower, now a Zaku-headed turtle!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Is that a makeshift Zaku head too!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Neither one really suits my taste.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "A flower and a turtle... Maybe Spacenoids' yearning for nature",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "shows up in their weapon designs, too?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "That's got nothing to do with it. Probably.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "This is all pointless chatter. Bright, what do we do?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "They're enemies... right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "None of this helps one bit. Captain, we're attacking!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Striking first is the way to win here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Whether that thing's tied to Zeon or not, it's definitely an enemy.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Take them out one by one!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "The Rafflesia is no less hideous, I suppose.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "This battle doubles as a test of the mobile armor's performance.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Stay sharp!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Sir!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Heh... Not a style I dislike, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Really? I like 'em sleeker myself.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "We're blasting it either way, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Heh! Like I'd lose to a botched rice cake! Let's do this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "This is the abandoned colony, right!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Where's Lord Zabine? Wasn't he supposed to bring the new weapon?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "...He went down to Earth on separate orders.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "But there aren't many of them. We'll handle this ourselves!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Reinforcements? So efficient... They planned on being found.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Attacking already... Impatient bunch.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Pitch-black mobile suits? Hah, black is Mazinger's trademark.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "You'd better have built 'em tough!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Koji, don't let your guard down!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Right, this is no time to flinch just because a few enemies showed up.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Let's go, Koji!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Black mobile suits...? Gutsy.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "I'll teach them that black is Mazinger's trademark!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "They look more fast than tough. Hope we don't struggle.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Right, this is no time to flinch just because a few enemies showed up.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Let's go, Tetsuya!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Careful, Tenkawa! Looks like enemy reinforcements!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Yeah, got it, Ryoko!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "My, my, you two are perfectly in sync.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Hey! It's not like that!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Ryoko, please focus on the battle! You too, Akito!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Geez... why me too...? Anyway, these guys seem really experienced...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "So this is what professional soldiers are like...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "...A black mobile suit unit... This formation...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Bad news, isn't it? They look pretty skilled to me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "You see it too, Captain Misumaru?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Ruri!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "They're not in the data, but the type matches. Probably... special forces.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Not only are they disciplined, they even have special-mission units",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "in their ranks.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "...An organization this big... It's odd that there's no intel on it at all...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Battle Mastery increased by 1.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Did we get them all? What were they doing in this area?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "The mobile armor that ran off first... What was that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Most likely an activation test of a new mobile armor.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Judging by the retreat and how fast the reinforcements came...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "You mean they figured getting found was okay?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Exactly. With the Earth Sphere as it is... they'll make a move eventually.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Why do we gotta fight other humans when the Earth's in danger?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Yeah... We originally got together to help Mars, after all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Never thought we'd get dragged into a war between humans too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Yeah... It doesn't feel very good...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "But we're under contract with Nergal...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Contract or not, the terms have kinda changed.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Humans or aliens, it doesn't matter,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "I'll never forgive evil!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "...But still, when so many forces are after the Earth,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "for Earthlings to fight each other... It's sad...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "It's our... home, after all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "(...My... home... Mars...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Akito...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Home... huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Pai...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "Pai... Your memory... still hasn't come back?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Heh... Doesn't matter right now. It'll come back eventually. Besides...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Maybe some things are better left unremembered.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Pai!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Just kidding. Sorry, Lamba.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "...There are also people for whom Earth isn't home.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "You mean... the Spacenoids?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Yes. An overcrowded Earth... Hundreds of millions cast into space.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "To people raised in artificial cradles,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "can Earth truly be a beloved home...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "Hm...? Captain Quattro, what exactly are you trying to say?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Quattro... you're kinda scary.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "...No... it's nothing. Captain, the enemy has pulled back. Returning.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "...Very well. All units, return to ship.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "(That army just now... what are they thinking?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "What's their real aim in testing a mobile armor in a place like this...?)",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

@@ -1,0 +1,1315 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1335,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Princess Romina, we've arrived at the Mars Frontier Base.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Heh, brings back memories.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "...We're back, huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Before the Meganoids could start meddling with this place,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "looks like we managed to crush that base.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Good... Looks like the Meganoids haven't made a move on it yet.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "A frontier base, huh... It's got a different feel from the colonies...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Indeed... Once its development is complete,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "I imagine this place will become a colony too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Well, it looks peaceful here for now. Yes, yes, very good, very good.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Sorry to spoil the mood... but I'm picking up multiple mech signatures.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Whaaat!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Nuhahaha! My, my, thank you for all your hard work, Londo Bell!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "This is... a Za Boom mech!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "We're surrounded!? Where did that transmission come from?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "It seems to be from that ship... Putting it through.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Ohh, well, well, all of you together. How good of you to come all this way.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "The Commander of the Mars Frontier Base... Hazard Pasha, is it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Indeed. That alien ship... Did you swipe it from those fellows?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "I have a question too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Why is the Commander of the Mars Frontier Base leading a Za Boom unit?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Oh no, no, you see, I'm actually their prisoner.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "They threatened me into urging Londo Bell to surrender...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Those Za Boom creeps are dirty!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Idiot, what are you doing swallowing his lies whole?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "...We got intel about this just the other day, didn't we?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "You bastard, Hazard!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "We know you're in bed with the Meganoids and Za Boom!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "A well-seasoned performance, I must say.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "However... we've already confirmed the truth of it, yes.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "...If you surrender, I will see to it that you receive a trial,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Commander Hazard.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Oh-ho, as expected of Londo Bell, famed for its compassion.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Your kindness makes me so very happy, it brings tears to my eyes.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "But... I can't back down either!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "You mean you'll fight us!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "That's right. Once I've disposed of you lot,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "even the Bunker and the Gyandlar will have to respect me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "(With Annex dead and the Meganoids having cut me loose,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "if I don't get my hands on their forces, I have no future!)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Hazard, you...! Like hell I'll let you have Mars! Mike, Lenny!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Yeah, let's corner that Hazard creep for good this time!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Right! Let's go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Whoa, hold on, Joe. Looks like your Kurojishi can't sortie.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Huh!? Why not!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "That's the thing, nobody knows. Even the maintenance crew's stumped.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "What the hell is that!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "(Was it 'cause I tried to move it the other day...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Nah... It didn't even move anyway.)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Can't be helped... Leave this to us and wait quietly, Joe.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Yeah, yeah.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Maybe it's because you never take proper care of it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Damn it! ...At a time like this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "It can't be helped. Joe, you'll stand by here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "All hands, prepare to sortie. We're moving out.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "No... Not me... M-My Emperor...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Hazard! Give it up!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Hazard! Give it up!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "N-No! Me, finished in a place like this! In a backwater like Mars...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Mars might be a backwater... but it's our irreplaceable home!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "I'll show them all!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Those Earth people who... who treated me like a nuisance...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Those Federation people who exiled me to Mars...! I... I...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Hmm... Looks like the tide's turned against me...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Heh! We can take you even without Big Bro!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Prepare yourself, Hazard!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "...Heh heh heh... A pity Joe Maya isn't here, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Charm! Ilbora! Sortie!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Heh heh heh, it seems you've split up your forces, Londo Bell...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "This battle is ours!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "This... looks like an ambush.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Sure looks like it... and there's a heap of 'em, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "It galls me to take orders from Hazard... but... Joe!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Ilbora...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Ilbora!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Big Bro, it's that black one that got away last time... It's him!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "I know! Damn it, why can't the Kurojishi launch at a time like this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Joe...! Why haven't you come out!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Ilbora, don't fixate on one foe. The Elshank coming out suits us fine...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "I'll finish them all at once!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "...The Elshank...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "...No, I can't go back! I can never go back...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Ilbora...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Damn... Just sitting here twiddling my thumbs...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Our battle... I never imagined it would be settled like this.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "But I'll show no mercy...! Here I come, Joe!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "T-Tobikage!? Whoa!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Wh-What!? That light!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "What happened!? Report!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "No idea, there was a light on the bridge...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "P-Princess... Joe is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "...Joe... vanished...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "What is this place...? Don't tell me...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Am I inside the Tobikage...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Joe!? Are you there!? What's happened, Joe!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Don't worry about me, Princess Romina.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "...I don't know why, but right now I'm... inside the Tobikage.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Joe!? Really!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Big Bro!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "...Heh heh... Joe, just as I was chosen by the Zerokage...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "you have been chosen by the Tobikage.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Heh, guess so, Ilbora...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Let's settle this, Joe!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Bring it on!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Damn, I gotta...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Damian!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "I'm heading to the hangar!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "I've gotta at least learn to move the Kurojishi!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Trouble, new enemies...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "C'mon, just how many enemies does Mars have!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "New enemies... So they're a different bunch from these guys?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Seems like we always run into trouble wherever people gather, huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "It's the opposite. The enemies are coming after us...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Bring it on!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "I'll smash you with my Gekigan Flare!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Can we identify the enemy?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "(Heh heh, my luck hasn't run out yet... If I use this chaos...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Heh heh.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Scouting the Earthlings' base, and we stumble on a big catch.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "That's... a Jovian unit!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "A troublesome enemy's shown up...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Evil Earthlings like you! I'll bury you right here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Don't give me that crap! We're the ones protecting Earth!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Silence! There is only one justice, and it lies with the Jovian Alliance!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Cut the crap! You drag Earth and Mars into this... and call it justice!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "If you'd never attacked us in the first place...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Akito...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Akito...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "I'd just have become a cook... Nobody would've had to die...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Even Ai wouldn't have had to die! I'll never forgive you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "(...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "All units, engage the Jovian Alliance as well!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Joe... You, fusing with the Tobikage... I'll admit, I'm surprised.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Heh, nobody's more surprised than me.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Ilbora, this fight between us... ends here...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "That was my intention all along. Come, Joe...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Joe! Ilbora!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Princess...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Ah... Why, Shaff?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Why must those two try to kill each other!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Ilboraaa! Knock it off already! ...Think about how Princess Romina feels!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "...Joe... Joe Maya...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Wh-What...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "You... You of all people have no right to say that!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Tch... No good. Guys with their blood up are a pain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Look who's talking.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Ilbora... Why...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Joe...! You... You of all people...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Ilbora! Where are you going...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Ilbora...! Wait...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "...You idiot...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Did we get one of their officers!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Yeah.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "All right! Now there's just Annex left!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Just a little more... a little more...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "(Emperor Annex is dead, and now Charm's gone and croaked too...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "That's the end of the Za Boom Army... This is bad, very bad...)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Blast it, justice cannot lose...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "Stop! You can't fight in that machine anymore! You'll get yourself killed!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Just quit already!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Silence! We of the Jovian Superior Human Corps do not fear death!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "What good will dying do!? Please, retreat!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "There's no reason for humans to fight each other!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Ngh... Shown mercy by Earthlings... No choice. We're retreating!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Blast it, justice cannot lose...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "What are you saying! Push it any further and you'll die!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "That's right. There ain't no shame in retreatin' here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Silence! We of the Jovian Superior Human Corps do not fear death!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "What good will dying do!? Please, retreat,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "there's no reason for humans to fight each other!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Ngh... Shown mercy by Earthlings... No choice. We're retreating!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "Tch... And they don't even seem like the type you can't talk to...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "They... don't seem like people who can't be reasoned with...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "It's over...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Yeah... That Hazard bastard... doing something so stupid...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Kinda... feel a little sorry for him...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Yeah... He was a creep, but... for him to die...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "...Exiled to Mars, killed here... he brought it all on himself.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Let's just think of it that way.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Yeah... I know, but... damn it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "Joe...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "Looked like one of the Za Boom machines got away, though?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "The Zerokage, he called it... A machine not to be underestimated...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "Big Bro, you okay?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "Don't worry. No way the Tobikage and me are gonna lose.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Huh... So a pilot can actually get inside the Tobikage?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "I wanna ride it too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "No way, no way. They said \"the Tobikage chose him,\" remember?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "I bet only Joe can ride it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "Grrrr!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "TOOOBIKAGE FIIINGERRR!! ...That's what I wanted to do!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Where there's light, there's shadow... Behind the chosen, the unchosen...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "I think Yamada's problem starts way before that...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "Ilbora... huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "That pilot... I sensed a little hesitation...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "Hesitation... you say?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "Yes... I can't be sure, but probably...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "Princess Romina... Perhaps Lord Ilbora is troubled as well...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "Yes... ...Ilbora...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "The escaped machine worries me, but the Jovians are getting active too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "Those guys won't shut up about justice this, justice that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "Justice, justice, huh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "You'd better remember this too, Kappei, all of you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "When people blindly believe in a single set of values, they run wild...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "just like the Meganoids.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "Set of val...? Blind-lee...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "He means it's unwise to turn up your nose at ideas without a taste, sir.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "What, it's about food? Then I'm more worried about Big Bro Uraki.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "I-I just don't like carrots, that's all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "In any case, the frontier base should be safe for the time being.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "All right, we're heading for our next destination. All units, return.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "...Ilbora...",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

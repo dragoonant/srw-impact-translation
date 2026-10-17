@@ -1,0 +1,997 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 356,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. Kurojishi, Blast Dragon, Houraiou die",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Isn't the Gandor squad here yet!? Joe... hurry up and come.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Now that Princess Romina has gone up into space...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "nothing stands in the way of defeating you...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Ilbora! Just like you wanted, we got here ahead of the rest!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Going after a place like this with hardly any military facilities!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Don't you think that's dirty!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Say what you like. I'll defeat you by any means necessary...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Every last one of you who took everything from me...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "You walked out on your own, so what are you talking about!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "That's the worst kind of misplaced grudge!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "None of that matters anymore... I'll use any means I must...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Even if it means borrowing the strength of people like them!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "People like them...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Tch, I don't care who you team up with! I won't go easy on you, Ilbora!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Hm... what's that? Those capsule-looking things all around.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Joe, don't tell me it's a trap...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "A trap!? Then we just smash it to bits!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Y-You're asking a lot... Big Bro...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "I'll leave those capsule things to Lenny and Mike!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "I'm taking down Ilbora!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Heh heh... Just what I wanted... Come at me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "(Can't wait any longer... Hazard said to blow them away, dragon and all...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "but it can't be helped. At least I'll get Joe and the others.)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Fight me, Joe! We'll settle which of us is right!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Which of us is right!? How dare you even say that, Ilbora!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Heh... You always were good at barking, if nothing else.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Come... I'll prove right here that my choice was right in the end.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "You've got some nerve...! Let's settle this, Ilbora!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Big Brooo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Joe! I'm coming!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Heh heh heh, you fell for it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Wh-What? What's going on?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Ilbora! What the hell did you do, you bastard!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Fuhahaha...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Ngh, destroyed, was it... No matter. It was Hazard's half-baked idea...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "It was never going to work...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "We're not falling for your traps!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "I dunno what you were plotting, but too bad for you, Ilbora!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "...Don't get cocky, Joe! This isn't over yet!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "M-Meganoids? This is bad, Big Bro...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "What do we do, Joe... We're at a disadvantage...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Tch, hiding reinforcements? That's dirty, Ilbora!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Don't worry. I'll be your opponent.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Are you all right!? Lenny!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Yeah! More importantly, careful! Some weird device is set up here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Master Banjo, isn't that...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Yeah... it's the Teleport Machine the Meganoid Commanders used.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "But why is it here?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "A relic of the Commanders from the last war...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "So you've finally come, Gandor.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "By rights, I was to teleport you away along with everything...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "but no matter. If I defeat you here, it's all the same...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "As if it'd go that smoothly!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "That Teleport Machine... It may be wise to destroy it, just in case.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "True. If we leave it here, it's likely to cause trouble later...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Hmph... That man... After boasting he'd wipe the Gandor off the Earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Well, merely whittling down the enemy's forces is good enough.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "At least it wasn't a wasted trip.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Oh? What's the matter, Ilbora? This isn't what you told us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "It's because the machines you lent me were too flimsy...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "They were useless.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "If you're going to squabble among yourselves, do it somewhere else.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Ngh, Banjo...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "She's... a Megaborg!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "The Meganoid that was dug in out in the desert the other day...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Commander... Mylene, I believe she said?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "That's right, old man.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "The Mars development base governed by Commander Hazard",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "was originally a Meganoid base that was remodeled.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "And word has it Commander Hazard is in league with the Za Boom army.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "So what Joe said was true after all?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "That right, Garrison, old man?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Indeed it is. And then there is the revival of the Meganoids.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Ilbora... was it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "If the Za Boom army is using Meganoid machines...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Yeah, Hazard Pasha is connected to the Za Boom army.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "And to the Meganoids, too!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "The reason we cooperate with that man Hazard is that Lord Don Zauser",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "is a man who honors his obligations.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Otherwise, we'd never deal with a man like that...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "So Hazard thinks he's using them, but he's the one being used...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Besides, the reason we've joined hands with the Za Boom...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "is that defeating the Gandor squad will let us speed up our plan",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "to turn all of humanity into Meganoids.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Heh, I bet they're thinking the same thing...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Ngh, for the sake of the Meganoids' tomorrow...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "I shall wipe out every last human who stands in our way.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Let me tell you something, Commander Mylene...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "As long as I'm around, the Meganoids have no tomorrow!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Hm! What's that!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "You're late, Tobikage!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Don't say that when it went to the trouble of coming!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Ngh... Withdraw!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Wait! You're not getting away!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "No need to rush. We'll settle this eventually. Wait until then...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Unbelievable... With forces this meager, they got this far...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "A Megaborg's power only amounts to that much, after all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "We're a whole different class! Mars is next, so you'd better be ready!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Naturally. We're on a whole other level from you...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "I shall quietly withdraw for now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "But... the power of us Meganoids is far greater than this.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "There you go again! Come anytime you like! Bleh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Yeah, yeah. Nobody likes a woman who won't give up. Right, Hyoma?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Huh? Really? Isn't that a guy thing?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Or a guy who's clueless!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "???",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "...You really are clueless, man.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "(Can't wait any longer... Hazard said to blow them away, dragon and all...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "but it can't be helped. At least I'll get Joe and the others.)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Fight me, Joe! We'll settle which of us is right!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Which of us is right!? How dare you even say that, Ilbora!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Heh... You always were good at barking, if nothing else.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Come... I'll prove right here that my choice was right in the end.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "You've got some nerve...! Let's settle this, Ilbora!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Big Brooo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Joe! I'm coming!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Heh heh heh, you fell for it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Wh-What? What's going on?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Ilbora! What the hell did you do, you bastard!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Fuhahaha...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "What on earth was that light just now...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "What? A whole section of Kyoto has been scooped out!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Hey, Banjo...! Could that be...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Yeah... the Teleport Machine.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Teleport Machine?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "That would be the Teleport Machine used in the last war by",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "the Meganoid Commander Duston.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "It can teleport an entire area of land enclosed on three sides",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "to a different location.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "What do we do!? Losing three units when we're stretched this thin...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "For now, let's take out the rest. Protecting the city comes first!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "We're tracing the whereabouts of all three!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Like Lieutenant Amada said, there's no need to add to the city's damage.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Mop up the remaining forces!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Commander Hazard and the Za Boom army... and the Meganoids, too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "With their base on Mars, there's nothing we can do right now...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "That can wait, Commander Hazuki. Right now, all we can do is defend.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Not while the colony problem is still unsolved...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Hmm... I'll at least report it to Captain Bright.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Looks like we'll have to go all the way to Mars again someday...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Still, that bastard Ilbora... teaming up with the Meganoids...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Teleport Machine, was it? That machine?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Had that machine been activated,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "the city of Kyoto would have been in dire straits indeed.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Good thing we destroyed it, anyway.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "But could it really have teleported a whole town?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "What do we do about Maya and the others?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "With no communications getting through, there's nothing we can do.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Knowing them, I'd like to believe they'll manage somehow...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "They'll be fine.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Amuro, Ryoma, and the others got blown away to Byston Well,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "and they came back on their own, right? They'll be back eventually.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Right. No use overthinking it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Sure is a lot of coming and going. ...Well, they'll be back eventually.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "All we can do is wait, after all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Is this how people saw it when we got sent to another world, too?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "I guess it means they trust us... but it's kind of complicated.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Well, we made it back, after all.",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

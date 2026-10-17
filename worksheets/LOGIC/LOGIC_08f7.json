@@ -1,0 +1,493 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 2295,
+ "strings": [
+  {
+   "id": 0,
+   "en": "Phew, nothing feels better than finishing a job!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "You sound kinda like some old junk dealer.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Shut up, I was finally feeling good. Don't rain on my parade.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "...But... to think the people of Vega had lost their own planet too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "They were just like me...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "...Princess...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "That was... kinda sad...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "That doesn't matter! They destroyed planet after peaceful planet!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "They got what they deserved!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "As you sow, so shall you reap. Anyway, good work, everyone.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Captain Bright... The Vega Star Federation",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "fell with the deaths of King Vega, his officers, and the Royal Guard.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "There may be remnants, but we needn't worry about them anymore.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Understood. ...You've finally fulfilled your long-held wish, Umon...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "No, Duke Fleed.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Yes... From now on, as Daisuke Umon, I'll fight to protect my second home.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "It seems you've regained your usual composure...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "As one would expect of the prince of Fleed.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Going back to Fleed will have to wait a little longer, huh, Brother.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Is that okay? Aren't you worried about your planet too?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Thanks for worrying about us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "But how far Fleed has recovered from the Vegatron radiation,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "we won't know until we go there...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "I'm worried about Fleed too, but... while Earth is in such trouble,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "we can't just go home to our own planet!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Oh? Maria, aren't you more worried about Koji",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "than about Earth?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Wh... wh-why does Koji's name come up here!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Oh my? So you're still just a girl when it comes to that sort of thing, Maria.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Big Sis had a pure phase like that too, you know?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Never mind ancient history. What's next? Captain, our heading?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Ancient history!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "...Sigh. Yes, while we were recovering you all, Captain Burning contacted us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Both the Elshank and the Nadesico have made contact with Dr. Tarsan.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Then they can come back here right away.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Yes. I'm thinking of contacting Commander Hazuki to unite all units.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "All the units...? Captain, isn't that dangerous?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Knowing Captain Bright, he must have some plan in mind, though...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "If the Elshank group is coming back,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "then things on Mars must have settled down for now. ...Don't tell me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "...Did something happen that the forces sent to Mars couldn't handle?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "...That's right...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Didn't a pretty big force go to Mars?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Interesting... Those who went to Mars: Maya's group, Banjo's crew,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Kappei and the others, the Combattler team...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Quattro, Uraki, and old man Burning too, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Yes. And the Nadesico crew joined them as well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "...And still there's \"something\" they can't handle...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Domon, you actually remembered all that, huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Don't insult me, Rain. Knowing our forces is the most basic of basics.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Heh. Know yourself and your enemy, and fear not a hundred battles...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "I see you've kept to my teachings, Domon.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "But something even that much force can't handle...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Captain Quattro and Captain Misumaru want to meet in person too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Fortunately, operations on the surface seem to be going well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Commander Hazuki's unit should be up on the Moon before long.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "The Moon? So the meeting point is Von Braun?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Yes. Docking every ship and servicing mobile suits and super robots...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "there are few places that can do that in the whole Earth Sphere.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Won't Nina be thrilled again? \"All the Gundams together!\" and all that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Earth's forces are gathering... Is it really all right for me to be here...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Don't worry about it,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "nobody on this ship minds one bit!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Right. Earth's people... at least everyone in Londo Bell,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "won't turn away someone who feels the same way.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Hey, until Commander Hazuki and the others get here,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "let's go hang out on the Nadesico! That ship looks fun!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Seconded! Warships are so stiff and boring, y'know?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Come on, don't get too carried away, Lamba.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "...If the Dangaioh team goes, Captain Misumaru really might",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "fight back with costumes of her own...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "......A rabbit... huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Huh? What is it, Kyosuke?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "According to Koji and Banjo, the Nadesico even has an open-air bath.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Pretty nice, huh?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "...I'll pass.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Hey, Kyosuke, did something happen on the Nadesico?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "(I can't take that happening again.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Mingling is fine, but remember it's for our coming operations.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "All right, set course for Von Braun!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Bright / Play the Earth route (Gandor Team) / Play the Mars route (Nadesico Team)",
+   "kind": "system",
+   "keep": false
+  }
+ ]
+}

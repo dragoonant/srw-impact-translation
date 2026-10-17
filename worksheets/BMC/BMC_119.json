@@ -1,0 +1,649 @@
+{
+ "file": "BTL/BMCPACK.BIN",
+ "format": "BMC",
+ "pilot": 119,
+ "strings": [
+  {
+   "id": 0,
+   "en": "There!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "You're mine!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Go dowwwn!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "I won't let you!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "If you get in my way, I won't forgive you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Judau! Watch me!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Running away won't help!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "I know everything you're thinking!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "I can do it too!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "If you get in Judau's way, I won't forgive you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Go awaaay!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "I'll work hard for Judau's sake too!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Ple Two! Please, wake up!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "We really shouldn't be fighting each other!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Ple Two! Let's go back to Judau together!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Judau will be our big bro!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Let's go, Qubeley!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "I'll show you the Qubeley's power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "My Qubeley won't lose!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "I can use the Double Zeta too!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Gooo! Double Zeta!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Now I'm mad!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "I won't lose to something like this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Ple Two! Please, wake up!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "We really shouldn't be fighting each other!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Ple Two! Let's go back to Judau together!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Judau will be our big bro!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Let's go, Qubeley!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "I'll show you the Qubeley's power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "My Qubeley won't lose!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "I can use the Double Zeta too!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Gooo! Double Zeta!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "I-I can't take any more!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Kyaaaah!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Kyaah!! I got beaten!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Waaah! Judau, I got beaten!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Kyaah!! No, help me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Ugh!! It's no good! I'm gonna get beaten like this!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Eek! W-will it hold!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Kyaaah! Judau, help me!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "I-if this keeps up, I'm gonna get beaten!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "I'm not beaten yet, you know!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "I-I've gotta keep trying too!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Th-they're strong...! But I can't run away!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "That's not right, Ple Two!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Please, Qubeley! Hang in there!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Ow! How dare you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Eek! Hey, that hurt!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Not yet! This is nothing!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Owwww! But I'm not done yet!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Now I'm really mad!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "I took a direct hit!? But I can still fight!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "It's strong... I can feel power from that enemy...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Th-this'll just make Judau worry about me...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Please! Ple Two, stop fighting!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Huh? Huh? Qubeley, what's wrong!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Owwwww!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "I'm fine, I'm fine!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "I'm fine!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "This much is nothing!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "I bumped my head on the monitor!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "I'm okay! This is nothing, Judau!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "I've gotta do this right, or Bright will scold me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "H-huh!? I thought I dodged that...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Ple Two, what's wrong!? Come to your senses!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Hey! Don't scratch my Qubeley!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "This much is nothing!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Lousy shot!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Nyah nyah!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Bleh! You can't hit me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "I can dodge that easy.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Come on! Over here, over here!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Nyah nyah nyah!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Hey, hey, Judau, did you see that!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "You'd better stop aiming at me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "I'm really good at piloting mobile suits!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Ple Two, listen! We shouldn't fight each other!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "You'll never catch my Qubeley like that.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "A Beam? Please!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "I told you it's useless!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "It's okay! I've got a barrier!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "An attack like that is useless!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "No good, can't counter!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "H-huh!? I can't counter!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Hey!! Where are you attacking from!? You coward!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Hey!! Where are you attacking from!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Ah! I can't reach from here!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Not yet! I'm here too!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Leave the rest to me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "I'll attack too!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "I'll protect you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Don't worry, I'm still fine!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "I'm okay, so fall back!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Go, Funnels!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Gooo!! Funnels!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Even if you run, I'll chase you down!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Funnels, please!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "All-range attack, here I gooo!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Funnels, listen to me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Go, Fin Funnels!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Gooo!! Fin Funnels!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Funnels!... I mean, Fin Funnels!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Go, Fin Funnels!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Gooo!! Fin Funnels!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Funnels!... I mean, Fin Funnels!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "VSBR! ...That's kinda hard to say...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Double Zeta, High Mega Cannon, fire!",
+   "kind": "quote",
+   "keep": false
+  }
+ ]
+}

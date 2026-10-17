@@ -1,0 +1,1705 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 69,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. Aestivalis or Nadesico destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Hmm... This is troubling. And on the Nadesico's maiden voyage, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Yurika, what do we do?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Hmmm. Okay! We'll go through the undersea gate into the water,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "then surface and wipe out the enemy from behind.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Well then, shall we see what you all can do?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "But the engine's still cold! An emergency launch is a no-go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "What do we do?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "That's where I come in!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "My robot heads up to the surface and draws the enemy in as a decoy.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Meanwhile, the Nadesico launches! Oooh, what a fiery situation!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "...Idiot.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Come and get it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "That was fast! Hey, Yamada!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "It's Dai-go-ji... Gai! I told you, leave it to me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Come on, bring it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Well, well... I suppose we'll wait and see...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Minato!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Okaaay, five more... no, about four minutes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "If that's all...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "...I have a feeling this definitely won't work, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Hold it right there, you! That Aestivalis is...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Uribatake?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "All riiight. Keep 'em coming! I'll smash you to bits with my Gekigan Punch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Wow, wow! Yamada's all fired up! He might actually pull this off!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "He's one of our few combat staff... He should do at least this much.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Hey! Yamada! Don't go any farther out than that!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Intercept everything from there! Got it!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "What's with him all this time...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "I told you to call me Gai! Raaah, take this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Um, Yamada.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "I keep tellin' you, it's Gai! Gai Daigoji!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "...Yamada's unit is leaving the Nadesico's energy supply range.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "What the...? My Gekiganger suddenly stopped moving!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Hey, Uribatakeee!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Aw, jeez... You idiot! That Aestivalis you're riding",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "runs on energy waves from the Nadesico!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "In other words, if you leave the Nadesico and go out of energy range,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "of course it's gonna stop moving!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Whaaat!? Tell me that kinda stuff sooner!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "You lousy mechanic!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "I went to the trouble of prepping an Aestivalis with a battery,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "and you went off in the one without it! You lousy pilot!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "(I'm done being locked up... I'm gonna be a cook.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "I'm not dying in a place like this!)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "More enemies incoming. ...Yamada's unit is completely surrounded now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Is the engine ready yet!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Three more minutes! ...Wait, can Yamada hold out!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Akito!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Can that cook even pilot!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "For some reason, he's had IFS treatment...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "IFS?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "IFS treatment... It stands for Image Feedback System.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Nanomachines form an auxiliary brain inside the body...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Um, Ruri, in simple terms... Besides, we're in the middle of a battle...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "...It's a system that relays what you think directly to the machine.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Well, if he's had the treatment, he can manage an Aestivalis...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "The rest comes down to talent.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Is he really gonna be okay... Yurika?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Yeah... Akito is my prince!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Whenever Yurika's in trouble, he always comes running!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Huh!? Hey, wait a sec, Yurika!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "...But I can't use Akito as a decoy! It's too dangerous...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Hey, what!? What decoy!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "I know! Your resolve is firm, Akito. A woman's whims can't change that!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Hey, hold on.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "All right. The Nadesico and all of us...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "and Yamada's life too... we leave them in your hands...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Please... come back alive...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Hey, wait, Yurikaaa!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Gyaaaah! It's no good! I'm gonna die!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Huh!? Ngh... um... I've got no choice, do I!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Aww, Akitooo! Take good care of our lives, and Yamada's tooo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "...Is this really okay?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Hmm, we can't move anyway.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Idiot...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "More enemy reinforcements.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Launch preparations complete.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Akito... I won't let you die...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Flooding about 80% complete. Opening gate.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Engine's good to go.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Nadesico, launch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Nadesico... launching...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Sorry to keep you waiting, Akito!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "That was quick.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "I hurried here just for you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Enemy weapons are almost within effective range.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Target: all the enemies, every last one! Fiiire!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "A-Amazing...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "What is that battleship!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "And... what are these enemies? I've never seen this type before!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Identification is... what's this? The Jovian Lizards!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "What? What are these Jovian Lizards?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Unidentified unmanned weapons that appeared on Mars months ago.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "What, so you mean it's a new enemy?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Unknown. It may be a new force,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "or it may be a new weapon of an existing enemy force.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Never mind that, right now...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "This is Kotaro Hazuki, Far East Commander and Gandor captain!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "I'd like to speak with your captain.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "What!? A huge... dragon!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "The Gandor...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "The ship that never gave an inch against the Muge Zorbados Empire...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Well... this is troublesome.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Whoa-ho! So that means in there is... the Super Beast Machine God!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Got that right, it's common knowledge! ...Let's go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Wait, Fujiwara!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Commander, we're surrounded by enemies. His call isn't wrong...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "We're heading out too!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Agreed!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Hmph, not that the situation would matter to Fujiwara anyway.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Let's go, Hayato, Benkei!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Well, well, Dr. Hazuki... Oh, it's Commander now, isn't it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Are you the captain of that ship?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Oh, heavens, no! I'm Prospector...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "A Nergal Heavy Industries manager... really just an accountant.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "The captain is this person here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "That's riiight!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Hello, everyooone! I'm the captaaain!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "...V for victory!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "V-V for victory...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Ooh, nice energy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Hold on, Masato.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Hey, knock it off already! We're asking you seriously here!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Um... they seem really suspicious of you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Whaaat!? Boo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "...Hold on. I don't think we should doubt them right off the bat.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "This hardly seems like a situation for jokes.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Wow, so cool.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "(...Not reading the room... I'm used to that, thanks to a certain someone.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "But, hey, is that girl really the captain?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "You shouldn't judge people by their looks, Koji.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "...That said...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Misumaru... Could you be related to Admiral Misumaru?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Indeed. The captain is the daughter of the Federation Third Fleet's admiral...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Admiral Koichiro Misumaru.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "It's been a while, Dr. Hazuki. We met once before at Federation University!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "I-Is that so?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "I'm sorry, Captain Misumaru... but I don't remember you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Of course you don't! I was just one of lots and lots of students.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Your paper, \"Human Wildness and Harmony with the Universe,\"",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "moved me sooo much!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Wildness and the universe... are they even related?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Who knows.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "What're you doing!? We're in the middle of a fight, old man Hazuki!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Indeed. So that battleship is the Nadesico...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Nadesico?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Oh, so you know of it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "I've heard rumors, at least. That Nergal was building a secret warship.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "\"Secret battleship\" sounds rather misleading, doesn't it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "We have, in fact, come to an arrangement with the Federation.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "But... with no contact with Jaburo, there's no way to confirm that.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "I'm afraid you'll have to explain yourselves.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "(Hmm... It seems the Commander knows... Hmm.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "But why is a private company like Nergal building battleships?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "We have our own objectives.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "And what are those objectives?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "...This may be no time to discuss objectives.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Huh!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "What! Enemy reinforcements!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "From above...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "Ho-hohoho, the ones in space were tough,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "but I wonder how the ones on the ground will fare...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Enemy identification unknown.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Is that the main force of the insect types...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Either way, it looks like a new force.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Yeah, just how many enemy forces are out there...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Hey! Help me out already!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Yurika!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Oops, I forgot! This is no time for chitchat!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "The Nadesico will move to intercept! We've gotta back up Akito!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "What about me!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "Understood.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "All right, everyone, attack! Wipe out the bug mechs and their main force!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "(Whaaat are these puny little things?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "...Oh, well, so long as they don't get in our way.)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "More enemy reinforcements!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Hold it, hold it, hold iiit!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Hyoho? What? A robot?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Ooh! Yet another super robot shows up?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Sniff... all to save me... Thanks... thanks, everyone...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Nah, that's just a coincidence.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "What the...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "Is that the Gaizok Gramps was talking about?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Tch! Talk about bad taste.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "You two! Whatever they look like, they're the enemy! Get serious!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "Wh-What a ruuude bunch! I won't forgive you now!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Send out the Mecha Boost Gabitans till they're sick of 'em!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "What's that robot with the crescent moon?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "This is Hazuki of the Gandor. You in the robot! State your unit and name!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "Unit and name? What're you talking about?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "The Gaizok are invading to conquer Earth,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "and you're wasting time on stuff like that!? That's why grown-ups suck!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Geez, you two! Um, you're Hazuki, sir?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "We're part of the Jin Family, and to protect Earth from the Gaizok,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "with this Zambot 3, we, um...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "Children...!? How many are aboard? And the Gaizok? What's going on?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "(Now's the only chance, it seems.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "This ain't the time for all this yammering, Hazuki!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "At least we know who the enemy is, don't we!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "Commander, we should move to intercept before the damage spreads.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "Too many forces are converging on one spot.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "Wow, so many robots! Okay, Akito, we're not gonna lose either!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "Now, now, Captain. Since friendly reinforcements have arrived,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "let's have the Nadesico withdraw from the battle here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "Is that all right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "Whaaat? But this is where Akito's and my lovey-dovey all-out attack begins!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "Like hell it is!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "Hoshino, Haruka, an emergency withdrawal, please.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "Is that all right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "Hmmm, it's true I can't put Akito in danger... Okay!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "Besides, the Gandor unit won't lose! We'll recover Akito, then withdraw!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "Please wait a moment. There's a great deal I'd like to ask you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "I'm sorry, but we're under no obligation to answer that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "But...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "Recover Akito's Aestivalis! We'll leave this area at maximum speed!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "Um, Yamada went out too, you know...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "We'll pick him up while we're at it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "...Nice work, Yamada.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "It's DAIGOJI!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "Well then, everyone, we'll leave the rest to youuu!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "2. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "So that's the Nadesico... What a nuisance.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "They're gone... What was up with that girl?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "Feels like they just stirred everything up.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "No kidding. ...Hope this doesn't turn into something weird.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "You okay with this, Commander?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "Okay or not, they're gone. Nothing we can do about it, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "I know, but still.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "Never mind that! Isn't beating the Gaizok what comes first!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "This ain't the time to be lazing around!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "Hm, ah, sorry. Jin, you and the others join the battle too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "Leave it to us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "We're counting on you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "Ho ho ho, it seems your little chat is over...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "Looks like it waited for us. ...A courteous invader.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "Heh, get ready! I'm gonna avenge my ancestors, and I mean it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "So there were robots like this on the ground, too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "Oh well, today is just playtime after all.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "Hey, you jerk, you running away!? Fight fair and square!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "Ho-hohohoho!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "Not to worry. From now on, I'll kill you all slowly... very slowly.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "What's with them? What a dangerous bunch...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "Can't see what they're after. ...What?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "en": "We'll explain later! Right now...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "I see. That Zambot 3 seems to be a robot built to fight them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "That's right. Where are the rest of the enemies!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "en": "The Gaizok, huh... Everyone, if any enemies remain, sweep them up!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "en": "So this is... the Gaizok...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "en": "No purpose at all... They exist only to kill...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "en": "Yeah, the hardest kind of enemy to face. ...You can't even talk to them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "en": "Relax later! Keep scanning for enemies!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "en": "Looks like that's the last of them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "en": "The Gaizok... Could they have come to Sasebo after the Nadesico...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 258,
+   "en": "Hm. It's not out of the question.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "en": "Either way, it means we've got more trouble on our hands.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "en": "Whatever! Let's just get going already!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 261,
+   "en": "We gotta chase after that Nadesico thing too, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 262,
+   "en": "Come to think of it... what about these kids!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 263,
+   "en": "Now that you mention it. ...Well, I doubt they're enemies at this point.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 264,
+   "en": "You guys... will you fight alongside us?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 265,
+   "en": "I'll confirm it. Wait a moment.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 266,
+   "en": ".........",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 267,
+   "en": "Um... Commander Hazuki, do you believe we're on your side now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 268,
+   "en": "...I've just confirmed it. A man named Hyozaemon Kamikita...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 269,
+   "en": "Keiko Kamikita, would he be your grandfather?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 270,
+   "en": "Yes, that's right!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 271,
+   "en": "The signal was bad, so we couldn't get it directly,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 272,
+   "en": "but apparently word came from the Saotome Laboratory.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 273,
+   "en": "Either way, we can't do anything until we hear the whole story...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 274,
+   "en": "If it's from the Saotome Lab, we can trust it. That makes it easy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 275,
+   "en": "What'll we do, Commander Hazuki?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 276,
+   "en": "For now, you'll travel with us in the Gandor unit. All right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 277,
+   "en": "Guess we got no choice. Well, we're counting on ya!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 278,
+   "en": "Hm... But to think we must rely on the strength of children this young...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 279,
+   "en": "That was normal on the Argama. Judau, for example.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 280,
+   "en": "Don't we have to go after that Nadesico?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 281,
+   "en": "...It'd be impossible to catch up now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 282,
+   "en": "(The Nadesico... Does Captain Bright know about it...?)",
+   "kind": "thought",
+   "keep": false
+  }
+ ]
+}

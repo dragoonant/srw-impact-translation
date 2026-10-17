@@ -1,0 +1,583 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 301,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Heh heh... I've been waiting... Raideen, Akira Hibiki!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Sharkin! Where's my father... where is he!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Ugh... A-Akira...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Tch, he's over there?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Mister, can't we rescue him somehow!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "My bid for Super Electromagnetic energy at Nanbara Connection failed,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "but this time will be different!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "So Sharkin was after Super Electromagnetic energy after all.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "But what on earth does he intend to do with that power...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Have no fear. I too am a proud prince of the Great Demon Empire...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "I won't stoop to anything petty!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "What are you after, Sharkin!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "If you want to fight me, I'll take you on anytime! Let my father go...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "...You don't seem to understand, Akira Hibiki...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "I can't let anyone else have you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "No, to be precise... Raideen...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "What's that mean!? So you took a hostage",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "just to get Hibiki here before anyone else!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Hibiki... and Raideen?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Raideen... a relic of the ancient Mu Empire... Is something hidden in it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "When the Einst showed up...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Raideen reacted to them. Does that have something to do with it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Come to think of it, only that fairy girl and Raideen reacted...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "There's no time to think about that now! We have to save Hibiki's dad...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Are you done talking? Then let us fight...! Come forth, Demon Beasts!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Whoa! A whole bunch of them came out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Calm down, Beauty. Let's go, everyone!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Hoh... Not bad. Otherwise, claiming the Mutron wouldn't be worth it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Bastodon! Gardon!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Mutron!? Did he just say Mutron...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Mutron... Raideen's power source...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Now they're sending out the really tough ones...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "At this rate... the super robots will run out of energy...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Even resupplying has its limits...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "If only our forces were in better shape...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Wha!? Who goes there...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Th-That's...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Dammit, took your sweet time, didn't you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "It came for us! Thank goodness!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Ah... Tobikage...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Bah, what good is a puny robot like that!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Gardon, crush it underfoot!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Ngh... Nnngh... Gah...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "This is the end...! Sharkin! Now give me back my father!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "N-Not yet... I'm still standing...! I'm not beaten yet, Akira Hibiki!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "...Hm!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Here he comes! Finish him off!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "You got it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Everyone, watch out for a last stand! He may have something planned...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "...Stay back!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Huh!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Akira...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "What gives!? This is our chance!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "You're going to let this opening slip by!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Stop. ...Looks like this isn't our fight.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Thanks, Kyosuke. ...Now, let's settle this... Prince Sharkin!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Heh, heh heh heh heh... Think you can afford to go easy, Akira Hibiki...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "I'll end this feud with the Demon Empire... me and Raideen...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "You have my thanks, Akira Hibiki...! Now, fight me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "...Gh, guoh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "...Sharkin...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Did we... win!? What about Raideen!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "By a hair... Well done, Akira...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Y-Yes... well done... Raideen... And... the Gandor squad.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "But... even if I die... my Demon Empire will not fall...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Sharkin...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Barao...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Glory... to our great Demon Empiiire!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "You did it... Akira...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Akira...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "He had the perfect hostage... and never used him, right to the end.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Sharkin... For an enemy, you were admirable...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Ugh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Daaaad!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Akira... I've made you worry so much. It must have been hard for so long...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "You're the one who... suffered at the enemy's hands...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "All right, first we rescue Mr. Ichiro Hibiki. Bluegar, go.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Roger! Akira, your touching reunion will have to wait a bit.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Thanks, Mister.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Heh, it's nice when something finally pays off, isn't it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Yeah. I hope this makes the Demon Empire fall apart...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "...A father, huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Tetsuya...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Anyway, let's hurry to the next point.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "We've still got a mountain of enemies to fight.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Sigh... seriously.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "It's tough being popular.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "All right, we'll escort Mr. Hibiki to the Mutron Research Institute,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "and the Gandor will head to the next point.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "...In the end... we never found out how the Demon Empire is tied to the Einst.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Bara...o...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Princess?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "...No, it's just... as that man fell, I thought it might be someone's name...",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

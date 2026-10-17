@@ -1,0 +1,247 @@
+{
+ "file": "BTL/BMCPACK.BIN",
+ "format": "BMC",
+ "pilot": 45,
+ "strings": [
+  {
+   "id": 0,
+   "en": "The first strike wins!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Chase two hares and you'll catch neither bee nor horsefly!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "A wandering dog will clutch at straws!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "I'll show you the true strength of the Jovians!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "A lion enters the tiger's den even to catch a rabbit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Don't flinch! We'll hit them back!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Our justice and yours... which is right!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Counterattack! We won't miss!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "The enemy's abilities are not to be underestimated...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Splendid! I'll withdraw gracefully.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Something doesn't add up...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Calm down!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Whoa! Did I underestimate them!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Well done! I'll give credit where it's due!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "This won't even make me flinch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Don't paniiic!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Uoooh!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "It pierced the spacetime distortion field!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "You can have part of my armor!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Not good enough...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "You'll pay for that!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Not bad...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Not good enough...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Such an obvious attack won't hit me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Get cocky and you'll get hurt!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Not good enough!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Won't hit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "What will you do next?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Behold, the spirit of a Jovian man!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Beams like this won't work!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "What...!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Curses, it can't reach!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "I'll support you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Good, you fell for the trap! I'll finish you!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Defending won't help anyway!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Fall back!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Gekigan Beeeam!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Gekigan Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Gravity Wave Cannon, fire!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Gekigan Shoooot!",
+   "kind": "quote",
+   "keep": false
+  }
+ ]
+}

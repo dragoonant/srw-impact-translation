@@ -1,0 +1,229 @@
+{
+ "file": "BTL/BMCPACK.BIN",
+ "format": "BMC",
+ "pilot": 231,
+ "strings": [
+  {
+   "id": 0,
+   "en": "Don't underestimate the Royal Guard!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Small fry!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Dieeee!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Can you dodge this!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Take this!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Duke Fleed! Today is the day you die!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Duke Fleed! Follow Planet Fleed to its doom!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Grendizer! This is your grave!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "I'll teach you how pointless it is to defy me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "You think you can beat me!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Duke Fleed! Resistance is futile!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Impossible! I'm going to lose!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Uoooooooh!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Impossible! Someone who can push me this far!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Tch! Damn!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Th-this is bad!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Ngh! I never thought it would come to this...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Oh? Not bad at all!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "That's what makes you worth my time!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "You! Now you've made me angry!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Ngh! Not bad!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Just hitting me won't take me down!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "This isn't even a scratch!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "What's wrong! Is this all you've got!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Tch! I'm hit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "I'll give you credit for hitting me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Hahahaha! I told you it's useless!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Far too slow!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "I could dodge this with my eyes closed!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Hahahaha! You lack the skill!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Hahahaha! I told you it's useless!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Tch! Out of ammo... You lucky devil!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "From outside my range? Small fry!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Wandering all the way out here... You fool!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "I'll finish you! Dieeee!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "I'll be your opponent!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Fool! I see right through your plan!!",
+   "kind": "quote",
+   "keep": false
+  }
+ ]
+}

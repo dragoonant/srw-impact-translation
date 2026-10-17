@@ -1,0 +1,199 @@
+{
+ "file": "BTL/BMCPACK.BIN",
+ "format": "BMC",
+ "pilot": 355,
+ "strings": [
+  {
+   "id": 0,
+   "en": "This'll finish you!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Take this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "How's this!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Don't underestimate me!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Wh... Impossible!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "I've been beaten!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Guh! Impossible!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Wh-what!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Whoa!? Th-This one...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "What!? I-I'm being pushed back!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Tch, don't think this is over!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Gah! Why you, I won't go down quietly!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Ngh! Not bad!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Whoa! Not yet, not yet!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Ngh! N-Not from this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Hmph, is that all?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "That had no effect!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "That's all you've got!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "There!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "You won't hit me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Here it comes... There!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "I'll dodge it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "A beam like that won't work!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "A wasted attack...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Damn! Out of ammo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Damn! Can't reach!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "I'll back you up!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Take this too!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Attacking!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "I'll back you up!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Not on my watch!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "I'll protect you!",
+   "kind": "quote",
+   "keep": false
+  }
+ ]
+}

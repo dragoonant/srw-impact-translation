@@ -1,0 +1,541 @@
+{
+ "file": "BTL/BMCPACK.BIN",
+ "format": "BMC",
+ "pilot": 79,
+ "strings": [
+  {
+   "id": 0,
+   "en": "You ready for this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Toaah!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "I'm gonna beat you to a pulp!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Outta my way!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Move it! Small fry!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Here I go!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Gotcha!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "No way I'm losing to the likes of you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Lenny, Mike! Follow me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Ilbora! Fight me!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Ilbora! Why the hell did you betray us!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Ilbora! Fight me!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Ilbora! Why the hell did you betray us!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Hazard! You're... not human!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Let's go! Kurojishi!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "I won't forgive this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "You bastard! You'll pay for that!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Anyone who gets in my way is getting scrapped!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "You're a hundred years too early to face me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "You're persistent!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Move it!! I don't have time to deal with you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Ilbora! If you're gonna keep getting in my way!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "This fight's just getting started! Ilbora!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Ilbora! If you're gonna keep getting in my way!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "This fight's just getting started! Ilbora!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Dammit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "It's no good! Ngh, Tobikage!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Like hell I'm going down here!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Whoaaa, dammit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Damn it! What the hell!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Gwah! Lenny, Princess Romina...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Damn it! My sensors are shot!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "D-Dammit! I can't die in a place like this!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Wh-why you! You monster!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Dammit! What the hell is this!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Tch, what the hell is going on!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "What do you think you're doing!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Wh-why you!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "You'll pay dearly for this...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Damn!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "What! Damn it all!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Damn it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Now things are really getting interesting!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "You're not fired up enough!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "What're you gonna do with that wimpy stance!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Damn! Ilbora!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Damn! Ilbora!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "You're not fired up enough!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "That was close!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Here it comes!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Come at me with a better attack!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Wasted effort!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Like that'd work! This junk!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "I've got a barrier!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Wh-what? Out of ammo?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "I screwed up! At a time like this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Dammit! I can't reach!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Using cheap tricks...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Guess I'll show you what I can do!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "You're not getting away!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "This finishes you! Go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "I'll take care of him!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Just leave it to me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Don't make a fool of yourself out there!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Kurojishi! Anchor!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "I'll throw in a Shuriken too!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Transfer the Gatling Gun to me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Single-Stroke Cleave with this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Beast Demon, I'll settle this with my trump card...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Mike! Lenny! You two ready!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Let's do it, Big Bro!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Ready! Joe!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "All right! We're going in as a combo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Let's all attack at once!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Good idea! Lenny!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "All right! Let's go all at once!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Go dooown!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Let's go! Ilbora!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Hmph, very well!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "All right! Let's go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Joe! Lend me a hand!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Heh, fine, I'll do it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Match the Tobikage's moves to the Zerokage! Haah!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Let's go! Ilbora!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Hmph, very well!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "All right! Let's go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Joe! Lend me a hand!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Heh, fine, I'll do it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Match the Tobikage's moves to the Zerokage! Haah!",
+   "kind": "quote",
+   "keep": false
+  }
+ ]
+}

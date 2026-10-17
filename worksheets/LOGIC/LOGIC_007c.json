@@ -1,0 +1,685 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 124,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "I'd like them back soon, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "But Commander, isn't it a little sad for them? Ninjas are long gone...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Ninjas... I've only ever seen them in manga and novels.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Are there really no ninjas left, I wonder?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "If they still exist somewhere, I'd love to see one.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Yeah, if there are ninjas, I'd like to fight one. Right, Domon?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "(...Ridiculous. This is no time to be looking for ninjas...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Besides, I'm worried about where Master went...)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "A ninja legend, huh... How many centuries back is that?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Those guys who ride frogs and vanish in a puff of smoke, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Koji, you're just making that up, aren't you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "So what? Anyway, that pretty princess and her attendant",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "being aliens sounds fishy too, right? Oh, and the big guy.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "What about Daisuke and Maria? They're from Fleed, aren't they?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "...Now that you mention it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Ninjas...? Why would aliens from a star system 60,000 light-years away",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "know about ninjas, who only existed in one island nation on Earth,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "and come looking for them?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "And that princess looks like an Earthling any way you slice it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Did she really come from the Shema system?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Jun, Daisuke and Maria are from planet Fleed, remember?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "...Oh, that's right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Raideen was supposedly built 12,000 years ago on the continent of Mu.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "At this point, time and distance don't really matter anymore.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Maybe Japan really does hold something mystical, Mister.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "How carefree.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "There's nothing here, so shouldn't we hurry on ahead...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "But... it bugs me.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "What came of that report of a huge energy reading around here?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Too many sudden attacks lately... We shouldn't let our guard down.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "...There you have it, Princess Romina. Just like the Gandor folks said...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "all that's here are sets for tourists.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "...No... After coming all this way... Is it hopeless...? Joe...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "H-Hey now, Princess Romina... don't look at me like that... Jeez...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "...!! Joe! Don't get so close to her!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Lenny, this is no time to worry about that!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "What do we do, Big Bro? We've lost our goal!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Yeah, well...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Looks like... that's how it is.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Commander, seems our business here is done.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "...I see. I'm sorry we couldn't be of help...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Maya, Ai, Coil... return to the Gandor.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "...Well, can't be helped... Hmm!? Hey, Commander! Trouble!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "What's wrong? Damian...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Too late!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "They were hiding underground!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Damn, Princess Romina! Get back to the Elshank!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Ah... Joe!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Princess!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "We won't make it...! Princess Romina, it's cramped, but get in Kurojishi!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Hurry, Princess!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Mike, Lenny!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "We're ready for battle over here, Big Bro!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Joe! You'd better not have tried anything funny with Princess Romina!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Idiot! Is this the time!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "...They say they don't know about ninjas, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "between those Za Boom guys and that mysterious robot Tobikage...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "there are just too many similarities to ninjas...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Ngh, we can't leave them behind...! All hands, launch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Joe...! I've finally found you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Ilbora!? You...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Lord Ilbora!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Who's that? Someone you know?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Ilbora Saro. He betrayed us and went over to the enemy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "So he's the same kind of bastard as Gil Berg, huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Then... he's gonna be persistent.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "...Though really, we're the ones who drove him out...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Just like... him. He lost his place to belong...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Lord Ilbora is no traitor!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "If only you hadn't come! ...Lord Ilbora would...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Joe! To defeat you, I sold my warrior's soul to Za Boom...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Now, face me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "...Ilbora!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Wha...! It can't be... Princess!? Is that you, Princess Romina...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Why? Why did you... have to leave us...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Princess Romina...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Ilbora... answer me.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Why would you, my guard captain and commander of the Elshank...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "...Princess Romina... I'm sorry... All units... commence attack...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Ilbora!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "A high-energy reading!? From what direction!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Tobikage!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Here it comes! Damn, I wanna make an entrance like that too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Koji... that's just your thing, huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "That robot again...!? Who on earth is piloting it!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "At least it's on our side!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "So that's... Tobikage! Bah, crush it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "I hate relying on you, but... I'm counting on you, Tobikage!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "No... the Skeleton!? Ngh, blast it, Joe! We'll settle this later!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Wait! Ilbora!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Joe! Please wait. Please... don't go after him...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Princess Romina...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Lord Ilbora... I wanted to go with you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "...Commander Hazuki... let us go on to the next site...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Are you sure, Princess Romina? What about the ninja...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "I haven't given up yet...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "But we too will stand with you in this fight to the very end...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Princess...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Joe, what do we do...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "...No choice, right? We'll tag along...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "That aside, something's odd...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "What is, Hayato?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "How did the Za Boom army get all the way down here?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "How did they reach the surface... without Londo Bell noticing...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "The huge energy reading detected here...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "might have something to do with it.",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

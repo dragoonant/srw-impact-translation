@@ -1,0 +1,301 @@
+{
+ "file": "BTL/BMCPACK.BIN",
+ "format": "BMC",
+ "pilot": 280,
+ "strings": [
+  {
+   "id": 0,
+   "en": "...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "...Let's make this... quick.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "There... that's mine.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "That position... is bad for you.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Keep... the change.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "You... what are you to me...?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Curious... my chest feels... so hazy...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "If you were gone...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "If only you... if only you... would disappear...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "What I received... I must return.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "A girl should always... return... a favor...?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Look... you're in range.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "No... second time.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "...Shall we... bet...?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Kyosuke... Kyo...suke...?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "I can't stop thinking... about that person...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Direct hit...!? I can... still move.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Cheating...?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Please... be gentle.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Not yet...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "How bold.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "That... rather stings.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Float like a butterfly, sting like a... oh, I've been hit...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "...Not bad.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "I'm still fine.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "...That surprised me a little.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "How rude.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Things don't... go well, do they.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "I'm still fine.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Float like a butterfly, sting like a bee.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "That won't hit. Farewell...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "If I move early...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Please... try harder.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "So dazzling...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Not... enough power...?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Until... next time...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Yes... I'll cover you.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "A fine position.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "I'm... rather devoted, you know.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "I won't... let you.",
+   "kind": "quote",
+   "keep": false
+  }
+ ]
+}

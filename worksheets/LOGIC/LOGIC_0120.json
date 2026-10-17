@@ -1,0 +1,1081 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 288,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "We made it in time...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Grr, just a step too late... But we have you completely surrounded!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "We'll crush you along with your base!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Ngh, from all sides...! This will be a tough fight...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "True. But that also means the enemy's forces are spread out.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Looks like we'll have to take them out one at a time.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Those jerks! While we were sweating it out in South America,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "they snuck in like burglars into an empty house!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Silence, Koji Kabuto!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "The Mechanical Beasts you think you beat and we of the Mykene Empire...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "...are not to be lumped together!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Bring it on! Don't come crying to me when you lose!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Mykene Empire, my foot. All you do is sneak around while we're away...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Don't make me laugh!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Bark all you like, Tetsuya Tsurugi! Winning is all that matters! Winning!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Then right back at you! As I knock you back into your hole...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Who'd have thought the Cyber Beast Force base's layout would hurt us...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Having to fight with the reservoir between us...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Griping won't get us anywhere, Commander!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "We're on standby here. How about opening the hatch?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Geez, Mister, that's so pushy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "No, he's right. All right, all units, launch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Perfect timing. These will be your opponents!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "What are you sending out!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Heh, doesn't matter what comes out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "That's... Great Mazinger!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "...Impossible! How!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Heh heh heh... Go! Great Mazinger corps!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Scatter the Gandor squad!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "No! Great Mazinger is our enemy...? And there are four of them!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Huh!? No, Sayaka! Those are... Mass-Production Great Mazingers!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Mass-production!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "I've seen the plans... Great General of Darkness, back then...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "What's going on!? How did they get Great Mazinger!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Tetsuya, don't tell me...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "...I see, back when they pulled out of the Fortress of Science Lab...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "I thought they withdrew awfully fast... So that's what it was!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "The Director showed me... Mass-Production Great Mazingers!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Precisely. We took the blueprints! Building them took some effort...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "but they are more than enough to crush you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "This is terrible...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "A fake is still just a fake...! There's nothing to fear!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Then taste their power for yourself!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Hm, this thing...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Tetsuya!? What's wrong? We have to attack, quick...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Something's off...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "I see! These were built exactly the same as Great.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Which means... their ID signals are the same...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Tetsuya!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "That should do it...! Everyone, take these things down! With any luck...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "What did you do?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "I synced up their circuits and shorted them out.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Now if we just completely destroy their AI...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Graaah! To think you could wound me this badly...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Very well, I shall withdraw for today!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "...But this is not over!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Tch, quit running your mouth! And don't come back!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Phew, at least we chased off the loudest one.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Geez, why can't they fight fair and come at us head-on!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Spare me your bluster, Great General of Darkness!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "He's getting away! Tetsuya!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "...Let him go, Jun. I talked big, but we don't have the strength to pursue.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "So this is the Far East branch Commander Zuril mentioned...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "What? What's that teeny little saucer?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "That's...! A Vega Star Federation saucer...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Comin' in all by itself? Ya got guts.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Commander! More objects are approaching this airspace!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Hold it! You're not getting away!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Daisuke!? Maria!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Daisuke...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Heh heh... So you've come, Duke Fleed!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "I'll say it once more. Hand over Grendizer.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "If you don't, your life can't be saved!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "No matter how many times you ask, my answer is the same!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "I won't hand Planet Fleed's guardian god to the likes of Vega!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Daisuke!? What does she mean, your life can't be saved!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Koji! Save my brother! His body's been poisoned by Vegatron radiation!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Vegatron radiation!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Stop it, Maria!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "I won't! My brother... the radiation wound he got escaping Planet Fleed...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "has spread all through his body!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "N-Nobody told me about that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "He kept it hidden so he wouldn't worry anyone.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "No way... You should've told me, Daisuke...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "I'm sorry... Koji...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "To save him, we need the Vegatron Minus Ray Gun she has.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Got it, Maria. We just have to shoot down that saucer, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Yes. Please, lend me your strength!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Maria, what do you mean!? His life can't be saved?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "My brother's body has been poisoned by Vegatron radiation!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Vegatron radiation?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "The radiation wound keeps spreading through his body...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Th-This is the first I've heard of it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "He kept quiet so he wouldn't worry everyone.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Daisuke...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "I'm sorry...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "That's why we need the Vegatron Minus Ray Gun she has.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "So we shoot down that saucer and take the ray gun.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Yes. Please, lend me your strength!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "I won't allow it. You'll all be frozen solid right here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "What'd ya say!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Whoaaa! Wh-What is this?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "The reservoir around the base froze in an instant...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "I almost got frozen solid. What the heck did you do!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Hey, even the water flowing over that dam is frozen.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "(...It's still not enough...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Being able to freeze water in an instant...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "is of no use at all...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "This won't cool a red, burning planet and make it fit for people to live on...)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Heh, if all you do is freeze water, Mazinger Z can do that too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Freezing this much water in an instant is impressive, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Commander! More machines approaching!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Is that the Vega Star Federation's main force?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Looks that way.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "By the look of it, the Freeze Ray still isn't finished, Kirika.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "I-I'm terribly sorry, Commander Zuril. Next time, I'll...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "If these failures continue...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "I'll have to halt development of the Freeze Ray...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "N-No... Anything but that!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Oh. Looks like they're arguing about something.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Completing the Freeze Ray is my... no, my brother's dream.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Then you'll have to show me results worthy of it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Yes...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "(She has a brother too? Then my wish to save my brother Duke...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "my brother Duke...!)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Looks like our enemies are all set too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Cover the units damaged in the fight with Mykene,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "and defeat the Vega Star Federation.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Please! The Vegatron Minus Ray Gun you have...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "I really, really need it!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "You followed me all the way from the moon, didn't you?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Why? Does Duke Fleed matter that much to you?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Yes! He matters! He's the only brother I have!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "You said it earlier... that it's your brother's dream?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Then you know how I feel, wanting to save my brother, don't you?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Maria! Don't do anything reckless!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "(Duke Fleed and this girl are brother and sister...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "With that ray gun, my brother's body will go back to normal, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Please... save my brother, please save him!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Huh!? Didn't she just drop something?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "That's...!? The Vegatron Minus Ray Gun...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Did she... do that on purpose?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "She might have... To think there's someone like her in Vega's forces...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "With that, your body will go back to normal, Daisuke?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Yes... Now I can fight the invaders who threaten Earth...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "What exactly can that thing do?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "With this, I can wipe out the Vegatron radiation eating away at my body.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "...I'll be able to fight alongside everyone again...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Thank you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Hmph, the Gandor squad, said to be the strongest on Earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "It seems you won't go down so easily.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "He's running away, the creep!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Today was just to size you up.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "But the next time we meet will be your end!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Come at us as many times as you like!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "This Gandor squad will never lose to the likes of you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "That's the Ninja Warrior...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "Hm, what!? What is this little runt!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "...Tobikage!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Come to think of it... we still don't know what this robot really is.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "We're counting on you! Tobikage!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "...Tobikage... can't you... save Joe...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "It seems all enemy forces have withdrawn.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Man. Daisuke and Maria showing up out of nowhere really surprised me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Yeah. The lake freezing was a surprise too, though...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Still, Daisuke and Maria showing up was quite a surprise.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "I never expected to run into Daisuke in a place like this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "You've got catching up to do, and we're back at the Far East branch.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "Why not talk it over inside the base?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Indeed. The Gandor will be loading supplies.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Everyone, take a rest for a while.",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

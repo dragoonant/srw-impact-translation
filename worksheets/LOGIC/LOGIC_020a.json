@@ -1,0 +1,283 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 522,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "As for which point to head for...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Hm...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Captain, what's wrong?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "This feeling... not good!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "I see... it's just as Lady Haman said.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "What!? An enemy attack!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Those are... Zeon mobile suits!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "They targeted us! They were watching our fight with the Vegans!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "...I'm heading out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Now then, who's first?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "You're all fired up, Excellen.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Not being tense is fine, though that alone won't keep you alive.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "They take us lightly.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "A force that small... mobile suits from before the Gryps Conflict,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "...and a few models I've never seen.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Battles aren't decided by numbers or specs... Justice and conviction...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "...whoever's are stronger wins...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "...How cool.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Don't think childish drivel will win you this! War is love and loyalty...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "That is everything!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Huh? Is that guy okay?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Focus! All units, commence attack!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Grrr! I didn't think you'd go this far!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "But don't think this is the end. The battle has only just begun!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Can the Full Burnern catch him!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Stop, Uraki! We don't have the forces to chase him that far.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "That's right. Avoid splitting our forces.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "We'll have to settle for driving them off...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "...Haman, why can't you see this is no time for humans to fight each other...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "It's over. But...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "...Worrying, huh? Just a recon unit, and they still gave us a hard time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Yeah...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "But we don't have time to complain.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "...As in the Gryps Conflict, having the forces isn't everything.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Are you afraid of... a tragedy like his?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "...Kamille, you mean. Yes... We can't have a battle like that again.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Judau, too, abandoned the Earth Sphere and left for Jupiter's gravity.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "And this is no time for us to be held by gravity...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "So, what now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "We have to pursue the unidentified force heading for Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "...And I hear the Vega Star Federation is stirring near the moon...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Anyway... nothing starts unless we move.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "...Vega Star Federation, I won't let you do as you please...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "(...Amuro, you too are still held by Earth's gravity...)",
+   "kind": "thought",
+   "keep": false
+  }
+ ]
+}

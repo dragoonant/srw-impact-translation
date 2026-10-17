@@ -1,0 +1,253 @@
+{
+ "file": "BTL/BMCPACK.BIN",
+ "format": "BMC",
+ "pilot": 48,
+ "strings": [
+  {
+   "id": 0,
+   "en": "I am a proud Jovian soldier!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Hearts that love peace are one!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Tyaaah!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Our goal is peace in space!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Here I go!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "The Superior Human Corps is our last trump card!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Iron fists strike and shatter!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Please step aside!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Too slow!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "...Forgive me...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "As long as I have passion, I won't go down!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Justice... there should be only one justice!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Is this the end!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "I can't lose here!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Ngh! But I can still fight!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "I can still go on!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "An attack like that can't stop me!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "H-hold on a second!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "If it only hit, there's no need to worry!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Nuoh!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "What does this mean!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "What happened!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Don't underestimate the Superior Human Corps!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "I can dodge this much!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Like I'd... let that hit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Don't underestimate the Superior Human Corps!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "I'm not called Yujin for nothing!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Spacetime distortion field, operating normally!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Spacetime distortion field, deploy!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Ngh, out of ammo!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "My attack can't reach!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Fight me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Too slow! You won't escape!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Just fall back!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Withdraw from here!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Here goes! Gekigan Beam!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Gekigan Beeeam!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Here goes! Gekigan Puuunch!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Gekigan Puuunch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Here goes! Gekigan Shoot!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Gekigan Shoooot!!",
+   "kind": "quote",
+   "keep": false
+  }
+ ]
+}

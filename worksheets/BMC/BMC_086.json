@@ -1,0 +1,415 @@
+{
+ "file": "BTL/BMCPACK.BIN",
+ "format": "BMC",
+ "pilot": 86,
+ "strings": [
+  {
+   "id": 0,
+   "en": "Stand aside!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "We must not let them get close!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Concentrate your fire!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "All guns, open fire!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "The Elshank will attack as well!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "We cannot lose this battle!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Return fire!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "It's all right. Now it is our turn.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Begin the counterattack!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "We cannot retreat here!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "The Elshank can still fight!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Show them the pride of the Radorio people!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "I... I cannot go on!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Joe... forgive me... I can... no longer...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "It seems we have reached our limit! All hands, evacuate!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Aah! No more!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "W-We still seem to be holding out!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "At this rate, even the Elshank...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Not yet! We cannot give up yet!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Report the damage!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Oh, Joe! At this rate... I...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Ilbora! Can you do something?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Princess... I, Ilbora, will protect you, even at the cost of my life!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "What are you doing!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "This much should be fine!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "As expected of the Elshank. The damage seems slight!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Do not falter!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "The Elshank is still all right!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Regroup.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Princess! Please fall back inside!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "I cannot do that while everyone is fighting!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Aah!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "W-Were we hit!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Such attacks will not work on the Elshank!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "It was not a direct hit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Intercept them, quickly!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "The damage is not severe!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Ilbora! Are you all right?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Yes! Leave it to me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "This much should be fine!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Ascend at once!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Look out!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "It seems we evaded it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Well done!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Beams have no effect!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "The Elshank will be fine.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "What is the matter?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Out of ammunition? What shall we do?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "If it cannot reach, there is nothing to be done.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Where did that shot come from?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Provide support!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Press forward!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "They seem to be within range! We will attack as well!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "What are you doing! Support them at once!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Yes! Princess Romina!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Now is our chance!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Become a shield, at once!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Use the Elshank as a shield for our allies!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Photon Cannon, do not miss!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Photon Cannon, fire!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "We must not let them get close!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Photon Cannon, do not miss!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "We cannot lose this battle!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Photon Cannon, fire!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "We must not let them get close!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Photon Cannon, hurry!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "We cannot lose this battle!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Photon Cannon, hurry!",
+   "kind": "quote",
+   "keep": false
+  }
+ ]
+}

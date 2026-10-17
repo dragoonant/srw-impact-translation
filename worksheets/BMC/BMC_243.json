@@ -1,0 +1,121 @@
+{
+ "file": "BTL/BMCPACK.BIN",
+ "format": "BMC",
+ "pilot": 243,
+ "strings": [
+  {
+   "id": 0,
+   "en": "Aaugh! B-Brother, we're in danger like this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Brother, take this seriously!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Aaugh! B-Brother, we're in danger like this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Brother, take this seriously!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Kuh! Impressive, I'll give you that.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "We can still go on, Brother!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Kuh! Impressive, I'll give you that.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "We can still go on, Brother!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "That was nothing.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Right, this much is fine!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "That was nothing.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "That was nothing.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Evasion successful!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Bravo! That's my brother!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Bravo! That's my brother!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Brother, we're out of ammo! Get it together!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Brother, we're out of ammo! Get it together!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "It's too far...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "It's too far...",
+   "kind": "quote",
+   "keep": false
+  }
+ ]
+}

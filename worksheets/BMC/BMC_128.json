@@ -1,0 +1,1195 @@
+{
+ "file": "BTL/BMCPACK.BIN",
+ "format": "BMC",
+ "pilot": 128,
+ "strings": [
+  {
+   "id": 0,
+   "en": "With this one blow!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Out of my way!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "I'll hit it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "I'll shoot it down!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Go down!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Hit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Go down! Go down! Go dowwwn!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "There!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Can I do it!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "I won't let you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "I won't let you!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Why you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "I'll land a direct hit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "This hostility is too innocent... It's not Char, or that man either!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "If that's you, Quess, stop!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Not Char... That man, then! Don't get in my way any further!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Haman Karn! You're rushing humanity's evolution too fast!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Haman! I won't let you do as you please any longer!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "I've caught your movements, Haman!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "The Nu Gundam isn't just for show!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "This Nu Gundam should be able to do it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "I'll keep the enemy in check with the Nu Gundam!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "I'll finish them with the Nu Gundam!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "That machine can't stop the Nu Gundam!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Everyone else, fall back! The Nu Gundam will handle the rest!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "This Hi-Nu Gundam should be able to do it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "I'll stop the enemy's movements with the Hi-Nu Gundam!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "The Hi-Nu Gundam isn't just for show!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "I'll break through with this Hi-Nu Gundam!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "I'll open a breach with the Re-GZ!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "I'll head off the enemy with the Re-GZ!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "If I make use of the Zeta's mobility, I should be able to do it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "I'll finish them with the Zeta!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "With the Double Zeta's power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Attacking with the Double Zeta!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "I'll stop the enemy formation with the Gundam!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "I'll open a breach with the Gundam!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Everyone else, fall back! The Gundam will handle the rest!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Taking the Gundam to the front line!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Don't underestimate the Gundam's power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Attacking the enemy ahead with the Gundam!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "D-damn it!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Waaaaah!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Whoa! Damn!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Damn! Have I taken too much damage!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Agh! I-I'll be beaten at this rate!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Ngh! Is the damage too heavy!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "It's no good, it won't hold out like this!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Whoa!! W-Will it hold!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "I can't go down yet!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Ngh! Is the apogee motor output dropping!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "No good! I'll be beaten at this rate!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "What!? I'm being outpowered!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "The damage is heavy, but I can't fall back now!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "With this little damage, it shouldn't explode yet!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "What... They're putting pressure on me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "I can't let Char beat me here!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Char! Is he reading my movements!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Damn! Is the psycommu responding badly!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "The Nu Gundam won't go down from something like this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Not bad! To do this much damage to a Gundam!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "A direct hit! Even a Gundam can't take much more of this...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "This is nothing!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "N-Not yet!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Good! But it'll take more than this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "You got me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Not yet! I'm not finished yet!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Tch! Isn't the machine fully tuned!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Ngh! Not yet! I can still go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "...! Not yet!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Ngh!! But I can still go on after this much!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Impossible!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Isn't the machine fully tuned!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "They got me! But there has to be another way!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Machine performance alone doesn't decide a battle!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "They're good...! I can't let my guard down, then.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Its reactions are slow!? But I'll manage somehow!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "This pressure is going to be a wall against me...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Tch, I charged too deep into the enemy unit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "I've still got room... I'll take you down with the next blow!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "So you can see right through me, Char!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "I'm not in as much of a hurry as you, and I haven't given up on humanity!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "The psycommu couldn't fully track the enemy's movements!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Ngh! It can keep up with the Nu Gundam...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Not yet! A Gundam should still be able to hold out!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "A Gundam's power isn't this limited!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Tch!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Not from something like this!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Just a graze!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Hah, this is nothing!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Ngh! Not yet!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "This much I can handle!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "This much damage is nothing!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Ngh! I can still go!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Tch!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "At least I avoided a direct hit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "What, are the machine's reactions sluggish?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Less damage than I thought. But next time I'll dodge it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "So their mobility is better than mine...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "No problem. It just grazed the armor.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Pressure like that won't stop me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "It won't affect combat, but I can't let my guard down.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "I'm no amateur, yet I got hit by an attack like this...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Ngh! You're good, Char!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Mocking me! That's all you'll ever do, look down on people forever!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "It hit!? The psycommu couldn't react in time!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Something like that won't stop the Nu Gundam!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "As if that could hurt a Gundam's armor!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "A Gundam's mobility should've been able to dodge that...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "That won't work!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "There!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "I can see it!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "I won't let you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Nice try!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Like that'll hit me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "The enemy's movements... I can see them!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Useless!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "I won't let you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Nice try!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "I can see it!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Like that'll hit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "You won't close the distance like that!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Dodged it... Moving to the next action!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Feels good. My reaction speed is picking up!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "So you're determined to get in my way!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "You won't catch my movements that easily!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "I can read your action patterns!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "I don't have time to be held up in a place like this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "From the front... no, from the front right!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Here it comes... I'll evade it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "I won't let you break through here!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Looks like the apogee motor tuning is working well.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "I'll see through moves like that!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "I can't waste time playing with children!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Char!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Char! Why would a man who fought beside us try to crush the Earth!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "I can't afford to take a hit from Char!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Too slow, Char!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Pathetic!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Don't underestimate the Nu Gundam's mobility!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Aiming at the Nu Gundam like that is a waste of time!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "You can't keep up with the Hi-Nu Gundam's mobility!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Good, the psycho-frame is responding well.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "If I use the Re-GZ's strengths, nothing will hit me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Don't underestimate the Zeta's mobility!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "You can't catch up with the Zeta!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "With the ZZ's burst of speed...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "You think that'll stop a Gundam!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "If this weren't a Gundam, would that have hit...?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "You're trying to pin down the Gundam, but... it's useless!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "That won't work on a Gundam!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "I'll knock it down with my Beam Saber!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "I'll shoot them all down!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "I see you! There!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "I won't let you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "They'll get me!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "They'll get me!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "This is nothing!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "That won't work!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Mocking me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Deploying Fin Funnels!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Fin Funnels can be used like this too!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "Deploying the I-Field!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Using the I-Field barrier!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Damn, out of ammo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Ngh, is it no good!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Ngh! Not from this distance!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Ngh! Too far!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Looks like they need backup...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "You can't dodge this combination!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "I can attack too... Go!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Not yet! Here I go!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "I can still go!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "I'll handle this! Fall back while you can!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "What are you doing!? You'll get shot down like that!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "I'll draw the enemy's attention! Regroup!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "From here on!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "I'll take care of this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "I'll use the Gundam as a shield!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Go! Funnels!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Funnels!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Go! Fin Funnels!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Fin Funnels!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "I can win with the Fin Funnels!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "Just one enemy... I'll take it down with the Fin Funnels!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "Fin Funnels... Target the enemy ahead!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Enemy locked! Fin Funnels, launch!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "There! Fin Funnels!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "Multiple enemies... Go, Fin Funnels!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "The Fin Funnels should still hold out! Go!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Funnel pods open! Go, Fin Funnels!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "VSBR!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "With the Re-GZ's Mega Beam Cannon...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "All allies, fall back! I'm firing the High Mega Cannon!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "If I don't finish it in one shot, our side will take damage...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "With this firepower, I should be able to finish it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "High-output mode... Go!",
+   "kind": "quote",
+   "keep": false
+  }
+ ]
+}

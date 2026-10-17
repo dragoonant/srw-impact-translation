@@ -1,0 +1,13 @@
+{
+ "file": "BTL/BMCPACK.BIN",
+ "format": "BMC",
+ "pilot": 70,
+ "strings": [
+  {
+   "id": 0,
+   "en": "",
+   "kind": "quote",
+   "keep": true
+  }
+ ]
+}

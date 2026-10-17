@@ -1,0 +1,769 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 257,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "So they've come... those Holy Warriors.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Shot, can the Wil Wiph not launch!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "...No, sir. The damage to the aura converter was worse than expected,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "so replacing it will take several more days...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "...Blast it, unable to launch when it's needed most...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "So you've come... Show Zama. I slipped at Castle Uroporos... but this time...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Well, well, aren't you fired up.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Hey, Captain, push too hard and you'll blow it again.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Hahaha!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "He blows it whether he pushes hard or not, doesn't he?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "...You two...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "What are you doing? The enemy is right in front of you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Fine, fine. Guess we'll get going, then.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Lord Shot... I'm heading out...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Please, don't push yourself too hard, Musie.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Whew, they sure rounded up a lot of 'em.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "I'm starting to get nervous.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "If you lose in spirit, it's over...! Think about pushing forward!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Hot-blooded as ever, Lieutenant. But yeah, we've got no choice...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "We can't count on resupply... Fight while conserving energy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Close in with Getter-2, finish with Getter-1... That's all we can do.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "...If only they'd come into the water.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Doesn't look like they're up for that.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Besides, if an Aura Battler dove in, it'd probably spring a leak.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Here they come!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Don't let them surround us, and take them out one by one. Let's go...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Surface dwellers who defy me... I'll crush you...! Commence the attack!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Reinforcements!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "We've come this far and there's still more!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Show, no! That's...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Show Zama! Holy Warrior, are you safe?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "That's... the battleship that was under construction back then!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Lady Sheela's Gran Garan... It made it in time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Thanks to the surface people, Drake's army couldn't interfere",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "with the Gran Garan's construction.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "It should put a lot of pressure on the enemy. We can win this...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Nngh, that's Na's battleship...!? Sheela Lapana has made her move!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Perfect! The enemy's rattled, Show!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Wow! Lady Sheela! Over here, over here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Heh, she looks all gentle, but she comes through when it counts.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "All right, let's go all out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Wow... What a lovely battleship. It's like a castle.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Really, it's got a totally different style from surface battleships.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Huh~? A battleship's gotta look, like, way tougher than that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "This is no time to gawk! Focus!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Geez, what now!? ...Wait, ah, aah, Show! This is bad, Show!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "No way!? That light just now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Aura... Light...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "That's...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Alchemie...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "So here is where you were... Kyosuke...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Was it...you? Did you open the Aura Road and send us here...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "That's right...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Why on earth would you do that...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Ufufufu...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "That enemy can open the Aura Road at will?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Then how about sending us back to our own world!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "I'm afraid I can't do that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "This light... Then it is from the surface!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "...Aura... Power......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "...How convenient... Kyosuke and the others can lend a hand...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Lend a hand? What do you mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "That's...my business...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "(This one...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Looks like we've got no choice but to fight either way.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "We'll catch you and make you send us back to the surface!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Will it really go that smoothly...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Still, it's one of our few chances of getting back. We can't ignore it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "(...It's not just about getting back to the surface...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "I'm going to find out what you are...!)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Kyosuke... Kyosuke... What are you...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "That's my line.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "I want to know...more about you... What you...are.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "...What's that supposed to mean...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "You're the one who disturbs me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "(What is it getting at...?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Dangerous... you are...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "How about giving up already and sending us back to the surface?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "...Very well... Shall we go back?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "I'm already done with this place...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Done!? What... What are you after!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "What's your goal!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Well then, goodbye... Kyosuke...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Lady Elle? Is something wrong?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "...A white...machine... coming through the Aura Road...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "A white machine?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "White... Hey, you don't mean...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Huh? No way!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Tobikage!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "That robot can cross dimensions too!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Or did it follow that skeletal robot here?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "What...is that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "It's an ally, Lady Sheela!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Tobikage~! Go for it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Showing up right at the best part.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "We can't let it outdo us! Let's go, Hayato! Benkei!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Come to think of it, this ninja robot's a mystery too... Who's behind it...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Who cares right now! Tobikage, we're counting on you...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Hey~, take us with you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "They went back without us!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "No...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Wh-what is this feeling!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "C-could it be...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Lady Elle!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "...Do not worry. The surface people have only returned to their world...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Show... Marvel...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Lady Elle... With our current forces, defeating Drake would be difficult...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Indeed. Let us withdraw for now...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "What? After we cornered Drake this far!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Keen, we've done enough for now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Don't forget we got this far thanks to the surface people.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Lady Sheela!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "...Do not worry. The surface people have only returned to their world...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Show... Marvel...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Nie! The Ferario are gone too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "They must have been drawn in by the surface people's Aura Power...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Lady Elle... With our current forces, defeating Drake would be difficult...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Lady Sheela... For now, we should...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Yes, it seems that's all we can do...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "What? After we cornered Drake this far!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Keen, we've done enough for now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Don't forget we got this far thanks to the surface people.",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

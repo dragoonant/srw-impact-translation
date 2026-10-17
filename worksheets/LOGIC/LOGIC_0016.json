@@ -1,0 +1,463 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 22,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Computer, lock off. Program number THX139.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "The keyword is...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "So this is... the Dragon. It was a battleship.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Amazing... I've heard the rumors.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "A giant dragon that always led the front against Muge in the last war...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "So that wasn't a metaphor. It really is shaped like this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "With this... we won't lose so easily.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "(If the Dragon's heart... can hold out to the end, that is.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Heh, been a while, Gandor! All right, Dancougar's launching too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Well, Commander, we'll head on up to space ahead of you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Wait, Yuki. We'll launch from the Space Science Laboratory.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Stand by until then.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Dancougar can make it to space on its own, you know, Commander.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "I told you, the adjustments aren't complete.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Right now, Dancougar has only about 50% of its normal capability.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Seriously? Man, that's a sad story.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Enemy attack!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Of all the timing...! All units, sortie!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Hoh, they still had a warship this size hidden. Can't take them lightly.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Is that... a Gouf...? No, it's a custom type.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Hm... Why does the Federation have a Zaku...? It seems heavily tuned...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "That type is... if I recall, from the Cyclops Team...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "I'd heard there was a traitor...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Zaku pilot! Captain Steiner would weep!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "...I...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Bernie...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "...I just chose the path I believe is right!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Hah! That's the spirit!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Then you're ready to be shot down by your former comrades...!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Wiseman! Focus on the battle! Don't let the enemy's words get to you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Yes, sir!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Sounds like there's some kind of story here, but I don't give a damn!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "We just smash the enemy and push on! Let's do this!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Hold it right there, Shinobu!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Just 'cause they're mobile suits doesn't mean you can run wild!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "What're you talking about, Sara? Dancougar doesn't lose to anybody!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Idiot! Obviously it's better to fight on favorable terrain!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Dancougar is suited to ground combat. Especially my Iron Fist.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Our ammo and energy are limited...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "and you always forget, but beam weapons are weak in water, Shinobu.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Shut up! I know that already!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Bernie, stay close to me and I'll give you proper cover.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "...Thanks, Chris.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "If we get the chance, we'll launch a simultaneous attack!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Keep an eye on the formation as much as you can, Nanbu!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Roger!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "I'll back you up with the repair device, but don't push yourselves, everyone!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "None of our units are good in water... Everyone!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Mind your machines' capabilities and get through this!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Nngh, to think they'd go this far...! Retreating!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Take the skill / Don't take the skill",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Cleared within the turn limit. Acquired skill \"Resolve\".",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "You're not getting away!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Nanbu! Don't pursue too far!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Dammit, they wreck our start and then just get away...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "They get in our way, and then they just run off!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "You could also call it a masterful withdrawal.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "It's not over yet. Don't let your guard down.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "...Ready to be shot by my own comrades... huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "We managed to drive them off.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "True... right now, Dancougar's response",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "and firepower are both below par.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Don't neglect maintenance. If you go to space and can't stand up",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "to the Vega Star Federation, there's no point in sending you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Leave it to us, Commander.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "We don't wanna be laughed at by the Londo Bell members either.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "All right, everyone, listen up as you are.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Word just came from the Saotome and Photon Power Laboratories.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "They say they'll lend us a hand.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Huh! No way...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Yes, that's exactly it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "The super robots of the last war will lend us their strength...!",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

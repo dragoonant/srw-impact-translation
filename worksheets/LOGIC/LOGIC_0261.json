@@ -1,0 +1,1753 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 609,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Hey, hey, so what are we gonna do now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "I told you to cut the chatter, they'll find us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "I know, but... how long are we gonna stay like this?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Can't be helped! The Satsuki Midori blast fried our spare batteries.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "No point running out of gas before we meet up!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Out of gas... Passing gas... Heh heh... heh heh heh heh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Izumi! You little... Right when I'm already ticked off...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Wait, something's coming!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "The Nadesico...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "We should be okay here. Sayaka, the distress signal...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "It's already sent, Koji.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Looks like Londo Bell is heading our way.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Whew... Still... having to wait for help out in the middle of nowhere...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "It's pretty embarrassing.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Quit your grumbling, Koji. You gotta stay alive to do anything!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "True. We managed to shake off those clay figurine things, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "...we've strayed pretty far from the original rendezvous point.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "I know it was to protect the HLV we were riding in, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "No telling what became of Dancougar after it bailed out up there...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Fujiwara's way too reckless.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "We're safe thanks to them, so we can't complain too much.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Yeah. But... something's off about this place too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "This damage... Looks like it was wrecked just recently.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Satsuki Midori 2... An asteroid colony that's also a Federation relay base.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "And now it's like this. Looks like space is in turmoil too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Anyway, let's hurry up and meet up with Bright... Hm!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Koji?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Wh-wh-what!? What the heck are these things!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Koji! These robots... the Jovian Lizards!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Heh... Would've been nice if it was Londo Bell coming to greet us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Doesn't look like they followed us here, though.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "They were hiding and watching...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Someone beat us here... No, looks like they're the ones who did this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Whoa! Whoa! Hey, hey, that robot in the middle is sooo cool!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Like a big hunk of steel!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "...Mazinger Z...!? What's it doing here!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "An abandoned colony... Well, it beats floating around in space.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "I've sent out a distress signal.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Now we just have to wait, and Londo Bell should come for us, Tetsuya.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Just wait... That's pretty boring, though.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "I'm in the mood to cut loose.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "If you're that eager, you should've gone with the Cyber Beast Force",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "and jumped out back then, shouldn't you?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Don't be crazy, Tetsuya!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Jumping out in the stratosphere? Those guys are totally nuts!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Even so, they did it to lure the Gaizok battleship away from the HLV, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "We should be thanking them, not complaining.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "It's their methods that are the problem.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "We came to bolster the forces, yet the Cyber Beast Force is lost,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "and we're way off the rendezvous, awaiting rescue at a dead colony...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "This defeats the whole purpose.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Harsh as ever, Tetsuya.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Don't be so on edge right now. Let's just wait, okay?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "I've got reason to be. Doesn't this colony seem... strange to you, Jun?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "...Strange how?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "This damage... is recent. I checked the data. Satsuki Midori 2...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "...is an asteroid colony that doubles as a Federation relay base.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Looks like space is in turmoil too. Let's hurry and meet up...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Tetsuya! These guys are...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Yeah. They call them the Jovian Lizards. ...Heh, am I losing my touch...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "If we're not careful, we'll go missing just like the Cyber Beast Force.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Whoa! Whoa! Hey, hey, that robot in the middle is sooo cool!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Like a big hunk of steel!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "...Great Mazinger...!? What's it doing here!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "This is no time to be talking about that, you two.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "The lizards have started moving.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Should we go help...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "No, we wait here. ...If we can just buy time until the Nadesico arrives...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "More of 'em!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Just how many are hiding here!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Isn't Londo Bell here yet!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Wh-whoa, th-that's close!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Making such a racket! Did they spot us!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Has the Reaper come to greet us?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "No way in hell! We're heading out, Hikaru, Izumi!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Wh-what!? More of them!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Can you hear us, Mazinger Z!? We're on your side!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "So don't go firing your arms at us!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "And spare us the hot stuff too~",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Who are you!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Don't worry about it! We were just hiding.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Nice to meet you, Mazinger Z.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Hiding!? I'm Koji Kabuto! Who the heck are you!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Wow! It really is Koji Kabuto!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Just like in the Super Robot Encyclopedia: Japan Edition!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Who cares who we are! The lizard bastards are coming!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "What do we do, Koji?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "What else!? Either way... we kick these lizard machines outta here!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Let's go!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "(Their robots... I've seen them somewhere before...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "...Could they be from the Nadesico?)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Reinforcements...!? There were more hiding!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Just how many are in this colony!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Isn't Londo Bell here yet!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Wh-whoa, th-that's close!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Making such a racket! Did they spot us!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Has the Reaper come to greet us?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "No way in hell! We're heading out, Hikaru, Izumi!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Wh-what!? More of them!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Can you hear us, Great Mazinger!? We're on your side!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "So don't go firing your arms at us!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "And spare us the lightning too~",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Who are you!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Don't worry about it! We were just hiding.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Nice to meet you, Great Mazinger.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Hiding, you say...? Who are you people?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Depending on your answer, I'll crush you all together.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Yikes! He's way scarier than the lizards!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Who cares who we are! The lizard bastards are coming!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "What do we do, Tetsuya?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "For now... we hit the Jovian Lizard machines. ...These girls are probably...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "(If memory serves, they're the same model that left the Nadesico...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "...A reading!? Koji! They're here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "All riiight! Been waiting for you, Bright!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "...A reading!? Tetsuya! They're here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Londo Bell!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Ryoko, this is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Yeah, it's them!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Ta-daaa! The Nadesico has arrived!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Satsuki Midori 2... It's already... destroyed...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Is that... the Nadesico!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "That's... the Nadesico!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Confirming the Aestivalis units with the replacement pilots.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "There's some black thing here too, though.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Don't call me a black thing! Why's the Nadesico showing up!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Whoa-ho! It's Mazinger Z! Hey! Tenkawa!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "The Nadesico!? What's the meaning of this!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Isn't Londo Bell's flagship supposed to be coming!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Whoa-ho! It's Great Mazinger! Hey! Tenkawa!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Wh-what's it doing here!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Oh my, sorry to disappoint you. Our business is with them over there.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "We've been called~",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Heh, you're late!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Just sortie already!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "All units, launch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "There are only two, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "What do we do about the Mazinger!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "What do we do about Great Mazinger!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Hmmm. ...I'd love to have it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "If we analyzed it, Nergal's technology would likely leap ahead ten years.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "My hands are itching! A Photon Power engine~",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "You're itching to take it apart, huh!? Fine, I'll take you all on!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "My hands are itching! Super Alloy New Z! Heh heh heh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Tch, Lizards ahead, Nadesico behind. ...Come at me and I'll show no mercy...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Enemy contacts behind the Nadesico.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Whaaat!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Nothing on radar...? Are they capable of perfect stealth!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Wh-what are those robots!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "E-enemies!? Oh! Could these be Londo Bell!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Nah, no way. Guys with a sickle and a spear... Well, we do have a few.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Which is it!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "They're enemies!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Heh! What a pain! I don't care who you are, come at me all you want!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Hey, Koji! We've never fought these enemies before! Be more careful...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Sayaka, it's no use.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Back when I was fighting Dr. Hell, I fought a different robot every time!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "I won't lose to the lizards or these guys, sending out the same junk!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "I hope so... but they're clearly not.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Besides, Londo Bell should have hardly any mass-produced units.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Which is it!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "They're enemies!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Sneaky, annoying bunch. Come at me head-on...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Tetsuya! Don't get too cocky, okay!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Don't be naive, Jun!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "If we don't regain our combat instincts soon, it'll get us killed!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "We got plenty of that back fighting the Gaizok on the ground.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Jun, that Tetsuya just hasn't had enough of a brawl, that's all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "...Heh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "We'll form a joint front with the Mazinger team! Commence attack!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "No choice but to fight...! Here I go.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Kabuto!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Oh, it's really you this time! You're a lifesaver, Bright!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Uh-oh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Wow, the Nadesico's here too. Nice catch, Koji!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "That's not exactly how it went.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "That silhouette... It must be! Tetsuya Tsurugi, is that you!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "That's... a Federation ship...! So you finally made it, Londo Bell!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Uh-oh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "Wow, the Nadesico's here too. Nice catch, Tetsuya!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "That's not exactly how it went.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "...That's right. Oh, don't mind us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "I can't do that. ...You have my thanks for backing up the Mazinger team.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "But... that doesn't change the fact that we must pursue you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "So our positions haven't changed, then.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Precisely. I'd tell you to disarm at once... but given the circumstances...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "Hmmm...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "There's no need for people of Earth to fight each other here!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "We don't intend to harm you. Please surrender!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Uuugh, what should we do, Prospector?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "Even so, as things stand, Nergal is in no position to say yes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "Enemy contacts.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "What!? From where!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "These guys...! The robots that were fighting that ship, the Elshank!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "What!? There was no reading! Where did they come from...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "Phase transition engine, full power! Aestivalis team, return at once!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "Yurika!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "It's now or never! We're shaking off every last one of them!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "All right! Hikaru, Izumi! We're pulling out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "Okaaay! Leave this to me, everybody go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "You're coming back too, Gai!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "The Nadesico's robots are...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "Hey, wait up, you guys...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "Damn! These guys...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "Nadesico, rapid about-face! ...We'll leave the rest to you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "Damn it...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "Aww, they got away...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "Caught off guard...! Nadesico... no, Misumaru's girl is no pushover.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "Hey, Captain! This doesn't look like the time to be impressed.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "Those descending to Earth, those rising up from Earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "They attack both. I can't see their intent.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "Let's see... Maybe they'll take any target at all.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "Those robots were unmanned, weren't they?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "Even if they're unmanned, someone had to program them...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "Who cares about that now!? Hurry up and back us up!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "Sheesh, Sayaka's gone hysterical.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "All right, all units sortie and destroy the enemy units individually!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "Grendizer...! Daisuke!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "Koji, thanks for coming...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "Kojiii!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "Daisuke! Maria too...! Dai... No, Duke Fleed!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "I'm gonna fight alongside you again. For Earth...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "Yes, let's fight together, Koji...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "This is no time for a chat!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "Hurry it up already!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "All right, all units sortie and destroy the enemy units individually!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "Grendizer! Daisuke, I never thought I'd see you again...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "Tetsuya... Your skills haven't dulled, have they?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "This war... will likely be the greatest yet... Are you prepared!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "Who do you think you're talking to? Even if Great got sent to a museum,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "I never skipped a single day of training!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "Tetsuya! What about Koji... Where's Koji!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "He's fighting the enemies on the ground.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "By the time space quiets down, Koji will have handled things down there.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "Show me the power of the great hero once more, Tetsuya!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "Battle Mastery increased by 1.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "Looks like it's over. Geez, it was the same on the ground,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "every time we try to meet up with our friends, this happens.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "It can't be helped. That's when things get the most hectic.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "en": "That's right, Koji. You're always complaining.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "C'mon, Maria! Anyone would wanna complain about this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "Kabuto, may I? Welcome aboard once again. Please lend us your strength.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "en": "Heh heh... Welcome back, Koji.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "en": "Yeah! Leave it to Mazinger again!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "en": "Tetsuya's down on the ground, so there's nothing to worry about!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "en": "True, he should be fine.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "en": "Unlike you, he's fine even when no one's watching him, Koji.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "en": "That's harsh, Daisuke.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "en": "Kabuto, isn't Dancougar... the Cyber Beast Force with you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 258,
+   "en": "Oh, that's right! The Cyber Beast Force is... out of contact.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "en": "Is that the end of it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "en": "It happens every time, but meeting up never goes smoothly, does it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 261,
+   "en": "It can't be helped. That's exactly when we're easiest to target.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 262,
+   "en": "I'm sorry, Tetsuya. If only I'd gotten here sooner...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 263,
+   "en": "No, Daisuke. It made for a good warm-up.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 264,
+   "en": "Tsurugi, isn't Dancougar... the Cyber Beast Force with you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 265,
+   "en": "...No. The Cyber Beast Force split off midway to intercept the enemy...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 266,
+   "en": "and we've lost contact with them since...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 267,
+   "en": "If only Great had been built for space in the first place... Damn it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 268,
+   "en": "What do you mean? Don't tell me... they were shot down...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 269,
+   "en": "Nah, not like that.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 270,
+   "en": "Those guys went after the Gaizok battleship chasing our launch pod,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 271,
+   "en": "and jumped out in the stratosphere to intercept it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 272,
+   "en": "Whaaat!? You're kidding! There's no way they could fight properly...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 273,
+   "en": "...Then again, that's just like them.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 274,
+   "en": "Once tuned, the one Dr. Hazuki, now Far East Branch Commander, built...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 275,
+   "en": "...that super robot could fight anywhere. However...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 276,
+   "en": "However? I've never seen it... Is it really that amazing a robot?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 277,
+   "en": "Apparently it's not fully tuned yet.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 278,
+   "en": "We tried to stop them... but they just said, \"Let's do this!\"...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 279,
+   "en": "At its best... in the last war, in that strange Muge universe,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 280,
+   "en": "it was the only robot that could fight.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 281,
+   "en": "The stratosphere shouldn't be any trouble, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 282,
+   "en": "They did say it wasn't done being tuned...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 283,
+   "en": "That's insane. Judau and Roux were pretty reckless too, but still.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 284,
+   "en": "It can't be helped.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 285,
+   "en": "All right, once all units are aboard, the Ra Cailum heads to the next point...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 286,
+   "en": "Broadcast our position at regular intervals!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 287,
+   "en": "Captain! You're giving up on them that easily...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 288,
+   "en": "It only shows how much the Captain trusts them,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 289,
+   "en": "Lieutenant Uraki.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 290,
+   "en": "They get their best results going it alone... A troublesome bunch.",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

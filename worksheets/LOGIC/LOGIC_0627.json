@@ -1,0 +1,2035 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1575,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Princess Romina! We've arrived at the Mars base!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Heh, brings back memories.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Mars... We're back.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "I've come back again... This time to fight...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "No, to save Shiratori...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Minato, match our altitude with the Elshank...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Oh, and Ruri, you take the helm too, okay?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Roger. Being put to convenient use, as always.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Minato's in sick bay, fine... but where has our sub-helmsman Erina",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "run off to?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "At a crucial time like this... That'll count against her in her review!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "...So this is... the Meganoid base... I never knew a place like this existed.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "I know homecomings are nice... but we've got bigger things to deal with.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Master Banjo... the time has finally come?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "...I'm off, Garrison.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Do take care, Master Banjo. Shall I have some champagne ready?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Yes. To celebrate the Meganoids' destruction",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "and Major Shiratori's full recovery. ...Let's go!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Daitaaarn! Come heeere!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Seizing a Meganoid base to save a man who used to be our enemy...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "There's such a thing as being too good-natured.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Tetsuya! That's going too far!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Still, never thought we'd end up at the Meganoids' home base like this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Yeah... In any case, we have to wipe out the Meganoids' forces fast...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Come out! Koros! Don Zauser!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Wh-What is going on... You!? Daitarn 3... Banjo Haran...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "That voice... Koros!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "...Nothing showed up on radar... How...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "She seems caught off guard.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "We should hit them all at once.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Striking while they're rattled is standard procedure.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "And all at once.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "All right, let's go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Right...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "We're heading out too! Mike, Lenny!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Ah, wait a sec!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Just 'cause we're back on Mars, Big Bro's getting way too fired up.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Like it or not, Mars is home turf for us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Don't fall behind Banjo! All hands, launch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Aestivalis team, get ready too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Huh... Akatsuki? You haven't been cleared for launch yet...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Hey, sorry about this. Something's come up I need to take care of.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "I'll leave this to you guys. Well then, see ya!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Whaaat!? Hold on, Akatsuki, you can't just do that!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "It's fine. Londo Bell is here, so even if the two of us drop out,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "the operation will go just fine.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Even Erina... What on earth has gotten into them...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "(Hmm... Major Shiratori aside, it seems we'd best hurry things along.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Captain, let's give up on those who left and hurry the operation along.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "You're right... Okay then, once more, Aestivalis team, prepare to launch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Earlier, I received a report that the ruins had become active...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "So it was you. ...Just as I thought, those ruins...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Correct. ...Circumstances have forced us to borrow",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "your facilities. And while we're at it, I'm sorry to say...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Prepare yourself, Koros...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "...Very well, Banjo. I always felt that someday",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "we would have to settle things. That time has simply come...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Lady Koros, leave this to me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Heh, here they come.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Looks like they came out in a real hurry.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "...Looks like taking the fight to Mars was the right call.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Yes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Now... let's settle this...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "I'll leave it to you. ...I expect you to strike down Londo Bell",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "splendidly.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Ohh... Lady Koros...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Whoa! That many Neo Zeon mobile suits!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Heh heh heh... Benmel dug these out of an old Neo Zeon base",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "and brought them here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Like a bunch of thieves!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "I don't like that way of doing things.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Them again, huh. Remodeled Megaborg robots.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "These too, it seems. In such a pitiful state.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "They're surprisingly useful. Even after death.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Your former comrades? ...Have you no shame!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Say what you like. ...Go, Commander Mylene.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Quit spouting all that crap! I'll damn well do it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "According to Dr. Inez, Major Shiratori has very little time left!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "If this operation isn't finished within 10 minutes,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "his life will be in danger!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "The Meganoids' home base, in 10 minutes... Can we make it...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "You idiot! It's not about whether we CAN make it,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "we're GONNA make it! A hot-blooded man like Shiratori...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "I won't let him die!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Hang on, Shiratori...! I won't let you die in vain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Then let's go! For the world and its people, Daitarn 3 is here",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "to crush the Meganoids' ambitions! If you don't fear the light of this sun...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "then come and get me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "...Banjo... y-you truly are...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Farewell, Koros...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "B-Banjo... why won't you... understand the Don's heart...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "I hate...! My father, who created the cyborgs...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "And for using my mother and brother in cyborg experiments... killing them...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "I can never forgive him!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "What'd ya say!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "...Banjo's got a past like that...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "At this rate... humanity will be ruined...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Why... why can't you understand that...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Spouting selfish garbage...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Hyoma! Be quiet!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "You and the Don, calling yourselves superhuman Meganoids... I hate that!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "In an age when humanity takes flight into space... the Don's vision is right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "That's not for you to decide. If humanity is to be ruined... so be it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "The choice belongs to us humans...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "...What those humans... gave birth to... is us... the Mega...noids.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "One... answer... that humanity produced...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "My father used the wrong method... No, perhaps the method was right...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "...But the result was wrong.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Dr. Haran... thought it through that far?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Dr. Saotome's the same, right? He's researching Getter Rays",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "for humanity's sake.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Then... are humans themselves not, by their very nature...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "the ones who are unforgivable...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Unforgiv... able.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "...Excellen?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Perhaps so.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Master Banjo...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "...You're a fine example, Koros. Your feelings for Don Zauser...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Love alone fills your heart, leaving you a Meganoid unable to think",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "of anything else...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Human... ego?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Loving him... is all I have. Answering his wishes...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "is all I am...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "You and the Don, calling yourselves superhuman Meganoids...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "But power to satisfy one's own ego... has no place in this universe...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Ah... my dear...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Oh... ooooooooooh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Did we finally take out the Meganoid boss!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Nobody walks away from damage like that...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Banjo...! Banjooooo! You... You are the one...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "No... it can't... my... dear...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Korooooos... you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "How's that! Ilbora!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Nuooooh...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Did we get him!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "The Zerokage!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "...Ilbora!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "P-Princess... forgive... me...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Did we get that ninja mech!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "It can't hold out much longer... It's going down...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "...Ilbora!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "So this... is the end. Princess... forgive me...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "What are you saying!? Escape! Ilbora!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Betraying you, Princess... what was it I was trying to do?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "...I don't really know myself...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Was it nothing but jealousy... or...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Ilbora...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "...Joe.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "...What?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "...If we ever meet again... when that time comes... ugh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Hang in there, Ilbora! ...We haven't settled this yet!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Big Bro...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Joe! Is there no way to save Lord Ilbora!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Joe... take care of the Princess. The Princess...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Lady Koros!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "A Megaborg again!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Yes... but the feel is different from before...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "...Yes, so this is the moment of truth, is it, Koros?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "I said there would come a time... when we must settle this, Banjo...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "...So you did.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "The likes of Londo Bell, we alone can...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "And who keeps losing to the likes of Londo Bell, huh!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "A fair point. However... how about this?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "They brought out something else!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Tch, there's still more!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Huh!? Hey, is that...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "RX-78... GP02A Physalis...! The Gundam GP02A!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Hmm... Why is it here?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "Of all Benmel's collection, this robot has by far the greatest firepower.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "...The nuke, humanity's cursed weapon. A fitting diversion for us,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "wouldn't you say?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "...You bastard...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "As usual, I bet it's been souped up like crazy...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Man, this really sucks!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Damn! We're in a hurry, and of course they've got reinforcements...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Aww, we don't have time for this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Less talk, more action. ...The pain of losing someone dear...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "...is better never felt...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "That's...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "Tch, that's Bancs, isn't it? Come to think of it, that bastard Hazard",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "was in bed with the Meganoids...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "But we already took Hazard out, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "True... but we didn't beat every last one of the Za Boom bunch.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "Which means, maybe...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "Ilbora's... here? Where's he hiding...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "Doesn't look like they'll give us time to talk... Here they come!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "A nuclear-armed Gundam... Is there some way we could capture it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Lieutenant Uraki.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "Huh? ...That might be tough. With an enemy carrying a nuke...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "the only way is to take it down in one go with super robot attacks...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "Shiro... don't push yourself too hard...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "...What if I cut its power pipes with a beam saber on low output?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "Huh...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "Remember, Aina? When we made a hot spring up on that snowy mountain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "...Oh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "...If we have the leeway, I'd like to try it, thinking ahead...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "Only if we have the leeway, though...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "That leaves... only Don Zauser.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "He hasn't come out... I wonder where he is?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "If he's not here, he's not here. Let's just get into the base already!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "Princess Romina!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "What...? That's...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "More enemy reinforcements?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "I've been waiting, Londo Bell.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "Ilboraaa! You're still gonna struggle!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "Heh... It seems the Meganoids have no future left either...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "but I will settle things with you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "Ilbora...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "Princess Romina, words won't get through to this guy!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "...Fine, Ilbora, I'll settle this here and now!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "Yep, yep, everyone's doing great! We'll make it in time! Right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "I do hope so...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "Captain Misumaru, optimism is fine, but don't get careless.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "...Ugh... uuh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "Huh...? Hey, Koros is over there!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "...My... dear...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "Looks like she's still breathing. But the state she's in, she won't last...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "Koros... who is it... that hurts you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "Whoa!? Wh-What is that!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "D-Don... my dear... you've awakened...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "I'm so... glad...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "Koros... who was it that hurt you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "Well now... Master Banjo, it seems the star of the show has arrived.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "My dear...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "Uoooooooooooh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "That's...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "Whoa! You can see right through to his brain! His brain! Kyosuke!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "Quiet. Banjo, is that...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "...Yes, the Meganoids' boss... Don Zauser...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "Banjo...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "It's huge...! This is...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "So this is the Meganoid Dr. Haran created... in its final form...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "So that's the Meganoid leader... It seems my luck hasn't",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "run out just yet. This is far from over, Londo Bell!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "For both sides... this is the moment of truth.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "My dear...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "I... see. I understand now... It was you",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "who always... made Koros sad...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "en": "Don Zauser...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "For the sin of saddening Koros... for the sin of hurting Koros...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "you shall pay for it all...! Banjo!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "en": "...Master Banjo.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "en": "We did it. Big Bro Banjo, this means the Meganoids",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "en": "are finished, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "en": "And this time we finished him off properly...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "en": "He won't be coming back a second time. What a relief.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "en": "That's one more down... But it's still far from over, isn't it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 258,
+   "en": "That's right. ...Banjo?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "en": "...I hate this...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "en": "You just don't quit, do you! Go crawl back wherever you came from!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 261,
+   "en": "I have nowhere left to return to! ...But Joe, I will settle things with you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 262,
+   "en": "Tch! Fine, bring it on, you blockhead!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 263,
+   "en": "Nowhere to return to...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 264,
+   "en": "Wonder why? Sure, we beat Charm and Hazard,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 265,
+   "en": "but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 266,
+   "en": "...Ilbora, stop this at once!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 267,
+   "en": "Princess Romina...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 268,
+   "en": "...I want no more pointless fighting...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 269,
+   "en": "I am your enemy, Princess Romina...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 270,
+   "en": "Then do it. Shoot down the Elshank, and",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 271,
+   "en": "it will all be over...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 272,
+   "en": "Wha...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 273,
+   "en": "Hey, hey! Are you outta your mind!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 274,
+   "en": "That's crazy! Get back!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 275,
+   "en": "Commander!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 276,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 277,
+   "en": "Hey, shouldn't we stop her!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 278,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 279,
+   "en": "I'm sorry... everyone. Now, Ilbora...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 280,
+   "en": "Ngh, Princess Romina...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 281,
+   "en": "This is way too reckless! Ilbora! I'm your opponent!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 282,
+   "en": "...The Ilbora Saro I knew was never that kind of man...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 283,
+   "en": "That's right! Lord Ilbora! Please come back!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 284,
+   "en": "...After all this... How could I come crawling back now...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 285,
+   "en": "You of all people should know the Princess's heart isn't so narrow,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 286,
+   "en": "should you not!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 287,
+   "en": "Accepting an enemy without a shred of doubt... Poor form for a military.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 288,
+   "en": "True. But that's Londo Bell, isn't it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 289,
+   "en": "Will it get through to him...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 290,
+   "en": "...I can't say. But it's a dangerous gamble.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 291,
+   "en": "A gamble's more fun with bad odds... but this...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 292,
+   "en": "Princess, you've got way too much nerve...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 293,
+   "en": "...Princess Romina... But... I...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 294,
+   "en": "Ah... Ilbora...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 295,
+   "en": "Lord Ilboraaa!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 296,
+   "en": "Ilbora... Trying to look cool all on your own, you bastard...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 297,
+   "en": "Joe...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 298,
+   "en": "Ah! Show!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 299,
+   "en": "Hm!? Is that... Ilbora, was it!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 300,
+   "en": "No doubt about it. He must've been thrown from his machine!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 301,
+   "en": "What...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 302,
+   "en": "Recover him, quickly!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 303,
+   "en": "Is he alive!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 304,
+   "en": "...I don't know. But...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 305,
+   "en": "Garrison, please hurry and bring him aboard. We've still got work to do.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 306,
+   "en": "Understood. I shall do my very best.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 307,
+   "en": "......Ugh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 308,
+   "en": "...We couldn't save him.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 309,
+   "en": "Nothing's more of a pain than a man's pride. ...Tch.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 310,
+   "en": "You idiot... Ilbora...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 311,
+   "en": "Is it over!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 312,
+   "en": "Yeah, looks like there are no enemies left!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 313,
+   "en": "All right, stay on alert. Medical and assault teams, take the landing craft",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 314,
+   "en": "into the base! There's no time! Hurry!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 315,
+   "en": "It's okay... We only went a few minutes over...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 316,
+   "en": "It'll be okay...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 317,
+   "en": "It's okay... We wrapped it up in time...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 318,
+   "en": "It'll be okay...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 319,
+   "en": "There may still be soldiers inside the base,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 320,
+   "en": "so I'll go too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 321,
+   "en": "We're going too! Jet, Drill!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 322,
+   "en": "Right, leave it to me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 323,
+   "en": "All riiight! If any walls get in the way,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 324,
+   "en": "I'll bust right through 'em!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 325,
+   "en": "Hurry!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 326,
+   "en": "Domon, hurry up!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 327,
+   "en": "Make haste, Domon! Don't dawdle!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 328,
+   "en": "Leave the small fry to us and find the medical room, quickly!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 329,
+   "en": "Wow... If I were the enemy,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 330,
+   "en": "I'd totally stay out of their way...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 331,
+   "en": "Search all of Mars and you probably won't find anyone who could...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 332,
+   "en": "I hope they make it in time...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 333,
+   "en": "All we can do now is leave it to the assault team...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 334,
+   "en": "Please... let Shiratori be saved...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 335,
+   "en": "Shiratori... I've still got so much more to talk to you about...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 336,
+   "en": "The assault team has entered the base.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 337,
+   "en": "Obtained the Gundam GP02A.",
+   "kind": "system",
+   "keep": false
+  }
+ ]
+}

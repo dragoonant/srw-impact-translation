@@ -1,0 +1,253 @@
+{
+ "file": "BTL/BMCPACK.BIN",
+ "format": "BMC",
+ "pilot": 77,
+ "strings": [
+  {
+   "id": 0,
+   "en": "Haaah!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Taaaah!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Cry, scream, shriek in agony!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "So you want to see what I can do... heh heh heh.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Die! Joe!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Die! Joe!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Skilled! Now you're worthy of falling to my sword.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Stir the blood of the Benikage even more!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Heh heh heh... I'll be paying you back!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Pointing your sword at me, are you... heh heh heh.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Wh-what! The Benikage can't be beaten...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "The Benikage... impossible!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Sniping at my reactor! This is bad!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Ah! Your Majesty, Emperor Annex!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Curse you! Clever trick!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "The Benikage... won't be finished by this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "What's going on!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Small fry! Don't mess with me!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Don't think you've won with this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Heh... You don't actually think you've won, do you?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Ngh!? It hit me?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Don't get cocky over a graze!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Isn't your footwork a little sloppy?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "What was that? Are you joking!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Isn't your footwork a little sloppy?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "This is nothing!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Ho ho ho, too bad.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Are you making a fool of me?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Hmph, I thought you'd put up more of a fight...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "No need to panic.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "I have a plan!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "What! Out of ammo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "That's no fun!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Curses! I can't reach!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Fight me fair and square!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Gotcha!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "I'll finish you off myself!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Don't think that's the end of it!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Move!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Don't make me get my hands dirty!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "The Benikage is your opponent!",
+   "kind": "quote",
+   "keep": false
+  }
+ ]
+}

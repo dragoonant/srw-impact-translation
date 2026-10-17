@@ -1,0 +1,1867 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1410,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "So this is the Texas Colony... Looks like nothing but wasteland, though...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Yes. It's a tourist colony modeled on the Earth wilderness of that name.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Going out of your way to build a wilderness inside a colony...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "They should've built some places for guys like us to work instead.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "I heard this colony was built before the One Year War.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Apparently, its environmental control mirrors were destroyed in the war,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "so the desert kept spreading...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "But... there's no sign of the Bunker or the Gyandlar...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Don't worry. They must know we've come here...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Knowing them, they won't be able to hold back. They'll show up soon.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "We're heading out first! Gotta make those Bunker creeps pay!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Everyone's so fired up...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Captain Bright, shouldn't you stop them...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Fundamentally, they're just cooperating with us...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Besides, with the enemy possibly lying in wait, we can't drop our guard.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Hmph, true enough. ...I don't like the feel of this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Dangaioh! Here I come!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Should we head out too? ...Hm!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Whoa! Here they come, here they come!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "...I mean, for guys who supposedly ran here to hide, there's a TON of them!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Looks like... this was their trap all along...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Then the attack on Dr. Tarsan was also...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "...Yeah, probably. And since Rom Stol and the others haven't come back...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "looks like we fell for it hook, line and sinker.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "All units, launch! Intercept them!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "The Bunker AND the Gyandlar!? Tch, cocky bastards!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Ufufufu... If you insist on fighting, then only death awaits!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "That voice... the one from the meteor swarm...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Dangaioh... You're Roll Kran, aren't you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "That's right! I'm Roll, Roll Kran!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Bunker, withdraw from this star system at once!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Heh... Ufufu. How brave of you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Ngh...! So it really is... Flash!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "...It's been a while, Roll Kran.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Burst!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "You didn't seem to recognize us last time...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "But you do remember us, don't you!? Roll Kran!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "...Roll?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Ugh... uhh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Roll? What's wrong?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "That's... Flash and Burst...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Ufufu... Roll, have you forgotten your old comrades?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "You abandoned planet Latesia... and what are you doing now? Fufufu...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Latesia... That means...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Latesia... Isn't that Roll's home world!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Roll, don't tell me... your memories!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "I was... the leader of the resistance. And Flash and Burst were...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Comrades in that resistance?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "And now they're with the Bunker?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "So the Bunker's controlling them!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "...No, they...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "I see... So this is why you two were sent out ahead of us...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "That's right. Any complaints, dear Master Globine?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "...None.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Of course. ...Rom Stol's group fell for the diversion, so by now...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "N-No way...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Heh heh heh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Ufufufu...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "I see. Betrayal, schemes... So they'll stoop to anything.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "...Roll, what are you going to do?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "...If they stand in my way, I'll just have to defeat them...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Guess we've got no choice!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "(But if they set this ambush with people so deeply tied to them...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "could there still be one more...?)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Ngh... Even with all my Dark Twin Slayer Sword... I cannot beat them?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Globine, you were not defeated by us...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "You were defeated by yourself.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Wh-What!? I... was defeated by myself...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Seeking battle, you even came to lend your aid to the Gyandlar...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "And drowning in fighting, you lost sight of the swordsman's path.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "I... lost sight of... the swordsman's path...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "The martial way exists to strike down evil for the weak, in their place...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "In your craving for battle, you threw away everything",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "you were meant to protect...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Tenku Shinken does not lose to a sword like that.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Had you stayed true to the martial path, I might have been in danger...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "...I-I see... Craving battle... I lost my own path... How ironic...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Brother, can't we save him!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Miss Leina, with wounds like those...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "...Ngh... Quite right... I know my own body better than anyone...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Blue Jet... At the end of my life... I got to face a swordsman such as you...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "I... am......",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Hmph, I finish off Rom and his lot, come over here, and you're still at it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Finished off...!? No way!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Heh heh... They fell to Tenku Chushin Ken's Electro Poison Hand Blade.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Tenku Chushin Ken...!? Him...? And the Poison Hand Blade, you say...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "What's this Poison Hand Blade?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "A style where, after long training, you soak your hands in poison.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "A perfected poison hand can deliver lethal venom with a mere scratch,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "sending it straight into the opponent, they say...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "But he's a mechanical lifeform like Rom, right? What poison could work?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Probably something that rapidly degrades metal or makes it rust,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "like some special rust or a Dissolving Fluid...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "And you said Tenku Chushin Ken? Who are you...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Hmph, I've no name to give the likes of you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Rom! You can never beat me!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Bug! I won't let you sully Tenku Chushin Ken any further!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Hahahaha! Tenku Chushin Ken? Some martial art of justice that is!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "You know him?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "From the looks of him, he's more like Rom's group than the Gyandlar...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Master Bug... No! Bug Newman... Master Rom and the others' teacher,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Master Kirai... He was his top disciple! Then one day, he just vanished...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "To think we'd meet him again in a place like this...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Bug...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Heh heh, if it isn't Jet and Drill! You little boys have sure grown up!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "We're not little boys anymore!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Bug! Why are you doing this!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Isn't it obvious!? In the end, only the strong survive in this world!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Bastard! What do you take the sacred Tenku Chushin Ken for!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "I don't take it for anything! The strong win! That's all there is to it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "How awful...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "We're not the half-trained kids you used to know,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "and in our master's name, we won't forgive you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Whoever sullies our master Kirai's name gets no mercy, senior or not...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Prepare yourself!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Wait, Blue Jet! I shall be your opponent!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Globine...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Very well. Today, Tenku Shinken will break your Dark Twin Slayer Sword!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Bring it on!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Heaven, earth, fire, water... and many comrades lend me strength...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Bug! You could never understand what that means! Here I come!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Shut your mouth! I'll teach you who the strongest really is!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Heh heh heh heh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "What!? Reinforcements? Were they hiding!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Rom is my prey. Keep your hands off!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Hm... You're the one from back then!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "So you remember, Rom Stol. I, Gardy, will be taking your heads!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Another tough-looking one showed up...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Doesn't matter! We'll just beat them all together!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "The Gyandlar seem desperate too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "That shows how pressed they are.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Enough to run fully joint operations with the Bunker.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "We won't let you have your way!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Heh heh... You've got spirit, if nothing else.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "(Gardy... He bothers me. Who... is this man...?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "This is the end!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Flaaash!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Roll...! Help me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Huh... Flash...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Roll...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Hmph, you fool!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Ah, getting away!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Damn it, using dirty tricks...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Roll, that one's stopped moving!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Finish it, Roll!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Oh no... Burst!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Roll... are you going to kill me...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "...Damn it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Roll, she's getting away!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Fufufu... So soft, Roll... Next time I'll kill you properly, no agonizing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Heh heh heh... We meet again... Team Dangaioh,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "and the good people of Londo Bell...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "That voice...!? Gil... Is that really you, Gil!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "I've longed to see you... Mia Alice!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Whaaat!? Weren't you dead!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Seems he survived.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "In that explosion!? But...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Heh... That's right,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "my body was torn, ripped apart, blown to pieces.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "But my soul cried out.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Until I tear you all and that traitor Tarsan limb from limb,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "I could not afford to die...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "...What... what a man...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "He's insane...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "You pitied me and tried to show me mercy.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "You defiled my pride as a warrior and laughed at it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Is that all...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "What...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Pride that cheap, you can feed to the dogs.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "If you can't even understand human compassion...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Wow...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "...True warriors' hearts resonate with each other through battle!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Someone who can't see why Roll and the others tried to save your life",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "has no warrior's pride at all!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "That's right! You only died because you wouldn't just surrender,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "so this grudge of yours is totally misplaced!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "However you all howl, I don't care!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Dangaioh... No, Mia Alice! Until I strangle you with these hands...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "I'll hunt you down by any means necessary!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Gil Berg! So you're the one who turned Flash and Burst...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "Wait, what? What's that supposed to mean!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "So you're the one who corrupted Roll's old friends!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Corrupted...? Heh heh heh... They chose to join the Bunker.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "Just like me.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "Gil... why go so far...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Gil Berg, you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Well, well, Shazara... I'll show you how traitors end up.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "I'll have vengeance for my planet, Lilith...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "...We settle this here... Gil Berg.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "Interesting... Go ahead and try!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "My, my, can't you leave this to us?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "No need to rush. We could've slaughtered them all by ourselves...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "Let's go! Everyone!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "A trap this elaborate... If we break through, we'll deal them a major blow!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "Everyone, stay sharp!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "Blue Jet! Now your Tenku Shinken and my Dark Twin Slayer Sword...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "shall settle things once and for all!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "Wait, Globine! I ask you once more! For what do you wield that sword!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "Enough!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "I told you, fighting is a swordsman's work. Battle is my reason for living!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "No, you're wrong, Globine...! If you're a true swordsman, you should know...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "The martial way means striking down evil on behalf of the weak!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "Wh-What...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "If you just want to fight, you're no better than some brawling thug!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "Ask your sword!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "However you deceive your heart, you can't disguise your sword's spirit!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "...I can hear your sword weeping...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "Heh... Nicely put.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "...But a martial artist's technique can't be fooled.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "What answer will he reach...? This should be worth seeing.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "Hmmm... My sword... is weeping, you say...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "Yes. If you're someone Jet thinks so highly of...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "you must already realize it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "Was he being fooled by the Gyandlar too!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "No. ...How do I put it... More like he was fooling himself...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "Heh... Heh heh... Hahahaha! Blue Jet, well said!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "Indeed... Perhaps I was merely afraid of becoming unneeded...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "nothing more than a coward...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "Globine...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "Planet Kronos... How many years have passed since I was driven",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "from my hometown...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "...I lived for nothing but battle. Yet my heart never found peace...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "No wonder, for I had been deceiving my own sword... Fwahahaha!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "I thank you, Blue Jet.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "The doubt in my heart has cleared, without a single cloud!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "Globine...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "My eyes have been opened.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "As you said, from now on, my Dark Twin Slayer Sword",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "shall be wielded to strike down evil...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "Isn't that wonderful, Brother?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "Yes. Between true martial artists... hearts always connect.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "A fighter speaks with his fists, a swordsman with his blade... is that it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "Master... then you and I...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "Damn you... Globine, I trust you're prepared for this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "Acquired skill \"Comeback\".",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "...The swordsman Globine and his Dark Twin Slayer Sword... I won't forget.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "Globine... Even in defeat, he was a true swordsman...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "Hmph, looks like you've trained enough to back up that big mouth.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "Bug!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "Today was just a warm-up. Rom, the next time we meet is the day you die!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "A softie like you isn't fit to inherit Tenku Chushin Ken...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "Never forget that I'm the one worthy of inheriting it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "Wait! You don't grasp the essence of Tenku Chushin Ken, or its meaning...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "en": "Then try and beat me! I'll be looking forward to it, little Rom,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "Hahahahaha...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "What's wrong, Gardy!? Is that all you've got!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "en": "Ngh... Not bad, Tenku Chushin Ken...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "en": "This ends now!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "en": "No choice. Diondra's group should've had time to reach the surface...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "en": "Rom Stol, we'll settle this another time!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "en": "Ah, wait!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "en": "Stop it, Jim. We can't catch him now...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "en": "Tch, that guy sure knows how to run...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 258,
+   "en": "Gardy... He seems a little different from the other Gyandlar...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "en": "Jet, did you hear that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "en": "Yes... It wasn't just an ambush. Seems we were thoroughly duped...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 261,
+   "en": "Nngh, you're as good as ever. ...However!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 262,
+   "en": "He's running!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 263,
+   "en": "After all that big talk, you're turning tail!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 264,
+   "en": "Heh heh... Don't be hasty. I still need to get used to this body...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 265,
+   "en": "Gil!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 266,
+   "en": "Heh heh... In the end, I gained a place in the Bunker and a stronger body.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 267,
+   "en": "...All that's left is to kill you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 268,
+   "en": "This guy's rotten to the core!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 269,
+   "en": "Heh heh... Hahahahahaha!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 270,
+   "en": "Gil... Berg...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 271,
+   "en": "That man... scares me. Brother...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 272,
+   "en": "...Drowning in power, he's lost himself.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 273,
+   "en": "One stained by desire, blind to the truth... must be cut down, eh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 274,
+   "en": "...Gil...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 275,
+   "en": "It's over... huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 276,
+   "en": "This sucks. ...Those damn Bunker and Gyandlar creeps.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 277,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 278,
+   "en": "Still, they've probably learned their lesson, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 279,
+   "en": "But no matter how many grunts we knock down...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 280,
+   "en": "Unless we crush the snake's head, we'll stay on the back foot forever.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 281,
+   "en": "And we can't keep fighting like that forever...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 282,
+   "en": "The Bunker... We must strike before their main force reaches Earth.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 283,
+   "en": "Come to think of it, they were searching for something.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 284,
+   "en": "They mentioned Mutron before, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 285,
+   "en": "On that subject, there's also the Gyandlar to consider.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 286,
+   "en": "Honestly... what a headache.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 287,
+   "en": "We just crush them one by one... until we hit the head.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 288,
+   "en": "That Gyandlar leader-type guy said something, didn't he?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 289,
+   "en": "It's kinda been bugging me.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 290,
+   "en": "Captain Bright, if what Gardy said is true...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 291,
+   "en": "then a separate Gyandlar unit has descended to Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 292,
+   "en": "That information is true, I assure you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 293,
+   "en": "So it seems. ...Will you pursue them, Rom?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 294,
+   "en": "Yes. We can't let them keep scheming in the shadows.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 295,
+   "en": "I'm worried about Commander Hazuki and the others on the surface too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 296,
+   "en": "We'll be sure to stop by and say hi, so don't worry!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 297,
+   "en": "It's a shame to lose Rom and the others...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 298,
+   "en": "but we can't just leave the Gyandlar alone...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 299,
+   "en": "I'm sorry for being so selfish...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 300,
+   "en": "Not at all. You've been helping us of your own will from the start.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 301,
+   "en": "Take whatever action you judge you must.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 302,
+   "en": "That's Captain Bright for ya. You really get it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 303,
+   "en": "You lot have trained me well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 304,
+   "en": "That's quite a way of putting it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 305,
+   "en": "Ahaha, Judau! He complimented you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 306,
+   "en": "But... in this vast universe... why do so many invaders gather at Earth?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 307,
+   "en": "I just wish they'd leave us alone...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 308,
+   "en": "It's not like every last one of them is drawn by Earth's gravity.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 309,
+   "en": "(Drawn by Earth's gravity... Them too?)",
+   "kind": "thought",
+   "keep": false
+  }
+ ]
+}

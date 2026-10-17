@@ -1,0 +1,1123 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 905,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "We're in a hurry, so is it really okay to stop at Luna II for supplies again?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Now, now, don't get so worked up, Pai.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "I don't get it either. After all that rushing us around...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "I'd like to hurry too... but catching the colony with empty tanks",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "wouldn't do us any good, would it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Well, yeah, but still...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Mobile suits are designed to operate from a ship...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Even the Dendrobium, which can handle long operations,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "has to restock the ammo it's used up.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Same goes for mobile suits, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "the Cyber Beasts, unlike the Dangaioh,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "weren't built to travel between the stars.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Sara! If you're done, quit yapping and give me a hand!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Oh, shut up! You're just slow, aren't you!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "If you've got time to run your mouth, get your hands moving!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Yikes... That lady's scarier than Lenny...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Whatever. Let's finish resupplying and catch that colony!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "We can't afford to dawdle, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Those two never change, huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Still, I can understand why Shinobu's impatient.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Yes... We have to save Earth, and soon...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Don't be too hasty. Looks like everyone's resupply is almost done.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Enemy attack!? Did they chase us all the way here!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "...It's tough being popular.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "This is no time for jokes... It's a mobile suit squad, but these units...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "...! Haman, curse you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Whoa, whoa, these machines... aren't most of them what the Titans used!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "The Titans... Weren't they the ones from that last war...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Yes, they're the ones Captain Bright and the others defeated.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "The Titans? Heh... So the losers",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "came to pay Captain Bright back?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Come to think of it... thanks to Captain Bright's crew, the Titans",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "supposedly lost the Gryps Conflict...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "So Neo Zeon has gathered up the remnants...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "It's possible, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "They're still the enemy, right!? Lenny, Mike! You two resupplied?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Of course!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Ready anytime, Big Bro!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "I was bored waiting on everyone else's resupply. Let's go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Let's go too, Mia, Lamba!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Yes!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Wait for meee, everyone!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "What!? I see... Londo Bell. I figured they were chasing the colony,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "but they were hanging around here!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "As a warm-up before our descent to Earth, I meant to bring down",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "the Federation's space fortress... but it seems this may take some work.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Who cares. ...Looks like they've got a few Gundam types, too...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "I'll be paying them back for what I owe them...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Easy, Lieutenant Jerid... Lady Haman took in you Titans remnants",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "for a reason. Don't forget that.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "...Then fire me, or shoot me in the back.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "...I'm settling the score from Gryps. ...I can't pass up a chance like this...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "...Good grief.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "...It seems I may need to borrow your strength as well...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "I don't mind. I believe I understand my role.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Heh... I'm counting on you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "(But... what... is this... feeling?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Ugh... wh-what...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Hm...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "...What is this feeling... Is someone watching me...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Huh...!? Ple...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Tch, whatever's out there, if I kill them all, that'll be the end of it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "And this sick feeling of mine... I'll wipe it all out...! Here I come!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Aaah...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Damn!! Is my combat instinct still not back...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "I'll eliminate this threat at its root...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Damn, I can't fall before the descent to Earth...! I have to get him... him!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "...Him...!? It can't be...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Descend to Earth...? Wait!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Took too much damage...? Hmph, no matter.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "We'll call it a good warm-up.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "You're running away, you jerk!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Fighting any longer would affect our descent to Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "...Simply holding Londo Bell here is good enough for now...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "So we were just a test of skill? How rude.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "I've found you... Dangaioh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Everyone, look! That's...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Hm...? Hey, that's the Bunker!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "What...? Hm, the Bunker!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Them...!? Are they still after Earth!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "So the space pirates show up... I'm counting on you, Raideen!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "They haven't shown themselves in a while... but here they are!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Heh, I figured you'd run off from the Earth Sphere.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Silence! I don't have time to waste",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "on a bunch I can crush whenever I like!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "So you've appeared again... Is the Bunker plotting something new...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "You're here too... Surely you know the law of the Bunker.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "For traitors, there is only death!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Silence! I've awakened from that nightmare!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "So those are the space pirates...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Looks like they're hostile to Londo Bell, too...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Space pirates... As long as they don't get in our way,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "we should avoid interfering for now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "If you're so busy, why go out of your way to come mess with us!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "No kidding. No need to come all the way out here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Heh heh heh... If it were just you lot, I might've let you go...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "but with Dangaioh... with Mia Alice here, it's another story!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Gil! Why do you go this far to come after us...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "I told you, Mia Alice! You, of all people, I will never forgive...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "This one's got some deep roots, huh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Keep that up and you know what people will call you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "There's a word for guys like you: stalker!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Say what you like, I won't listen! You'll be turned to dust here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Ngh... the Bloody...!? ...Very well, I'll let you go for today!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Gil! You're running away!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "For all that big talk, you sure run fast! Gimme a break!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Hmph... I can't let my obsession with you ruin my operation on Earth.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Earth!? You're going down to Earth again?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Gil...! What are you doing on Earth...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "That's none of your concern... But remember this.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "I will have your heads, without fail!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Mia Alice... on a fitting stage...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Gil... going to Earth...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "He seemed to be plotting something...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Tch, whatever it is, it's no good.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Maybe Dr. Tarsan would know something if we asked.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Right... I'll send the doctor a report on our situation.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Mia, don't let it get to you. He's just one member of the Bunker.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "This feeling...? There's... another Ple!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "What? Another... me? No, that's not it... What is this grating feeling...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "I knew it! You're Ple! ...Well, no, but you're another Ple!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "You! What are you saying!? I'm Ple Two!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Come with me! Ple... no, Ple Two!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "You can't let people like that use you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Judau, you're too close! What are you doing!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Stay out of this! Ple Two! Don't you get it!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "That's not where you belong!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "(Empathy between Newtypes? What they once felt...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "...is Judau Ashta sensing it too?)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Wh-what are you...? Stop... stop confusing me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "I can't quite hear, but... is that Ple!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "But there's no way Ple would be here...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Ple Two!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "I am... Ple Two...! A soldier of Zeon...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Heavy damage... Londo Bell... I didn't think they'd go this far...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Ple Two!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "You again!? I told you not to touch my mind...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Be more honest with your own heart. You're not that kind of kid!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Ngh... uuh... ugh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Nobody's going to hurt you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Do you want to die as nothing but someone's tool!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Judau! What are you doing!? We're in the middle of a battle!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "I can't watch Judau like this! Hey, Bright, I'm gonna go drag him off.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Wait, Fujiwara. Captain, let's leave this to Judau.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Captain?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "...There's no need to repeat the same mistake. If it can be avoided, that is.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Ple Two... come on, let's go together...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "...Judau... Judau Ashta...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "...Ugh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "What...!? This awful feeling...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "I knew it... that guy...! ...Dammit!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "(Ngh...! ...Is history repeating itself...!?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Phew... Looks like we finally drove them all off.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Jeez, some resupply stop that turned out to be.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "We managed to protect Luna II, but... now we have to redo the resupply.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "But... the enemy commanders and officers got away...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Titans remnants and the Bunker...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "We may have let some troublesome foes slip away...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "It'll be fine, Brother. I'm sure the Gandor crew will handle it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "The Zeon guys... looked like their commander's heading down to Earth...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Hey, you. Don't you know what they're after?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "I only came out to crush you. I don't know anything else.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Being so loyal to your duty sure backfires at times like this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Hmm... Sending troops to Earth at the same time as the colony drop...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "What are they plotting?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "(Lieutenant Jerid...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "They sure are thorough, dammit.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "And now another resupply... What a pain.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Can't be helped, Shinobu. It's not like we can have energy",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "beamed to us the way the Nadesico does.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "But it bothers me... The Bunker also seemed to be heading for Earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "I doubt they and Zeon share the same goal.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Mia... I know how you feel, but we can't go after him now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "We have to...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "I know... I know, Roll...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Right now we have to hurry to the colony...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "But letting the Bunker run wild on Earth isn't great either...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "We'll discuss that later. If we could send our forces to Earth instantly,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "it'd be different, but given the time a descent takes, it's not realistic.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "For now, we press on...!",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

@@ -1,0 +1,1153 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 2040,
+ "strings": [
+  {
+   "id": 0,
+   "en": "",
+   "kind": "dialogue",
+   "keep": true
+  },
+  {
+   "id": 1,
+   "en": "The colony...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "What's wrong, Captain? You've gone white.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Gimme a break! Didn't we already clear up all the trouble!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "So I thought... but a colony... is heading for the moon...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Don't tell me... Captain, is it the colony that went missing!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Yes... But I can't see their aim... Why the moon?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Von Braun, Anaheim Electronics...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "There are key facilities there, sure... but why so suddenly!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "This is no time to deliberate! We have to hurry...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "...So, the Nadesico will set course for the moon right away too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Londo Bell sure is busy, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "No rest for the poor...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "With no other fleet free to move, I guess it can't be helped...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Captain Bright's got it rough... Huh? Prospector, where were you?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Urgent word from HQ... The Nadesico is to descend to Earth.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "To Earth? But a colony's about to drop on the moon...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "This is also a request from the Federation Forces on the ground.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "...From Admiral Misumaru himself.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Father? ...Jeez, he could just contact me directly instead of via Nergal.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Maybe talking to his cute daughter at work embarrasses him?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Apparently it's out of consideration, so Londo Bell and the Gandor Team",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "won't worry needlessly about this mission...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Hmm... Well, whatever.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "So what's this job they want the Nadesico specifically to do?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "The data has been entered into Omoikane. Hoshino...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Yes... The other day, from a Tulip dropped on Russia,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "a giant Jovian Lizard weapon emerged.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "The Nadesico is to hurry there and destroy it... That's all.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "I see... The Gandor Team has its hands full retaking Jaburo...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "so the Jovian Lizards are left to the Nadesico, is that it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Headquarters also seems to see it as a good chance to show off",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "what the Nadesico can do alone.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Who cares what the reason is! The Jovian Lizards' mechs showed up,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "and we're the only ones who can wreck 'em right now, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "If that doesn't fire you up, you ain't a man!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "You're burning way too hot, Yamada.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Making moe books that sell hot is tough, y'know.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "That's a totally different word. ...Anyway, setting that aside...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Yurika, what'll we do? The moon or Earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "......The Nadesico will descend to Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Akito... I think we should do the job only we can do.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Shouldn't you be telling Captain Bright, not Akito!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Ugh... R-Right, Megumi. Please open a channel to the Ra Cailum.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "So the Nadesico's gone...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "I didn't think we were relying on their strength...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "but splitting our forces now hurts...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "What's going on, Captain Bright...? An emergency muster?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "...Is everyone here?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "The Ra Cailum is going to stop the colony heading for the moon!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Heading for the moon... Is it bad if a colony gets near the moon?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "It seems \"heading for\" was putting it mildly.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Zeon is trying to drop a colony on the moon. We must stop it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "A colony drop on the moon!? What're those Zeon guys thinking!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "No kidding. What a stupid stunt.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "But the moon... we just fought Vega and Zeon there, didn't we?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Not long ago... in that lunar city, Von Braun or whatever,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "we fought the Vega crowd.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "What could be there, I wonder?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Have they given up on Earth and gone for the moon...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "I can't believe they'd fixate on the moon for no reason...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Come to think of it, Duke was bothered by it too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Huh? Oh, you mean the Vega Star Federation?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "...Their goal should be Earth. So why were they fixated on the moon...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Yeah... Even Gil Berg comes down to Earth pretty often...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "The Vega Star Federation could attack Earth directly too...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "There's gotta be something to it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Forget what Vega's scheming. The moon's the problem right now!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "The captain said we're off to Von Braun again... Intercept first, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Intercept, huh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Can a thing like that even be shot down...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "If we just need to turn it, smash the mirrors or something,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "and won't its orbit shift?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "If we throw the colony's rotation off balance... it's possible.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Well, good thing it's still close by.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Once we hit Von Braun, we sortie right away.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Don't we even have time for a little shopping?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Let's give up on that.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Besides, it'd be a pain if a colony fell on us mid-haggle, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "...So you haggle.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Captain Bright. Looked like you were talking with the Nadesico girl.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Planning for once we reach the moon?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Hm... Right, I haven't told you yet.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "The Nadesico is descending to Earth for an urgent mission in Russia.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "We'll carry out the moon operation on our own.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "A mission on the ground... What's the Gandor Team doing?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "The Gandor Team has its hands full with the attack on Jaburo...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Right now the Nadesico is the only one that can rush to Russia.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Heh... Bet old man Hazuki never figured he'd get bailed out",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "by his own student.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "So Londo Bell has entered Von Braun...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Looks that way... Now, let's make them dance...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Major, you just do your part.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "That goes without saying.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "...Heh heh, I'll lend a hand if I make it in time. Besides...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "I've set up a little surprise in that city.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "A surprise...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Heh heh heh heh... Wait and see.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Wh... What!? The colony!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "What is it, Captain... Th-This is...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "The colony's... leaving lunar orbit!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "No way... At this rate, the colony will leave its lunar orbit and...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Hm...? So what happens then?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Jeez, what's the fuss? If it's veering off, isn't that good?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Hold on, Roux! This means... at this rate...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "...It's heading for Earth...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Urgent notice to all hands! We've been had! Zeon's goal was...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "to pin us down here!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "What!? The colony?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Huh!? What does that mean!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "They say it's on a route that loops around the moon and heads for Earth!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "This is bad. We fell right for it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "The colony is swung around the moon by its gravity,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "and apparently it's calculated to head straight for Earth...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Wait... were we tricked!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Looks like... we were.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Jeez! When I heard it was missing the moon, I was gonna",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "go shopping after all!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "...You were gonna wander around town dressed like that...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "First you'd have to go shopping for something to go out in.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Well, never mind that... So we're sortieing right away!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Dammit, what an elaborate stunt!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Damn, we barely got to resupply.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "I wanted to resupply properly... Things never go smoothly.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Let's get ready. We can't let something like that... fall on Earth...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "This is bull, dammit!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "No kidding... Huh, Ryo?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "...Right, that should do it. Shinobu, I finished tuning the Dancougar.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "...Eagle, Moth, Liger, and Cougar can use Aggressive Beast Mode now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Huh!? It barely worked on the ground, it wasn't tuned enough...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "You got it ready in time, Ryo!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Yes... The modifications I made on the ground paid off.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "It was less trouble than I expected.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "All right, now we just gotta catch up to that colony! Let's do this...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Mode is now available.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Impossible... A colony!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Bright, what's going on!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "These days a colony drop should be detected early on!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "...We were set up. By the Delaz Fleet!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "We're moving now to stop the colony drop. There's no time.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Captain Bright! Where's the projected impact point!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Most likely... Jaburo.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Haman can't be happy that an unknown army has taken it, either.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Whoa, the folks on the ground must be worried sick...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Well, duh. Gramps must be worried too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Kappei! Don't be so faint-hearted!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "That's right... We won't let that happen...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Daisuke... won't you make it in time...!? Earth's in danger...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Koji...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Of course. I can't just stand by and watch",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "while the planet I live on is in danger!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Heh, you're always so confident, Tetsuya.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "...Understood. That's a great help... Then the rendezvous point and so on",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "will be sent to you later.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "We'll head for the Space Science Laboratory at once, too. Until then...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Oh, looks like things got settled while you were talking.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Yes. They may not make it in time for the next operation, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Commander Hazuki is sending us several robots.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Huh, that's a classy move from the commander.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Jeez... The Gandor Team's barely got enough firepower itself... Pushin' it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "...That's such a you way of worrying.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "There's more good news.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Duke Fleed... Daisuke Umon's wound has fully healed.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "He and Maria are among those coming up to space.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Daisuke!? I see, Daisuke... Thank goodness, he's healed...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "I see... As expected of the prince of Fleed. Vegatron radiation",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "was no match for him, it seems.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Then let's stop that colony quick before Daisuke gets back!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Indeed... Every second counts now. We'd best hurry.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "But even if we catch up to the colony heading for Earth,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "how do we stop somethin' that huge?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Right... Even with the power of Mazinger and Zambot,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "destroying a colony is just impossible...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Destroying it would certainly be best, but it isn't realistic...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "Sounds like you've got an idea, Quattro.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "The biggest problem in a colony drop is the attitude control",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "right before it enters its drop trajectory.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Huh? What? What's that mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Basically, aiming it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "...Oh, I get it! The colony has engines for final adjustments...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Exactly, Excellen.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "There should still be several pulse engines for attitude control",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "left on the colony.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Latch onto the colony and use those engines to shift its orbit...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Isn't that too dangerous, Captain?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "Captain Burning, I think it's the only way...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "Realistically speaking, it can be done.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "You sound used to this... Have you done it before, Captain Quattro?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "...Who knows.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "All right... The Ra Cailum will now depart Von Braun",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "We pursue the colony!",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

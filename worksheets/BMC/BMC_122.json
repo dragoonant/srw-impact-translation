@@ -1,0 +1,817 @@
+{
+ "file": "BTL/BMCPACK.BIN",
+ "format": "BMC",
+ "pilot": 122,
+ "strings": [
+  {
+   "id": 0,
+   "en": "There!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Take this!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Like I'd let you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Disappear!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Too slow!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Why you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Dyaaaaah!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Judau Ashta, here I go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Mashymre, I can't afford to lose either!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "You're getting real persistent, Mashymre!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Ple, don't!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Ple! Someone like you shouldn't be killing people!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Ple Two! Be honest with yourself! You're not really like this!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "You're being deceived! Remember Ple, remember your sister!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Ple Two! Be honest with yourself! You're not really like this!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "You're being deceived! Remember Ple, remember your sister!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Haman, you'll get the same result no matter what! I know it!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Haman! Understand that hatred only breeds more hatred!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Captain Quattro! You have no right to crush the Earth!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "All of humanity has to start over now, Captain Quattro!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Spit out what breeds hatred, the blood that nurtures it!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "All right! Let's go, Double Zeta!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Don't underestimate the Double Zeta!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Judau, Double Zeta! Here I go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "No matter who comes, with the Zeta Gundam!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Out of the way!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "You're too persistent!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Why you, dammiiit!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Don't underestimate meee!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Here's some payback!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Mashymre, I can't afford to lose either!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "You're getting real persistent, Mashymre!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Ple, don't!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Ple! Someone like you shouldn't be killing people!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Ple Two! Be honest with yourself! You're not really like this!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "You're being deceived! Remember Ple, remember your sister!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Ple Two! Be honest with yourself! You're not really like this!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "You're being deceived! Remember Ple, remember your sister!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Haman, you'll get the same result no matter what! I know it!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Haman! Understand that hatred only breeds more hatred!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Captain Quattro! You have no right to crush the Earth!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "All of humanity has to start over now, Captain Quattro!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Spit out what breeds hatred, the blood that nurtures it!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "All right! Let's go, Double Zeta!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Don't underestimate the Double Zeta!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Judau, Double Zeta! Here I go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "No matter who comes, with the Zeta Gundam!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Whoa! I'm hit!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Whoa! I got hit!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "D-damn it!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Waaah! That's way too much damage!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Agh!! I-if this keeps up...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Damn! What power!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Waaah! This is bad, they're way stronger!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Ngh!! This is bad...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Ngh! Is the damage too heavy!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Tch!! This is getting kinda dicey!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Turning this around isn't as easy as it looks!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Damn! Then I'll show you the Shangri-La spirit!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Ngh! Ple, stop! Stop it!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Ple Two! You're just being manipulated!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Ple Two! You're just being manipulated!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Ugh! I'm not gonna die for nothing, Haman!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Agh, losing power!? Double Zeta, what's wrong!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Not yet!! I won't let you have your way!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Ugh! You're doing whatever you please!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Like I'd go down!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Ngh! Th-that's nothing, I'm just getting started!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "I'm not beaten yet!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Ngh! Not bad!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Not yet!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Ngh!! I can still go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Ple! You shouldn't be riding in a mobile suit like that!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Ple Two! Can't you hear me!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Ple Two! Can't you hear me!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Haman! The wars you adults start drag everyone in!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Heheh... You underestimated the Double Zeta's armor!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Damn, a direct hit on the shoulder slate armor!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Like that'd work on me!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "With an attack like that!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "A hit!? But this much is nothing!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Like that'd work on me!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Not a chance!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "That all you got!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Ple! It's me, Judau Ashta!! Don't you know me!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Ngh! Don't you recognize me, Ple Two!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Ngh! Don't you recognize me, Ple Two!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Haman! Your way of doing things is wrong!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "I'm so moved! The Double Zeta's just so sturdy!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Like that'd work on me!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Whoa there!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "What're you doing, amateur!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Hop.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Can't hit me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Like I'd let that hit me!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Whew, close one, close one.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Your aim is sloppy!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Ple! We don't have to fight!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Ple Two! Wake up already!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Ple Two! Wake up already!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Haman... Is she waiting to see my next move!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Don't underestimate the Double Zeta's agility!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Now you see aiming at the Double Zeta is useless, right?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "That's the Double Zeta for you! Way to go!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Heheh, piloting the Zeta's a piece of cake too!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Looks like you can't keep up with the Zeta's moves!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "I'll cut you down with my Beam Saber!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "That doesn't work on me!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "I told you it's useless!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "The Double Zeta's got features like this too!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "I-Field barrier!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Deploying the I-Field!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "I-Field barrier!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Deploying the I-Field!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Tch! Can't counter!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "No good! It won't reach!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Sorry! I can still attack!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "It's your fault for letting your guard down, thinking it was over!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "All right, I'll give you some support too!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "I can't just let something like this slide!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "I'm still okay! Fall back while you can!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "I, Judau Ashta, will be your opponent!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "There! Funnels!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Go! Funnels!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Funnels!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Fin Funnels, gooo!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Go! Fin Funnels!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Fin Funnels!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Fin Funnels, gooo!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Go! Fin Funnels!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Fin Funnels!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "VSBR!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Gooo!! High Mega Cannon!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "All in one shot! High Mega Cannon!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Go!! High Mega Cannon!!",
+   "kind": "quote",
+   "keep": false
+  }
+ ]
+}

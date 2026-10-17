@@ -1,0 +1,931 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 2211,
+ "strings": [
+  {
+   "id": 0,
+   "en": "Commander, I've given everyone their orders.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "It's not much time, but everyone will get some rest.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Thank you, Captain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Kyosuke... about you and Excellen...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "would you tell us the details?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Sir.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "I'm interested too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Is that all right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Banjo, Hibiki... I'd like you to get some proper rest, though?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "No, more than any fatigue, it's this mysterious enemy, the Einst...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "I find them fascinating.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Me too. ...Raideen and the Star of La Mu...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "and Excellen and the Einst... There's so much I want to know.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "It can't be helped. Kyosuke, is that all right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Yes.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "...Her and me...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "The reason Excellen started hearing their voices",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "was probably... that accident, I think.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "An accident?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "...I know of that accident. It's fairly well known in parts of the Federation.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "I've never heard of it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Well known, but only among the top brass.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "I only heard about it in passing myself.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "What sort of accident was it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Mind if I tell it, Kyosuke?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "...Yes, please.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "The One Year War was nearly over. A shuttle from Luna II to Jaburo",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "suddenly exploded in flames right after reentry... and crashed.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Exploded in flames?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Right after passing through the atmosphere... In the stratosphere?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "That's right.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "...That shuttle was carrying dozens of officer cadets.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "And in the wreckage of the fallen shuttle... survivors were found.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Don't tell me... that was...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Me, and her.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "It was far too unnatural.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "...Not only did the two survive, but as for Excellen,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "far from burns... she reportedly hadn't a scratch on her body or clothes.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "And you, Kyosuke?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "I was sent to the hospital.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "...But my injuries weren't all that serious.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "That's crazy...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Kyosuke, don't you remember anything?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "...No. When the blast filled my vision... I shielded Excellen...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "After that, I don't remember a thing until we were rescued...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "And you think... the Einst were involved?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "I don't know.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "But it was far too unnatural to call a miraculous survival.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "That's precisely why the top brass assigned the two to separate units",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "and kept them under watch.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "That they were excellent pilots played a part too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Still, there's no explaining it. Perhaps it truly was a miracle.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "To hear that from you, Captain, who believes in miracles least of all...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "That's harsh, Amuro.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "...There's just one thing I can't explain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Hm?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "If my memory's right...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "when I shielded Excellen... she...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "When the explosion happened?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "...had taken a fatal wound from the debris.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Huh...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "So there's no way she came out unhurt...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Someone... did something to her?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Omoikane, how are you feeling?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "............",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Good.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "...But you're still you now thanks to everyone. Don't forget that.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "............",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Pardon the intrusion.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Akatsuki...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "My, my, how careless. Just one operator on the bridge.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Hoshino, would you call the bridge crew together for me?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Sure, but... what are you scheming?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "An experiment. A simple one.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Erina. ...An experiment?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "That's right, an experiment.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "...At this rate, the Nadesico will have to keep fighting",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "alongside Londo Bell forever, won't it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "That's what I figured.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Well, as a pilot I couldn't ask for more, but with the surface settled down,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "I figured now's our chance.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Everything's ready outside, Akatsuki. The CC has been scattered.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Now we just leave it to Dr. Inez.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "CC... Tulip Crystals...! Don't tell me...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "What's up? What'd you want to talk about...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Inez?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "There you are, you two. Well then... shall we begin?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Begin...? Begin what?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "There's no time right now. Forgive me.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Time?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Akito, Captain... I'll explain later.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "First, would you think about Mars for me?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Mars...? Why, all of a sudden...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Think, both of you... This is an experiment.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "We might be able to take Mars back",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "from the Meganoids and the Za Boom Army...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "O-Okay, I get it. I'll give it a shot...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Remember, Akito... Captain... Remember Mars.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "The happy days in Utopia Colony...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "I-I don't really get it, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Mars... Utopia Colony... Before the Meganoids... playing with Akito...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Mars... Ai...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": ".........",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "The three of them... vanished!? Akito! Captain! Inez!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Called up out of nowhere, just to be shown this...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Hey, what was that light just now...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "A Boson Jump.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "How!? Those three!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Tenkawa and the other two... are still gone.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Hoshino, the monitor, please! This is a historic moment.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Nadesico, forming Boson Jump field.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Surely... you don't mean to jump with the whole Nadesico!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Wh-What? What the hell's going on!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "......I'm counting on you, Tenkawa...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "The Nadesico... has vanished?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "What the heck's going on...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Don't tell me... that something-or-other Jump thing?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "There's no doubt. There's residual boson reaction...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Good heavens. How on earth did they do it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Before, when Tenkawa and I were sent flying to the Moon...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "we used a material called \"Tulip Crystal\" to form a boson field.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "...It was probably the same thing.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Don't you know... where they went?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "...I have a pretty good guess, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Master Banjo, we've learned where the Nadesico jumped to.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "That was quick, Garrison. But if it was that quick, then it must be...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Yes. This is footage from the spy satellite we sent to Mars.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "I see. So the Nadesico's there?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Yes. And... we've also spotted what appears to be the Gaizok.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Whaaat!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Looks like they're... up to something.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Tch. While the cat's away, huh? And the Nadesico went flying right into it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "But... can we catch up?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Yeah, how long does it take to get from here to Mars?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "If it's Mars... using the Elshank's worm drive,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "we can reach it in a short time.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "We're coming too!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "If it's the Gaizok we're up against, we can't just leave it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Yeah, and while we're at it, we'll kick the Za Boom guys off Mars too...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Don't forget the Meganoids. I'll go too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "We may be stretched thin. I'll go with them as well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "...I think some of the mobile suit units",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "that were to return to space should go to Mars instead?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Agreed. ...Nanbu and Rain will go to Bright.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Captain, I'm counting on you for Mars.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Understood.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "(Space, huh... Excellen,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "if something happened in space... why come to the surface...?)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "All right.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Ground team, Captain Bright in space, the Elshank and Nadesico to Mars...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Splitting our forces can't be helped, but the operation begins now...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Play Earth route (Gandor Team) / Play Mars route (Nadesico Team) / Play Moon route (Ra Cailum Team)",
+   "kind": "system",
+   "keep": false
+  }
+ ]
+}

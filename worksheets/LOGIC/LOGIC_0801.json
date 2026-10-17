@@ -1,0 +1,985 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 2049,
+ "strings": [
+  {
+   "id": 0,
+   "en": "",
+   "kind": "dialogue",
+   "keep": true
+  },
+  {
+   "id": 1,
+   "en": "No good...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Still can't get through, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Yes... Some kind of powerful electromagnetic jamming is at work...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "We've lost contact with the Gandor Team. It was fine just a moment ago...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Dammit, what happened to Daisuke and them...? Did they take off okay?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Koji, all we can do now is trust Tetsuya and the others...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Best assume there'll be no reinforcements from the ground.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "But...!? Let's trust Koji and the others, Tetsuya.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "A colony might be about to fall, so what're you dawdlin' for!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Geez!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "But there's nothing we can do, right? We'll just have to go on our own...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "It's always been like that. No point complaining now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "True... Londo Bell has always fought in close-call situations.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Then let's go. We're wasting time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "It can't be helped... Anyway, the shortest route to Earth... Hm?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "This is Anaheim Electronics... Nina Purpleton!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Londo Bell, Captain Bright Noa!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Nina!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Ah... Ms. Purpleton. What is it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "My unit is about to begin operations...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "I've heard. About that... the Gundam GP03 Dendrobium's add-on unit...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "the Orchis, is complete.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "GP03... the Orchis!? Did you say GP03!? Nina!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Yes. GP03... a machine built for base defense.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "If you're going to seize a colony, you'll need at least that much...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "I see... We need the extra strength... but is there time, Captain?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "So basically there's no time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "The captain's easy to read.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "It's meaningless if we don't make it in time... It can't be helped.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Yes... Ms. Purpleton, I appreciate it, but with our current forces",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "we'll do all we can.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "...I understand. I'll at least have it ready.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Nina... I'm sorry.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "It's all right, Kou... Good luck.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Isn't that a nice mood?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Don't tease.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "You've been sneaking off to make calls in the hangar yourself, Excellen.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Huh? W-Well, yeah. That's just a routine check-in. Routine.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Oh, it's you lot. Hm? If you're contacting me...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "have you decided to come back? I want out of this star system, fast.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Too bad, Doctor. We're not coming back for a while.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "We've come this far, so we're sticking with these people to the end.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Mia's home planet is in trouble.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "...You kids still don't understand how terrifying the Bunker is!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "If their main force comes out, we'll be in big trouble!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "...And lately the space crime syndicate Gyandlar has joined in too...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "...The Gyandlar...! Oh, right, Doctor, do you know anything",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "about the people chasing the Gyandlar?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "They're people who help us out sometimes.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "But all we know is that they're on our side...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Chasing the Gyandlar? ...Hmm, plenty would have a grudge against them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Something Stol from planet Cronos... was it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Planet Cronos...!? That's the planet the Gyandlar withdrew from before!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Stol... Surely it's not Kirai Stol, is it, you lot!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Kirai? Nah, I think it was Rom... Yeah, he said Rom Stol.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Who is this Kirai?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Founder of Tenku Chushin Ken, called the strongest martial art in space.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Though I heard he lost his life fighting the Gyandlar.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Then the people who always help us...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Probably members of his clan. Perhaps his son.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "...But a Tenku Chushin Ken master, all the way out here!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "...Including people like that... I feel like too many things are gathering",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "on Earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "...Indeed. I don't fully understand it, but the planet Earth",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "has one strange thing about it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Strange thing?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "...Mm. The planet Earth itself seems to give off a kind of energy,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "something like a force field.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Huh? That makes no sense, Doctor.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Simply put... you can pinpoint Earth from anywhere in this universe.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Mind you, you'd need the proper equipment.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "...So the enemies saw that and came to this star system...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Very likely. Especially for drifters like the Bunker or the Gyandlar,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "it makes a fine landmark.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "What's that mean? Explain it, Doctor.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "...I don't know either. It's not that advanced scientifically.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "It's just one planet on the frontier, so to speak.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "...Earth... my home... I have a bad feeling...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Mia, right now someone's trying to drop a colony on that Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Stopping that comes first, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Exactly. Well, thanks, Doctor! We'll call again!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "...You have no intention... of coming back?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Ending transmission.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Wait, wait! ...Oh, do as you like! If you're set on Earth,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "there's one thing I've found out. I'll tell you that much.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "What is it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "That asteroid at what your coordinates call PLS Black Point...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Be careful. Its energy is rising almost by the hour.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "...So there was somethin' there after all. Better tell the captain...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Commander Hazard has told us about you. You are Ilbora Saro, yes?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Yes. Then I'll get to the point. That device again...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "I would like you to lend it to me.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Whether lending it to you would be of any value to us...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "That is what Don is asking.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "The Gandor Team, whom you consider as great a nuisance as Londo Bell...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "I will cast them out somewhere they can be easily disposed of.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "You mean... somewhere easy for you to dispose of them, surely?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "...No.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Very well... So says Don.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "The Commander who used this was indeed defeated in the last war,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "and no one uses it anymore. Very well. We shall lend it to you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Thank you. ...I will surely bring the Gandor Team to ruin.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Reassuring words we haven't heard in a long time... Don is most pleased.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Yes...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "(Damn Hazard, why is he tied up with people like these?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "...Yes, we somehow managed to get near the moon, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Understood. We'll come to your rescue...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Thank you so much... I don't know how to thank you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "No, please, there's no need to be so formal. ...I'll send a few people.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Please give my regards to Umon.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Understood... We'll be waiting...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "It seems they made it up into space, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "meeting up at the originally planned point looks impossible.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Who cares?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "We were worried they might not make it up here at all.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Let's hurry and meet up with them!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "More super robots here is just what we need.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "But... they're stranded, aren't they?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "More super robots would be welcome, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Can we really afford to go rescue them...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Oh, perfect, everyone's here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Captain, we found out who those mystery allies... Huh, what's up?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Did something happen?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Yes. We've just made contact with the reinforcements from the ground.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Whoa!? That's great! That'll make things way easier...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Not exactly. They got stranded on the way here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Their battleship broke down, they said.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "...Then meeting up is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Then we'll just have to go pick them up ourselves.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "We have a colony drop to stop... I'd rather not lose any extra time...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "I'm aware. But we can't afford to fail at stopping this colony drop.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "And Zeon's resistance will be fierce, too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "But we can't just leave Grendizer and the others hanging, either.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Yes... Besides, the point where they're waiting is near the moon...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "A gravity zone where derelict colonies gather.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "If all goes well... we could even get the GP03's parts from the moon.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Then... let's hurry!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "All right, everyone, keep up maintenance on your machines!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "...Oh, right, we need to report about PLS Black Point...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "You mean... that asteroid!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Yes. I contacted Dr. Tarsan a moment ago, and...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "it sounds like its energy keeps on growing...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "That place again!? Should we check it out top to bottom?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "If we had the time for that, we wouldn't be struggling. Still...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Hey, he's your guardian, right? This Dr. Tarsan guy.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Can't you have him look into it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Couldn't this Dr. Tarsan... investigate it for us?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "He's your boss, isn't he?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Guardian?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Well, sort of a guardian... But he isn't in this star system.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "He's scared of the Bunker noticing him, so he won't come near.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "...Geez, after coming this far, he oughta just give up already.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "I can't blame him. ...Captain, I've worked out our route, but",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "the shortest route... will take us right past that asteroid either way.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "When we do...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Right. We can't spare time for a survey, but... we'll see then.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Pursuing the colony... It seems it won't be so easy...",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

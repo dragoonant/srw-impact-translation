@@ -1,0 +1,1039 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 2159,
+ "strings": [
+  {
+   "id": 0,
+   "en": "We've built up quite a force now, haven't we?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "If we can meet up with the rest, we'll have the whole lineup.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Grendizer and the Mazinger team... and the Nadesico group.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Any word from them?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Unfortunately, special jamming inside this planet as well",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "limits communication to a very narrow range...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "The Nadesico should be advancing on the core data as well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "If we follow it too, we should be able to join up.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "The Gandor is also steadily closing in on the matching data point...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "If we meet no further resistance, we should make it in time.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "I wonder if the Nadesico's okay... with that captain and all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Daisuke's there too, right? No need to worry...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "I hope Tetsuya and the others aren't doing anything reckless...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Daisuke's with them, so there's no need to worry about that, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Still, what bothers me are the mechs Shapiro brought with him...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "What do you mean? Aren't they leftovers from the last war?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "No, given their numbers... they can't be mere remnant forces...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "That Fake Dancougar running wild outside never showed up last war...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Then... Muge Zorbados is behind it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Yeah... that could be...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Sara...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Shapiro was alive... Why not that Muge bastard too?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "It makes no difference. We've got bigger things to worry about now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Kasshu is right... We have a mission that takes priority over all else...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Dirad, was it? This planet?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Is something like this really going to hit?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "I've been calculating, and this planet's speed",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "is gradually increasing.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Wasn't it stopped just a while ago?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "They meant to lure us in, but things got dicey,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "so they started hurrying, huh...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Then we have to hurry even more.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Anyway, as long as the Nadesico gets to the core, it'll work out, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "That's the plan... but even for Earth, to have to sacrifice the Nadesico...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Huh? Really?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "...A planet-scale collapse. No one at the center would come out unharmed.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Prospector was in tears, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "The Nadesico is a ship we'll need in the battles ahead... I won't allow that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "But they said it's the only way.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "No, I have an idea...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "But a better way than that... You don't mean, Commander...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Not there yet, Yurika?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Ruri, how's it look?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "We're close, but I can't pinpoint the location yet.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "If we run into any more enemies, we may not reach the core in time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "That's right. We've made it this far because Captain Burning's group",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "is holding off the enemy, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "If only the Gandor had come...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Things never go smoothly.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Anyway, nothing matters unless we get the Nadesico to the core, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Till then, I'll protect this Nadesico no matter what, I tell ya!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Hey, I just thought of something... If the worst happens,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "how's everyone on the Nadesico gonna escape?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "We can escape in our own robots...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "but we can't carry everyone.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Hey, I just thought of something...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "In an emergency, how would the Nadesico crew get out of here?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Naturally, there's an escape plan in place, I assume.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Don't worry. In the worst case, we have our onboard craft, the Hinagiku.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "It might be a bit cramped, but we should be able to escape in it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "But Omoikane can't self-destruct... in other words, commit suicide.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "...Someone would have to stay behind to do it, though.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Of cooourse, the only one staying is me, the captain!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Yurika!? You can't mean it!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Hold on, Yurika! Are you trying to get yourself killed!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "It's okay, I won't die! I'll just escape in an Aestivalis.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Huh!? Hey, hey, an Aestivalis isn't that easy to...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Could it be, Captain, you've had the IFS treatment?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Ding-dong! Correct!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "IFS...? What's that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Image Feedback System...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "It feeds the pilot's thoughts straight into the Aestivalis's movements.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "With the treatment, even a cat could more or less move an Aestivalis.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "...Paw pads.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "You're gonna pilot an Aestivalis too?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "That's right! Leave me either your Aestivalis or Yamada's, Akito.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Now the only question is whether we can carry it out in time...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "I doubt the core will be free of enemies, though...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "It'll be fine! We've got the invincible Mazinger team!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "You ain't part of the Mazinger team, I tell ya.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "In the worst case... we'll have to say goodbye to the Nadesico...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "And that saves Earth! Isn't that a bargain!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "For Nergal, it's hardly a bargain... Ah, no, let's leave it at that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "So it's time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "What is it, Joe? Don't tell me... you're scared?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Don't be stupid.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "I'm not dying till I settle things with that bastard Ilbora.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "...What was that thing that looked like a black Tobikage, anyway?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Good question. All black, and giving off total villain vibes...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "...Ilbora, damn him.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Everyone, we sortie soon. Hurry up with your machine adjustments.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Daisuke... Koji... Hang in there...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Are they all right...? We can't reach them, can we?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "They're fine. They're handling it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Yes, those two would never make that kind of mistake.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "The worse the odds, the stronger Koji gets. But...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Huh...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "The numbers will make it tough, no question.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "...It'd be different if Tobikage had gone on ahead...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Daisuke... Tetsuya... Hang in there...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Are they all right...? We can't reach them, can we?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "They're fine. They're handling it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "...Those two would never make that kind of mistake, Sayaka. But...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "But...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "The numbers are gonna make it tough, though.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "...It'd sure help if that Tobikage went on ahead of us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Tobikage, huh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Tobikage... I don't really know much about it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Oh, Tobikage's on our side.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "On our side? What is it, exactly? Who's piloting it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "\"Who,\" huh... That's a tough one, right, Big Bro?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Uhh... Well, anyway, it's definitely a reliable ally.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Well, that's about the size of it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "It helped us out at Jaburo, too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Can it operate in space too?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Yeah, the first time we descended to Earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Tobikage's the one that helped us down.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Hope it helps us this time too... but counting on others isn't great.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "In that sense, it's not very dependable.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Maybe it's surprisingly shy? Nah, probably not.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Hard to say. Seeing Blue Jet and Rom...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "it doesn't sound entirely like a joke.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Yeah, you can't count on it like that. Geez, what a pain.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Maybe it's just shy?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Robots can't be shy, can they?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "...Seeing Jet and Leina, I can't say that for sure.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Ugh... Agreed.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Machine people, aliens, people from other dimensions... anything goes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Your hands have stopped! We sortie soon. It's now or never for tuning.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "No time to slack off.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Shiro, don't be so on edge...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "He seems quite fired up.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Yeah, yeah. ...After this asteroid, it's high time we unmasked it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Keim, Abel...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Yes, Lady Diore... At last... our long-cherished wish...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "...is about to come true.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Indeed... We shall soon reach the time of rooting...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "We'll take Earth into our body, and the seeds of life, given soil,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "and take form in the world...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Magnificent...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "We are but a temporary form of the Dirad... The seeds of life",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "will wake from a 200-million-year sleep and take flesh once more.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "The peaceful age of plants alone... this time, we will make it eternal.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Lady Diore, forgive my impertinence, but I must speak.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "...Why was the rooting not achieved 200 million years ago?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Had the rooting been achieved back then...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "the Earthlings would never have pushed in this far...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Keim, you forget yourself...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "The time was not yet ripe... in this universe...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "for the Dirad was born too soon.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Born... too soon...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Lady Diore, the ones that appeared before the Earthlings broke in...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "those things of bones and tentacles... what are they?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Surely... they're not connected somehow?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "They are allies of the Dirad.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "They too wish for the Dirad to take root.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "They aren't Dirad, and yet...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "they wish for our peaceful age of plants alone?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Yes... What they need is us, the people of the Dirad.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "The Earthlings are no longer needed.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "(...No longer...? Then Lord Shapiro...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "...Lady Diore, intruders.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "The ones from Earth, Abel?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Yes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Impossible... They found this place!? Abel!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Yes. But their luck ends here. ...Lady Diore, I take my leave.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "...The only obstacles left are those Earthlings...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "You will go as well, Keim.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "...Yes, my lady.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "(If Earthlings are in her way, why did Lady Diore save Lord Shapiro?)",
+   "kind": "thought",
+   "keep": false
+  }
+ ]
+}

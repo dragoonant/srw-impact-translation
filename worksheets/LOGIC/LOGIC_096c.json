@@ -1,0 +1,295 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 2412,
+ "strings": [
+  {
+   "id": 0,
+   "en": "",
+   "kind": "dialogue",
+   "keep": true
+  },
+  {
+   "id": 1,
+   "en": "Captain Bright...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Perhaps we should send operatives into Axis now and destroy it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "I see...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Captain Misumaru! Do you have personnel who can help?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Destroy Axis from the inside...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "...Judging by the internal structure data, I think it'd be effective...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Captain! I'll go! I've been itching to do something!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Good! All units! Cover the operatives until they reach Axis!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Colonel... A team from the Ra Cailum and the Nadesico is heading for Axis...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "They probably intend to destroy it from within.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Londo Bell indeed... Very efficient.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "...Colonel...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "I suppose this is no time for praise...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Colonel! The enemy's infiltrating!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "I know... Where are you right now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "I'm talking to the Colonel, okay!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Quess, can you get to Deck 2?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Oh... Y-Yes. I can.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "We have one more fight ahead. Get ready to sortie at once.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Got it, Colonel.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "You're putting Quess... in that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Yes. Let's proceed with our own preparations.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "How's it going over there!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Almost done! Quit rushing me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Hey, Reika... Isn't this kind of creepy?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Oh, come on! Keep your hands moving.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "What's bothering Beauty is the lack of enemy attacks, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "It makes the job easier, but... I wonder if something's up.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Yes...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Commander Hazuki, Captain Misumaru, what's the enemy doing?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "That's been on my mind as well...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "No enemy contacts confirmed.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "I bet Captain Quattro finally understood!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "...No... A man who understood that wouldn't have done this to begin with.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "...He's plotting something.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Right...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "We'll land the decisive blow before they get organized.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Captain Bright! We're done!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Good! All hands, evacuate!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Whoa! It's starting to blow! Is Bright's team okay!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "We're fine. We just made it back to the ship.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "The destruction is mostly going as planned...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Axis will begin breaking apart, as calculated.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Something's off! Why isn't the Captain's side coming out?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "...No... I see units launching.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Looks like... they're not exactly escaping.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "...Char, you...",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

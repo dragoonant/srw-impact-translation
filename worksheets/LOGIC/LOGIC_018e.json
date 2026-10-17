@@ -1,0 +1,913 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 398,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Kosuke! You sure this is the place!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "No doubt about it, Hyoma.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "According to the heat-tracking camera, Garuda fled in here!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Hyoma, ya don't need to check! It's obviously fishy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Sure is a creepy place. A base like this under a dormant volcano...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "No wonder Londo Bell couldn't track",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "the Campbellians' movements.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "...Who'd have thought they already had a base on Earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Combattler V...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "You've done well to come this far. But this is where you end...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "The stone statue!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "What the!? That thing can talk!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "What the hell are you!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "I am Oleana... leader of the Campbellian Earth conquest army...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "I get it! You're the boss!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Get ready! Combattler V is gonna",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "smash your ambitions to pieces!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Lady Oleana! When I defeat Combattler V...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "I will keep my promise, Mia... if you can defeat it, that is.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Yes, my lady! ...Lord Garuda... I, Mia, will surely defeat Combattler V...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Kukuku... Splendid... splendid, Combattler V... Gandor Team...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Answer me, Garuda! What's the connection between you Campbellians",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "and those Einst!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "The connection with the Campbellians...? Heh heh...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "You ask that of me, a robot who isn't even Campbellian, Hyoma Aoi!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Very well... Thousands of years ago, Mother descended to this Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Humans had nothing yet that could be called science or technology.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Why did Mother not conquer the Earth then...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "No, why could she not conquer it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Couldn't... conquer it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Meaning they did try to conquer it...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Hey, what's that supposed to mean, Garuda!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "...Combattler V, Gandor Team.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "This battle... was one I do not regret...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "What're ya sayin'!? What happens next, then!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Daisaku! He's... already...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Mia... I will never let you go again... never...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "So this is it! To think they were hiding in a new volcano on a remote island!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Doctor! It's the Combattler team!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "That's... the Gandor Team's here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Commander Hazuki!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "All right, support Combattler and wipe out the enemy!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "All units, launch!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "All riiight! Campbellians! Time to pay up...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Who'd have thought they had a base on Earth!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "So they already had a forward base. But... it ends here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Let's finish them in one go, Tetsuya!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "The Campbellian base, huh... Crush it, and that's one less enemy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Building a base in a place like this without asking...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "No, this has likely been their base since ancient times...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Exactly.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "I have been in this land since before you humans were born...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "How old are you, anyway?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "That's not the point!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Bold, flying your battleship in. I'll finish you in one blow...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Try it if you can...! But first, I'll pound some steel into you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Easy, Nanbu. Their home base won't be this lightly guarded...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "That's exactly why we need to act calmly.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "How can I stay calm with the enemy boss right in front of me!? Here I go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Big Bro! Captain Amuro's obviously right!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Let it go, Mike. He never listens anyway.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "...I'll back him up properly.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Mmph!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "It's the Einst!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Where'd they just come from!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Oh... you lend me your aid... As I thought, the Earthlings...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "The Earthlings...? Hey, Mari, did you catch the rest of that!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Sorry, Mister. The explosions were too loud...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Of course Akira's not around at a time like this!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "...Raideen might've been able to figure something out!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Hm? Hey, something's wrong with the little one.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Cham, what's wrong? Cham!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "That enemy... we shouldn't provoke it too much...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Why not, Cham?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "I dunno...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Cham senses something too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Do you sense something too, Asuka?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Same as Cham... All I can say is it feels bad.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "(That enemy... a voice only I can hear...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "...Not... de... sired...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Some connection to the Campbellians...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Man... I can feel this crazy pressure...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "But hey! We can't back down either!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "That's right, we've got to... push forward!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Claws that can tear Super Alloy New Z...! But I won't retreat here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Exactly...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "One by one! It's the Campbell base... we can't miss this chance!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "So this is the end of the Campbellians... right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Not yet... Garuda's still left.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Come to think of it, I don't see him.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Don't tell me he chickened out and ran?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "...He'd never do something like that.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "...Come out, Garuda! Let's settle this...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Not bad... Garuda!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Isn't Garuda acting strange...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "...Forgive me... Mia. I... didn't know.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "That I was a robot, just like Mia... If only I'd known a little sooner...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Mia, I could have accepted your feelings...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Say what!? Garuda's a robot!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "But it's too late now... Everything is far too late...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Wh-What's gotten into Garuda!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Fight me, Combattler V! And you humans of the Gandor Team!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "This is my... my own battle, for myself...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "A robot... that was given feelings...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Silence! Here I come...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Hyoma! Here he comes!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Garuda, I don't know who you are or what happened to you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "But we can't afford to lose to you either...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Well said...! And I don't intend to accept any mercy from you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "...Great General Garuda, huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "So we never found out what links the Campbellians to the Einst...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "I just can't see what they're after...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Cham? How are you? Feeling calmer?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "...Yeah, but... if we keep fighting like this...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Cham, be more specific. What exactly is so bad?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "I told you! I don't know! But bad is bad!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Right? If that thing keeps showing up...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "No no no no nooo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Goals and identity unknown... all we know is they're the enemy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "That's right. But...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "If what that Great General said is true...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "then the Campbellians were on Earth thousands of years ago.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "What happened back then...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Yeah. Back then, nobody could've stood up to the Campbellians.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "It's weird.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Now, of all times, when the Earth Sphere is in this much chaos,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "they decide to start an invasion? That's strange.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Way too much competition.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Even if they're exploiting the chaos, with this many armies on the move,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "I don't get why they'd bother sticking their noses in.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Right. Why do all these armies...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "have to move at almost the same time?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "I get what you two are saying. But...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Mm... this is no time for debate.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "I think we can say the fight with the Campbellians is settled for now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "However, whatever comes of the colony problem,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "we still have work to do.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Quite right. Commander Hazuki, let's move out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "All right, all units, return!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Gandor heads to the next point while we repair and resupply!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Hyoma?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "So long, Garuda.",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

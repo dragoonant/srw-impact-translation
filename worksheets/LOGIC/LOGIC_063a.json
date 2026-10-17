@@ -1,0 +1,1231 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1594,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Akito's Aestivalis reaches the ruins",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. Akito's Aestivalis is destroyed 2. Akatsuki's Aestivalis is destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "All units, escort Tenkawa's unit",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "until it reaches the ruins.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "The units deployed there... are our company's mass-produced Aestivalis.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "When did he order so many of them...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Heh, quite a long lecture... but in the end, it still comes down to fists.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "...It's sad, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Akito, go for it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "What on earth is in those ruins...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "And... how did Inez even get into those ruins...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Most likely, she too, just like Tenkawa...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "You mean she can Boson Jump?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "I can see no other explanation.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "The question is what she intends to show Tenkawa at the ruins...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "We'll find out once we get there, that's what.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Destroying it will have to wait till after, though...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Hey, no need to rush. We'll lend a hand.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "No no, everyone, cultural heritage must be treasured!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Oh my, you listened so quietly earlier, I thought you'd mellowed out...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "So the chairman of a major corporation isn't that soft.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Akatsuki!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Oho, the chairman himself makes an appearance.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Now now, Banjo, we're both in tough positions here,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "so can't you understand? ...If the Boson Jump system is unraveled,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "I could consider giving the Haran Zaibatsu priority access, you know?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Heh, quite an attractive offer...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "But I can't see corporate interests taking priority over peace",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "between Earth and Jupiter.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Quite so. Corporate profits exist only",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "because there is a civilian consumer market.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Akatsuki, please. We have to destroy the ruins,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "we have to end the war...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Is that your way of \"being true to yourself\"? Hah, you people really are",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Gekiganger through and through!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "What was that!? ...I've already thrown Gekiganger away!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Tenkawa?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Ohhh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Big Bro Akito...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "I figured it out when I saw those Jovians!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Figured out what!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "That's what the thing I loved so much really was.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "It's an enemy I have to defeat!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "That's what I mean by \"a one-sided view.\"",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Listen. Just as every person has their own position,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "they each have their own sense of justice.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Hm...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Colonel...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "By the way, in the anime I liked, both the enemies and the heroes",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "had their own justice! You should've watched more anime.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "And besides...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "...What!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Don't underestimate the adult world, kid.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Sh-Shut uuup! Anime's got nothing to do with it anymore!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "I don't want anyone to suffer anymore. Not anyone!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Akito...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Akito...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Oh well... can't be helped. Looks like force",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "is the only option after all!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "It's no use with this guy. He's totally raring to go.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Hey, you've been with us all this time and don't know what we can do?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "That's right! You'd better be careful you don't",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "get hurt yourselves!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Oh my, I'm picking a fight with you lot, after all.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Of course I came prepared.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "So they've been upgraded that much...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "That's right. And this Aestivalis team has been tuned up",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "a cut above the ones aboard the Nadesico, so watch yourselves.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Plus, they all run on Nergal's pride and joy: high-performance AI!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Artificial intelligence...? I see, clever.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Tch! Yesterday the Meganoids, today Nergal?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "I'm starting to lose track of what we're even fighting for...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "If you ask what for, I'll answer: for myself.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "In the jaws of death lies life; the unseen comes into view...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "My, Izumi, you're quite the poet today.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Heh... Maki the poet, at your service. A poet and I didn't know it... heh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "...She's hopeless.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "This is no time to be playing the ukulele! Here they come!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Get outta my way!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "No can do. That's what they call grown-up circumstances!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Everyone, cover Tenkawa!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "What about Nagare Akatsuki?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "...I'd hate to shoot him down, though?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "...Don't touch him until Tenkawa's unit reaches the ruins!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "There's a mountain of things we need to ask him.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Roger!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "I'm so grateful I could cry. ...Now, how long can I hold out...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "No good! Tsukiomi, get out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Ngh... Shiratori... Are you saying your justice was right...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Nngh, justice... Justice is on our side...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "There's no way we can lose...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Shut up! Someone who'd kill his own comrades and use them",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "has no right to talk about Gekiganger!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Justice...! There is only one justice... and it is ours!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Uooh! Th-This is bad!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Akiyama!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Captaaain!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "No choice, I'm bailing out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "C-Captain!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Saburota, don't push it! Get out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "S-Sorry, Captain... Bailing out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Wha...! Well, this is a fine mess...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "End war for the good of the world and its people? How noble of you all!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Shut up! Someone like you...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Everyone's fighting for the world, the people, their country? For Earth?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "That kind of thinking makes me sick!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Tenkawa has reached the ruins.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "All right, all units, defend the ruins.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "No need for that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Tenkawa's gone inside the ruins. I've no intention of destroying them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Akatsuki...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Let's stop the pointless fighting, is all. With Akito and Inez down there,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "you can't attack either, right? So let's just wait and see for a while.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Smooth as ever. Well, I'm sure this was all within his predictions.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Hm? What do you mean, Hayato?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "It means Akatsuki knew this would happen, Ryoma.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "That's why he used AI instead of soldiers to pilot",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "his mass-produced robots.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "...You saw right through me, huh. As expected of Duke Fleed.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "A man who sees both his own justice and others' is something else.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Akatsuki... Did you, maybe, do that so...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Whoa now, please don't. I'd hate for you",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "to think I'm that soft. ...But Inez,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "just who are you planning to \"welcome\"?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Who knows...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "...Ai!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Ai? Who's that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Come on, another name we've never heard of, this late in the game!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Allow me to explain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Whoa, Ruri's doing it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Since Auntie Explainer won't open a channel, I'll fill in.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Ai is a girl Akito met before he Boson Jumped from Mars",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "to Earth. Being unable to save her",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "became one of his traumas.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "So that happened to Tenkawa...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "But Ai didn't die.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Big Bro isn't coming...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "He'll be here soon, so wait... What's wrong?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Auntie, you smell nice...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "\"Auntie\" is a bit harsh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "You smell like Mommy! Mommy's so mean. When it all went kaboom,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "she fell asleep with everyone. Then Big Bro started glowing,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "and I felt like he'd go away somewhere, and so...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Two battleships... It's a Boson Jump!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Enemy forces analyzed. It's that \"Nadesico\" and the crane-class ship!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Captain! Now we can repay them for last time!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "I know! Now then, that fine fellow,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "how will he play it this time?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Prepare humanoid and insect-type fighters for immediate launch.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "I'm going out too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Earthlings... I won't hand the ruins over to you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Auntie!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "It's okay, it's okay... Nadesico, what's going on out there?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Inez! It's terrible, the Jovians",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "suddenly attacked with Tulips!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "I see. Boson Jumps happening one after another nearby",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "are making the ruins active.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Auntie, I'm scared... I'm scared...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Akito, hurry!! Otherwise, Ai will",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Boson Jump again...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Ai, wait for meee!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Ah. Auntie, no! I haven't seen Big Bro yet,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "not yet...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "You will... Even if not now, you'll see him again, I promise!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "You're a strong girl, aren't you? So believe... and don't forget.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "His face... his voice... No matter what happens...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "don't forget, don't ever forget.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "...Okay. It's like I'm talking with Mommy...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Ai!! Inez, where's Ai!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "You just missed her... That's why I told you to hurry, but",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "well, maybe this is for the best...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Chase two hares and you'll catch neither!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "We'll take down that formidable Nadesico in one go! Saburota!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "I know!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Bright...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Bright, what do we do...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "If only those ruins were gone, the war would be over too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "...There is... a way.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "What did you say?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "But for that, we have to deal with the enemy first...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Ha! With all this complicated talk, I didn't know what to do!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "But that, I can handle!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "...We'll crush them...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "If this works out, we won't have to fight Jupiter anymore, right,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Domon...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "Who knows... But if we crush them all, we won't have to worry",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "about buying time!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "Oh well... Guess I have no choice but to help out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "Battle Mastery increased by 1.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "1. Akito's Aestivalis is destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "What are you doing! I said not to shoot him down!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "All right! We cleaned 'em up! How're things on your end!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "Hmph, this had better work.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "But... how?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "With a Boson Jump.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "...Huh...!?",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

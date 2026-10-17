@@ -1,0 +1,19 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 2103,
+ "strings": [
+  {
+   "id": 0,
+   "en": "",
+   "kind": "dialogue",
+   "keep": true
+  },
+  {
+   "id": 1,
+   "en": "",
+   "kind": "dialogue",
+   "keep": true
+  }
+ ]
+}

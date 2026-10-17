@@ -1,0 +1,1417 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 2302,
+ "strings": [
+  {
+   "id": 0,
+   "en": "Sorry to have kept you waiting, everyone.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Launch preparations took longer than expected.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Good to see you again, Commander Hazuki. ...You look well too, Amuro.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Sorry for calling you all the way to the Moon.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "It seems the hostile forces on the surface have been swept away.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Naturally we'd come up here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "You defeated the Mykene Empire and the Demon Empire, right!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "That's Commander Hazuki for you! Earth's peace is in good hands!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Ha ha ha, you shouldn't flatter your elders so, Captain Misumaru.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "I hear you had a rough time on Mars with Captains Burning and Quattro.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Oh... I'm sorry for rushing off on my own...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Well, Captain Bright and the others already gave you a good chewing out.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "So don't get too down about it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "That must've been rough. Did he \"correct\" you too?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Correct...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "I don't know either... Maybe it's a military custom.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Huh? I-I wasn't dressed so badly I'd need censoring... was I!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "...Aren't you misunderstanding something?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Seems even Captain Bright didn't \"correct\" Captain Misumaru.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Ahem...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "In any case, the surface threats being gone is good news for us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "We've also dealt damage to hostile forces around Mars...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "and wiping out the Gaizok in particular is a big achievement.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Too bad the Gaizok business left such a bad aftertaste, though...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "And with the ruins the Nadesico had to leave behind,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "the Mars sphere can't be called safe yet.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "I've looked over the report...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "So the Meganoids are occupying the Martian ruins. That's worrying.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "I'm told they were already occupied by the time we joined up...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "My deepest apologies.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Oh... you don't need to apologize so much. When the Nadesico got to Mars,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "they were already swarming all over, so don't worry, Princess Romina.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "As it turned out, the Nadesico going rogue revealed what the Meganoids",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "were really after... The ruins, hm...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "I've ordered Nergal to hand over their data on the ruins,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "what we heard from the Nadesico crew is more detailed, as it stands.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Given their track record, I doubt they'll hand it over so easily.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Means it's that juicy a prize. ...For the Meganoids, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "If the Meganoids, who seek to rule humanity, could warp freely...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "it would be terrifying.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Moreover, once they learn such an important technology exists...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "the Gyandlar and the Bunker will surely target those ruins as well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Then shall we hurry back to Mars?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Bright, how are things around Earth?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Hmm... Rom's concern is well founded, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "even though we've driven off the Vega Star Federation,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "the situation is far from letting us head for Mars.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "The threat of the Gyandlar and the Bunker...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "And the Campbellians seem to still have forces in space.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "And the Jovians can apparently show up wherever they like...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Neo Zeon, which has been lying low lately,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "will surely seize the opening if we leave Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "They've left the surface, but... the Muge Empire seems to be regrouping.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Mostly aliens, then.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "...Yes, Captain. What became of Neo Japan's Ulube and the others?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Right, that.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "...Major Ulube and Dr. Mikamura have both been taken into custody.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Rain went to see them. ...However...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "However...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "The wrecked Devil Gundam's whereabouts are a total mystery.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "What? Ulube and the others won't talk?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "No, it seems they don't know either.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Nothing has been seen leaving that area since.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "There's no way we wouldn't find it, and yet...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Turn ourselves in?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "That's right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Turn ourselves in? We've already been arrested, haven't we? Heh heh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Cyborg decoys made of DG Cells...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "We can't keep stalling forever! So we might as well...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Losing your nerve, at this late stage?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "No! ...My daughter woke me up...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "That's a problem. My plan would come to nothing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "What more do you intend to do?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "The Devil Gundam was destroyed.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "It was blown off somewhere. No one even knows where it is.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Give up your foolish ambitions.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Did you think I wouldn't know?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Besides... it's been found. A new unit.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "And furthermore... after seeing this, can you still say you're out?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "...............",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Impossible...! Rain...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "She's merely unconscious. ...She came waltzing in alone, you see.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "What do you intend to do with Rain... with my daughter?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "...It is the conclusion of exhaustive research.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "A human with healthy, powerful life force is suited to that unit.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "A being with the power to create life for the next generation.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Don't tell me... Rain...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "The one best suited to be the living unit... stands atop all life,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "and can keep bearing and multiplying new life...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "...Thy name... is Woman!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Everyone's here. Now, about our next course of action...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Emergency message for everyone.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Ruri!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Sorry to interrupt. A suspicious transmission's in. Putting it through.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Attention, Londo Bell!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "I am the ruler of the world, Ulube Ishikawa.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Domon!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Ulube!? Why!? Rain said he'd been captured...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Ulube Ishikawa...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "I thought he was a major in Neo Japan...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Everyone! As you know, the Earth Sphere is in unprecedented peril.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Therefore, I declare the unification of the Earth Sphere in my name!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Huh? What's this geezer going on about?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Unification of the Earth Sphere... Whoa, whoa!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Have no fear.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "For henceforth, the world shall forever belong to Neo Japan.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "There will be no more need for foolish power struggles like war.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Hey, that man... he's giving off a really nasty aura.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "I can't sense auras, but... I've got a bad feeling...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "We're busy here!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Quit stalling and spit out what you want!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Fwahahahahaha...!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Very well. Rather than words, I shall show you reality.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Arise! Devil Gundam!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "What! What did you just say!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Wh-!? What!? This footage is...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Hey, that's... it's latched onto the Neo Japan colony!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "No! If it keeps growing like that...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "This is... the Devil Gundam's tentacles, reaching Earth...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Nfu-hahahaha... Now, the world shall kneel before me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "......I refuse!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Hm? ...It's you, Domon Kasshu... All has gone according to my plan.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Your love for your father fully drew out your abilities as a Fighter.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Thank you. Because of you, I was able to obtain this.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "What!? You... don't tell me you planned this from the start...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "No faaair!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "How... cunning!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Ulube! You never learn! Again and again!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Heh heh heh... And what do you intend to do about it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Until I destroy the Devil Gundam completely this time!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "I'll burn every last DG Cell to ash!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Heh heh heh... Can you really do that, I wonder?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "What...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "That footage... inside the Devil Gundam... it's Rain!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "R... Rain!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Hahahahahaha! My research paid off!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "The Devil Gundam revives apace, with a woman as its living unit!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "You and Rain parting ways",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "ended up completing my plan.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "So Rain really is inside the Devil Gundam...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Th... that's horrible...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Ulube...! You, I will never forgive!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Using someone's sweetheart... that's unforgivable!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "A disgrace to all warriors... Justice demands he be punished!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Heh, such spirit... But how long will it last?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Heh heh heh heh... Hahahahaha! Wahahahahaha!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "...The transmission's been cut.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Captain Bright, looks like our next stop's decided before the meeting...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Yes...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "I never imagined things would come to this, though...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Latching onto a colony, huh...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Size-wise, it's the biggest opponent we've had yet.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "No wonder we couldn't find it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "...When the Einst appeared at the Neo Japan colony before,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "was it because they foresaw this?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "...One who tramples people and the land they live on for his own desires...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "I cannot forgive!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "At that scale...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "there's no way we can afford to split up our forces.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Yes...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "All right, all of Londo Bell will head for the Neo Japan colony!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "All hands, take alert stations!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Huh, where's Big Bro Domon?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "He's already rushed off.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "...Domon......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "From the Neo Japan colony... this many...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "The Devil Gundam has completely taken it over...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Ruri, how's the Aestivalis team deployment?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "All units deployed and awaiting the order to attack.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "But... will our attacks even work on something like that...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "What are you saying!? We have no choice, do we?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "If that thing latches onto other colonies, or Earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "But... honestly, even with all of Londo Bell's forces...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "If we all work together, we can do it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "All our allies appear to be ready.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Still... the power of DG Cells... to think it's this great...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "As a fellow scientist, I can't help but feel awe toward Dr. Kasshu.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "But when it's that tasteless, I don't even feel like explaining it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "...A Devil Colony, you might call it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Not funny.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Still... it's a name that suits that thing perfectly...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Captain Bright, there's no point just watching.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "Let's attack.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "Right.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "...All units, all ships, hit the Devil Colony with everything you've got!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "Oh, let me tell you one thing. This Devil Colony",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "regenerates faster than your attacks can destroy it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Heh heh heh, care to try?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Ulube! That's just a bluff!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "Devil Gundam aside,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "destroying a colony with numbers like ours is unrealistic to begin with.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "If it regenerates... that goes without saying.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "Damn! Is this the end...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "It's all right! Because...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "That's right, it's all right... There's still a way.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "What? A transmission... that voice...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "You can't beat this demon from outside. Yes, its one weakness",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "is an attack from inside the Devil Gundam's own body!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "Mr. Mikamura!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "As I thought... attacks from outside won't work.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "Damn you, Mikamura, you'd betray me!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "Hmph, but what can one old fool do by struggling... Ugh!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "...No! Curses, so that's his plan!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "Listen, I'm going to release Dr. Kasshu now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "My father!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "Hey, that emergency hatch! The shutter's opening!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "Is Dr. Mikamura in there?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "To you, father and son, I am beyond forgiveness...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "I am truly sorry.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "And I have no right to ask this of you now, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "Please, my daughter... save my daughter!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "She's not to blame. It was all my fault!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "Mr. Mikamura... Mr. Mikamura!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "Domon Kasshu!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "The doctor means to use that emergency hatch as our way in!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "We'll cover you here. Meanwhile, break through to the inside!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "All riiight!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "This hand of mine burns red! Its roar tells me to save Rain!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "Erupting! God Fingerrrr!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "All right, everyone, follow Domon Kasshu! Into the Devil Colony!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "Yeah! Let's raise some hell in that monster's gut!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "Right. Ra Cailum, prepare to breach! All hands, brace for impact!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "The Elshank shall follow as well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "Wait for me... Father! Raaaaain!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "Nadesico, setting course for entry.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "Say, Captain, when you said it'd be all right, what were you going to say?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "You seemed confident we could beat it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "A captive princess, you see,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "is always destined to be rescued by her prince!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "A prince...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "......Quite a hot-blooded prince, isn't he...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "Then the Nadesico's going in too!",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

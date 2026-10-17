@@ -1,0 +1,1813 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1432,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Huh? We rushed over because a colony was attacked, but... it's quiet.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "This is our first time in one of these old-nation colonies,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "but are all colonies of this type this run-down?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "No, not at all. Usually it's much more...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "You're right, it's strange... for it to be this quiet...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Yeah... And we can't reach the colony government either...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Something's up. Stay alert, Rain.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "We can't contact the colony defense force either.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "It looks quiet, but this is an emergency. Everyone, stay on guard.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "We rush over here, and the place we came to save is a ghost town?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Something's definitely up.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Could it be an enemy trap...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Don't tell me... the Einst already...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "...! What is that!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "These things... could they be!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Where did they come from...!? And their size...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "From all over the colony... Then the defense force and the townspeople...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Something that size? But the way they move...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "...I've seen them before.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "That giant flower-like mobile armor Iron Mask was piloting...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "It launched those at us a few times...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Things that were weapons can operate on their own?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Just like Saucer Beasts.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "...That's... what that man called his experiment...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Experiment... these grotesque machines!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Here they come! Intercepting!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Cecily! Don't get too far ahead!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Wh-What is it this time!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Domon!! Look at that...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "What is it, Rain? What!? Why... why is that thing...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "That thing...? Whaaat!? No way...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "That's... the Devil Gundam!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Why is it here!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Hm... A transmission!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "...Neo Japan... Major Ulube Ishikawa, you say...!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Major Ulube...! The man who deceived Domon and me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Domon Kasshu, and everyone of Londo Bell, thank you for coming.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Ulube! What's the meaning of this!? Why is the Devil Gundam here!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "And you...!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Calm down, Domon.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "...The Devil Gundam was originally built in the Neo Japan colony, no?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "After you defeated it on Earth, we recovered it to restore its true form...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Doesn't that make perfect sense?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "...That's right, Domon.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "I helped too, in place of your father, who's serving a cryo-sentence...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Father!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Those things... those machines... Iron Mask and his men...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "How are you people connected to the Crossbone Vanguard!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "I know nothing...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Domon, Rain... please believe me. I...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Most likely, they learned the Devil Gundam had been brought here...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "wouldn't you say? Heh heh...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Ulubeeee...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "In any case, please eliminate the Crossbone Vanguard threat.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Otherwise, the Devil Gundam will be the least of our worries, no?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Ngh...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Listen up, we're facing two forces at once. Stay sharp!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "I wish they'd just wipe each other out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Those small machines seem built to attack only humans.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "And there shouldn't be humans aboard the Devil Gundam or its minions...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Damn! Iron Mask,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "you plan to show yourselves only after wiping everyone out!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Domon, we can't let the Devil Gundam fall into anyone's hands!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Save your anger for later!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "I won't forgive this...! We'll scatter these guys,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "and defeat the Devil Gundam once again! Let's go!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Got it, Domon!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "(Heh heh, the Crossbone Vanguard showing up was a miscalculation, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "no matter. Londo Bell and all, they can help test",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "the reborn Devil Gundam...)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Did we get it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Impossible... Impossible that this Rafflesia... Ooooooooh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Oh...? You repelled all the Bugs... Impressive.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "That's...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Rafflesia, wasn't it? So you finally show yourself.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "As expected of the Federation's trump card... I'll give you that.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "I thought the Bugs alone could wipe you out...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "but it seems a great harvest truly demands great effort.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "As if we'd lose to some knockoff Saucer Beasts!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Iron Mask!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Heh heh... If this test went well,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "I intended to drop the Bugs on the Moon and Earth at once...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "but it seems there's something I must do first.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Things like this on the Moon... and Earth!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Screw you! Like we'd let you get away with that!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Iron Mask, was it? I'm in a foul mood right now!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "...Prepare yourself!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Quite the brave one, aren't you?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "If people could kill with words, I wouldn't need to work so hard.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Shut up!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "You think you can do anything to Earth with machines like these!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "And that Devil Gundam... what are you planning to do with it!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "...Don't you understand, Berah? ...A purge.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "...A purge?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Space is exhausted.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "...And it's not a matter of invading armies or anything of the sort.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "The Earth Sphere itself is weary.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "That doesn't explain why you built these weapons...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "For the Ronah family's thousand-year dream... to let humanity live forever.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Humanity... forever?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Immortality? ...That's like some fantasy...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Heh, perhaps that phrasing was too difficult for you...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Precisely... it's so humanity can go on living in this universe.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "What are you talking about!? You keep spouting nonsense!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Yeah, yeah!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Cosmo Aristocratism... To realize it,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "we must thin out the fools who have grown too numerous...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "The world needs a little tidying up.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "And for that... you'll use those machines and the Devil Gundam!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "What kind of twisted thinking is that...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Thinning out people...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "No one's conscience need suffer... A fine plan, isn't it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Random correction by machine... Heh heh...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Just because no conscience suffers... doesn't mean anything goes...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Don't think humans can judge the worth of other humans!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "There are far too many people in this universe.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "To govern the new era... the grime of the old must be scrubbed away.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "A man who can't do anything without wearing a mask...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "has no right to talk about reforming the world!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Berah... You truly are a naughty child.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "It's not good to doubt what grown-ups do...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Nothing but selfish nonsense...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Ordered to wipe out nine-tenths of humanity, anyone would become this!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Spoken like a true machine!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Ah... More enemy readings!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "The Black Vanguard...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "...Of all the troublesome ones...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Lady Berah Ronah...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "I'm not Berah Ronah. Right now, I'm Cecily Fairchild...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "It no longer matters to me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "So you've come, Black Vanguard.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "...Iron Mask, what exactly were those just now?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "I've never seen them, but they're registered in the data...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Heh heh heh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Bugs...! Iron Mask!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Yes,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Bugs: unmanned weapons that sense human breath and heat, then strike.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "And of course, they've proven fully effective against mobile suits too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "And on top of that, you mean to take in that dubious Devil Gundam as well?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Heh heh... Seems I'm the least of your worries, Domon Kasshu.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "...Heh heh... Fwahahahahahaha!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Just you wait, Ulube! You, of all people...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Don't fall for the provocation! All units, commence attack!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "We can't let them use weapons like these!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "(What do I do? This battle...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Is there any justice in our Crossbone Vanguard? Blast it!)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Battle Mastery increased by 1.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Yay! Looks like it can't move anymore, Domon!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "And I don't see the Death Army anymore either...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Alright, I'll finish it so it can never regenerate! Haaaaah...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "What!? Wait! Domon Kasshu!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "I'm not listening!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Stop! Please don't! Domon!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Uncle Mikamura! You're just as guilty as Ulube!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "I won't believe you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "...Domon...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "I want to continue my research so the Devil Gundam",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "can serve its original purpose of regenerating Earth!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Domon! Destroying it accomplishes nothing!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "Your father... Dr. Kasshu would grieve too!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Don't you dare bring up my father's name!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Domon! Stop!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Rain...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "...I'm sorry... I'm so sorry, Domon...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Rain...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "But! But we have to destroy the Devil Gundam...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Ngh...! ...Enough talk.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "...Tch, a place where this much power gathers... So they sniffed it out...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Th-That means...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Hm!? ...Heh heh, very well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "Conveniently, the Devil Gundam has become easier to seize.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "I'll take this chance to deal with them as well...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "Damn, so you've shown up!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "The Einst...! Still after the Devil Gundam!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "(This is the moment of truth! You've left an opening, King of Hearts!)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Vanish to parts unknown! My Devil Gundam!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Wha!? Damn it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Now then... let us start over. Good day to you all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Ulube!? Are you trying to escape Neo Japan!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Hahahahahaha! ...Dr. Mikamura, this way.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "Surely you won't say you want out now... will you?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "......Rain...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Father! Father!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "Stay right there! I'm coming for you! Ulube!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "Wait! Domon!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "The Einst... As expected, they appear where great power gathers...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Driving them back comes first!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "So many of 'em... Fine, screw it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "Let's go out with a bang!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "The Neo Japan colony isn't going anywhere! Kasshu!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "...I know!! ...I know...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Domon......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "Damn! However many we beat... this is endless!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "Hang in there, Roll!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "Tch!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "I don't have time to waste in a place like this!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "Ulube's over there!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "Domon, don't get impatient!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "Shut up! I...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "You fool! Don't lose your composure over a pinch this trivial!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "Whoa! Who's that?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "Giving Domon Kasshu a dressing-down like that...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "That voice... But why would that man...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "But that voice... There's no mistaking it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "Master...! Master!? Why!? You were at Jaburo...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "Hmph, I thought all your battles had made you grow by leaps and bounds...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "Yet you let your feelings run ahead of you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "It seems I overestimated you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "Then... Master, you came to help us!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "Domon...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "The words you hurled at me at Jaburo... I have not forgotten them.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "That humans, too, are a part of nature...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "Master Asia......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "Looks like he's got no intention of fighting us...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "You, who I thought had grown enough to correct your own master's error!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "Flustered by something this trivial! How pathetic! I can't bear to watch!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "Ngh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "...You are already heir to the School of the Undefeated East, are you not?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "Master Asia... Undefeated of the East! ...Master...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "Geez, like disciple, like master. Neither one's honest with himself.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "So true, so true.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "Indeed... No matter how harsh his words may seem,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "all I can sense from that man is concern for Domon.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "Yes...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "Martial artists are clumsy folk who can only speak through their fists...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "Do martial artists have... some kind of telepathy?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "Who knows? Probably just birds of a feather, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "I get how they both feel!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "Domon's made up with his master now... I'm so glad...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "(Something only martial artists understand... And I......)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "Now, Domon! You have no time to dawdle!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "What must you do now!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "Defeat the enemies after the Devil Gundam,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "and restore peace to the Neo Japan colony!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "Exactly! Listen well, do not be fazed by the enemy's numbers.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "Fear not the enemy... fear only that your fighting spirit may break!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "Let's go! You foolish pupil!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "Yes! ...Master!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "In the end, you could never take off your mask...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "Cecily...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "It's all right, Seabook... What the Ronah family was trying to do...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "It wasn't wrong... It's just...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "That's enough, it's okay, Cecily...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "en": "Seabook...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "(This too... is fate.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "With Iron Mask dead, must our battle start over from scratch?)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "en": "Is it over...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "en": "Phew, that was rough.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "en": "I hate those tiny saucers.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "en": "Master...! Master!? Why!? You were at Jaburo...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "en": "Hmph, I thought all your battles had made you grow by leaps and bounds...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "en": "Yet you let your feelings run ahead of you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "en": "It seems I overestimated you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 258,
+   "en": "Then... Master, you came to help us!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "en": "Domon...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "en": "The words you hurled at me at Jaburo... I have not forgotten them.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 261,
+   "en": "That humans, too, are a part of nature...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 262,
+   "en": "Master Asia......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 263,
+   "en": "Looks like he's got no intention of fighting us...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 264,
+   "en": "...You are already heir to the School of the Undefeated East, are you not?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 265,
+   "en": "Master Asia... Undefeated of the East! ...Master...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 266,
+   "en": "Geez, like disciple, like master. Neither one's honest with himself.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 267,
+   "en": "So true, so true.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 268,
+   "en": "Indeed... No matter how harsh his words may seem,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 269,
+   "en": "all I can sense from that man is concern for Domon.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 270,
+   "en": "Yes...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 271,
+   "en": "Martial artists are clumsy folk who can only speak through their fists...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 272,
+   "en": "Do martial artists have... some kind of telepathy?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 273,
+   "en": "Who knows? Probably just birds of a feather, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 274,
+   "en": "I get how they both feel!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 275,
+   "en": "Domon's made up with his master now... I'm so glad...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 276,
+   "en": "(Something only martial artists understand... And I......)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 277,
+   "en": "We beat that big flower freak too. Bet they've learned their lesson, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 278,
+   "en": "But... after this defeat, that army's plan to thin out humanity...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 279,
+   "en": "Will they really give up on it...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 280,
+   "en": "Right... We didn't strike at the source.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 281,
+   "en": "...I think... it'll probably be all right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 282,
+   "en": "Why, Cecily?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 283,
+   "en": "Iron Mask... was in too much of a hurry.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 284,
+   "en": "He augmented himself into a mass of ego, blind to all but his goal...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 285,
+   "en": "...That too... may have been one way of doing things, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 286,
+   "en": "Order that can only be achieved that way... means nothing...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 287,
+   "en": "...Rafflesia, a flower blooming in space... huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 288,
+   "en": "And that flower merely scattered, wretchedly.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 289,
+   "en": "This is no time to get sentimental! Ulube...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 290,
+   "en": "Hold on, Kasshu. ...We're on a mission.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 291,
+   "en": "What!? You're telling me to back down here...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 292,
+   "en": "Domon!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 293,
+   "en": "Rain...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 294,
+   "en": "......Captain Bright says he'll contact the Neo Japan government...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 295,
+   "en": "to have Ulube... and my father... arrested.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 296,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 297,
+   "en": "Domon... try to understand how Rain feels too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 298,
+   "en": "If you went and punched her father...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 299,
+   "en": "......All right, Allenby.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 300,
+   "en": "I'm sorry... Domon...",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

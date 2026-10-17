@@ -1,0 +1,1039 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 801,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "...This area... I always figured there was something here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "When we met the Cyber Beast Force here before, I paid it little mind...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "What the heck's going on... Hm?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Look at that, Shinobu! Something's different from last time!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Colony wreckage and asteroids... being drawn in?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Yeah, something's off. Is it... getting bigger?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Can this sort of thing even happen?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "I'm not seeing things... It's definitely grown in size.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "What's... happening?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "It's getting bigger... Then maybe it'll become a planet people can live on!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Come on, Yurika... It's not a piece of fruit...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "At its current rate of expansion it's fine, but if it got as big as you say,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "the gravitational balance would collapse and cause a huge disaster.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "But it's not a problem for now, right? It's not like there's an enemy...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "...!! Enemy attack!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Captain, have you pinpointed where they appeared!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "...Yes, I'm almost certain... It's from that asteroid.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "We intercept, obviously. I'm heading out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Tch, I knew it was fishy! So it was the enemy after all!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Let's get moving too! Everyone, don't fall behind!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "All hands, Level 1 battle stations!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Ugh... The Ra Cailum too! Don't dawdle!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "So this is Londo Bell... Heh heh, inferior beings need no tactics...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "What matters is cleansing the Earth before the Dirad's revival...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "How kind, they even brought new models that weren't here before...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Seems they're giving us a welcome.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "A rough welcome, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "The Umon siblings, the Dangaioh team, and the Jin family too",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "all have alien ancestors. Maybe we'll get along with them.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Mia's from Earth, though~",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "We're Earthlings, y'know? Don't lump us in with aliens.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Quit yapping and let's get to it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "...Or maybe not get along?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "But... to people from long ago, people born on Mars or in colonies",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "might seem like aliens, too...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "This is it, the spot Big Sis Diondra was talkin' about.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Eek, what's that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Aaah! That pesky invading army!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "The space crime syndicate... the Gyandlar! What are they doing here!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Hmm? What, more of those pain-in-the-neck Earthlings around!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Quit gettin' in our way already!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "These guys... For a space crime syndicate, they sure seem like grunts.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Whaddaya say!? Don't talk nonsense!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "We're the Gyandlar's Phantom Soldier Commanders, who scare kids silent,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Devil Saturn 6!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Cutting loose with threats like that is what makes you a grunt!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "...Cutting... a tanker?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Darn right, I've sliced a space tanker or two clean through like this...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Awful. ...Also, I don't know what a space tanker is.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Whaddaya makin' me do, ya dope! No time to play along with corny gags.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Dang it, Earthlings, just quit gettin' in our way!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Where's Gil!? Aren't you teamed up with the Bunker!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Gil? Bunker? Don't talk nonsense!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "I'm only doin' this 'cause I got orders!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Meaning what? Then are the Bunker and the Gyandlar even linked...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Don't take what the enemy says at face value.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Infighting within an organization is common enough.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "What a troublesome bunch! What now? Do we fight?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Even if we don't want to fight, they look all fired up.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "This is the worst...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "They seem set on fighting. What a pain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Looks like we have no choice.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Weird energy reading, they said... and I get stuck with the short straw!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "That guy's doing nothing but whining.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "...But does that mean this mysterious army really has nothing",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "to do with the Bunker or the Gyandlar!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Seems we'll have to look into this ourselves.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Tch, let's scatter 'em fast! I've got a bad feeling about this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Yeah. This area... and that asteroid... Something's unsettling.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Now... time to finish this...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Here they come, in droves!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "What a weird bunch.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "...Eh, if they ain't gonna attack, fightin' 'em ain't worth the bother.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "What did you even come here for, huh!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Well, we gotta fight these Earthlings anyway. ...So this is the end for ya!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Don't talk so big! Try it if you think you can!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "We won't lose!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "...Sara...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "......!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Hm? What's wrong, Sara?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Ah, yeah... It's nothing. Let's wrap this up quick, Shinobu!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Weird.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Interesting... What interesting creatures.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "But I can't see why he cares so much about them.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "...Heh heh, but if I slaughter them all here, I needn't know.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Get ready, Earthlings!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Kenrou! Show me your power!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Devil Saturn, that's far enough.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "The space pirates don't seem to be with them this time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Maybe they had a fight?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "That's not funny. It sounds likely.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Scurryin' around... Dang it, I'll take ya all out together!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "...Strange... Why are the Gyandlar holding back their forces like this?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Grr, that's it for now!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "I'm done messin' with some weird asteroid that don't earn me a dime!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "And if that lunkhead Rom shows up, it'll be a total mess!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Whoa there! You're not getting away this time!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Brother! What do we do!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Their goal is clear.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "The proof is that only Devil Saturn showed up here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "After them! We have to stop them...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Wait!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "...Hm.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "What are you...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "And how are the Gyandlar and the Bunker connected?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "And we'd like to know who you are, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Oh, same here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "What do we do, Rom?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "...The Gyandlar's ultimate target... is Earth.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "What do you mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Explain it to us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Brother, maybe we should...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Yes, I know, Leina.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "...The time will likely come when we must borrow your strength...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Ah! Hey, wait!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "They're gone...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "A true wandering hero. They'll need our help? What's that mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Their target is Earth... but why, I have no idea.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Here one second, gone the next... Can't they ever stay put?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "They're helping us, so quit complaining.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "...But what does it mean? The Gyandlar are after Earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "and they'll need our help...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "You hear that? A hero of justice like that needs our help!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Man, I'm glad I became a pilot!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "But we never did find out who they are... They do seem to be on our side...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "\"Some call them champions of justice\"... Well, that's just stating it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Anyway, at least we found out",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "what the Gyandlar are after. That's something, Captain Bright.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Yes, it may give us something to go on.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Right, they made things much easier. Mop up the remaining enemies!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Finally done. What a troublesome asteroid.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Is it really okay to just leave this thing? Captain, what's the call?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Then again, it's not as though we have a way to destroy it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Isn't it an enemy base?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "I considered that... but the only readings are plant readings.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "No life signs or metal readings at all!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "In that case... those robot-like things that attacked may be living things.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "So that asteroid's a hive... and the robots are soldiers guarding it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "That may be a good way to put it, Lieutenant Uraki.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Then we'd best keep away. Captain, what do you think?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "I say we declare this area off-limits and leave it be.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "I'm in favor of that as well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Needlessly provoking something that's lying dormant",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "is poor value for the cost, too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Ruri, how's the asteroid's expansion?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "No expansion has been confirmed since we made contact.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Then can't we just come back if something else strange happens?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Like Prospector said, it doesn't seem like we've got",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "time to go poking sleeping bears...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Feels kinda like running away, I don't like it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Can't we blast it with the Moon Attack?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "It's way too big for that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "I'm all for leaving it alone.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Well, no need to go sticking our noses in.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Besides, what that Rom guy said bugs me.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "If the Gyandlar are after Earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Then Gil and the Bunker... are they after it too?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "If Gil's descent to Earth before was aimed at more",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "than just luring Mia out... it's possible.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Looks like it's settled. Let's hurry on ahead.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "This place gives me the creeps.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "If that's decided, best we get out of here fast.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Mm... Right, we'll keep this place from Commander Hazuki.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "The Gandor team's apparently got its hands full.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "We shouldn't give him anything more to worry about.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "All right, back to the ship... Huh? Ryo?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Something's off. I can't help sensing some kind of evil will...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "but it can't be helped.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

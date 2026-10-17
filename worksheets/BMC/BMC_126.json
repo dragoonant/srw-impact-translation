@@ -1,0 +1,163 @@
+{
+ "file": "BTL/BMCPACK.BIN",
+ "format": "BMC",
+ "pilot": 126,
+ "strings": [
+  {
+   "id": 0,
+   "en": "Uh, umm, which one was it?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Oh, this one.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Please hit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "I said stay away!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "That's it, I won't forgive you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Kyaaah! B-Big Bro!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Kyaaah! No, I'm gonna get beaten!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Kyaaah! I-I can't hold out any longer!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Agh! H-help me, Big Bro!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Kyaah! Kyaah! Wh-what do I do!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Agh! Wh-why you! I won't be beaten!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "N-not yet! I'm gonna save Big Bro!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Agh! No, stop it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Huh? Was I hit?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "This much won't stop me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "I'm hit! ...Huh? Nothing happened!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "This much won't stop me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "No, no, stay away!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Kyaah! Oh... I'm okay...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Kyaah! Th-that was dangerous!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "That won't work on me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Huh? It's not shooting, why!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "What is this? It won't reach!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "I-I can do it too!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "I-I can do it too!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "High Mega Cannon, here goes!!",
+   "kind": "quote",
+   "keep": false
+  }
+ ]
+}

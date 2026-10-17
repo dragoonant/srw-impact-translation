@@ -1,0 +1,1189 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 198,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "A building out here...? It doesn't look like a base.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Shouldn't we spread out for now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "I think so too... I've got a bad feeling.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "...All right, all units launch! Stand by at battle readiness.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Still, this is suspicious. Could it be... a ninja hideout?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Really!? Big Bro?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Now that you mention it... something might be there.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "What!? Is that true, Commander Hazuki...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Lady Romina, there is still hope...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Whoa, hold it, hold it! I can't even get a word in!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Why would there be ninjas in a desert!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Joe, don't jump to conclusions on your own. You're not Koji.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Yeah, yeah... Hey, Sayaka, what's that supposed to mean!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "...I don't know what to say.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Tetsuya's no good at this kind of thing.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Come on, there's no way ninjas would be in a place like this.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "It's not even Japan.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "...I see...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "This is awkward.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "There's just...no sense of tension.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Well, beats being gloomy, doesn't it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Being too cheerful's a problem too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Sorry about that. The three of us grew up on Mars.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Don't worry about it. Growing up in a colony... Huh!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Commander! Enemies sighted!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "What's that...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "A type I've never seen... New model? Or another new enemy!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Hmm, they've noticed. I wanted more forces... It can't be helped.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "I'll show no mercy to anyone in my way...! Attack!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "They're attacking!? Why Zeon mobile suits...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Show, who's piloting those?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "I don't know! I doubt Drake's army would team up with surface forces...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Made it! The ID code is... Wh-what...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Out with it, Commander. Nothing's gonna surprise us now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "...Meganoids...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Impossible! They were wiped out on Mars in the last war...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "If they'd been wiped out, they couldn't appear here, could they?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Quit skulking around and show yourself!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Hehehe, there's no need for me to come out myself!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Watching from the sidelines, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Then I'll just drag you down here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "It's too early to be surprised... Behold!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "\"Behold\"... Who are they?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "What, are they somebody special!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "...Those people... Could they be...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Hm, those people can't be...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "...That's it, now I remember...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Ryoma, are they from that big battle with the Meganoids on Mars...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Looks like it. Those are Banjo Haran's assistants!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Very good. Now, you two, give them their reward.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Yes, Lady Mylene.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Yes, Lady Mylene.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Yes, Lady Mylene.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "...Dammit, what is going on here... Are they being controlled...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Can people really be controlled that easily?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Hahaha, behold! Improved even further since the last war,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "the power of our mind-control device!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Commander Hazuki, from the pyramid-like structure,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "an abnormal signal is being transmitted!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "What does that mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "If we crush the source, the control will break...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Yes... But the problem is which building it's coming from...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Hmph, then we just smash them all, one by one. Let's go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Ugh... Mmm...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Are you all right, Beauty?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Looks like she's back to her senses.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "...Huh? What...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Are you all right? You were being controlled by the Meganoids.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Oh, now that you mention it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "In any case, please withdraw somewhere safe for now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Okay!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Ugh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "It's me, Reika. Are you all right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Are you okay?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Huh? Oh... I'm fine... I see, I was... by the Meganoids...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "It's dangerous here. Please withdraw outside the combat zone.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Understood.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Is the pilot all right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Mmm... Lemme sleep a little longer...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Hey, wake up, Toppo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Looks like he was in dreamland...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Uh, mmm... *yawn*... What's going on?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "N-no, it's... You're Totsuta Toda, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Name's Toppo. Nice to meetcha.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Leave this airspace at once and get somewhere safe.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Roger~!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Blast it, then I have no choice! It's still incomplete, but so be it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "That's... a new Zeon model!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "...This feeling...? Kamille!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Amuro, that's... a psycommu-equipped Newtype machine!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Who's piloting it!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "...Commencing attack...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "That girl... I've seen her somewhere...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "This feeling... Are you...there...? Judau...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "I see, the one Judau was separated from in the last war...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "It's Ple, isn't it? Elpeo Ple...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Unlike Banjo's assistants, that girl won't be freed",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "even if you destroy the device over there.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "What does that mean...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Are they controlling her some other way...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "(The device is still experimental... I can't say whether it'll work...)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Now then, it's time I played with you myself.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Whoa!? What!? A giant woman...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Now that's a sight.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Geez, Mister! Is this any time to fool around!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Whoa! She's super-duper huge! Show!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Wh-what is this...! A tiny Ferario I could understand, but...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "No doubt... A Meganoid enlarged by their own micromachine technology...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "A Megaborg!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "It seems Banjo hasn't arrived yet.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "And after I went to the trouble of controlling his assistants...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "My, my, just what do you take my assistants for...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Hm, who's there...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Have you forgotten me, my lady? ...Then let me remind you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Daitaaaaan, come heeeeere!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Unidentified flying object closing fast...!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "No, this ID code is...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "For the world and its people, Daitarn 3 crushes the Meganoids' ambitions!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "If you don't fear the brilliance of the sun... come and get me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Daitarn 3...!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "It was meant to be scrapped under military pressure after Mars...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Until the Meganoids' ambitions are utterly crushed, Daitarn won't die.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "So the one they blew up was a fake?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Without beating around the bush, yes.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Now, Commander Mylene, my lovely assistants, under your mind control...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "I'll be taking them back!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Though it took me a while to go fetch it from Mars.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Hehehe, the man Lady Koros kept nagging us never to underestimate...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "I'll see just how good you are!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Koros... Koros, huh. ...I met her...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "What...? Banjo, you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Don... Don Zauser is probably alive and well too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "...Commander Mylene! My fight starts again right here!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "This time, every last one of you will vanish from this world...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Silence! Banjo Haran!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "I'll say it all I like! Come on! If you don't fear the brilliance of the sun!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Here I come!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "For the Meganoid Empire, and Don Zauser's fame across the galaxy!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "I, Commander Mylene, woman though I may be,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "will not rest until I've defeated Daitarn 3!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Ugh, this is as far as I go.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Oh well. The experiment here produced more than enough results.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Running away!? Mylene!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Banjo Haran... Don't worry. That Daitarn is alive and well,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "I've seen with my own eyes, no need to ask your old flame, Lady Koros.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Don't expect things to go your way next time.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Mylene! Give Don a message!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Tell him Banjo Haran will be paying him a visit soon...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Ohohohoho... Farewell, then.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "...Geez, they go quiet for a while, and this is what they're up to.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Haran? You're Banjo Haran, aren't you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Ah, forgive me for not introducing myself.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "You're of the Far East branch's Cyber Beast Force, now the Gandor Team...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Commander Kotaro Hazuki...correct?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Glad to see you're quick on the uptake.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "The Meganoids' renewed invasion... It seems that's now an undeniable fact.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "So we've got another enemy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Aww, I wanna go back to Byston Well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "...I've got some information on the Meganoids.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Commander Hazuki, I'd like Daitarn 3 to tag along... Would that be all right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Of course. I've heard tales of your heroics in the battle on Mars.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "We'd be glad to have you, Banjo Haran.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Good, it's settled.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "As you can see, my somewhat unreliable assistants come along too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "That's right, what about Elpeo Ple!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "She's been picked up. She's resting in the infirmary.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "We'll have to tell Judau.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Ow ow...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "...Someone's still alive!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Geez, what was that all of a sudden?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Kiki!? Kiki Rosita!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Huh? ...Shiro? Shiro!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Lieutenant Amada, who's that girl...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "She's with the neutral guerrillas. ...Kiki, what happened?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Well... we swiped a Zeon mobile suit, truck and all.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Then right after, we got snatched up, truck and all...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "and just a little while ago, they dumped me here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "Either way, looks like the timing worked out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "You said it. Oh, right, there's no pilot for it,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "so that MS is just sitting there. Take it with you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "That helps. We're short on mobile suits right now... What model is it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "Um, let's see, hmm... Something about a fighter...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "A Kampfer!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Zeon's assault type, huh.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "All right, Commander Hazuki, let's haul it in and withdraw ourselves.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "Hey, hey, Shiro! You're not leaving me behind, are you!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "Huh? Yeah, I know. I'll drop you off somewhere safe.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "You're popular, Lieutenant Amada.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "...Don't tease me.",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

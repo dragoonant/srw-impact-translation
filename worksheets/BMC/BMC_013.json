@@ -1,0 +1,343 @@
+{
+ "file": "BTL/BMCPACK.BIN",
+ "format": "BMC",
+ "pilot": 13,
+ "strings": [
+  {
+   "id": 0,
+   "en": "Iyaaah!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Out of my way!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "I'll cut you in two!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "I'll take your head as a gift for Lord Gades!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "If you hadn't defied the Gyandlar, you wouldn't have had to die...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "I've no time to deal with small fry like you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Become rust on my blade!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Take this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Die! Rom!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Rom! I'll kill you with my own hands!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Baikanfu! I'm your opponent!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Baikanfu! Now is the time to settle things between us! Here I come!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "...Got you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Bah, disappear!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "I'll settle this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "You'll regret this...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Defying the Gyandlar... How foolish...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "...Careless of me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "N-no way... I've been beaten...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "This strong!? I underestimated them...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Grnngh, you little pest...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Not yet! I can't die yet!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "T-to take this much damage...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "R-Rom! You're the one I can't lose to!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Bah, how infuriating!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Oh... That's more like it. Otherwise it's no fun...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Damn! Not bad at all!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Taking that head-on... Was I careless!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Looks like you might be a bit of a challenge!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Ngh! Rom, to think you've grown this strong!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "...Impudent.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "How shoddy...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Ngh! Just a graze!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Is this all your power amounts to!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Rom! Is this all the power you have!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "How shoddy...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Looks like you need more training!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Green! Far too green...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Such an uninspired attack!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "What's wrong, what's wrong!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "You're not worthy to be my opponent!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "You call that aiming!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Did you know there was such a thing as this?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "So this is a barrier... How convenient!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "...!? At a time like this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Ngh! I can't counter...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "They fired from over there!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "At this distance...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "You won't escape! This will finish you!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "How careless! Die!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "I've no time for small fry! Vanish!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "I'm your opponent!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Defying us, the Gyandlar, with only that...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Naive! I can't let you do that!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Tenku Ankoku Ken... Receive it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Tenku Ankoku Furan Ken...!",
+   "kind": "quote",
+   "keep": false
+  }
+ ]
+}

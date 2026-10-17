@@ -1,0 +1,403 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 2235,
+ "strings": [
+  {
+   "id": 0,
+   "en": "So the Einst series did appear after all...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Could they be after the Star of La Mu?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "It may be safe to think so.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Hm? Do you know something?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "...In truth, the Star of La Mu was not made by the Mu Empire.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "What...!? What do you mean, Lemuria?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "I heard this from my father, La Mu... What we call the Star of La Mu",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "was apparently left behind by a civilization older than Mu.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "So you've been using the legacy of a past civilization...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Then it might not be from Earth at all, but left by aliens...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "The Campbellians, for one, hid on Earth since long ago.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "If anything, it may well be likely...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "I feel that the Einst series... that sinister, mysterious enemy...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "is the one most deeply connected to it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "You mean... they've come to take it back?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "I have no proof, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "According to reports, they also have some connection",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "to the Campbellians you mentioned, Commander.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Certainly, if we think of it that way, it may all add up...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "If that's really so, then with the Star of La Mu now in our hands,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "the Einst will surely come meddling with us...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "We'll just have to sort out the information bit by bit...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "With the Mykene Empire and the Demon Empire defeated,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "the ground force's mission is all but complete.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Well... I'm glad we settled things with the Mykene, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "That Muge guy we supposedly beat in the last war came back, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Shapiro, who should've died with the Dirad, was back too... Muge's doing?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Damn right... Nobody but that bastard Muge could pull that off!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "That's... kind of scary...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Obsession... huh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Indeed, I sensed an aura of tremendous malice.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "And... something like an evil will, beyond mere aura...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Something evil... You mean the Einst?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "No... I think it's still too early to say for certain...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "It may be the powerful will of this Muge.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "But this \"Shadow of Muge\" thing and the recent Einst",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "give off a similar feeling.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Really?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Yeah... I can't say for sure, but a new...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "no, it's more like a hazy presence I've sensed is coming into focus.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "I don't really get it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "We can't sense it. At most, we feel a sort of pressure...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "What about the Gyandlar coming down to Earth?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Those unbelievable guys, yes?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Can't tell if they're robots or monsters.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Now that the chaos has settled down and our hands are freer,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "those guys are probably getting antsy.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Still... even with Rom and the others working hard,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "I didn't expect them to be active over such a wide area.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "The enemy is getting serious, then...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "What do we do from here, Captain Amuro?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "The guys we were just talking about are a worry, but space is next, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Yeah... We have to prioritize places where we know the enemy is.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "I wonder when we'll ever get to relax.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Well, not anytime soon.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Geez, how long's this gonna go on?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "If we crush them one by one, it'll end eventually.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Eventually, huh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Come to think of it, what are the Nadesico and Ra Cailum teams doing?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "They report success in defeating enemy forces,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "but there are still enemies whose headquarters we haven't found.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "So what's left are all tougher than anything so far...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Right. We'll need to concentrate our forces and crush them for sure.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Then let's hurry up into space and meet up with Daisuke and the others.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "No need to rush. Commander Hazuki is contacting the other teams now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Hazuki / Play Mars route (Nadesico Team) / Play Moon route (Ra Cailum Team)",
+   "kind": "system",
+   "keep": false
+  }
+ ]
+}

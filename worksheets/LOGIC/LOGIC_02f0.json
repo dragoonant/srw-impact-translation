@@ -1,0 +1,1399 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 752,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Well, well, looks like they've finally shown up.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Good, the enemy hasn't reached Solomon yet!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "What a laid-back bunch. Looks like we can secure Solomon first.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "No, we still have to deal with that many enemies...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Even with the terrain on our side... it'll be a tough fight.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Let's put the tough robots up front, like Mazinger and Grendizer,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "and close in all at once!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "That's actually sensible, for you, Koji.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Once in a blue moon, anyway.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Great Mazinger, Grendizer, plus Dancougar and Dangaioh...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "We've got plenty of heavily armored robots now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "So we push through in one go and take Solomon.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Fancy words, but it's still just brute force.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Our forces may be coming together, but they're still not enough...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "We'll just have to adapt as we go.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Nothing ever goes smoothly, huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Well, no use grumbling about it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "The Aestivalis team will use their mobility to throw the enemy off.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Everyone, prepare to launch.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Captain, you actually sound like a captain for once...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Believe it or not, she was a top student at Federation University.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Maybe she decided this is the moment that counts.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Indeed. If we secure Solomon, just think how much",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "we'll save on supply costs from here on...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "The enemy won't wait for us, y'know? Shouldn't we sortie?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Let's just get moving.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Captain Bajeena...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Something's off.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "The big mobile armor I understand, but with that many agile MS,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "why not take Solomon and its terrain advantage?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "You mean... it's a lure?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "...You may be right.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "But we can't just sit and watch, and we can't fall back either...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "All units, launch!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Huh? Where are the ones always first to yell \"Let's launch already\"...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "the Cyber Beast Force?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "...They've already gone to the deck.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "That was fast!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "The whole cast is assembling.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Now... we just wait for our Guests to make their entrance. Heh heh...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Lotta them around. There's mobile suits I've never seen, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "There are Titans mobile suits too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "They're said to date from the Gryps Conflict, when that sharp operator",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "from the Jupiter resource fleet was making trouble.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "You're well informed, Shiba. They're high-performance MS. Stay alert.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Shoot 'em down and they're all the same. Just scrap metal.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Still... their units aren't standardized at all...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "You mean... they're a ragtag bunch?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Lieutenant, take a look around you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "...Huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Yeah, yeah, Londo Bell's units aren't standardized at all either.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "You idiots! Londo Bell isn't some military unit!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "It's a super robot legion! Can you believe this POWER!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "......Idiot......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Being a corps, we've got robots galore... right to the core... Heh heh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "What are you doing!? Commence attack!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Quite a lively bunch, aren't they? But... it's about to get noisier...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "The venue, Solomon, is open. Care to go first? ...Heh heh heh heh.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "I see... The Earthlings' robots are swarming here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "There's no doubt this is the point from the intel.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Hm! That's King Vega's Royal Guard...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "That is indeed the Earth army Duke Fleed is aiding!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Heh heh... They've bested us so far, but not this time...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Our Guests have all arrived... Heh heh. Now, let the show begin.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Brother! What do we do!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Why's the timing always so lousy? ...Well, I guess that's nothing new.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "True, but we've got no choice...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "The timing's too convenient... Doesn't something seem off?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Zeon is... awfully calm. Something's definitely wrong...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "It seems they've decided to watch from the sidelines",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "while we and the Vega Star Federation fight...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Zeon's so relaxed...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "because they knew the Vega Star Federation was coming...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Captain Bright, so we're on our own here?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Right, we'll handle this ourselves. Take them out one by one!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "This sucks. I wanna beat the Gaizok, but we keep taking detours.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "The Vega Star Federation are invaders too, Kappei.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "You lot, don't lay a finger on the aliens! We'll take 'em all at once.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "First we crush the ones Duke Fleed is with!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Leave the colony army for later!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Seems both the aliens and the colony-born have it in for us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Unbelievable.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "No doubt. But this is no time to whine about it. ...Let's do this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Solomon...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Right on time...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Now, make it a showy one, Nightmare of Solomon. Heh heh.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "What!? Is that...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "A Gundam!? That's... Prototype Unit 2!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Gundam Prototype Unit 2...? Hey, you don't mean...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "After reports that it was stolen on Earth... it was never seen again!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "What's that MS doing here!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Hm, what's this? At a glance, it looks like",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "the robots of Duke Fleed's allies, doesn't it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "I knew it...! Zeon never meant to capture Solomon...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Captain! Tell everyone to brace for the flash!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "What's the big deal, just 'cause a bulky Gundam showed up, Quattro?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Brace for the flash...? What do you mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Huh? Is it gonna do something?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Is it gonna use a blinding attack?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Captain! Does that thing really have...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "There's no other reason for it to show up here...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "The Mk-82 laser fusion warhead, if I remember...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "What the heck's that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Shall I explain? Simply put... it's a nuclear bomb.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "It's a nuclear attack... banned long ago by the Antarctic Treaty!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Wait, nuclear... What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Seriously!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Solomon... I have returned!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Everyone! Are you all right!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "...Ngh... That was insane...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Ugh, my eyes are still seeing spots...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "What power... Solomon...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "How reckless...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "So they never meant to use Solomon as a base in the first place...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "That was a shock. Looks like they meant to take out the Vegans too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "But... that means we've lost a supply base...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "So this was their aim...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Good work, Major Gato. Now, let's clean up the rest!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Tch, an all-out battle right after a huge blast! What a mess.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Koji, this is no time to be so carefree!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Should I call it luck that the enemy's fewer now...? Damn it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Tetsuya! Here they come!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Anavel Gato... That boy from back then has come so far... Impressive...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "...Strange... Shouldn't it be about time!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "You've done as you please long enough...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "The enemy's moves are in disarray? What are they panicking about?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "What's going on? And it's strange how they haven't moved at all...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Maybe they had some kind of plan...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Looks like their plan fell through. Let's finish them off!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "When they're all deflated like this, it's time to strike.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "If you've got time to dither,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "shouldn't you just attack already?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "All right, let's go, everyone!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "(That's right... I've gotta end this fight fast!)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "So let's push through, Captain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Right, we'll use Solomon as our base and strike the enemy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "We've got this in the bag. Let's go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Things are going our way, Tetsuya.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "What a noisy bunch. Can't they shut up and fight?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "...What!? Gundam Unit 2!? Tch, how infuriating.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Hm!? Hey, that red one's running away!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Who'd have thought the damage from Earth would hurt this much...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "We'll be withdrawing here!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "It got away!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Huh? Looked like it could still fight. Quick to run, that one.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "...A well-timed withdrawal. Captain, shall we pursue?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "No, let it go, Lieutenant. Mop up the remaining enemies.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Tch, time to go...! The objective is achieved.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "A pity I couldn't finish off Londo Bell all at once...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "It's not that easy, it seems.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Running away!? I won't let you keep misusing the Gundam!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "The Gundam, you say...? Absurd! Mobile suits are mere tools of war!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Sentimentality on the battlefield is foolish!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Uraki! Don't pursue too far!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "We lost this fight the moment that nuke hit Solomon...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Just focus on getting out of here!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Ngh...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "What!? ...A Gundam...? This Gundam is...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "Geez, another bulky one showed up.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Hey, hey, how many types of Gundam are there?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Oh, plenty. ...Mountains of them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "If you stand in our way...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "...Reinforcements!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "What!? A Gundam as big as Prototype Unit 2!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Wait! This feeling, and that Gundam...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "That's right! Judau!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "What, you know him?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Heh, sorry I'm late, but Judau Ashta",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "and the Double Zeta have arrived!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "Judau! Is it really you!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Why would I lie? I'm back from Jupiter, Bright!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "Good, we can't let them ravage Solomon any further!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Join the line right away!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "That Gundam is...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "A lady from Anaheim named Nina had it taken apart for tuning,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "so she put it together and sent it over. Pretty reckless gal, huh?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Are mechanics weirdos everywhere, or what?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Sorry, Judau. I'd hoped not to drag you into the fighting...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Don't sweat it, Quattro! I couldn't just sit still, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "Geez, an ally's fine and all, but another brat!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "Big talk from the most childish one here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "What'd you say? Masato, you...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "...He's hopeless.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "What a kid.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Good... Looks like every enemy in this area's been dealt with.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "What!? ...A Gundam...? This Gundam is...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "Geez, another bulky one showed up.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "Hey, hey, how many types of Gundam are there?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "Oh, plenty. ...Mountains of them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "If you stand in our way...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Wait! This feeling, and that Gundam...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "That's right! Judau!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "What, you know him?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "Heh, sorry I'm late, but Judau Ashta",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "and the Double Zeta have arrived!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "Judau! Is it really you!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "Why would I lie? I'm back from Jupiter, Bright!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "That Gundam is...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "A lady from Anaheim named Nina had it taken apart for tuning,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "so she put it together and sent it over. Pretty reckless gal, huh?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "Are mechanics weirdos everywhere, or what?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "Sorry, Judau. I'd hoped not to drag you into the fighting...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "Don't sweat it, Quattro! I couldn't just sit still, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "Geez, an ally's fine and all, but another brat!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "Big talk from the most childish one here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "What'd you say? Masato, you...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "...He's hopeless.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "What a kid.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "Judau, you're so late!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "What were you doing while we were surrounded by aliens!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "Shut up, I told you I was waiting on assembly, didn't I?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "Now, now, go easy on him, Roux.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "Judau, this is the state of the Earth Sphere.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "Jaburo's held by an unknown enemy, and we're about all that can act.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "You don't have to spell it out, Bright. Leave it to me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "...Allies are welcome, but... that one was rough too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "Just holding on is a win, right, Lieutenant Emma?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "Exactly, we have to cherish what went right!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "Is this any time for humans to be shooting at each other? Damn Zeon!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "In effect, the Federation has no real strength as an organization now...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "I can see why they'd use this chaos to get rid of us first.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "I get that, but... then what are we fighting for...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "Is fighting... the only way...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "Captain, the Gandor team's assault on Jaburo should be soon...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "...Right! All units, return to ship!",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

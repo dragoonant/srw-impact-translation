@@ -1,0 +1,931 @@
+{
+ "file": "BTL/BMCPACK.BIN",
+ "format": "BMC",
+ "pilot": 179,
+ "strings": [
+  {
+   "id": 0,
+   "en": "I'll take you down in one hit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Like I'd let you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Why you!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "You're mine!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Haaaaah!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Get out of my way!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "There!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Go down!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Can I do it!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Like I'd let you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Sink!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "I said go down!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "There!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Careless!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "I'll take you down in one hit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Like I'd let you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Why you!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "You're mine!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Haaaaah!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Get out of my way!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "There!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Go down!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Can I do it!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Like I'd let you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Sink!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "I said go down!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "There!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Careless!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Stay out of my way!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Don't be in such a hurry to die!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Stay out of my way!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "That's right, you're in the way!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Ngh! Heaven help me!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Ngh!! Is this it!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "D-damn it!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Waaagh!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Damn it! Is this all my Aura Power amounts to!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Ugh! At this rate...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Ngh! I c-can't go down yet!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Heaven help me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "I'm being overpowered!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Th-This one...!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "No good, I'm done for!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Damn it! Is this all my Aura Power amounts to!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Ugh! At this rate...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "I'm being overpowered!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Show, pull yourself together, Show!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "...! Not yet!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Tch!! But I can still fight with damage like this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Ha! Not yet!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Ngh!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Not bad!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "I won't go down that easily!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Ugh! I'm not beaten yet!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Ugh! N-Not yet!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Tch!! But I can still fight with damage like this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Ha! Not yet!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Ugh! I'm not beaten yet!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Ugh! N-Not yet!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Ugh!! But if this is all...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Watch more carefully, Show!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Ngh, it only grazed me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Not yet! This is nothing!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Tch! I can still go!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Ugh!! But if this is all...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "As if this could stop me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Ngh, it only grazed me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Not yet! This is nothing!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Tch! I can still go!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Ugh!! But if this is all...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "As if this could stop me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Useless!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "You won't hit me!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Nice try!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Not a chance!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Too slow!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "There you are!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "You...!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "You won't hit me!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Nice try!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Not a chance!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Too slow!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "There you are!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "You...!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "I know!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Don't yell in my ear!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Like that'll hit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Show, right!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Don't yell in my ear!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Show, below!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "I know!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Useless!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "That won't work!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Useless!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "That won't work!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "My Aura Power's been getting stronger too!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Damn, out of ammo!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Ngh, is it no good!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Ngh! Too far!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "No good at this range!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Ngh! Too far!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "No good at this range!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "It's over!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Ngh! Why you! I won't let you have your way!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Haaah!! Aura Slash!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Haaah!! Aura Slash!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "That's right, get 'em!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Haaah!! Aura Slash!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "That's it, get 'em!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Haaah!! Aura Slash!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Get 'em!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Take my Aura Power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Take my Aura Power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "That's right, get 'em!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Take my Aura Power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Gooo!! Hyper Aura Slash!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Take my Aura Power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Get 'em!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Out of my way, you gnat!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Get out of my way!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Got you!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "I'll take you down in one hit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Got you!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Sink!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "If I take down even one, I'll have a way to survive!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "There!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Hit, hit, hit!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Stay out of my way!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Damn it, you pests!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Get out of my way!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Careless!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Want to go down that badly? Then I'll give you what you want!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Go down!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Brace yourself!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "You're mine!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "I'm taking you down!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "There!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "You won't get away!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "I said go down!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "You won't get away!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "I'll take you down in one hit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Hyaah!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Haaaaah!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "My Aura Power should be stronger now too!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Sink!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "If I add my attack too!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Can I do it!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "I'll show you!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Don't be in such a hurry to die!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Don't get in my way!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Get out of my way!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "I've got Aura Power too, you know!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Haaaaah!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Prepare yourself!!",
+   "kind": "quote",
+   "keep": false
+  }
+ ]
+}

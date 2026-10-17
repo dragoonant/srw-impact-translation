@@ -1,0 +1,205 @@
+{
+ "file": "BTL/BMCPACK.BIN",
+ "format": "BMC",
+ "pilot": 56,
+ "strings": [
+  {
+   "id": 0,
+   "en": "Commencing attack.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Understood. Commencing attack.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Commencing counterattack!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Switching to interception.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Returning fire as is.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Bunch of idiots...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "There's nothing more we can do.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "All systems are down.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Distortion Field output dropping.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "We've taken too much damage. We can't hold out any longer, Captain.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Damage has spread to 18 blocks.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Rear hangar and Block 3 completely destroyed.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Moderate damage to the field generator near Section 2.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "The enemy's pretty good.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Moderate damage to the field generator near Section 2.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "No abnormalities shipwide.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "No significant damage.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "No abnormalities shipwide.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "No significant damage.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "No significant damage.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Omoikane, evasive action.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Evasive action successful.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Omoikane, predict trajectory. ...Or rather, it missed.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Distortion Field operating normally.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Field output stable.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Not enough energy...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Ammo alert. Unable to return fire.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Omoikane, check all systems. ...Oh, we're out of ammo.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Attack from outside our range.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Enemy acquired within range. Commencing attack!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Advancing at full speed for a full barrage.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Leave this to the Nadesico and fall back.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "You're in trouble like that. Please retreat.",
+   "kind": "quote",
+   "keep": false
+  }
+ ]
+}

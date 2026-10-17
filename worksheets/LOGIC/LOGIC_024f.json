@@ -1,0 +1,1327 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 591,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. Nadesico is destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "And so, we're escaping Earth!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Hmmm...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Prospector? What's wrong? We made it this far safely.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "(This is going far too smoothly...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "It seems Jaburo truly isn't functioning...)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Prospector? That's weird.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Captain, what do we do now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Just as planned, we head for Mars!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "The people at the Mars colonies are waiting for us!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "(Mars... where I was born...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Before that! We must head to Satsuki Midori Colony.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Oh, right... We're picking up supplies there, aren't we?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "But Satsuki Midori Colony... isn't it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Currently out of contact. ...Maybe...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "We'll just have to find out.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Hmm, the space frames for the Aestivalis, plus their pilots...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "We can hardly just leave them there.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "So Satsuki Midori Colony comes before Mars. Got it~",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Isn't there something we gotta do first?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Ah, that... right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Oh, that? Like we decided, let's just smash it and get going!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Captain! We decided no such thing! We enter the release code!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Boson reaction.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "What!? An enemy attack...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "The Jovian Lizards...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "All riiight! I'm launching!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Huh? Gai!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "That was fast!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "You bet it was!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "I heard we were smashing the barrier, so I was waiting on the deck!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Last time that punk Tenkawa stole the spotlight from me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Oh dear, it seems he's forgotten about the release code as well...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "C'mon! Bring it on, you lizards!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Yamada! Don't you go outside the gravity wave beam!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Okay, okaaay! Just leave it to me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "...Think he gets it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Probably the same thing you're thinking, Megumi.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Tenkawa?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "I... really gotta go out there...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Akito, our lives are... all in your hands now!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Take out the lizards and the barrier, all at once!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Not the barrier, Tenkawa!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Huh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Tenkawa, please take care of it, then.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Guess I've got no choice...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "What's the deal, Tenkawa!? Just leave this to me already!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "No can do! Not the barrier yet, Gai!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Hoshino, enter the code, please.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Roger.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Tenkawa, Yamada, hacking the Barrier Satellite will take 3 minutes.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Please hold out until then.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "It's Daigouji! All right, here I go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Make it quick, Yurika!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Entering release code.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "1. Who owns the blue Earth? 2. Who owns the green Earth?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "WHO OWNS THE BLUE EARTH?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Whew, we didn't have to destroy the barrier after all... Phew.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "All right! Code entry successful! Akitooo! You can smash it now!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Captain! Were you even listening!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "WHO OWNS THE GREEN EARTH?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "No good.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "No way! The wrong code...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "No need to panic, Prospector! Okay, Akito! Yamada!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Go ahead and smash it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "I've been waiting for this! Time to wreck it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Hey, are you really sure about this!? Yurika!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Yup! That's what you went out there for!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Haaah...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Well, I kinda saw that coming~",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Tenkawa, Yamada, please destroy the satellite. Spectacularly.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Well, that settles the barrier.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Now, let's shake them off quickly and head for Satsuki Midori Colony...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "That's all fine, but something's coming, you know?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "So that's... the Nadesico!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "It would seem so. ...And the Barrier Satellite already looks disabled.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Quite efficient of them.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "That's... the Federation's Ra Cailum...! Which means...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "The Nadesico... Now, what to do?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Why not just wreck its engines and stop it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Quite the roughneck, aren't you, Maria?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "But... if I remember right, the Nadesico's captain is...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Hiii! I'm the captain!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "V for victory, take two!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "...What's the meaning of this?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Deceiving us would gain them nothing.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Yurika! This is the same thing that happened on Earth!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "No, the Admiral's daughter is 20... She'd be about that age.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "...Captain Misumaru, your father, Admiral Misumaru, told me about you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "We have no intention of being your enemy.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Huh... From Father? Oh no, he didn't say anything weird, did he?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Geez! He's always telling everyone stories about when I was little~",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "No, nothing like that...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Hm, Captain Bright seems... to be having a hard time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "That girl's quite the skilled player.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "...At what?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Um, this conversation's getting tangled.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Yurika!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "It can't be helped.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "...Ahem. Well, to the Federation's independent unit, Londo Bell,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "captain of the flagship Ra Cailum, Colonel Bright Noa:",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "I am the auditor for Nergal Heavy Industries. My name is Prospector.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "(Nergal Heavy Industries... Is this man pulling the strings...? No, he's not.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "I'm aware of the Scaparelli Project.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "...But with the Earth Sphere like this, defense alone stretches us thin.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "I'd like the Nadesico to come under Londo Bell's command!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Captain, what should we do?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Let's see... We left everything up to them with the Gandor unit,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "so let's do our best this time. They're not our enemies, after all!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Personally, I'd rather we bid them farewell as soon as possible...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "High heat source approaching at high speed.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "A-another enemy!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Lizards!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "What...!? A Gundam...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Impossible. ...But that face design...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Identification...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Unidentified... It may be an entirely new model.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "But... it's not on Anaheim Electronics' production lines.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Not made by Anaheim...? Are you sure!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Yes. I did a little hacking.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Hoshino!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Ah, this isn't the sort of thing Nergal does on a regular basis, mind you...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Oh my, she's pretty good, isn't she?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "It's still headed for Earth. We're the only ones who can stop it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Captain Misumaru, the Nadesico is now under Londo Bell's command!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Understood! Okay, Akito, go get 'em!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Why's it always gotta be me...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Quit your whining! Let's go all out! All out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Before we destroy it, I'd at least like to know where it came from...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Yeah. If that's a Gundam, then at least it's not an alien machine...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "That's about all we know.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "(I'd like to find the right moment to slip away...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "At this rate, we'll never make it to Mars...)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Heat source approaching.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "There's more coming!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Whose side!? Don't tell me it's the Za Boom or the Vega Star Federation!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "They're broadcasting an ID signal... This is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Kyoooojiiii!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Is that... another Gundam!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Are they with that big Gundam!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "The ID signals are registered.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Neo Japan Colony's Shining Gundam, Neo Sweden Colony's Nobel Gundam,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "and Neo Hong Kong Colony's Master Gundam.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Outta the way! Let's finish this, Domon!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "...Ohhh! This hand of mine is burning red!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "(This is... I see... Magnificent...!)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Who are they?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Wow! Could it be... a Gundam Fight!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "That's it...! Mobile Fighters...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Melee mobile suits built for the Gundam Fight!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "The Federation! We pursue this one on Ulube's orders! Do not interfere!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Ulube...? Major Ulube Ishikawa? And who are you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Master Asiaaa!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "Hey, Excellen, how do you know him!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Oh my, I may not look it, but I'm quite the martial arts buff, you know?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "If you get in my way, I won't hold back! Stay out of this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Things suddenly got pretty heated, huh!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Now's our chance! Minato! Nadesico, maximum battle speed, please!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "The Captain hasn't given the order yet, though?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Going to Mars was our goal from the start, so let's go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Same thing we did to the Gandor unit.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Hey, Yurika!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Good work out there, Akito!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Yamada, please return to the ship too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "I told you, it's Daigouji!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Is it really okay to keep doing stuff like this...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "Hm? Captain, the Nadesico is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Damn it! Wait, Captain Misumaru!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "We've got our own job to do, you see!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "I'd prefer a job that didn't cause people so much trouble, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Damn it...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Captain, if we're pursuing, I'll go...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "...We can't afford that...! Forget the Nadesico!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Top priority: wreck the Lizard robots and seize that big Gundam!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "(That battleship... did it just escape from Earth?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "...No matter. This will only make it easier for me to act.)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "Kyoji! This ends here! ...Why did you steal the Ultimate Gundam!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Because of you, Father and Mother...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Heh heh heh... Heh heh... Heh heh heh heh heh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "He's... laughing...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "What's so funny!? Kyo... Ngh!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "......Oh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "Wh-what!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "It regenerated... It repaired itself...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "What... is going on!? Hm!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "Uh-oh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "To Earth!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "Careless of me! Domon!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "Damn iiit! Let's go! Master! Allenby!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "Yeah! Got it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "A mysterious giant Gundam, and mobile suits for the Gundam Fight...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "What could this combination mean...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "...All hands, sweep up the remaining enemy forces.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "You sure about this, Captain?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "...We're so powerless. All this going on, and this is all we can spare.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "Battle Mastery increased by 1.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "No enemy readings nearby... Is it over?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "Geez, what is going on!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "New enemies scurrying around Earth one after another!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "Oh my, Maria, that's no good. Getting hysterical at your age?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "But the Nadesico is likely headed to Mars... and those Gundams to Earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "In the end, we couldn't stop either of them.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "...I'll check with each colony about the Gundam Fighters.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "...Reinforcing our forces is urgent.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "You mean the super robots?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "...Yes. We'll hold the enemy in check and hurry to each rendezvous.",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

@@ -1,0 +1,1579 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 630,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "I failed before... Heh heh, but not this time...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Come, Mia Alice...! Though that bunch from before might be fun too...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Boss Gil, whatcha waitin' for?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "It's none of your concern. Let's go.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "(What's with this guy? ...Can't figure out Boss Lady Diondra either.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Why's she backin' a jerk like him?)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Huh... What, enemies!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Damn, they've already spread out this far!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Those are... Gyandlar machines, I believe. We're late, Captain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "What? Mechanical Beasts?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "They seem a little different.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Just what... are these things?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "They do kind of look like Mechanical Beasts or Battle Beasts.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Who cares what they are! Let's just blast 'em!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Seconded~! Shall we just get it over with?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Ah! It's that bunch from before! Ya got guts! I'll whup ya! Get 'em!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "What's going on here!? Captain!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "They're not taking this seriously, but... no choice. Intercept them!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "It seems several have already descended to Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "We can't let any more get through.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "All hands, launch as soon as you're ready!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Again and again, you never learn...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "That's my line, ya moron!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Anyone who gets in the way of us Gyandlar gets no mercy!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Ugh, he's so annoying! Brother, take him down!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "The Gyandlar and one more... Are there two organizations?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "We have far too little information...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "It's not Mia Alice? How dull!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "But... you'll at least make a decent warm-up... Heh heh.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Anyway, that robot seems to be aiming for Earth too. Let's sortie.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "All right! All hands, sortie!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Hyo!? What's this, what's this!? A human force!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Oh, for crying out loud!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "No doubt about it... That's a Gaizok battleship.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "It seems they managed to drive it off Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Hm!? ...I see, the Gaizok... Heh heh... Luck seems to be on my side.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "But the timing is bad...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "To think we have to face three armies at once!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "We can't let them slip down to Earth in the confusion!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Right, don't let your guard down!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "This is rough, man!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "We've got no choice!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Hm!? But from the look of it, it's taken heavy damage.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "On the ground?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Looks like it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Natural, considering what the Gandor unit is capable of.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "So they got kicked out, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Mind your own business!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "A reading!? Something else coming up from Earth!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "That giant robot with the crescent moon!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "This ID signal... No doubt about it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Who are these robots!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "New enemies... No, the space forces! That's a Federation battleship!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Then that means it's Londo Bell!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Is this Captain Bright Noa!? This is the Jin family, Zambot 3!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Please give us support!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "I've heard about you from Commander Hazuki of the Gandor unit.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "We'll keep sweeping up the Gaizok machines.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Oh, you're so very persistent! You blasted brats!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Of course we are!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Like we'd let a dangerous creep like you run loose!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "You fight dirty! Trying to shoot down a defenseless HLV!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Defenseless my foot! Some weird robot came jumping out of it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "The Cyber Beast Force! ...But now they're missing...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "What happened to the HLV and Dancougar after that!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "We knocked the Bandock off balance with a good hit, but... what happened?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "I don't know.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "We got the HLV's distress signal, so they may have met up by now...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "but there's no response at all from the Cyber Beast Force.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Hey! Zambot team!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Koji! You're safe!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Yeah! We already met up! Sorry for making you lure off the Gaizok.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Don't mention it. By the way, what happened to the Cyber Beast Force!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "They're not with you!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "...Then they're still missing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "What the heck, everybody's scattered all over the place!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Geez! Meanwhile we keep running into extras like the Nadesico!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Are you guys okay!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Tetsuya! You're safe!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "I owe you one. We managed to meet up.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "I'll have to make the Gaizok pay me back for last time...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Don't mention it. By the way, what happened to the Cyber Beast Force!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Huh, weren't they with you!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "...Then they're still missing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "What the heck, everybody's scattered all over the place!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "We did run into the Nadesico, though. Things never go that smoothly.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Let's count ourselves lucky these two teams made it back. For now...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Bah, you little whelps! What are you jabbering about!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Here they come!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Tch, Kappei! Think later! If we dawdle, we're done for!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Okaaay! You clay doll creep! Get ready!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "All right, destroy them one by one! Aim to finish them off here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Oh, what cheeky little creatures you are!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Getting cocky just because there are a few more of you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "(Easy to say, but... the damage I took on Earth is just too great.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "This planet's space forces... are good...! But... hm!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "An energy reading!? Coming at us at incredible speed...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "What!? Captain, friend or foe!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Identification code... unknown. A new enemy model...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Or an entirely new enemy...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "It's not out of the question, with so many mysterious invaders attacking.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "How can you be so calm, Captain Quattro!? Isn't this bad news!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Earth... So this is... my...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Mia! No time to get sentimental!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "He's here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "So you've come!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Let's combine, c'mon!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "...Let's do it...! Crooosss Fight!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Th-they combined!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Just like Zambot.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Hey! Isn't that way too cool!? Seriously!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "...Gil Berg!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Roll Kran! And... Mia Alice!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Wh-what!? They seem to be arguing about something...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Are they enemies? Or allies!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Huh? What's that robot with spikes sticking out everywhere!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "There seems to be some history there. I hope this doesn't get messy...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "What's going on!? Can you make it out, Jun?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "There's too much static...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Gil! Stop dragging the people of Earth into this!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "If you hold a grudge against me... then come after me alone!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "That... That alone won't satisfy me...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "I must tear your homeland to shreds... and kill you in despair...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Ugh, how does someone end up with a personality like that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Did cyborg surgery fry part of his brain!? Roll, let him have it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Are they at odds? Captain, are they responding to our hails?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "I'm trying. Who are you people!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Tch, what a pain! What now? If it comes to it, we take 'em all...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Hey, Pai! Don't say \"what a pain\"!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "The people of Earth are Mia's friends! We can't let them get the wrong idea.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Here I come... Mia Alice!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Dangaioh won't lose...! Come on, Gil Berg!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "...Do we... really have to fight?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Eek, it's starting! Everyone from Earth! Please don't shoot us!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "What's going on!? Are they on our side!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Mysterious allies... There's precedent for that, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "What should we do!? Captain!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Don't engage unless attacked! I hate always reacting, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "right now, keeping the invaders from reaching Earth comes first!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Easy for you to say, geez!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "But as long as we're around, we won't let 'em slip away",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "like we did with the Bandock!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "But... that robot does have me curious.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "I'll dispose of you all at once!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "What!? Again! Again, my Bloody is...!? Nuuuuurgh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "All right! It's working! Keep it up... Hm!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "I can't just slink away like this...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Mia Alice! ...Follow me if you dare! I'll be waiting...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Don't tell me... he's descending to the planet like that!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "The guy's got guts!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "This is no time to be praising him!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Why... go that far...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "What!? He's trying to descend to Earth with that damage!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Just burn up already!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "No... it's not falling...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "...He still has power to spare...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "You're full of praise, but at this rate he'll hit the descent route!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Right! This is no time to be impressed! We gotta go after him!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "That's right! In that case, Boss Borot will...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Don't even think about it, Boss.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "This is no time to be impressed! Let's catch him!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "...No, it's impossible.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Tetsuya!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Damn, he's descending!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Dammit! Roll, we're going after him!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "We have to... stop Gil...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "We'll split up and pursue! Dangaioh, Separaaate!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "What!? Hey, if we separate now...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "They separated!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "In the end, they did help us, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Yet another new faction... There's no way we can contain them all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "Captain, aren't you sending a pursuit team?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Sadly... the only unit that can enter the atmosphere on its own now",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "is Grendizer. We can't spare it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "There's also... the Zeta Gundam. Either way, we're short on forces...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Hmph! Zambot can do that much too! Let's just...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Kappei! We just came up from Earth chasing the Gaizok!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Seriously, man.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Defeating any remaining enemies... is all we can do.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Kiiih! Curse you! What a thoroughly infuriating bunch!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "To deal this much damage to my Bandock!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Don't mess with us, you jerk!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "We're gonna avenge our ancestors, every last bit!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "Your ancestors!? Ho! Never heard of 'em!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "I've destroyed a great many planets, you see.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "You! After taking so many lives, you don't feel any guilt at all...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "What gives you the right!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Hohohoho! Why did they have to be destroyed...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Have you never thought about that?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "...The reason... they were destroyed...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "Hoho, if you can't understand that, the only path left to you is ruin.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "Either way, I'll kill every last one of you! Hohohohoho!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "Screw you! Before that, I'll crush you all myself!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Try it if you think you can...! Don't think it'll be that easy...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "You creep, I'll shut that mouth of yours for good!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "Time to finish this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "Hoho, I can't keep playing with you. My forces were half-baked anyway!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "Next time we meet will be your end, so look forward to it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "Ah!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "(Besides, I took far too much punishment on the ground...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "Utterly outrageous... and dangerous creatures.)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "He's running!? Captain, can we pursue!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "...No. To think he still had this much strength left...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "Captain, he's wounded! If we pursue now...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "...No, we can't leave the Earth Sphere right now...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "Move on to mopping up the remaining enemies.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "Defensive fighting has its limits... We must find a countermeasure fast.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "Looks like we drove them all off. But...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "We couldn't stop the enemy's descent...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "That's the second time now, after the Gaizok, Captain.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "Well, we did kick the Gaizok off Earth, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "Didn't they just leave on their own, chasing the HLV...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "Now, now, Keiko, let him have this one.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "But that mysterious robot...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "Didn't they say Dangai-something?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "Is that robot from another world too? Umon, do you know anything?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "...I don't know.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "All I know are Grendizer from Planet Fleed, Vega's saucer beasts,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "and Earth's robots, really.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "They went after him, but I wonder how things are down on the ground?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "I can't face Commander Hazuki... Another mysterious robot.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "But hey, weren't they fighting against that Bunker army?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "True, though we could barely get a transmission through...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "But... thinking about it, quite a few have gotten into Earth, huh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "And down on the ground, that creep Dr. Hell's on a rampage again...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "Weren't the Dinosaur Empire's remnants on the move too?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "It's total chaos down there.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "It's no different up here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "Dr. Hell on the move, the Dinosaur Empire's robots revived...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "and now an alien invasion. Isn't the surface in trouble?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "Koji... I wonder if he's all right.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "Getter Robo's there too, so I doubt they'll go down easily, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "Shouldn't you be worrying about us too, Jun?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "I'm worried about the surface too... but we can only trust them.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "I've heard of a new power leading Dr. Hell and the Dinosaur Empire.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "But...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "Our situation is no different.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "Since we know nothing of who the enemy is, it's harder for us to plan.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "It'd sure help if they'd cooperate with us like that champion of justice did.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "And people call that... optimism, don't they?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "Mmm, not bad, Maria.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "Ahem. ...It seems it's over for now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "Once again, I'd like to ask for your help, Jin family: Kappei Jin,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "Uchuta Kamie, Keiko Kamikita.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "Leave it to us!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "en": "Didn't you say the same thing on the ground?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "All we did was chase the Gaizok battleship and end up in space.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "Aw, c'mon, forget the details.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "en": "To chase the Gaizok, we need to be with someone who has real firepower.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "en": "We'll lend you a hand.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "en": "Captain Bright Noa, we'll help too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "en": "I'm sorry... All I can do is rely on the strength of children like you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "en": "Beating yourself up won't help, Captain.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "en": "Man, woman, adult, child... Right now, everyone must do what they can.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "en": "That's right. It's not like we have much leeway.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 258,
+   "en": "Not exactly something to say so cheerfully, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "en": "Indeed. I'm worried about the Cyber Beast Force too, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "en": "in any case, I'll contact Commander Hazuki.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 261,
+   "en": "All right, Londo Bell heads to the next point. All units, return to base.",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

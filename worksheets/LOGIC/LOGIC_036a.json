@@ -1,0 +1,1369 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 874,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. Elshank destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Princess Romina, this is as far as we can go.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "So the Elshank can't move at all now...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Stranded out here...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Yes... All the fighting seems to have put a heavy strain on the Elshank.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "The micro-wormhole drive must have pushed it too far...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Umon, Maria... I'm so sorry...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "At this rate... we can't rendezvous...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Please don't lose heart, Princess Romina.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "We've already sent a distress signal, and I hear Londo Bell",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "is sending someone to get us. Let's wait for them calmly.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "But, Umon...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "It's okay, Princess Romina. My brother isn't smooth enough to lie to a woman.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Maria... Encouraging Princess Romina is fine,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "but you don't have to tease me, do you?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Hahaha, even serious Daisuke is helpless against Maria.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Well, it's true, isn't it? Hehe.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Hahaha... Hm?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Damian, what is it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Looks like playtime's over. ...Daisuke!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Huh!? What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Yes, so it seems... Everyone, be careful. Here they come...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Oh, what's this? This battleship... Is it the one Boss Gil mentioned,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "the one from another planet!? Which means...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "What!? Who are these guys...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "You... You're from the space crime syndicate Gyandlar!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Hm? That voice... What, ol' four-horns is here too?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "...Ahh, you came to mess up the colony drop. Ain't that a drag!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "It's gotta be a big splash, or it'll be a pain later.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "What's that supposed to mean!? If you're after conquering Earth,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "wouldn't a colony dropping be bad for you too!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "...It seems what they're after isn't Earth itself,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "but something on Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Whoops, my bad.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Too late, too late. I heard every word!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Don't matter! If I finish you all off here, nobody'll know!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Get ready! Kina, I brought ya along, so let 'em have it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Rom... Where's Rom Stol? This isn't what we agreed...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "I told ya, you'll get to meet him eventually.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Sis, if we keep fighting like this, he's bound to show up. Until then...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Fine. Devil Saturn, I'll do it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Good girl. Now then, get ready all over again!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "This time I got some heavy hitters from the Bunker! Get 'em!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Umon, at this rate...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Don't worry, Princess Romina. ...Your planet and Earth alike...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "I'll never let a tragedy like Planet Fleed's happen again...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Brother! Let's go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Duuuuke Fleeeeeed!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Dizer, Gooo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Come on, Gyandlar!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "I won't let the likes of you ravage the beautiful Earth!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "You sure talk a lot! Get ready!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "(How long can we hold out? At this rate, their numbers will crush us...!)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Dammit... Too many enemies, and the Elshank can't even move...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Shaff, can't we somehow move to support Duke?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "The output won't rise. We can fire the guns, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Gameran!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "We can only intercept enemies within range!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Brother! We can't go down in a place like this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Right. Hang on until Londo Bell arrives, Maria.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Not bad, four-horns! But we got numbers. You can't hold out forever!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Ngh... Grendizer won't lose to people who think numbers are strength!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Quit your yappin'! Hm...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Hey, Kina, Colon! Whaddaya doin'? Get in there already!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "My target is only Rom... And I don't like winning by numbers.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "What!? Think about whether you're in any position to complain!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Infighting...? Whatever, if we can use this chance...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "...Joe... Tobikage...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Ahh, forget it! Guess I'll have to do it myself...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Kenrou!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Devil Saturn, what a nasty piece of work.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Helping drop a colony on that planet.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "...We shouldn't get involved in this star system's wars...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "But! If you villains want it, I won't stand idly by...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Are you all right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "You...! Thank you, it seems you've saved us again.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Don't sweat it. You helped us out last time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Oh? It seems to be a different battleship than usual...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Commander Hazuki told us of mystery helpers who show up in space...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "That'd be us, right, Brother?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "We'll explain later. We're allies, pursuing Gyandlar.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Thank you... Um, may I ask your name...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "...Rom Stol. I'll help you in this fight...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "...!! I knew it... Rom Stol!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Hm?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "You're...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "No more talk! Die! Rom Stol!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Seems there's some history here... Anyway, let's fight back!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Why are you after me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "You don't look like one of Gyandlar's monster commanders.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Don't mess with us! You killed our father!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Their father's killer? You, Brother!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Impossible! You must have the wrong person.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "It's not the wrong person!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "...I am Kina, daughter of the Bison Warrior Jingi!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "And I'm Colon!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Jingi's... children. That was a duel between martial artists.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Win or lose, it was fate... Neither side should hold a grudge.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Someone you fought before?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Long ago, on our planet. Rom won the one-on-one duel.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "The finishing move was the Cyclone Driver... right, Rom?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Yes. True to his name, he was a warrior who lived by honor.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "You can make all the excuses you want!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "You killed our father!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Ngh, the enemy got here first... All units, prepare to launch!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Support the Elshank!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "All right, hang on, Duke! We're coming!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Even Duke Fleed seems to have been having a hard time...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Now that I'm here, there's nothing to worry about!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Umon, Maria! ...Did we make it in time!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "The Ra Cailum!? Everyone from Londo Bell!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Looks like we managed to hold out...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Thank goodness...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "It's the Elshank.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Heard it broke down again. You guys even maintaining it!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Don't say that, Thunder.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Princess Romina!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Joe!? What? What is going on!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "How did you get to space!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "It's embarrassing. We fell for an enemy trap and got blasted up here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "It worked out, though, since now we can back you up.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "I'm worried about things on the ground, though...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Is that... those aliens again?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "We got here first, hope you don't mind.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Gyandlar was trying to drag innocent people into things again.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "You guys have it rough too, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Folks from other planets worrying about us... Sad for us Earthlings.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "First Rom's gang, and now Earthling reinforcements!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "I can't take this! I'll be back!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Ngh! Rom... My father's killer... I swear...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Ah, he ran!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "That robot sure runs away a lot, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Some would say he knows when to make a clean exit.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Whatever the case, his type lives long.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Master Rom, don't you think the people of Earth will be all right now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "...Yes. But a colony drop would be very convenient for them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Can't stand them sneaking around in the shadows. ...After them, Rom?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Convenient!? What do you mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "I'll explain later. Rom... if you're going after them, sooner is better.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Thank you for your concern.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "To protect this beautiful blue planet... may you stop the colony drop.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "We'll be supporting you from the shadows.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Looks like we owe them another one...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Way too cool... Most people could never pull it off like that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "All right! We'll keep Gyandlar and the Bunker in check!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "...Please wait!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "What is it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Among the Bunker... was there a man called Gil...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Mia...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "No, I've never heard of him... Who is he?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Well, he's a guy who's been hounding us relentlessly...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "We don't really know what the Bunker is after. This Earth business...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "is mainly Gyandlar's doing.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "I see...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Let's go, everyone. ...People of Earth, good luck to you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "They're already out of sight. Amazing...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Well, we've linked up, so let's clean up the rest!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "What!? What kinda attack is that! Forget it! I ain't stickin' around!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Battle Mastery increased by 1.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Ngh! Rom... My father's killer... I swear...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Wait! Dammit... I can't go after him alone here...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "We'll pursue him. He seems to be plotting something bad...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Master Rom, don't you think the people of Earth will be all right now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "...Yes. But a colony drop would be very convenient for them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Can't stand them sneaking around in the shadows. ...After them, Rom?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "All right, let's go. ...People of Earth, good luck to you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "All right, we'll catch up in no time!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Phew, they saved us, but what's with them?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "They're always like that... But they're as dashing as ever.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "They truly are...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "We can't rely on them entirely.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Until Londo Bell arrives, we'll have to hold on by ourselves.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "Ngh! Rom... My father's killer... I swear...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "It's over... Thank you very much, everyone.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "Glad we made it in time. Looks like it was a real brawl.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Rom and the others... those mystery heroes came and saved us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Yes, we managed to link up safely.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "We've yet to introduce ourselves, but time is short, isn't it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Yes... Given the time left to stop the colony drop, it's cutting close.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Then we'd better hurry!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Well, isn't it good we've got another battleship?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Ah... I'm afraid the Elshank can't come along.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Whaaat!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "It's not completely immobile,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "but it's in no shape for combat.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Nothing goes right, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "Just linking up with Grendizer and the others is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "Yes, just linking up with Duke and Maria is reassuring.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "We should be content with linking up with Grendizer and the others.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Yes, just having Duke and Maria with us is reassuring.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "But where should the Elshank go now...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "Rest assured, Princess Romina.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "We've arranged for the Elshank to head to Anaheim",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "and undergo repairs there.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Anaheim?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "We'd already received a report of the Elshank's trouble.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "Captain Bright listed it as a Londo Bell supply ship",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "and got it clearance to dock.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "Pretty slick, for a dopey captain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "Pai! That's rude.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "The Captain's always got a lot on his mind, after all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "So, we send the Elshank to Anaheim...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "and we hurry to catch up with the colony!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "Glad to see you're safe too, Akira.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "Geez, I was worried about you...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "Sorry... But we've finally all regrouped... Let's hurry on!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "Okaaay, question!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "Wasn't Raideen supposed to be with the Elshank, too?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "Yes... Raideen's pilot, Akira Hibiki,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "apparently had something he really needed to look into.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "After checking on it, he'll join the Ra Cailum by another route.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "He always did seem to have good instincts... Fine, let's hurry!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "Come to think of it, what will become of that person... Ple?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "Ple!? Did you say Ple!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "Ple... You mean Elpeo Ple!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "Yeah, I'm pretty sure that was her name.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "She was missing... and you found her! Where is she now? Is she okay!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "It's all right, Judau.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "She hasn't regained consciousness yet... but her life isn't in danger.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "I do think she should be moved somewhere with proper facilities...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "It's on the way anyway... Anaheim or Von Braun would be best.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "Indeed. Judau... was it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "We'll take responsibility for bringing your friend there. Please don't worry.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "Oh, thanks, that's real kind of you... All right, I'm feeling fired up!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "Let's go, everyone!",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

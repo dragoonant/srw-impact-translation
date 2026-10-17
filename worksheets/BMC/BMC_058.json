@@ -1,0 +1,763 @@
+{
+ "file": "BTL/BMCPACK.BIN",
+ "format": "BMC",
+ "pilot": 58,
+ "strings": [
+  {
+   "id": 0,
+   "en": "Here I go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Let's give it everything we've got!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Commence attack!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Before we're surrounded... we'll destroy them!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Let's give it everything we've got!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Commence attack!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Before we're surrounded... we'll destroy them!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Knock them flat!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Knock them flat!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Before we're surrounded... we'll destroy them!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "We have to win... we have to win...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Let's go out with a bang!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Akito... Akito, help meee!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Whaaat!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Wah wah wah! A-Are we going down!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "I-Is this the end!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Whyyy? How come!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Ugh, I hate this! What's going on!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Status report, please!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "What's the damage to the ship!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Akito... Ah, I'm a tragic heroine...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "...Idiot.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Everyone, brace for impact!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Anyway, everyone protect yourselves!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Everyone, brace for impact!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Anyway, everyone protect yourselves!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "I won't lose! Yeah!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "If that's how you want it, that's how we'll play it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Is the field even working!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Status report, please!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "What's the damage to the ship!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Maintain the field and fall back!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Everyone, be careful!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Engine, keep the field stable above all else!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Maintain the field and fall back!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Everyone, be careful!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Engine, keep the field stable above all else!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Aww, you scratched it! Hmph!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "...Did something hit us?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Huh? When did that happen...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Check the damage right away.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Raise the field and fall back!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Check the generator right away!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Raise the field and fall back!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Check the generator right away!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "You won't lay a finger on a maiden's soft skin!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Whew, that was close!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "It's okay, it's okay!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "You won't lay a finger on a maiden's soft skin!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Emergency evasion!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Emergency evasion!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Amazing, amazing, that's my crew!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Distortion Field in top form!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Ruri, how's the field!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "It's holding...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Why can't we shoot back?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Captain, we're out of ammo.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Whaaat! No way!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Whaaat! We can't reach!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Huh!? Where, where!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Honestly... bunch of idiots...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "I hurried here just for you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Making my entrance! Ta-da!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Keep moving forward!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "And now, enter the Nadesico!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Keep moving forward!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "And now, enter the Nadesico!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "This is all I can do...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "I won't let you die!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Sorry to keep you waiting!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Gekigan Sword!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "A knife? Can I even handle one!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Hyaah! Gekigan Punch!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "It'd be perfect without the wire! I'll ask Uribatake later!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Gekigan Shot! ...Is that what it's called?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Gekigan Rifle! Same weapon, but it has so many names!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "So there are weapons just like Gekiganger's!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "All right! Gekigan Lancer!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Distortion Field, full power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Gekigan Flaaaare!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "I always wanted to do this too!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Gekiiigan! Flaaare!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "If we don't take them down now, we'll pay for it later!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Let's go! Akito!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Don't push yourself, Yurika!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Double Gekigan Flaaare!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Let's go all out! Yurika!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Okay! Got it, Akito!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Raaah! Double Gekigan Flare!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Here we go! Captain!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Okaaay! Let's do this!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Gooood answer! Now shout it with your soul!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Double! Gekigan Flaaare!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Let's go! Yamada!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "It's Gai! Gai Daigoji!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Roger that, Jiro!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Let's go! Yurika!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Okay! Got it!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "With our Double Distortion Punch!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Let's go! Jun!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "W-wait, Yurika!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Double Gekigan Flaaare!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Turn the bow toward the enemy, please!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Roger thaaat!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Fire missiles!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Missiles on standby.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Scatter them everywhere! Fiiire!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Ruri, go for it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Going for it. ...Firing missiles.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Gravity Blast, wide-area spread!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Gravity Blast, stand by!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Phase transition engine at maximum output.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Gravity Blast, fiiire!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Firing Gravity Blast.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Okay, okay, phase transition engine is good to go, Ruri-Ruri.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Fiiire!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Captain, Gravity Blast... ready.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Okaaay, let's do it! Ruri, stand by!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Standing by.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Then, fiiire!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Gravity Blast, fire.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Here I go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Let's give it everything we've got!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Commence attack!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Before we're surrounded... we'll destroy them!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Knock them flat!",
+   "kind": "quote",
+   "keep": false
+  }
+ ]
+}

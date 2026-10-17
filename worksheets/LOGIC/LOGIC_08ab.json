@@ -1,0 +1,907 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 2219,
+ "strings": [
+  {
+   "id": 0,
+   "en": "Dad!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Oh, Akira... Have you been well?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Yes, Dad... I got your message. Is it true!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "That Mom... was in Tibet!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Yes, Akira. No doubt about it... The temple ruins convinced me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "A temple? You mean... the ruins in Tibet?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Yes. When the ancient continent of Mu was destroyed... many clay tablets",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "are said to have been carried from there",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "to a certain temple in Tibet...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Tablets... about the Star of La Mu!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Yes. Just before we reached Tibet, locals saw a lovely, mysterious woman",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "dig through the temple ruins, find several tablets,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "and leave with them.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Mom... It really is Mom! So where is she!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "...The sea.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "The sea? ...That's not much to go on.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "The tablet with the exact location... your mother probably has it,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "with Reiko.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "From what I found, she seems to have headed for the waters near Japan...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "I understand, Dad. I'll go look for...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Wait, Akira. It isn't all good news.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "D-Don't tell me...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "I'm afraid so. ...The Demon Empire is on the move again...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "After Prince Sharkin... So is it the king's turn now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "His name is... Demon Emperor... Barao...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Demon... Emperor... Barao!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "What...? Akira's mother, whom we have long sought... Reiko Hibiki...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "no, Lemuria, descendant of the hated Mu Empire... You've finally found her!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Yes, as you commanded...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "While we watched the movements of Akira Hibiki's father in Tibet...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "we at last found a lead.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "And... where is this Lemuria now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "She seems to be headed for waters near Japan, seeking something.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "No doubt... the key to unleashing Mutron energy,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "the Star of La Mu, has been found...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "The Star of La Mu?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Lord Barao... if Reiko Hibiki... if Lemuria obtains this Star of La Mu",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "and unleashes Mutron energy...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "We... will be destroyed...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Impossible!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "I... can't believe it...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Perhaps the likes of Sharkin, but you, Demon Emperor Barao,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "and we Kyoretsu Brothers as well!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Sadly, it is the truth.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Then we must catch this Lemuria as soon as we can...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Exactly...! If we do not capture Akira's mother, we shall perish!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Yet if we seize that power for ourselves...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "this Demon Empire will have no equal!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Yes, sire!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Leave it to us, Lord Barao...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Lord Gades.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "What is it, Diondra?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Please send me to Earth.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Have you found where the Hyper Libido... no, the Mutron is?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "There's a so-called Demon Empire after that treasure called Mutron.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "If we make use of them, perhaps...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "The Demon Empire... Yes, that may be a good idea.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "By the way, what of Gardy and the others who sortied earlier?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "I sent them to the rendezvous point with the Bunker...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "So I'm to join them first, then head to the surface?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "No. Descend to the surface ahead of them and seize the Mutron.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Outmaneuvering the Bunker, then...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "They don't yet know where the treasure is...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "As long as Gardy and the others join them, they'll have no complaints, hm?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "As expected of you, Lord Gades...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Take Devil Saturn 6 and descend to the surface.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Gadessa!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Emperor Muge... what exactly is the Einst's goal?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Oho...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "That I reveal myself before these humans like this",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "is because of the Einst...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "I see.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "But that alone will not satisfy me...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "(Nor me... And to become a god, I alone will be enough...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "The Mykene headquarters is on Bardos Island?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Is that true, Professor?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Yes, no doubt about it... Our survey team found it by chance.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Bardos Island... Koji, isn't that where your grandfather...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Yeah... It's where he dug for ruins with Hell, long ago.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Hell? You mean THE Dr. Hell?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "...While studying the ancient Mykene robots he'd unearthed, Dr. Hell...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "apparently came up with the idea of using them to conquer the world...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Temptation got the better of him, huh? Good grief.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Koji's grandfather, Dr. Juzo Kabuto, saw through that ambition...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "and built Mazinger Z.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "So that's what happened...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Now that we know, we can't just sit around!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Let's hurry up and head for Bardos Island!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "What are you saying, Koji!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "You'd abandon the people at the Cyber Beast Force base!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Oh... right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "It's true that now we know where the Mykene headquarters is,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "perhaps we should rush there, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Still, if they aren't about to make a move right away,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "I'd rather we check on the base first...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Have the Mykene been on Bardos Island for a long time?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "No... We recently surveyed odd crustal activity around Bardos Island",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "and happened to discover their base...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "It's a phenomenon unseen for years, so whether it's long been their base...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Even if they only gathered there for now... their bosses are there?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "...Tetsuya.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "I can't say for certain... but most likely...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "...Commander!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Where... should we be heading...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "The silence from the Cyber Beast Force base is worrying, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "in truth... we've also received word on the Demon Empire.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "The thing is... Mutron ruins were discovered in Japan,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "and it looks like my mother is there...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Well, that's great... Is there some kind of problem?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Akira's mother... seems to know the secret of Mutron,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "and the Demon Empire is apparently making moves to get it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "...And it's the Demon Empire's boss... Demon Emperor Barao's men...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "That's terrible... Then we need to go look for her right away.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Yeah, it'd be a disaster if she fell into enemy hands.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "But... it's not as if we know exactly where she is...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "And I'm worried about the situation elsewhere too... I can't impose on you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "If we head for Japan... Bardos Island is the other way, isn't it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Bardos Island is in the Mediterranean, right, Father?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Yes, that's right. Their headquarters lies beneath it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "We go to Japan first, stop at the Mutron ruins and Cyber Beast base,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "and then Bardos Island seems reasonable...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Maybe we don't need to rush in and attack them ourselves...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "I... am going to Bardos Island.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Tetsuya!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Tsurugi...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Jun and I have trained hard to defeat the Mykene Empire...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "If you won't head to Bardos Island first, we'll act on our own from here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Charging alone into the enemy's headquarters is far too dangerous...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Defeating the Mykene is my mission. I won't let anyone object.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Tetsuya! ...Commander Hazuki, I'm sorry... I'm going too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Tsurugi... Hono...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Tetsuya!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "...Koji, it's no use trying to stop me. I'm going.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "I'm sorry, Koji.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "I didn't come to stop you, Tetsuya. ...I'm coming too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Koji...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "No.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Tetsuya!? That's not fair! I want to avenge my grandpa too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "...If you leave as well, what happens to this ground force?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "...Ugh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "The force is already split up as it is.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "How much difference a single Mazinger Z makes...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Don't tell me you don't understand that, Koji.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Something's happening at the Cyber Beast Force base too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Go there for them, Koji.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "I'll hold out at Bardos Island until you all arrive.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Tetsuya... So that's why you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Heh. I'm just selfish, as always. ...Let's go, Jun!",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

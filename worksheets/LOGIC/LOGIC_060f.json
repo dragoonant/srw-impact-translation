@@ -1,0 +1,2125 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1551,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Jet, did you find Brother?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "I blundered... I lost track of him...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Where could Rom have gone...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "...No idea... Looks like we got totally separated.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "But we were lucky to pinpoint",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "the Gyandlar's mobile fortress. Now then... Jim!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Comms... The normal channels are still being jammed.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "I'm sending out a few signals on special channels...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "but honestly, I don't know if Londo Bell will notice...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Then we'll do it ourselves...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Seems we've got no choice... Right, Diondra?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Huh?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Heheheh... You really are a persistent bunch, coming all the way here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Diondra! You...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "You won't get away this time!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Heh, look who's calling who persistent!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "That's right! Meddling with Earth over and over!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "You dimwits! It's for the treasure, obviously!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "I've heard that plenty of times. What I want to know is...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "how did you learn that the third planet of the solar system",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "had something with the same power as the Hyper Libido?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "...Hm...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Now that you mention it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Didn't they hear it from the Bunker?! Jet?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Fleeing Planet Cronos, you joined the space pirates, the Bunker.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "But I hear the Bunker's boss, Grand Captain Garimos,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "doesn't trust others easily without a hefty reward.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "What are you getting at?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "...Meaning something with mystic power like the Hyper Libido...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Earth's Mutron... or more precisely, the Star of La Mu.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Gades knew it existed from the very start...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "And that was the deal... for teaming up... Is that it?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "And what if it was? Lord Gades's orders are my life!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Whatever the reason may be!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Think about it, Diondra.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "The power of Mutron, so like the Hyper Libido, a giant plant planet,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "the ninja legend of Planet Radorio...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Why does it all converge on that small blue planet...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "The land of beginnings... Why?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Enough with the complicated talk! Who cares what the treasure really is!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Heheheh... Trying to distract me won't work!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Now, finish them!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Gadessa!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Looks like she's not interested in listening one bit.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "...Those stained by greed, blind to the truth... I will cut down...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "...Heh... I lose... Rom Stol...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "You didn't lose to me! You lost to your own heart... to yourself!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "...Heh, that's the teaching of Tenku Chushin Ken... isn't it... little brother...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Brother?! Then it's true...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "...Rom, fighting you... brought back all my memories...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "I was being controlled by Gades...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "So that man really is Rom's...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Ngh, Gardy... after I raised him like my own child...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "he goes and recovers memories he didn't need...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Brother... Is it... really you...?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Rom... Leina... You've grown strong...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "I got to... see you both... Now I can rest easy...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Brother?! Is it really you?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Brother...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "After all I did... to you two...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Rom... you still call me... your brother...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Of course! You're still my brother, no matter what...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Don't cry... Rom. A woman... may cry, perhaps.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "That is... the bond of family. But a man must fight...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Overcome this trial... Rom...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "That teaching... Father's...?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Yes. ...You are... of Tenku Chushin Ken...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Damn it... Will I never... be of use... to Lord Gades...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "This is the end, Diondra...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "...Heh... Heheheh... Not yet... not yet... I... RAAAAH!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Damn it... Will I never... be of use... to Lord Gades...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "...Heh... Heheheh... Not yet... not yet... I... RAAAAH!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Impossible... Rom Stol... Cronos clan... Why... do you interfere...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "To cut down the evil and darkness that plague this universe.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "That is who we of the Cronos clan are... and what my master and father,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Kirai Stol, left us: Tenku Chushin Ken and Tenku Shinken.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "...Those ones... the role of auditing... this universe... was theirs alone...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "...!! Auditing... the universe...? That's...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Does Gades know... about the Einst?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "What do you mean...?! Gades!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Heh... Heheheh... Hahahahaha... Not even knowing that...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "you of the Cronos clan... have traveled the universe...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "A reason? Our mission is to guard the universe from unjust power!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "You do not know... who gave you... that mission...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Not even Kirai... knew that... I'd wager...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "...Our... mission...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "You mean someone set up Rom's fight?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Heh... The time... will come... And I had finally... come so far...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "The time... that will come...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Excellen, what's wrong?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "I wanted to live longer... I wanted to stay young forever...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "So I made the criminal group Gyandlar and roamed space for millennia...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "But that's over now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "I don't know about this Hyper Libido... but I'll never give you the Mutron...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "...You hold it... in your hands... and even have... one to guard it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "UOOOOOOH!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Too many of them after all... Tch.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Give it up! I'll pay you back for the humiliation on Planet Cronos!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Bring it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Hm...? Th-This signal is... Uh-oh! Big Sis!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Hey! We're here to help!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Londo Bell...! You've caught up already?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "We've got an excellent operator on our side.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "...Thanks.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Hey, you guys okay?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Everyone! We're fine! We're only just getting started!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Much obliged. Heh, we could use a twist like this once in a while.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Once in a while, sure. ...Hm? I don't see Rom anywhere!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "It can't be...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Rom wouldn't go down that easy. ...Though we did get separated.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Heh, true enough. A man of his skill would never lose to this rabble.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Buuut we still gotta look for him...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Doesn't look like they'll let us search for him that easily.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "We're inside the enemy's mothership fortress... They won't go easy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Like moths to a flame, as the saying goes.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "If we crush Londo Bell here... squashing the rest of the Earthlings",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "will be child's play.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "That's one way to put it. It's your own fortress being invaded, you know?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "That's right, you're the ones who've been backed into a corner!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Careful, Tetsuya. ...Nothing's more dangerous than a wounded beast.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Heh, so what if some old hag's wounded!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Why you... Don't you mock me! Get them!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Oh? Seems we touched a nerve.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "...Looks like she was sensitive about it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "...That's a touchy subject, huh. Age catches up with everyone, you know?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "That's right! With age comes wisdom, with age comes wisdom!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Grrr! Devil Saturn, don't let them get away with this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "You're gonna regret makin' fools of us!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "You seem to be struggling... Diondra...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "That's... Gardy...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "And he brought all sorts of friends.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Tch... We are inside the enemy's fortress, after all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "...The Gyandlar's whole force, all lined up, huh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Gardy! What have you been doing all this time!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Heh... Rom Stol lives up to his name... He gave me some trouble.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Don't tell me... Rom's...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Did you kill him!? Gardy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "...I'd like to say so... but he escaped.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "My brother... is alive!? ...Thank goodness...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Hold on, Leina! Rom... Rom would never run from the likes of you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "It's the truth. The proof... is that he hasn't come here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "No way...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "There's no way he'd do something like that, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Rom... did?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Hohoho... Seems your hopes were misplaced.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Now, Gardy, finish off the rest of them!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "I don't need you to tell me. Come, Earthlings...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "My brother...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Whether he really ran or not... there's no way to know for sure,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "but he isn't here, that much is a fact. We'll just have to do this ourselves!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Heh, he'll show up soon enough...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Heroes are supposed to show up when things are at their worst, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Just like Tetsuya did that one time.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Here we go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Ugh, what... is this feeling...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Gardy!? What on earth is wrong with...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Ohh... M-My head... It feels like it's splitting...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "(What's wrong with Gardy... Don't tell me his memories are...!?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "What!? Something's wrong with him...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "Is he... sick?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Ngh... ohh... I'm... I'm... Rom's...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Looks like some kind of system malfunction.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "What's wrong!? What on earth... is happening!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Tch, there were still enemies hiding!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Sending data on the new enemy to all units.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "...That size, and that overwhelming presence... What is it!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "E-Everyone... th-that's...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "To think he'd come all the way out to a place like this... Gades...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Hey now, isn't that guy...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "The leader... of the space crime syndicate, the Gyandlar!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "Heh heh heh... It's been a while... detestable disciples of Kirai.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "And... Londo Bell, was it? The fools who have continually interfered",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "with every one of our operations...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "This looks... really bad...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "I never thought we'd end up fighting him here...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Ugh... uuh... oh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Useless fool. ...Still, driving off Rom Stol was well done... Now then...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Gades, you even teamed up with the Bunker to come all the way out here...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Let's hear why!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Heh... I'll tell you, as a parting gift for the afterlife.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "After you interfered with my seizure of the Hyper Libido...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "I left planet Cronos in search of new power...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "Heh, so you ran all the way to Earth, huh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "You appear to be an Earthling...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "A fool who doesn't even know what sort of place his own planet is.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "A fool!? Why you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "(I knew it... There is something... And what ties into it is... the Einst...!)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Mutron... Are you talking about the power of the Star of La Mu!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "...That, like the Hyper Libido... is merely one of the tools...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "Tools...? For doing what?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "For... moving the universe.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "(...!!)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Moving... the universe?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "That makes no sense. What on earth...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "Whatever it is... power like that is all the more reason to keep it from you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "Even if it costs me my life.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "Fools... You are unworthy. Treasures are fit to be owned by those",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "who know their worth... I shall dispose of you here,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "and claim this Star of La Mu at my leisure later...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "No one in this universe is worthy or unworthy. Not even you, Gades.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "But... no one has the right to threaten the lives of the living...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "That's right... Protecting people from that unjust power... that's...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "To shield the world from darkness, I bring down the hammer of justice!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "Brother!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "Wow. He's so cool, as always.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "Rom, you're safe!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "Everyone was in an uproar saying you ran away from Gardy, you know?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "Got anything to say for yourself, Rom?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "...I've just destroyed this mobile fortress's engine block.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "You can't escape now, Gades!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "Impressive, Rom. Now we can corner them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "Now, get ready to pay!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "Grr... Rom Stol! How many times must you interfere with me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "Until the ambitions of you Gyandlar are crushed...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "The whole cast is here... Looks like we have to settle this right here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "We'll just have to steel ourselves. Let's go, everyone!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "Let's do this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "Alll right, go get 'em, Show!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "Momentum alone won't win this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "But without momentum we're done for, too. Anyway... let's do it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "Yeah... I'll damn well do it...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "Ugh... uuh... Rom...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "Gardy... even if you truly are my brother...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "I cannot lose this fight...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "Brother...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "Gardy! Why would a man of your skill serve under Gades!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "Hmph, Rom! Have you come to confuse me!? I am not your brother...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "Gaaargh! M-My head...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "No! Whether or not you're my brother no longer matters.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "Fighting you, I understood... I sense no true evil within you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "Break free of Gades's spell, Gardy!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "D-Don't toy with me... Guoooh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "Gardy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "Heh heh heh heh, don't think my spell breaks so easily, brats...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "Just as I thought, he's the one controlling Gardy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "Nuooh! Rom Stol... All of Kirai's disciples are my enemies!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "Brother, look out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "Damn! ...Just when we were so close...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "Gardy, stop this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "You... You're Rom's sister! Grrr... Stop trying to confuse me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "Gardy, don't give in!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "What!? You intend to pity me!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "No! If you really are my brother Gardy...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "you should remember the teachings of Tenku Chushin Ken!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "en": "The teachings... of Tenku Chushin Ken...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "That's right... A loser is not one who loses to an enemy...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "A loser is one who loses to himself!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "en": "Th-That teaching is...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "en": "Nuguwaaaaagh!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "en": "No! Blast you, girl, meddling where you don't belong!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "en": "Hey, Gades is panicking!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "en": "In that case, that man really is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "en": "Gardy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "en": "Milady, just a little more!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 258,
+   "en": "Gardy, hang in there!! ...Brother Gardy!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "en": "Uoooh...! L-Leina... Rom...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "en": "Gardy! Brother Gardy!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 261,
+   "en": "Gardy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 262,
+   "en": "You two... have grown so strong...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 263,
+   "en": "Ngh, Gardy... after I raised him like my own child...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 264,
+   "en": "he goes and recovers memories he didn't need...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 265,
+   "en": "Gardy... Brother!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 266,
+   "en": "Brother!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 267,
+   "en": "After all the things I did to you both... Rom...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 268,
+   "en": "you would still call me your brother...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 269,
+   "en": "Of course! You're still my brother, no matter what...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 270,
+   "en": "Rom... Leina... Your feelings and the teachings of Tenku Chushin Ken",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 271,
+   "en": "seem to have freed me from Gades's spell... I've caused you much trouble.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 272,
+   "en": "You did it, milady!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 273,
+   "en": "That's our Leina!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 274,
+   "en": "Blast you, Kirai's brats!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 275,
+   "en": "Then I'll dispose of you siblings all at once! Prepare yourselves!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 276,
+   "en": "...Hear me! What moves this universe is not the energy of destruction!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 277,
+   "en": "It is... the power of creation!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 278,
+   "en": "Destruction is the symbol of power... That's just the excuse of the weak!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 279,
+   "en": "That's an excuse, Gades!? Those who corrupt hearts with darkness...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 280,
+   "en": "I will not forgive them!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 281,
+   "en": "It's not just us... For the people of Earth, and all who've suffered",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 282,
+   "en": "at the hands of the Gyandlar, we can't lose!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 283,
+   "en": "Acquired skill \"Meditation\".",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 284,
+   "en": "Brother!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 285,
+   "en": "Brother!? ...We'd only just found each other again...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 286,
+   "en": "and now we're made to kill each other, brother against brother...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 287,
+   "en": "Hmm... What a dirty trick...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 288,
+   "en": "Useless fool. ...So that is all Tenku Chushin Ken amounts to.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 289,
+   "en": "...Say no more, Gades...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 290,
+   "en": "Hm...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 291,
+   "en": "...Hear me! What moves this universe is not the energy of destruction!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 292,
+   "en": "It is... the power of creation!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 293,
+   "en": "Destruction is the symbol of power... That's just the excuse of the weak!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 294,
+   "en": "That's an excuse, Gades!? Those who corrupt hearts with darkness...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 295,
+   "en": "I will not forgive them!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 296,
+   "en": "...She never managed to reclaim herself... right to the very end...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 297,
+   "en": "So it seems...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 298,
+   "en": "And she was only being used by Gades...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 299,
+   "en": "Sis, was this one being used too...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 300,
+   "en": "Looks like it... Poor thing...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 301,
+   "en": "That woman joined the Gyandlar by choice. ...Perhaps this was her fate...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 302,
+   "en": "...We won.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 303,
+   "en": "What was Gades trying to tell us...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 304,
+   "en": "So... there does seem to be a link between this string of incidents...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 305,
+   "en": "(Close... yes... it's close...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 306,
+   "en": "Battle Mastery increased by 1.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 307,
+   "en": "That's the end of the Gyandlar, then...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 308,
+   "en": "No kidding. That's what the big boss gets for showing up here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 309,
+   "en": "Phew. ...Hm, Leina?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 310,
+   "en": "Something even Father didn't know... Our mission...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 311,
+   "en": "Leina, Gades only said that to throw our hearts into confusion...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 312,
+   "en": "Those were the words of a desperate man. Don't let it bother you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 313,
+   "en": "Liar! You... You understand, don't you, Brother!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 314,
+   "en": "Maybe even the reason Gades kidnapped Brother Gardy was...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 315,
+   "en": "...The Cronos clan has a long history...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 316,
+   "en": "Even I don't know what happened in the past.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 317,
+   "en": "But Leina, I feel the answer lies beyond this battle.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 318,
+   "en": "Until then... we can't afford to look back.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 319,
+   "en": "Master Gardy, don't you know anything about it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 320,
+   "en": "No... Even while he was controlling me, Gades never once trusted me...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 321,
+   "en": "That's just like him, I guess.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 322,
+   "en": "...Just like with the Campbellians. ...Leaves a bad taste in my mouth.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 323,
+   "en": "So in the end, we still don't have any answers...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 324,
+   "en": "Hmm... I don't really get what that Gades boss was after, either.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 325,
+   "en": "Immortality, huh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 326,
+   "en": "But... it seems that wasn't all. \"For when the time comes\"?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 327,
+   "en": "...He said that's why he needed eternal life...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 328,
+   "en": "...Hm!? Master Rom, the temperature in this mothership's core is rising fast!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 329,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 330,
+   "en": "Gades must have meant to sink this ship with us aboard as he died...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 331,
+   "en": "Taking us with him, huh. ...We'll talk later! To the Elshank!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 332,
+   "en": "We've still... got time to escape, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 333,
+   "en": "Ruri, how's it look!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 334,
+   "en": "There's time to escape. There's no time to dawdle.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 335,
+   "en": "It's nothing but explosions!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 336,
+   "en": "Hey hey, this again!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 337,
+   "en": "Are they that desperate to drag down the people who beat them!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 338,
+   "en": "Seems villains are all the lonely type, huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 339,
+   "en": "Complain once we're out of danger! Everyone, get out of here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 340,
+   "en": "Right... Hm? Seabook, what are you doing? We're evacuating!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 341,
+   "en": "Eternal... huh. Iron Mask said that too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 342,
+   "en": "As I said back then... it's just a fairy tale, Seabook.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 343,
+   "en": "...In the end, he must have been mistaken... that Gades guy.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 344,
+   "en": "Living forever himself, and what Iron Mask talked about,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 345,
+   "en": "building a world where spacenoids live on forever...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 346,
+   "en": "are two completely different things.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 347,
+   "en": "No... maybe they're not so different.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 348,
+   "en": "Whether you live forever yourself, or your other self...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 349,
+   "en": "that is, your species, lives on without ever dying out...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 350,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 351,
+   "en": "(Eternal... life... New life... Memories of when I was controlled...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 352,
+   "en": "Do I... know something...?)",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

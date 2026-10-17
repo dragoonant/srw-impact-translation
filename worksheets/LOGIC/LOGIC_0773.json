@@ -1,0 +1,1351 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1907,
+ "strings": [
+  {
+   "id": 0,
+   "en": "We've wiped out the enemies around here, so now we finally go into Jaburo.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "I hope we can get in without anything happening...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Last time, just as we were about to, the Aura Road opened up.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "I wanna go back to Byston Well, but... I guess I can't, huh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Still, that Einst... its actions aren't consistent.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Yeah, which makes its goal all the harder to read.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "It was targeting Kyosuke... but why?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Do you have any idea?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "I don't know why it's after me and Excellen...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Either way, all we know right now is that it's an enemy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "That red machine looked like it was commanding the Einst.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Then has everything the Einst have done so far been its doing?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "(No, that's not it... From the voice that isn't Alchemie's,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "I sense something like a different will...)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Kasshu, please come to the bridge at once... Major Ulube is calling.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "From Ulube?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "I have unfortunate news for you, Domon.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "D-Don't tell me something happened to my father!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Dr. Kasshu is quite well... though still frozen, I'm afraid.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "What do you mean!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "You said you'd free him once the Devil Gundam's recovery was confirmed!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "The Devil Gundam could not be recovered.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Major Ulube, you don't mean...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Yes, exactly that. The Devil Gundam was not in the Guiana Highlands...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "That's impossible, I definitely defeated it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "By the time we rushed to the Guiana Highlands, it was already gone.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Then the Devil Gundam is still somewhere on Earth even now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "We don't know exactly where, but most likely.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "I'm sorry, Domon, but as long as the Devil Gundam remains unrecovered,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Dr. Kasshu's release will have to be postponed.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Ngh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Finally! Looks like things down here are about to get settled too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Calm down a little, Pai.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Come on, Roll, don't rain on my parade at a time like this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "May I ask? ...Apart from Alice, you're all from other planets, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Why are you helping us?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "We're Mia's friends. Of course we'd help.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Besides... we can't just ignore people in trouble...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Sorry about this. Earth's problems oughta be handled by Earthlings.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Really. But between Dangaioh and Grendizer up in space...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "we're getting a lot of help from people from other star systems.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Yeah. But Daisuke, the Dangaioh team, Princess Romina...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "they sure look like Earthlings, no matter how you look at it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "It's pathetic. To protect our own planet...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "we have to rely on the power of other star systems...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "True. Dangaioh, Grendizer... Maya's group's machines,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "and Tobikage too, is a robot from the Shema system.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Aliens or not, they look no different from Earthlings.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "That's probably why it doesn't feel strange.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Maybe, surprisingly, everyone was originally from Earth...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "It could be the other way around, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Huh? But none of you have psychic powers, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Psychic powers? Oh, that's right, you four are espers.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "They're pretty unstable, though.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Roll has to run to use hers, Lamba runs outta power fast,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "and Mia can't control hers on her own.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Your \"power\" is just being super strong, Pai. Is that even psychic?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Shut up, stupid, that's me unleashing my full latent potential...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Come to think of it, Daisuke's little sister Maria has precognition.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "I guess that's a psychic power too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Captain Amuro and Kamille are Newtypes, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Is that... a psychic power too?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Come to think of it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "doesn't Daisuke's little sister Maria have precognition?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "That's right. And they say the Captain and Kamille are Newtypes...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Is that a kind of psychic power too?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "I don't think that's the case. \"Newtype\" is just",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "what other people call us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "We're just ordinary people with good intuition. Me, Kamille, and him...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "How fascinating. I'd love to talk at length, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Save that debate for later, though I'm a bit curious. We storm in soon.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "If your machines are serviced, get some proper rest for now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "You're right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Wh-Where are you going, Domon!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "I'm going to find Master and the Devil Gundam!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "But didn't you say you couldn't abandon the Gandor Team like this?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "That was because I thought I'd defeated the Devil Gundam... Kyoji.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "If the Devil Gundam still exists, then I know what I must do.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Domon...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Domon! In that case, all the more reason to stay with the Gandor Team!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Schwarz!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "What do you mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Kyoji... The Devil Gundam is here, in Jaburo.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "What?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "I followed him here. There's no mistake.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Then...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "It's right nearby...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "If Kyoji's here, then Master Asia too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Yes, he's likely lying in wait.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Then I'd better hurry and tune the God Gundam Major Ulube brought us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Yeah, please do.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "(But what is this nostalgia I feel from this man called Schwarz...?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "So we're storming in now. What's it like inside?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "We don't know, that's why we're charging in all at once, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Even so, this is a real pain!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "We gotta dive right in without knowin' what's inside, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Shut up, what're you whinin' about?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Joe, ain't your crew done with maintenance yet?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "So what if we ain't? These machines were left behind by aliens.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "There's a lot about 'em we don't get.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Blast Dragon's done, Big Bro. Why're you picking fights with other teams?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "I get that you're on edge before we storm in, but do your job, Joe.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Lieutenant Amada's mobile suit team finished ages ago, you know?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Almost done.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Combattler's almost done, too. Ropet, how's it going over there?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Kosuke. No problems. Ready to launch as is.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "All right, we're done! Now we just wait to sortie.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "See? Joe, you're the only one who isn't done.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Tch, fine, fine.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Kurojishi and the rest are robots aliens built, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "You guys actually understand 'em?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "I don't really get the mechanical stuff,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "but for some reason I can pilot this machine. Maintain it, too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "That's strange. Maybe they were actually made on Earth?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Come to think of it, the Elshank came to Earth hundreds of years ago,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "looking for ninja...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "The Shema system is 60,000 light years from the solar system, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "And robots and mobile suits have only been built in the last few decades.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "...The timing doesn't add up.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "So basically, nobody gets it, right? Who cares?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "It's just a coincidence they're the same, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "The tech level, the builders' tastes, and all that.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "I'm not sure we can sum it up that easily...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Hyoma. Simple. Single-celled.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "What'd you say, Ropet!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "But... I never thought hard about it, but it is strange.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Princess Romina, Shaff, and even Ilbora...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "they look no different from us humans...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "So the robots' workings aren't the only thing that's the same, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Though everyone from the Shema system has a lousy personality.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Come to that, three of the Dangaioh team are aliens too,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "an' they ain't no different from people, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "...Though walking around the ship dressed like that is a bit much...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "...Yeah... true.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "This ship will storm the interior of Jaburo in 20 minutes.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "All pilots, assemble on the bridge.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "I repeat, this ship will...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Oh, here it is, from the Commander! All right, everyone, let's go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "All right, here we go...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Hey, Joe! You're not done yet!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Kurojishi'll be fine.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "After all, I'm the one piloting it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Lenny, nothing you say will get through to Big Bro.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Geez!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Combattler team, coming in.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "That's everyone. ...Listen carefully.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "The Gandor will now storm the interior of Jaburo.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "What's the situation inside?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Still no contact with them?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Is it full of those guys in there after all?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "That's sooo gross...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Waaah! I wanna go home! Lady Sheelaaa!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Yeah, it'd be bad if we got sent back to Byston Well again.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "The Einst the other day said it had no business",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "with Byston Well, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Whatever, let's just sortie already.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "An interception force would be trouble. Let's move fast, Commander.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "We haven't heard from the princess. Is she gonna be okay?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "...Questions and opinions one at a time, please.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "First, the inside. Minovsky jamming is so heavy we can't get a read on it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "So they've got jamming up.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Want me to scout it from underground in Liger, Commander?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "No, we have neither machines to spare for recon... nor time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "So basically, it's the Cyber Beast Force's specialty: just charge in, huh?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Well, I get that it's our only option.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Dawdlin' around till somebody calls a halt before we storm in is no fun.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Let's get a move on.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Pai... for all your talk, you're cut out for the Cyber Beast Force too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "The jamming is... of a strange kind we've never seen before.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "In other words, it's not anything already known...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "There's a good chance it belongs to that mysterious enemy.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Or it could be a whole new enemy, y'know.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Juzo, no need to go sayin' things that'll make us nervous.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "South of Jaburo, the mysterious enemy was controlling AI robots,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "wasn't it? Could it be that inside Jaburo, they've already...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "Quite likely. They may be deploying even as we speak.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Would be easy if they were all Mechanical Beasts.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "I doubt it'll be that easy, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "It'd be easy if it were all Mechanical Beasts or Dinosaur Empire robots.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Naive. If they have any intelligence, they won't line up like that.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "They'll likely deploy mechs capable of long-range attacks too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Even Mechanical Beasts... I don't like them, they're tough.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "As for space... we've lost contact with Londo Bell.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "What!? Again!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "Has a battle started, maybe?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "We don't know. We heard from Anaheim",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "that they'd won the battle on the moon...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "but they dropped out of contact right after that...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "We cannot reach Master Banjo, either. Now, what to do...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Just when we're about to start... Bad timing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Is there any change to our operation?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "...No, we storm in as planned.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "Londo Bell succeeded in stopping the colony drop.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "Now it's our turn to live up to that.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "This is Bright we're talking about... He'll manage.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Kyosuke, you're worried about Londo Bell",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "too, aren't you?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "Kyosuke, you're worried about Londo Bell too, aren't you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "Huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "You sneak off to make calls, right? That's your girlfriend, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "Wow, Kyosuke, you're quite the sly one.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "I see it now and then. Always when you finish maintenance early.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "Hmph. How frivolous.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "Tetsuya, keep quiet, you'll just make it more complicated!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "...I wasn't exactly sneaking off to make calls...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "Heh, you're always scowling, but you're doin' all right for yourself.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "Joe, you sound like a dirty old man.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "Isn't it nice? A man and woman torn apart, one on Earth, one in space!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "Ahem. That's enough of that. Well, at least it eased the tension.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "Heh, true. Well then, Commander...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "Yes. ...All hands, stand by on deck.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "The Gandor will now storm the interior of Jaburo...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "All right, let's go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "Show, let's take 'em all out with Aura Slash!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "You've gotten pretty violent lately, Cham.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "There's no turning back now. Let's go, Hayato! Benkei!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "This'll probably be the last big battle on the surface.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "I hope it leads to the end of this war, Shiro...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "Yeah, let's end it. This fight...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "But... what if there's some terrible enemy in there...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "You're gonna rain on our parade now!? Just get to Dangaioh's cockpit!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "(The Einst's voice... only Excellen and I hear it... I can't tell them... not yet.)",
+   "kind": "thought",
+   "keep": false
+  }
+ ]
+}

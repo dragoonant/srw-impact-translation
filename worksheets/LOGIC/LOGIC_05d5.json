@@ -1,0 +1,2119 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1493,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Haman!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "...Judau Ashta. Sharp as ever, to show up in this situation.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "And with that many, no less.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Heh, I just wanted to see you, so I came on ahead!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Haman Karn... What are you planning to do?!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Can't you tell? I will drop Fifth Luna... onto Earth.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Wh-What did you say?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Why would you do that...?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Time is short, Judau... Now is the only time to act.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Why, Haman?! Why does it have to be now?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "This is no time for Earth people to be fighting each other!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "We're being attacked by aliens and those weirdos called the Einst",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "and all kinds of stuff!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Heh... I told you, time is short.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "If our Zeon is to stand victorious after this war... it must be now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "I'm asking you if this is really the time for that!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "I fight for the ideals of Zeon...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "I cannot afford to think only of the moment, like you children.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "So that's supposed to be the grown-up view?! Gimme a break!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Don't think you can stay a child forever...! Judau Ashta...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Lady Haman, allow me to deal with them...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "I knew he'd show up...! Mashymre!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "I'll repay you for all the trouble you've caused me...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Judau Ashta!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Mashymre, don't force the attack. Just keep them off of Fifth.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Yes, ma'am. I swear it on this rose's petals...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Looks like they won't be happy until they wreck the Earth...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Can't be helped... This is your own fault!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Very well. Then stop us with that \"justice\" of yours!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "L-Lady Haman... Forgive me...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Ugh...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Splendid... Splendid, Londo Bell.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Gato...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "I need no pity from my enemy...! But, Lieutenant, hold your head high.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "You fought true to your convictions, and you defeated me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "GATO!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Excellency Delaz... Stardust has failed...! I come to join you...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Ngh... I, of the true Zabi bloodline... finished in a place like this...?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "You keep going on about blood, but where did it all come from?!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Earth, right?!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "...The land of beginnings...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Earth, which gave birth to everyone and raised them, is our home!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "The Zabi blood is one part in hundreds of billions of that, right?!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "If you're gonna fight over that, keep it inside Axis!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Humanity has grown too numerous!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "That one part in hundreds of billions is the truly superior race...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "How can a Newtype like you not understand that?!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Who cares about Newtypes and all that?!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Aliens and enemies we can't even identify are wrecking the Earth...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "People from Planet Fleed and Planet Cronos are fighting to protect it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "So why should we Earth people be ravaging our own home?!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Judau...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "That's right! What Glemy's saying... is wrong!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Right now, all of humanity has to start over!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "If we don't take down people like you, who get hung up on petty things,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "there's no tomorrow for the Earth Sphere!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "People bound by blood just get in the way!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Bound by blood... Perhaps that is so.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "...You disappoint me... New... type... You...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Heh... Heheheh... To think... I'd lose... here... Finish me...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Haman, why couldn't you put that resolve of yours to better use?!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Used for harmony and cooperation, your gifts could've saved Earth...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Hahaha... When those who went as far as the asteroid belt come back,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "it proves humanity's soul is still held by Earth's gravity... It can't fly...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "No one could forget the land of their home.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "An alien... siding with the Federation. Even so... the Earth is exhausted...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "There are not many ways left... to save the Earth we wore out...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Because... nobody cherishes their home...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "...When did it come to this...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "I was born and raised in a space colony... I wouldn't know... But...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "That doesn't mean fighting here will do anything...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Yes... thanks to you meddling brats... I couldn't wipe out the fools",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "clinging to Earth... Ugh... It's all... because of you...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Haman...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Char... I...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "HAMAN!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "I'm glad I came back... Ugh...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "...and got to meet such a strong child...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Judau!! Are you okay?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Ple!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "You all right, Judau?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Kamille!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "So you've come... Londo Bell!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Heh, our battleship can warp, you know!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Warp...?! I see, Londo Bell... alien technology...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "If their leader Haman Karn is here...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "it seems Neo Zeon has concentrated its forces here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Captain Bright!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Neo Zeon intends to drop Fifth Luna onto Earth!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "What?! Are you sure?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Given Fifth Luna's current orbit and speed, it will definitely hit Earth.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "...So that's what it was.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "That asteroid...? I won't allow it...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Geez! Why do the Zeon people love dropping things",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "on the Earth so much?!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Heh... Because it works best. ...Hm? This feeling... Char, are you here?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "(Why the rush, Haman...!)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Heh, the Devil Gundam, was it? It bought us unexpected time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Hoshino, if Fifth falls, can you calculate how long until",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "it passes the point of no return?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Omoikane, calculate from Fifth Luna's orbital path...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "...Ten minutes left.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Ten minutes?! That's all we get?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "This is no time to complain! Be glad we have any!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Damn it, either way, we've got no margin at all!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "We'll find out if it's impossible by trying.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "If that hits Earth, then Earth... Damn it! I won't let that happen!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Yeah! Let's stop it again!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "I don't know what you're thinking... but I'll stop you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Hmph, I can understand the idea... But...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "I wish we could've taken out more enemies before everyone got here...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Don't sweat it! Running out of time is nothing new for us!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "I'd like to take it easy once in a while. Everyone, you heard the comms?!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "We're taking back control of this space!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Everyone, launch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "That... mobile armor...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Major Anavel Gato?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Ho ho... So you're here. It's been a while, Lieutenant Uraki.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "...Lady Haman, I was tracking Londo Bell's main force...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "My apologies for being late.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Never mind it, Major. ...I expect good work from you and Mashymre both.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Gato! So it's you...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "We have a great cause we must see through!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "I won't lose to you...! Gato!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "I must repay you for that time. Our bond of fate... ends here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Don't strain yourself too much, Nightmare of Solomon.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "...Lieutenant Colonel Cima, we face Londo Bell's main force.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "I'll have you deal with them properly.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Tch, that old hag's here too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "They won't make this easy, huh...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Heheheheh, so many to choose from.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "...That woman... She wants to fight, too...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "We stall Londo Bell for as long as we can... Understood?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Stall them? How tedious. If we wipe out every last one of them,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "it's all the same... Here we go!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "1. All allies destroyed 2. Victory conditions not met by turn 12",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "We've cut their numbers down quite a bit, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Who knows. I doubt it'll be that easy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Seems that way. ...Enemy reinforcements incoming.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Oh, come on, right as you say it?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "This is bad... and we're out of time!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Hm...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Where do they keep coming from?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Oh well, looks like we've got no choice.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Don't overdo it, Jet.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "They just don't quit, damn it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Hah! Like I'd go down that easy! I can keep going all day!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Ugh... This feeling...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "That machine... Glemy Toto?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Hm...? Glemy... So you've come.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Glemy! Zeon can't have a future if it tries to drop something like this!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Zeon's already finished!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Finished? ...Heheh... This is no ending... It is only the beginning!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "By the hand of Glemy Toto!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "(He finally shows his true colors here. ...Too late, Glemy.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "What are you talking about?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "S-Something seems weird with them...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "...What?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Neo Zeon against Neo Zeon... Are they splitting apart?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "I have a great cause I must fight for...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "You cannot even see justice, so why do you fight...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "A great cause... I don't get that complicated stuff! But...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "right now is a time when we've gotta fight!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "You fight simply because you are a soldier.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "You pilot a mobile suit only because of circumstance.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "...But I am different...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "That's not true! Judau thinks for himself and fights!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Hmph... A mere doll...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "What's so different?! You're...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "I chose a harsh path for myself... and I have no regrets!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "You have no impulse welling up from within...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "Scum like you, begone from my sight!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "...Impulse alone is not enough, surely.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "What...?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "However this battle ends... the Zabi family's ghosts must perish.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Everything... must be done over once more...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "You're merely clinging to the words \"great cause.\"",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Don't lecture me as if you knew!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Don't you get what Quattro's saying?!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "This is no time for this...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "To me, you seem like the one who's most cornered.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "...Silence! All forces, commence attack!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "It buys time... but if that's Glemy's move, I must go out myself.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Haman Karn... So she's finally come out herself...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "The boss finally shows up, huh? Took her sweet time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "Maybe she was hiding till now 'cause she's not confident in battle?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Doesn't seem so... The mood of everyone in Londo Bell just changed...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Amuro Ray, hero of the One Year War. Oh... and Kamille Bidan too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "And... Char. What an illustrious lineup, Londo Bell.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "Haman! Your role here is finished...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "Silence! If you wish to seize control of Neo Zeon,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "then try getting through this first!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Haman Karn! I get it now! You're someone who shouldn't be alive!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "Such impertinence from a mere boy!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "There's no time to waste!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "At all costs, wipe them out in time and stop Fifth from falling!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "Do you even know what kind of time this is?!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "Earth... No, not just Earth, the whole Earth Sphere is in danger!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "Right, there are mystery invaders in space and on Earth, too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "That is exactly why, Judau Ashta...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "What...?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "Even now, the Federation... no, the people living on Earth",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "won't try to do anything about it themselves.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "Suppose you manage to bring every battle to an end.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "...What will remain after that?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "Wh-What will...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "Only humanity's same old way of life will remain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "...That's...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "I cannot wait for change to come, Judau Ashta.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "This war... is an opportunity.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "Exactly. ...But you will not be the one to rule it, Haman!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "Keep quiet, little Glemy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "Wha... Ngh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "So it's okay to drop a meteor and hurt the Federation... no, Earth?!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "There's no Earthnoid or Spacenoid!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "We protect the place we live, ourselves!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "That's right...! Hurting the place where everyone was born...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "Yeah, there's gotta be some better way!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "Pretty words won't change the world!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "There's nothing pretty or ugly about killing people!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "Haman! You must be able to see it, the will of those who died in vain!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "As long as people live, they are alone... Humanity itself is the same.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "Can all humanity become Newtypes, as you showed me?!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "Before that, humanity will devour the Earth...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "Can't you trust people at all?!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "Hatred only breeds more hatred... Understand that!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "Forget it, Judau. She's not the type who'll listen to words...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "Is fighting our only choice...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "Time is short, Judau Ashta! For humanity, there's no more...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "Blast it! Shoot down Londo Bell and Haman's forces too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "I know we're out of time... but there's a right way to do things!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "We can only go forward our own way... Let's go...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "Geez!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "...Mashymre Cello... You fought well...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "Mashymre...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "Haman! People who believed in you are dying too!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "I know! That's exactly why I can't retreat! I won't waste their will!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "...Mashymre Cello... You fought well...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "Mashymre...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "Haman! People who believed in you are dying too!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "I know! That's exactly why I can't retreat! I won't waste their will!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "Lieutenant Colonel Cima's unit...?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "Major Gato...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "en": "...Colonel?! Why do you interfere?! You betrayed Zeon...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "We should be enemies!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "I told you before, Major.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "en": "The Zabi family... no, even Haman, after the Zabis' fall,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "en": "merely uses the name of Zeon...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "en": "Don't tell me the Nightmare of Solomon never noticed that.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "en": "But it's true that Haman Karn has the Spacenoids in mind...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "en": "In the end, it only serves the Zabi family's interests.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "en": "Just like those whose souls are bound by gravity...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "en": "...Even so, I can never side with the Federation...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 258,
+   "en": "True, under today's Federation, Spacenoids and humanity",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "en": "may have no future.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "en": "But can't you see this is no time for Earth people to fight...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 261,
+   "en": "Captain, what are you...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 262,
+   "en": "Bright! Can you pick up what Quattro and Gato are saying?!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 263,
+   "en": "No... They seem to be talking by contact. We can't pick it up from here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 264,
+   "en": "(...Char...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 265,
+   "en": "...You don't accept the Federation either, Colonel... Then why?!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 266,
+   "en": "Why won't Char Aznable himself rise up?!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 267,
+   "en": "Now is not yet the time...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 268,
+   "en": "Get back, Colonel...! I've come too far to bend my convictions now...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 269,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 270,
+   "en": "GATO!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 271,
+   "en": "Kou Uraki...! Lieutenant! So it's you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 272,
+   "en": "You told me I didn't even understand what I was fighting for!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 273,
+   "en": "What about you now?!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 274,
+   "en": "I follow my own convictions! That is why I fight here now!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 275,
+   "en": "If fighting for Spacenoid independence is your conviction,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 276,
+   "en": "then right now there are others we have to fight!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 277,
+   "en": "Is ignoring that and fighting anyway your conviction?! Answer me, Gato!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 278,
+   "en": "Nngh... This boy...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 279,
+   "en": "Heh, freedom for the Spacenoids, is it... Don't make me laugh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 280,
+   "en": "What's so funny...?! Colonel... you...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 281,
+   "en": "What Glemy Toto is doing...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 282,
+   "en": "Do you think that will become the Zeon you wish for?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 283,
+   "en": "Nothing changes... At this rate, nothing will ever change!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 284,
+   "en": "Glemy Toto...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 285,
+   "en": "You said there's no tomorrow for those without ideals or beliefs!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 286,
+   "en": "But having ideals doesn't make it okay if they're wrong!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 287,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 288,
+   "en": "Colonel Packard... You're here too...?!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 289,
+   "en": "But... the things I believed in... to change them now!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 290,
+   "en": "But... the things I believed in... to change them now!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 291,
+   "en": "If you were wrong, then just fix it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 292,
+   "en": "Haman... Even Haman... must've wanted to do that!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 293,
+   "en": "...For a new ideal... I failed to die once again...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 294,
+   "en": "Gato...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 295,
+   "en": "...Gato...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 296,
+   "en": "For conviction and a great cause... but he too was a victim of the Zabis.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 297,
+   "en": "...He was a young man of great promise.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 298,
+   "en": "Glemy... You fool...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 299,
+   "en": "...Human potential... for some petty self-satisfaction...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 300,
+   "en": "...I won't let it be crushed...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 301,
+   "en": "Glemy Toto... To be beaten by a brat who can't tell a cause from emotion.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 302,
+   "en": "Why... Damn it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 303,
+   "en": "Judau...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 304,
+   "en": "Don't cry, Judau. She... just chose the wrong way.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 305,
+   "en": "...Perhaps... there is no right way.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 306,
+   "en": "Heh, heheheh. Haman, all talk and nothing more...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 307,
+   "en": "Now, strike down Haman's remaining forces and Londo Bell!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 308,
+   "en": "Lady Haman... Your will, we shall surely...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 309,
+   "en": "Shaff! Is it safe now?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 310,
+   "en": "Yes, Princess! There are no enemy signals in this area!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 311,
+   "en": "All right, we'll latch onto Fifth at once!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 312,
+   "en": "Damaged units, return to your ships! Everyone else, to Fifth Luna now!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 313,
+   "en": "Hey, Hazuki! During Operation Stardust, there were pulse engines",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 314,
+   "en": "for course correction, so we were fine. Are we okay this time?!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 315,
+   "en": "After all this, \"no way to change its course\" wouldn't be funny!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 316,
+   "en": "Hmph, if worst comes to worst, we just smash it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 317,
+   "en": "I see, a Single-Stroke Cleave would...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 318,
+   "en": "The debris would cause more damage. Changing its orbit is our best bet.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 319,
+   "en": "Fifth should be loaded with nukes to slow its descent.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 320,
+   "en": "We can use them to change its orbit.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 321,
+   "en": "Man, there's never a dull moment.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 322,
+   "en": "This is no time to say that!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 323,
+   "en": "Do you want Fifth Luna to fall on Earth?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 324,
+   "en": "Is the Aestivalis power supply going to hold?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 325,
+   "en": "Aestivalis team, please handle the work on the outer wall.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 326,
+   "en": "Let's hurry. It's not Operation Stardust, but time's still short.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 327,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 328,
+   "en": "Judau... We still have to finish the job.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 329,
+   "en": "I know... Kamille. But... but still...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 330,
+   "en": "As Captain Amuro said earlier... Haman Karn chose the wrong way.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 331,
+   "en": "The way, the way... The way to what?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 332,
+   "en": "Something big is about to happen in this universe.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 333,
+   "en": "...But too many other things are happening as well...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 334,
+   "en": "Everyone's anxious. ...The Einst used me however they liked...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 335,
+   "en": "and yet I don't understand them at all, either.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 336,
+   "en": "Excellen...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 337,
+   "en": "Is that why the Hyakki are on the move too?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 338,
+   "en": "...The Demon Empire too?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 339,
+   "en": "And the Aura Road opened up too, Show.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 340,
+   "en": "...Yeah. I still haven't found an answer, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 341,
+   "en": "...This chaos itself may be the true form of what's coming.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 342,
+   "en": "But... I think I can see the meaning of this fight beyond it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 343,
+   "en": "...The way is how we end this fight, so we can see what lies beyond.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 344,
+   "en": "...I suppose so... A bit heavy, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 345,
+   "en": "So Haman got so caught up in blood... and revenge on the Zabi family...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 346,
+   "en": "...that she couldn't see anything else...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 347,
+   "en": "What are you doing?! It's not over yet!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 348,
+   "en": "Judau, we can only fight our own way. For now, at least.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 349,
+   "en": "Yeah, that's right, isn't it? Judau!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 350,
+   "en": "Y-Yeah... You're right, Ple...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 351,
+   "en": "(Haman... I'll keep fighting... as the strong child you said I was.)",
+   "kind": "thought",
+   "keep": false
+  }
+ ]
+}

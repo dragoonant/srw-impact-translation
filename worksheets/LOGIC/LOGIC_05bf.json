@@ -1,0 +1,1855 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1471,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Whew... Looks like we've finally reached an area big enough to deploy.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Are the residents safe?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "The shelter blocks we saw on the way here looked intact...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Oh right, what about Domon's old man, who got ejected?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "We recovered him. And the shelters should be able to eject from it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "I'm accessing that secret circuit now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Looks like we can cut loose without worrying.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "We've come this far. We'll just go as far as we can!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Now, let's defeat the Devil Gundam!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Welcome, members of Londo Bell.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "That's him... the man behind the whole Devil Gundam affair...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "A former Gundam Fighter, and a Neo Japan major...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "...Ulube!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "I'll at least praise you for making it this far.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "However, that too...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Shut up! Just give Rain back and that's that. Otherwise...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Otherwise...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "......You die...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Ohh......? So you're the prince come to rescue the captive princess.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "And I am the wicked wizard standing in your way... is that it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Wow! He's using the exact metaphor the Captain did!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "But he sure doesn't look like he plans to give the princess back...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "That man... has no openings...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Heh heh heh, cease your futile efforts. All resistance is meaningless!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Now, with the Devil Gundam's vast power, the Earth Sphere will be mine!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Like we'd fall for that lie!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Dr. Mikamura told us it can be beaten from the inside!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "That's right! You can't know if it's futile until you try!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "But... the inside of the colony isn't much different from the outside...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Will it really work...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Don't go soft! We've gotta do it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "...That's right. Even it isn't immortal. The Devil Gundam can be defeated...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "by our human hands.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Dr. Kasshu!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Dr. Kasshu, you've only just woken from cryo-sleep...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Please don't push yourself...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "I'm afraid I can't afford not to... Domon...! Can you hear me, Domon!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Father...? You're awake!? Father!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "I've heard the gist. Listen, the colony's main reactor powers him...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Shut it down. That's the only way!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "The reactor...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "The Neo Japan colony seems to have centralized its internal energy supply",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "in the main reactor...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "You could call it the colony's heart.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "I see. If we strike the colony's heart...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "we should be able to stop the Devil Gundam leeching off it too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Understood, Father...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "All right, so the reactor's the target...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "...Domon.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "......Father...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "You've grown... grown so much...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Father... Yeah. I'm off...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Damn you, Dr. Kasshu! Meddling fool.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "...No helping it. Heh heh heh... I'll enjoy a Gundam Fight myself, for once...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "I've kept this body trained for just such an occasion! Nuuuuuh!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Wh-What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Major Ulube is raring to go.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Also... a high energy reading from underground... incoming.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "And if my opponent is Londo Bell, I couldn't ask for better!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Now come forth, my limbs! Grand Master Gundam!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "What!? That's...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Hm...! What...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "The machine he boarded... Is part of the facility transforming...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Come at me! This invincible main reactor will be your opponent!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Th-This thing... is the reactor!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "The reactor itself seems to have turned into a giant",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Mobile Fighter...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Tch! So our enemy's that big lug itself, eh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "This is... the Devil Gundam's final form...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Wrong! My name is Grand Master Gundam!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Now, come at me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Who cares! The reactor we were looking for came out to us on its own!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Saves us the trouble of searching!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Yeah, if we smash him, we can restore this colony, right!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Shinobu, take him out!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Hear me! You foolish insects!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "The great DG Cells grant us infinite power!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Behold! Thanks to them, I've become ruler of the world!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Yes, from now on it's the age of DG Cells! Let humanity perish!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "What? That man's face...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Wh-What the...!? Is that a human!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Seems he's infected by DG Cells too... Though I suppose he wanted it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "He's lost his mind...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "I get what his ambition is... but I won't forgive tearing lovers apart!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "All right, all units, attack!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Target: the main reactor... the Grand Master Gundam!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Hang on... Rain!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Gwaaah!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Did you get him, Domon!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "...No, wait.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Heh... Heh heh... Hahahahahahaha!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Why won't it blow up!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Impossible! We definitely beat him, and he's the reactor!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Wh-What is this!? So it was already too late...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Dr. Kasshu......?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "If it's come to this, there's only one option left...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "We have to stop Rain, the bio-unit...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Stop Rain...? You don't mean... kill her!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Nonsense! ...After coming this far, how can I give up!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "I won't hand Rain over to anyone... I won't let you have her!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Heh heh... It's no use... Rain will never... return... to... you......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Did I do it!? Raiiiin!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "...Ugh... D-Domon...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Rain! Raiin! ...I'm sorry...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "...No... Domon... I'm the one who should... apologize.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Thank goodness... Rain, you're safe...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Hurry! It's going to blow!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Come on, let's get back to the ship...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Okay...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "What's this!? ...Everyone, be careful, something's approaching!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Whaddya mean? Who the heck shows up when we've got our hands full!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "My, my, seems the Londo Bell lot slipped in here too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Doesn't matter. Our mission is to seize the core unit",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "of this Devil Gundam thing that conquered the colony.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "However many insects we kill along the way doesn't matter.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "The Devil Gundam's core unit... So you're after Rain!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Come to think of it, I heard its core unit uses a living being.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Doesn't matter who it is.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "We space pirates just take whatever we want.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Like hell!! I won't hand Rain over to you... or anyone!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Flash, Burst! Stop helping the Bunker already!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Oh, you're here, Roll Kran. We joined the Bunker by choice, you know?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "...While you were dead the first time...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "I'll kill you once more...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Wh-What? What does that mean!? ...Roll?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Killed... once before!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "That's right... Roll Kran, hero of planet Latesia's resistance...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "We, his comrades, killed him.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "No way... Then why is Roll...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Because it was so stupid, wasn't it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Freedom, justice, whatever you say, you could never beat the Bunker.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "So we killed Roll, the resistance leader,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "and made him out to be a coward who ran away.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "How despicable...! Unforgivable!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "You bastards... are way too evil!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Looks like we have to beat these guys and destroy the reactor too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Heh heh... The space pirates of the Bunker, is it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "But even space pirates are powerless",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "before DG Cells, as I'll show you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Along with Londo Bell, become sacrifices to the Devil Gundam!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Tch! The Bunker and the Devil Gundam's forces...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "We can't let either of them have their way!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Treat them all as enemies! Intercept!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Easy for you to say...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "But no matter whose hands the Devil Gundam ends up in,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Earth will be destroyed, that's for sure!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Whoa, what a free-for-all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "It's a total mess!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Burst!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Ngh...! Getting in our way again...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Burst! Wake up already!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "...Heh heh, how naive, Roll Kran. I'll have my revenge for this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Tch... She got away...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Burst...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Roll...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Flash! Stop this already!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Flash, leave the rest to me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Roll... You'll pay for this! I'll tear you all limb from limb...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Damn...! Flash...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Roll, we're still in combat! Don't space out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "Dr. Kasshu! What did you mean by stopping Rain!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Well, that is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Wait...! Where the Grand-whatever was... something's coming out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Is that... a robot?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "What the... There's a Gundam stuck on top of a giant face...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "That's... It's...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Dr. Kasshu, what is that Gundam...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "N-No... I can't believe it... But if this is the Devil Gundam's",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "final form, things have gotten terribly out of hand!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Look! On that Gundam...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "...............",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "Rain! I see, you can't get out on your own?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "...Then I'll smash this thing!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "Stop, Domon!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Wh-Why!? Father!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Look closely! ...That Gundam is Rain herself!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Wh... What did you say?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Domon, think about it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Why the Devil Gundam's evolution suddenly accelerated!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "But... why!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Listen, Domon... Rain is avoiding you!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "What...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "(It's my father who's made you suffer... and his sin is my sin...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "I'm sorry, Domon. We'll never meet again...)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "...That can't beeee!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "Nooo! Don't come near meee!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "Now you see... This Gundam runs on human emotion and the psyche,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "the ultimate final form! And it is Rain herself...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "S-Something like that can be built...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "It's not about theory... The real thing is right in front of us. That's all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "Dr. Kasshu... What a frightening talent...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "No... After coming this far, the final enemy is... you, Rain...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "Domon! Are you all right with that!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Don't give up.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "Huh......?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "That's right, Domon. Weren't you going to save Rain?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "Why can't you understand how Rain feels?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "Listen. The man who hurt the one she loves was her own father...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "Deep in her heart, Rain is full of guilt toward you...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "That's why she shut her heart away inside that Gundam...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "So! I'll teach you a spell that's sure to open the door to her heart...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "...It's just three words: \"I love you.\"",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "Huh...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "Hey... Have you ever told Rain you love her?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "N-No...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "Then all you have to do is be honest about your own feelings, Domon.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "B-But...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "Come on! Get on with it already, Domon Kasshu!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "...If you really care about her... isn't it simple?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "There's no need to hold back for anyone's sake, Domon.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "I could force-cut every unit's comms from here, if you like.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "That would disrupt the chain of command... We can't do that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "See, everyone gets it! Go get her!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "...Or else... I won't ever be able to love anyone but you...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "Allenby...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "Hehe... Now hurry!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "Thank you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "All units, cover Domon!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "Roger!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "Quite the spectacle, huh?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "We can't exactly not help out, can we?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "Seems so. ...We'll need to keep anyone else from butting in, though...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "RAAAAAIN!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "...I-It stopped...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "The Devil Colony's activity has stopped...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "Now comes the real test...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "Rain, can you hear me, Rain...? You don't have to answer.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "Just listen...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "Mr. Mikamura saved us... He saved my father.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "...He said all of it was his fault.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "Rain's crying...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "But none of that matters anymore! It's all right...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "...Or do you think I'll blame you for it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "Hey... What have we been doing all this time?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "What did everything we've done mean?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "...We haven't found any answers yet...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "Ugh, this is taking forever. Just hurry up and...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "Shhhhh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "Sure, I've managed to win every battle so far.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "But it's all thanks to you always being right there by my side...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "That's right, those victories were won by you and me together.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "So we have to stay together from now on, or it'll all mean nothing!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "en": "...Uh... Uhh... Uh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "I'm a clumsy man who knows nothing but fighting.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "So this is the only way I can say it... I... you... I...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "en": "Uh... Ah... Ah... Do... mo...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "en": "I LOOOOVE YOU!! I NEED YOU!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "en": "RAAAAAIN!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "en": "DOMOOOOON!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "en": "Rain!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "en": "Domon! I'm sorry... But I'll never leave you again!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "en": "I won't let you go! Ever...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 258,
+   "en": "We'll be together forever!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "en": "Well done, Domon...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "en": "Hmm... Not bad, for you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 261,
+   "en": "...How lovely...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 262,
+   "en": "Geez, it's making even us watching feel embarrassed...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 263,
+   "en": "But it's lovely. So honest...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 264,
+   "en": "With the loss of its bio-unit, the Devil Gundam's activity is...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 265,
+   "en": "...rapidly accelerating...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 266,
+   "en": "Huh!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 267,
+   "en": "B-But why?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 268,
+   "en": "Allow me to explain.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 269,
+   "en": "...The DG Cells are rapidly rebuilding its tissue to keep the host alive.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 270,
+   "en": "What a wonderful, and what a terrifying invention...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 271,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 272,
+   "en": "...I am totally, overwhelmingly moved right now! I wish Akito and I...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 273,
+   "en": "...I'm still a child.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 274,
+   "en": "(But... that might be kind of nice.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 275,
+   "en": "Now, Rain, let's finish this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 276,
+   "en": "Yes!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 277,
+   "en": "COME FORTH!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 278,
+   "en": "SHIIIINING GUNDAAAAM!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 279,
+   "en": "Domon... We did it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 280,
+   "en": "Yeah... This time, it's really over...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 281,
+   "en": "Sekiha Love Love Tenkyoken usable.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 282,
+   "en": "I can't believe it... They actually beat that Devil Gundam...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 283,
+   "en": "Londo Bell... They're an opponent we can't take lightly...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 284,
+   "en": "...The Devil Gundam has gone completely silent.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 285,
+   "en": "The DG Cells infesting the colony are also starting to collapse.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 286,
+   "en": "Yay! Congratulations, Domon... and Rain!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 287,
+   "en": "Thank you... Allenby.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 288,
+   "en": "Yeah... This is all thanks to Mr. Mikamura, my father...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 289,
+   "en": "...and everyone who supported us...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 290,
+   "en": "We did it, milady!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 291,
+   "en": "Yes, we defeated that monster.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 292,
+   "en": "Dr. Kasshu...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 293,
+   "en": "...It's all right. That was not the Ultimate Gundam I created.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 294,
+   "en": "It truly was a spawn of the devil... a Devil Gundam...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 295,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 296,
+   "en": "I've fought all kinds of enemies until now...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 297,
+   "en": "...but that's the first one as big as a colony.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 298,
+   "en": "True. Without the help of Dr. Kasshu... and Dr. Mikamura,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 299,
+   "en": "it might have been touch and go.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 300,
+   "en": "Well, Neo Japan's safe too, so I guess all's well that ends well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 301,
+   "en": "All right, all units, return! The fighting isn't over yet.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 302,
+   "en": "...The Bunker... Flash, Burst...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 303,
+   "en": "Roll... Is there no way... to reach an understanding with them...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 304,
+   "en": "Drop it, Mia. ...Neither side can back down now...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 305,
+   "en": "Whew, what a free-for-all, and a little embarrassing too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 306,
+   "en": "...Oh my? Kyosuke?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 307,
+   "en": "(Such enormous power was at work, yet they never appeared... Why?)",
+   "kind": "thought",
+   "keep": false
+  }
+ ]
+}

@@ -1,0 +1,985 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1089,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "So this is the enemy's heart... Let's hope we drew the right spot...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "The atmosphere's composition... is almost the same as Earth's, huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "It really does feel like a plant planet.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Why would something like this...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "What is this asteroid, anyway?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "I imagined something more like a barren hunk of rock...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "A beautiful world, full of nature. ...Yet we've come to destroy it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Yes, it would've been fine if it were only full of nature.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Rom, are we maybe trying to do something wrong?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Having a heart that loves nature is important.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "But... if something must be sacrificed for it... we've no choice but to fight.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "That's what fighting is... Dad used to say that too, right, Sis?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "...Yeah.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "All the more so when it's an unjust invasion. Even if I'm not keen on it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "But we can't just sit back and watch.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Uraki's right.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "We have to protect ourselves on our own. ...And our homeworld, too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "To do that... we need to find the core quickly.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "I hope we can get through this smoothly...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Hm!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "I knew it...! Looks like they're on to our moves!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Quite the welcome. There's even a new model we've never seen.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "The enemy's not that easy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "So you've come this far... No mercy to those who hinder the Dirad's dream!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "That Dancougar doesn't seem to be here... but you'll be first!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "The Dirad's dream!? What's your goal... What is this dream!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Taking root... Heh heh heh.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "I'd love to let you watch your world become food for our Dirad...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "but I cannot forgive you for defiling the land of the Dirad!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Taking root? I don't know what that means, but!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "In the end, it's still an invasion!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Then we can't back down either!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Your bravado ends here...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Here they come! Master Rom!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Heaven, earth, fire, water... grant us your power...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Londo Bell, are you all right!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "What...! Letting an enemy battleship get in! What is Abel doing!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Heh... I never thought the Gandor would come. Much obliged.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Sorry we're late. The Gandor unit will now provide support!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Huh, it's actually a pretty nice place.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Don't be fooled by looks, Koji!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Oh, it's actually pretty nice. I imagined something much creepier...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Don't be fooled by appearances, Jun.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "What they're trying to do is as horrifying as it gets.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "This lush, green nature... It may be the kind of scene Master wished for...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "but this is nothing but false nature.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Domon...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Is this everyone here?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Yes... The Nadesico and the Mazinger team should be ahead. The rest...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Since we've already joined up...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "only the core assault unit is left.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "So our forces are concentrating again?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Leave the guys around here to us!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "With the Zambot here, we're unstoppable!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "This battle... do we see a chance of victory?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Making noise here won't get us anywhere. Let's go, Shinobu!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "You got it! ...Sara, you get it, right? I know you want to rush out, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "...Don't worry about me, Shinobu. I told you I'm over it, didn't I?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Let's just sortie. Whatever we do, it won't start till we head out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "That's... the Dancougar! Curses... so you survived...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Same as always, lining up nothing but numbers!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "I'll shoot down every last one of you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "If only... if only you weren't here, Lord Shapiro would...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "New models too. Just what you'd expect of the enemy's home base.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Captain, you're safe!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Of course we are!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Amuro and Kamille came too. Like we'd lose to stuff like that!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Lowly Earthlings...! Don't get cocky!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "All right! Let's take 'em down!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "The core still seems a ways off... No time to linger!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Damn... Reinforcements!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "That blue robot! Don't tell me... here too!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Ah... Lord Shapiro's mech...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Too bad it's not Shapiro... Keim.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Abel... I can handle this alone. You protect Lady Diore!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Would you say the same if it were Shapiro who came?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Hahahahaha...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "New arrivals. And we're short on time...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Looks like they're fighting each other?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "I don't know... What's going on?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Show, don't let your guard down!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Heh, if they're squabbling, all the better. I'll take 'em all out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Isn't that the robot of that Shapiro guy from before?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Shapiro Keats... doesn't seem to be here...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "A fake Dancougar showed up too...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "It wouldn't be strange if Shapiro's mech were being mass-produced.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Calm down, Sara.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "I am calm!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "This is no time to be yapping!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Big Bro's right!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "The Dirad people's long-held dream... I will see it fulfilled, no matter what!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Leave the rest to me and fall back, Keim.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Ngh, this is as far as I go...! Withdrawing for now!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Tch, he's running, that bastard!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Roll! Don't let him get away!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "No need to pursue. We'll be fighting them again soon enough...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Right now, wiping out the enemies in front of us comes first.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "They should be cornered, yet they pull back like this... Something's up...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Brother...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "We've only driven off their main force! Don't let your guard down!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "You should have stayed quietly at Lady Diore's side.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Ngh... The time of taking root is near... Don't think this is over.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Hah, listen to the sore loser!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "I hope that's all it is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Taking root? What does that even mean...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "So this planet does mean to land on Earth... But for what?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Thinking about it won't get us anywhere!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "All we have to do is destroy this lump!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Domon, isn't that a little too simple?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Whatever their reasons, no one needs to be sacrificed for them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Well, that's about the size of it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "...New models? There's still more!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Only two of them... but is this their secret weapon...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "They look... very strong. Shiro, numbers don't seem to matter here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "They look kind of like the Hyakki Empire mechs we fought on Earth.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "But we should've taken down their fortress island...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Th-that's... It can't be...!? Hey, Hayato, Benkei!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Yeah, I noticed already, Ryo. ...That's...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "You know it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Gilgilgan... Wasn't that what we called it back then!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "The worst space monster ever, getting bigger by eating anything...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "What the hell's it doing in a place like this!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "I heard about it from Tetsuya... But there was more than one of 'em!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Yeah, that thing is... Tetsuya, you remember it!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "It's that worst-of-all space monster that eats anything and grows huge...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "I believe they called it Gilgilgan.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "...Yes, Ryoma and the others and I fought one before...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Tch, I thought we'd taken it out... So there was more than one!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Hey, is that thing strong?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Strong enough, I'd say.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "\"Strong enough,\" huh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "It looks like this won't be easy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Judging by how they talk about it, no.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "It's like an old monster movie.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "But why is it on this planet?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Save the questions for later! Destroying it is the top priority!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Well, that takes care of that for now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "So it seems. Londo Bell, I am of the Federation's Far East Branch,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Hazuki, Commander of the Cyber Beast Force.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "An honor to meet you, Commander. I hear things were rough on Earth too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Hey, hey! This is no time for friendly chitchat, Hazuki, old man!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "We'll have to save the introductions for later.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "The Commander's pretty uptight about that stuff.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Let's get everyone loaded onto the Gandor and move on!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Let's hurry.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "If this asteroid hits Earth... there won't be time for talking!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Right now we need to hurry.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "What a rush.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "That's absolutely right. Let's go.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "The Nadesico... I hope it made it to the core safely...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Let's not say anything ominous, but we can't be optimistic till we know.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Come on! You too, Amuro, and you too, Quattro!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Tch, it's no good if the grown-ups get scared.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "With this much firepower gathered here, if it comes down to it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Not all of us may make it, but... we'll have to be ready for anything.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Yeah... The Earth Sphere still isn't at peace...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "...For now, all we can do is press on.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "We finally joined up with the Gandor team, and it's already a mad rush.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Given the situation, what can you do?",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

@@ -1,0 +1,1531 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1009,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed. 2. Victory conditions not met within 9 turns.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "The colony laser... I never thought we'd be using it again.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Come to think of it, it got used in the last war too, right...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Operation Maelstrom... right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Back then we used it against the Titans, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Hasn't it been a while, though? Does it even still work?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "It was under Federation control until recently.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "With the arms reductions and this war, it's been left neglected, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "from the look of it, it should be fine.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Honestly, I think it needs some emergency repairs.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "...But from the look of it, it should manage at least this one shot.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Taking a place people lived in and turning it into a giant laser cannon.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Humans are frightening creatures.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Yes... maybe you're right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "But without it, we couldn't hope to snipe that giant planet...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "No matter how powerful the Phase Transition Cannon is,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "it can't match the power of a colony laser...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Something this big turned into a beam cannon?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "It'll blow away an asteroid or two, easy as pie!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Hm...? What's wrong, Sara?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Sara? ...You imagined that. Shapiro's dead.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "A dead guy can't do a damn thing.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "...Shapiro...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "...No, perhaps even the dead can pull at the living.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Huh? What do you mean, Captain?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "...Even the dead can manage",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "to keep the ones who survived tied down...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Izumi... What's gotten into you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "...You mean like ghosts?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "That's unscientific.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Take this a little more seriously.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Captain Bright, it won't fire just because we stare at it, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Right. All right, all units, launch! Time is... ten minutes.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "If we finish investigating inside Gryps within ten minutes,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "that should be enough, even allowing time to prep it for firing.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "In that case, let's hurry.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "There's no way the enemy's hiding all the way out here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Let's get this over with.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "I doubt we'll run into the enemy here... Let's just finish this quickly.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "We have to secure this place, no matter what.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "What's that!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Tch! They were lying in wait for us... Hey, wait!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Multiple mechs inside Gryps II! They're not Federation!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Shinobu! That robot... it's from the plant planet...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "It seems they got here ahead of us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Looks like they caught on to our moves, dammit!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "More than that... that one bothers me.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Shinobu, about Shapiro being on that plant planet...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Sara might not have been wrong after all.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "There's another mech we've never seen before!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Huh...!? Is that...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "What? You know that thing, Cyber Beast Force?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Explain. That's a type we've never seen either...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "...It's what we fought in the Muge universe in the last war...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "...Muge Zorbados...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Then Emperor Muge is behind that plant planet!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "But, but~ didn't the Cyber Beast Force take that guy out?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Yeah, I finished him off with the Danku Sword...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Hmph, the plant planet guys probably salvaged it and are using it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "That's true... It seems new forces using",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "the mechs of old ones happens a lot...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "...No, that's not it... Shapiro brought them in!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Just like how he betrayed Earth... and went over to Muge!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Calm down, Sara.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Anyway, if we can't fire the colony laser, we're stuck!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Calm down. Even if that's true, we have something to do first!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Exactly. We only have... nine minutes left!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Eliminate all enemies inside Gryps II, and prep the colony laser to fire!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Commence attack!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "(Shapiro... Is it really you...!?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "What!? Inside Gryps II!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Multiple mechs inside Gryps II! They're not Federation!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Hm, those are... from that eerie asteroid...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "It seems they got here ahead of us. And look at this devastation...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "At this rate...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Yes, they got us...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Hm!? Is that... Shapiro's mech!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "...It's you... Shapiro... It really is!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "There's another mech we've never seen before!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Huh...!? Is that...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "What? You know that thing, Cyber Beast Force?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Explain. That's a type we've never seen either...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "...It's what we fought in the Muge universe in the last war...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "...Muge Zorbados...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Then Emperor Muge is behind that plant planet!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "But, but~ didn't the Cyber Beast Force take that guy out?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Yeah, I finished him off with the Danku Sword...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Hmph, the plant planet guys probably salvaged it and are using it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "...It seems new forces using",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "the mechs of old ones happens a lot...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "...No, that's not it... Shapiro brought them in!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Just like how he betrayed Earth... and went over to Muge!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Calm down, Sara.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Anyway, if we can't fire the colony laser, we're stuck!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Calm down. Even if that's true, we have something to do first!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "(Shapiro... Is it really you...!?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "...Sara...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Hey, that voice just now!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Seriously!? Gimme a break!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "What's wrong!? A transmission from the enemy!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "...I can more or less guess. Though I'd rather be wrong...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Which means, sure enough...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Fujiwara, that voice... surely not...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "...Sara...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Like I'd ever forget that voice! Shapirooooo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "It can't be...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "The worst traitor in history... What's he doing here!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Gimme a break. Now we have to fight other Earthlings again!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Shapiro! It's me! It's Sara!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Stop it, Sara!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "...Sara...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Get a grip, Sara! Even if Shapiro's alive... he's the enemy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Sara, get a grip!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Here they come! We're out of time!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "With the colony laser unable to fire, if this takes too long here,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "we won't make it to the plant planet in time! Hurry!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "...Let's do this, Shinobu...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Sara, you... are you okay?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "...I'll cut him off... as many times as it takes...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "...Sara...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Well, well... Just as he said... the Earthlings",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "really did come to make use of this facility.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "What!? Enemy reinforcements!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "There's still more!? Gimme a break!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "They never end! And we're almost out of time!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "It's galling to dance to Shapiro's tune...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "but if it's Lady Diore's command, it can't be helped...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Right, commence attack! Slaughter every one of these lowly Earthlings!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Here they come...! We're short on time. We'll go on the offensive!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "All right! Let's wrap this up fast!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "But how did they know we'd be here!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "...I don't get it. Any way you look at it, they're a step ahead... A leak?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Is it really this Shapiro guy?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "It's just a coincidence, Sara.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Quit yapping! We just smash 'em all together!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Let's do it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Lord Shapiro...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "...Keim, is it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "What!? Enemy reinforcements!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "As you said, Lord Shapiro... The Earthlings really came for this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "There's still more!? Gimme a break!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "They never end! And we're almost out of time!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "You fell right into Lord Shapiro's trap, foolish Earthlings...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "This shattered glass tube shall be your tombstone...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Here they come...! We're short on time. We'll go on the offensive!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "All right! Let's wrap this up fast!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Shapiro Keats! So you really have sunk to being an alien invader...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "...I'm sure he has his own reasons... but we can't let him do this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Who cares about his reasons! Let's go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Sara?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Leave her be, Masato! ...Sara, let's do this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Hm!? More of them!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "There were still more hiding...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Hey, hey, you mean they saw right through everything we did!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Huh!? Then... isn't that bad!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "What's going on!? They got ahead of us way too smoothly...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "You're right, Tetsuya. They've completely beaten us to the punch...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "...Sara...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "Hey, that voice just now!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Seriously!? Gimme a break!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "What's wrong!? A transmission from the enemy!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Megumi, what was that just now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "It came from the mech that just appeared!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "...I can more or less guess. Though I'd rather be wrong...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Which means, sure enough...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Fujiwara, that voice... surely not...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Sara...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "Like I'd ever forget that voice! Shapirooooo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "It can't be...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "The worst traitor in history... What's he doing here!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "Gimme a break. Now we have to fight other Earthlings again!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Shapiro! It's me! It's Sara!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Stop it, Sara!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "...Sara...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "Get a grip, Sara! Even if Shapiro's alive... he's the enemy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "Sara, get a grip!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "Here they come! We're out of time!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Any more delay and the plant planet will drift out of",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "the colony laser's line of fire! Hurry!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "...Let's do this, Shinobu...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "Sara, you... are you okay?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "...I'll cut him off... as many times as it takes...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "...Sara...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "Nngh... To take... this much damage...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "Go back, Shapiro! There's no place for you in this world anymore!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "He retreated.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "It appears he has escaped Gryps II.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "Seems like... there's some kind of story there.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "...Shapiro... you idiot...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "Well, don't let it get you down. That was...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "Koji!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "Hm, what is it, Maria? I'm just trying to cheer her up...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "Idiot! At times like this, you keep quiet!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "So the traitor's returned.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "Tetsuya!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "You insensitive jerk! At times like this, you don't say anything!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "Sara.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "Sorry, Shinobu.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "You too, Maria. I'm... all right.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "We made it! All right, check the interior, then target the plant planet!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "Let's blast it with a big boom!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "No, the inspection will still take a little time...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "I just hope the battle didn't cause any damage...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "...My bad feeling was right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "...Huh!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "The laser emitter's output isn't rising.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "So it did take damage.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "Unbelievable...! All for nothing!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "And here I thought we'd finally be rid of that creepy asteroid!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "Muge Empire mechs... That bugs me. What's going on...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "This is no time to brood. Let's get out of here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "Right. The Ra Cailum and the Nadesico will leave this airspace",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "and head for the next point!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "...Shapiro... I won't hesitate anymore...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "All cleared out? ...Good, we're pulling out of Gryps II immediately!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "We can't use it... anymore, can we? Not like this...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "Yes, not in this state.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "The damage is very recent.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "Meaning...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "In short, it was wrecked right before we arrived.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "It seems they read our moves...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "Unbelievable...! All for nothing!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "And here I thought we'd finally be rid of that creepy asteroid!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "Shapiro... I never thought he'd appear before us again.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "And since he was waiting for us at Gryps... it's as Dr. Inez said:",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "en": "they completely read our moves...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "Shapiro Keats... I guess we'll have to settle for knowing what he's up to.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "In that case, let's leave here at once. There's no time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "en": "Right. The Ra Cailum and the Nadesico will leave this airspace",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "en": "and head for the next point!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "en": "...Shapiro... I won't hesitate anymore...",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

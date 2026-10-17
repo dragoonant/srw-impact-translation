@@ -1,0 +1,1147 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 2013,
+ "strings": [
+  {
+   "id": 0,
+   "en": "",
+   "kind": "dialogue",
+   "keep": true
+  },
+  {
+   "id": 1,
+   "en": "Still, I'm surprised one of the Gyandlar's top brass came in person.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "I don't care to aid some mercenary's operation either, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "But Lord Gades ordered it. All because these fools are useless!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "...What, it's our fault again?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Try bein' the ones out front every single time, I swear.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Got something to say!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "N-Nothin' at all, Big Sis.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Don't call me Big Sis! ...So, Globine,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "you want to fight Rom's friend Blue Jet, don't you?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Indeed. Rom Stol is formidable as well... but as a swordsman,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "I must settle things with that Blue Jet!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "I see... I owe Rom and his friends a thing or two myself,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "from before I came to this Earth. I'll lend you a hand this time.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "My duel with Jet is a contest between swordsmen... Do not interfere!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Heh heh heh... I know what your kind are likely to say.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "I just thought I'd set the stage for you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Set the stage...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Listen. There's a meteor cluster at this point. Wait there.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "I'll lure them out nicely for you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "After that, do with them as you please...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "...Very well. Devil Saturn, all of you, make ready!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "You got it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "(...Even if Globine fails, if things are as Lord Gades said...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Heh heh heh...)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Oleana... how foolish. For planet Campbell's colonization plan,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "she slipped into Earth thousands of years ago, yet struggles this much.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Quite so, Brother. But now that we're here,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "wiping out the Earthlings will be child's play!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Gwah ha ha ha ha!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Warukimedes! Dangel!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Oh!? Lady Janera!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Our Empress, Lady Janera. You look radiant as ever...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Spare me the greetings. You both understand, I trust.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "The Earth colonization plan can no longer be left to Oleana.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "I shall take command personally.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "As you say. With us brothers and our enhanced Magma Beasts...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "we shall surely wipe out the humans!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "But... we were ordered not to tell Oleana about us...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Don't you see, Dangel? Lady Janera has already abandoned Oleana.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Unaware of our arrival, Oleana's forces will make the perfect decoy.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "As expected of Warukimedes. You understand my thinking well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Then you surely know what must be done first...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Of course.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Our scouts report a very complicated war being waged around Earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Even I know that much.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "So, exploiting this chaos, as our first foothold",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "we will seize this space fortress, which they seem to have abandoned!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Precisely.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Using the derelict fortress the humans call the Gate of Zedan,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "we shall first scatter the Earthlings!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Yes, Your Majesty!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Brother, leave that task to me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "When it comes to battle, I, Dangel, am second to none!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Very well, Dangel.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "As my brother, live up to Lady Janera's expectations!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "I'm counting on you, Dangel...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Make a bloody example of the humans, and make Earth",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "the domain of us Campbellians!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Yes, Your Majesty, without fail!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "PLS Black Point... There again?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "What is it, Captain?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "No... From that asteroid where we picked up the Cyber Beast Force,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "I'm getting a faint energy reading.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "An energy reading? ...So there was somethin' there after all.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "I knew it was fishy.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "We got jumped by unidentified robots, so of course something's there.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Shouldn't we say it's started moving, rather?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "What the hell, you guys! Talkin' like you know it all!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "We've defended Konpeito. Is that our next stop, Captain?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "No... there are other places with strange activity as well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Strange activity...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Where?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "At a meteor cluster fairly close by, unidentified units",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "are reportedly gathering.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "They don't seem to be moving yet, but there's no telling what they'll do.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Captain Bright, what about that thing Prospector told us earlier?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Did something come up from the Nadesico?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Yes... It's information from Nergal rather than the Nadesico,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "but an abandoned unmanned colony the Colony Corporation was moving...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "has reportedly disappeared.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Recovering a colony in the middle of all this? What are they thinking...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Nah, times like these are when you can get away with all sorts of stuff.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Back in my junk dealer days, those were the times I got fired up.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "There's no accounting for taste. And that's how it turned out...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "But what does it mean that the information came from Nergal?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "It takes a snake to know a snake's path, then...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Jeez, this stinks.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Anyway, a whole colony going missing is way too unnatural.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "All of these are pretty close by... What do you think?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Isn't that a little unnatural?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "There may be decoys mixed in to draw our attention. But...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "We don't know which is the real one, and with multiple enemy forces...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "they could all be operations by separate factions.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "There was that time they tested a mobile armor in a derelict colony.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Yeah... Not knowing for sure is the worst.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Mobile armor tests were done in a derelict colony once before.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Maybe we'd better check it out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "We'll just have to check 'em one by one.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "The Colony Corporation in particular... something about it bugs me...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "What? What's with calling us all together so suddenly?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Can't even get a decent rest.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "But an emergency muster... Is it the enemy!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Correct. ...The Gate of Zedan is under attack by an unknown enemy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Unknown enemy... Don't tell me it's that bony thing again!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Bones...? Londo Bell even fights ghosts?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "It was in Londo Bell's combat records.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "A mysterious force they fought on the moon. Mysterious, as usual.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "No... it seems to be a new alien force of a type we've never encountered.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Another new enemy... What on Earth is it about Earth?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Gate of Zedan...? There's a giant gate floating in space?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "There's no up or down in space, so why'd you need a gate?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "No, silly, it's the name of a space fortress.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "It used to be called A Baoa Qu.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "...But I heard that with the military cutbacks,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "it doesn't function as a base anymore...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Then maybe we can ignore it for now...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "We can't. Places usable as bases are already few...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "If any more are crushed, it'll affect the battles ahead.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "So basically we've gotta defend it, right? Man, we're way shorthanded.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "We've got the Nadesico and the Aestivalis team too. It'll be fine!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Captain Yurika's right. No grumbling, no grumbling.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Now that it's decided, let's hurry, Captain.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Yeah, let's beat 'em fast and check those fishy colonies on the way back.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Great idea. The Gandor Team's giving it their all at Jaburo, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "We've gotta show what we're made of too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Yeah. ...But I wonder how the Gandor Team is doing?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "It'll be a busy fight... but there's no other way.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "The Gandor Team... Koji and the rest must be fighting at Jaburo.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "We can't afford to whine.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "That Gandor Team... how are they doing now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Bright, what's the deal?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "The Gandor Team... has abandoned the assault on Jaburo.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Huh!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "What the hell!? Old man Hazuki was so fired up, and now this!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "...I don't know why. There was one transmission, then silence...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "It said they'd abandoned the assault on Jaburo,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "and were returning to Japan for now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "I wonder if they ran into some trouble. Getting so close, and then...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Dr. Hazuki was always a careful teacher. He must have his reasons.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Japan... Could the laboratories have been attacked again?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "It's possible.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "I hope everyone's all right...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Nothing's going right, huh?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "...But we don't really have time for this, do we?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Agreed. Even if the Gandor Team is in trouble...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "it's not like we can rush right over.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "...We'll just have to trust them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "That's right! Dr. Hazuki... I mean, Commander Hazuki will be fine!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "I took his lectures, so I can vouch for him!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "...That's not a reason.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Looks like old man Hazuki picked up a fan in a weird place.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Tetsuya...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "...Koji.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "They'll manage just fine.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "All right, the Ra Cailum will now...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Emergency message! Londo Bell, please respond! Londo Bell!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "...Kou!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "That voice... Nina!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Open a channel!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "This is Anaheim Electronics... Nina Purpleton!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Nina! What's wrong? Why the panic!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Kou... it's terrible! The Vega Star Federation... at Von Braun...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "...So, the Aestivalis team should get ready for an emergency launch too!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Akito, I'm counting on you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "I thought we were going to the Gate of Zedan, but it's Von Braun!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Seriously, just how many enemy forces are there?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "...The Jovian Lizards, the Vega Star Federation, the aliens at Zedan...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "and there's Neo Zeon too... Ahhh, I've lost track!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Quit yappin' and get on standby already!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "It's a fight either way! All Aestivalis 0G Frames,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "prepare to launch!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Ready whenever you are! Don't you dare break 'em!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "Damn straight! No matter how many enemies stand in my way, I'll beat 'em!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "...Huh?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "What's wrong, Yamada... I mean, Gai?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "...Where the heck is Von Braun, anyway?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "...Idi...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Ruri... too much heckling ruins the comedy...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "...Is that so.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "(So it's... comedy.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "To explain, Von Braun City is a lunar city that hosts factories",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "of Anaheim Electronics, the arms company famed for",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "its mobile suit development.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "The Zeta Gundam, the Gundam GP01, and GP02 were all built there.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "We've no intention of easily falling behind Anaheim, but",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Nergal's still a newcomer... We can't claim Earth means Nergal yet.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "Oh? But Sasebo means Nergal, doesn't it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "No, no, the scale is...",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

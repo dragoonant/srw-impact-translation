@@ -1,0 +1,397 @@
+{
+ "file": "BTL/BMCPACK.BIN",
+ "format": "BMC",
+ "pilot": 57,
+ "strings": [
+  {
+   "id": 0,
+   "en": "Sorry, it's just my nature!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "I'll see you off to the next world.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Smash it without thinking!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Fool around and you'll end up in a coffin!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "The mountain's summit... I'll sum it up: you're mine...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Heh... heh heh heh heh...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "It's nothing much, but... here you go~",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "To arms, to arms~",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Amid the thrill, my heart stays strangely cold...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Move it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Payback, done properly~",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "I am... a sinful woman...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "This is hopeless...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Rest in peace~",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Well, whatever happens, happens.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "I can see the Grim Reaper now...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Damage over 70%... That's bad...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "The Reaper's coming to pick me up soon~",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Pinch, pinch, a big pinch~",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Not bad for something that looks so heavy!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Ngh! Better than I thought...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "The field's output is dropping!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Purify the six senses, purify the six senses.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Still moving... moving like crazy.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "No problem, as long as it's not a fatal blow.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Pretty skilled.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Did it hit!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Please don't gut me... I'm not a mackerel...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "A kiss to the eye... direct hit...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Too naive!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "That won't make you a Reaper.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Now then, who's next?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Too naive!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "A fainting dog... how ruff-ly predictable...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Knock on wood, knock on wood...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Distortion Field operating normally!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Too bad, so sad~",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Guess I wasn't invited.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "No energy, no dreams, no hope...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "I can't see it! Not anywhere I'm looking!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "My feelings never reach you...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Work, work.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "I'm a woman who brings misfortune...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "I'll back you up!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Looks like it's my turn!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Immediate Knife, here I go!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Knife to meet you... heh...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "An iron fist hurts when it hits!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "The wire's wire-derful... okay, that was lame.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Getting in my range was careless of you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "A rabbit rifle... with a hare trigger...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "I can't promise you'll live!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Will the lance work...? Lance see...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Charging in! Distortion Field, full power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Let's go with a Gekigan Flare!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Don't underestimate a Heavy Frame's range!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Come on, come on... cannon fodder...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Hikaru! Izumi! You ready!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Let's gooo!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "I'll be taking you down!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "All riiight, let's give it a go!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Ooooh!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Understood...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Take that, take that!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "You bastard! Go down!!",
+   "kind": "quote",
+   "keep": false
+  }
+ ]
+}

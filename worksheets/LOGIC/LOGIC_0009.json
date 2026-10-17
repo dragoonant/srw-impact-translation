@@ -1,0 +1,2635 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 9,
+ "strings": [
+  {
+   "id": 0,
+   "en": "With my goal unfulfilled...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "L-... Lord Shapiro!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "...A lullaby? ...Sara!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "All hands, evacuate!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Waaaaaagh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Y-You wretches! ...Gwoooooooh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Nnnngraaah! I... I, of all people!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Don't think I'll end like this...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Rom!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Colon... you can manage on your own...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Mark my words! I shall return!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Let us cross swords once more in the next world.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "I served Lord Gades faithfully, so why won't you save me!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "My Commander Ranking's gonna drop!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Milady! Master Rom! Forgive me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "What does justice do for you? Justice does nothing...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Tell them! Tell them I fought with no shame as a martial artist!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Brother Rom! I'm sorry!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Whoa-whoa-whoa! Rooom!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "I leave the rest to you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "...Such power... worthy of a pirate...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "N-No way...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "N-No way...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Princess... Perhaps I was waiting for this day...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Flaaash!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Burrrst!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Uoooaaaaagh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Uoooaaaaagh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Y-Yurikaaa!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Leave the rest to you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "We shall surely meet again on the battlefield...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "I won't lose!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Is this the end...? When I'd finally taken the City...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Never forget... a heart that believes in justice...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Tenkawaaa!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Dammiiit! You haven't seen the last of me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "This doesn't mean justice has lost!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Next time we meet, I'll beat you for sure!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Yurikaaa!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "...Oh, well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Figures... No good.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "...Yes, it's a dream... just a really, really bad dream!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Princess Rominaaa!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Princess Rominaaa!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Eeeeeek!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Gwaaah! Tobikage!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Gwaaah! Tobikage!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "The rest is up to you, Joe!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Hurry it up, I said! Ah! Aaaah!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Waaaaah! B-Big Bro!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Ah... Joe...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "I leave the rest to you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "...I'm sorry... Shiro.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Ngh! How could this happen!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "This power...! I'm bailing out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Ngh... So this is the end...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "I'm sorry, I'm bailing out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Whoa, hey, wait!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Even the wise slip once... I was careless...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "To think... this Val Walo would fall...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Waaah! B-Bail out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "I was careless...! Bailing out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Wh-What, me... going down!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "I'm sorry, I'm bailing out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "I'm going down...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Ngh, how could...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Me!? Damn iiiiit!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "I'm glad I came back. I got to meet... a strong child...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Ah, no...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "What's going on!? Don't tell me I'm...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "The sky... the sky is falling...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "The sky... the sky is falling...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "...Going down, huh. Ugh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Judau! They got me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "No, no, no, nooo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "The blood of Zeon... beaten so easily...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Lord Mashymre! Hey, waaaah!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Dammit! Sorry, I'm bailing out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "So... this is the end...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Lady Haman... Forgive me...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Graaah, why!? Why am I losing!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Big brother...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Aww, why me of all people!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "No good! Bailing out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Me, of all people... beaten so easily!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "A direct hit...!? No way...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "The monitors are dying!? What! ...Blast, I'm bailing out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "My machine's done for already!? Amuro...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Colonel, requesting rescue!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "This is it... All hands, abandon ship!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "What is this power!? I-I'm taking a direct hit!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Ooooooooh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "I underestimated them...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Dammit, not here...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "M-My machine... it won't hold!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Ugh! D-Domon!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Ugh! D-Domon!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Ugh! D-Domon!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Hahaha... It's useless! You have no chance of winning...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Hahaha... It's useless! You have no chance of winning...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Hmm! I still need more training.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Hmm! I still need more training.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Hmm! I still need more training.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Hmm! I still need more training.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Graaaaaah!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Graaaaaah!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Graaaaaah!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Graaaaaah!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Graaaaaah!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Brrrrrr...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "D-Domooon!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "D-Domooon!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Damn it all, me!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "I can't die in a place like this...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "No! I can't lose to the Holy Warrior!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Aaaaah! Nie!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Is my Aura Power not enough!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Is my Aura Power not enough!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Ngh... I leave the rest to you... Holy Warrior.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "I won't accept it, not me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "I won't accept it, not me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "I can't go down here...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "What... is this power...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Don't think this is over!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "So it was an ambition beyond my reach after all...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Sorry... Bailing out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Is my Aura Power not enough!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Impossible! Me, beaten so easily...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Show...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Lord Shot... Please forgive me...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Ah! Nie!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Splendidly done, I must say. Now, if you'll excuse me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Ooh! You'll pay for this!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Gwoh! Damn you, Daitarn!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "D-Damn you, Daitarn!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "My collectiooon!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "L-Lord Don Zauser...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Ah, Don... my... darling...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Well, when you lose, you lose.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Waaah, help me, Big Bro Banjooo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Koooorooooosuuuu...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "How careless of me... Blast!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Geez, Banjooo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Is there even one living creature that understands what you do?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Either way, you're doomed to perish! Hohoho... Gwaaah!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Dammit! They got me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Curse youuuuu!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "You'll pay for this, you bastard!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Don't... don't underestimate meeee!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "I won't forgive you, I won't forgive youuu!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Uh-oh, oh nooo...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Noooo! Kojiii!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Mmmuuuoooooooooh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Don't... don't underestimate meeee!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Daaaammit!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Bailing out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "King Vegaaa!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "King Vegaaa!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Brother...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "I am... of King Vega's Royal Guard... Captain Gorman!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Damn, that was careless of me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Protect the Earth, all of you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "I am the king of the universe... King Vegaaa!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Kyaaah! Kojiii!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "And it had nearly succeeded...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Oh no... Escape, escape!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "The power of Getter... Dammit!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Oh, well. The rest is up to you guys.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "Well, I'll be. Whoa!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "E-Emperor Burai!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "Don't think you've won!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Dammiiit! You'll pay for this!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Gyaaaah!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Mia, I'll never let you go, never...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "...Now the real battle begins...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "I can still fiiight! Let me fiiight!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Lord Garuda...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "I don't wanna die yeeet!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Gwaaaagh! Brotheeer!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "L-Lord Baraooo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "Tch! What a disgrace!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "With the Demon Century's revival right before my eyes...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "Not yet! Raideen! Whoa!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "Grr! How... how could this be...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Bailing out! Requesting recovery...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Bailing out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "Bailing ou...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "Bailing ou...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "...Yes, it's a dream... just a really, really bad dream!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "...Oh, well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "...Oh, well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "So... this is the end...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "Tobikage... you came! Let's combine!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "Tobikage...! All right, let's go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "Now we've got the upper hand! Let's go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "Battle Mastery increased by 1.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "Acquired skill \"Resolve\".",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "Acquired skill \"Defense\".",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "Acquired skill \"Support Attack\".",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "Acquired skill \"Support Defense\".",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "Acquired skill \"Command\".",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "Acquired skill \"Counter\".",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "Acquired skill \"Double Act\".",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "Acquired skill \"Concentration\".",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "Acquired skill \"Fighting Spirit\".",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "Acquired skill \"SP+15\".",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "Acquired skill \"SP+5\".",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "Acquired skill \"Accuracy+20\".",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "Acquired skill \"Accuracy+10\".",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "Acquired skill \"Evasion+15\".",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "Acquired skill \"Evasion+10\".",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "Acquired skill \"Critical+25\".",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "Acquired skill \"Critical+15\".",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "Acquired \"Skill Lv+1\".",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "Acquired skill \"Snap Back\".",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "Acquired skill \"Meditation\".",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "Acquired skill \"Rebellious Spirit\".",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "Acquired skill \"Obstinacy\".",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "Acquired skill \"Hard Worker\".",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "Acquired skill \"First Strike\".",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "Acquired skill \"Lucky\".",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "Acquired skill \"Precognition\".",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "Acquired skill \"Comeback\".",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "Hold it right there!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "Heh heh heh... Hahahahahaha!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "Yes... that is the teaching of Tenku Chushin Ken!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "However dark the night, it always comes to an end.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "The darkness melts away, and morning fills the world...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "People call it dawn...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "The spirit of justice that defies evil's violence and fights fear...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "People call it courage...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "When evil fills the land, a loving heart and a burning soul will cut it down...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "People call it truth...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "Wah! That voice!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "Kenrou, grant me power!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "Nngh! You there, what is your name?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "Hm!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "What? Where's that coming from!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "Tearing through darkness and evil, charging onward toward justice...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "People call it fighting spirit...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "...The Earth Sphere is full of enemies, inside and out... but allies too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "en": "No boson reaction. ...Even Omoikane can't pinpoint where it came from.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "Ruri-Ruri, asking about that is just tactless.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "...I'm not convinced, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "en": "Wow, long time no see, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "en": "Aw, crap! Of all the pests...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "en": "I'll ask anyway, just for form's sake! Who the heck are ya!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "en": "So you're on the Earthlings' side!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "en": "No ice, however cold, can ever defeat a burning heart.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "en": "A fire that no storm can put out...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "en": "People call it passion...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 258,
+   "en": "After the storm of cruelty passes, the sky of justice spreads far and wide...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "en": "People call it daybreak...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "en": "The wind of the plains knows not where it was born.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 261,
+   "en": "But the wind is bound by no one, and ruled by no one...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 262,
+   "en": "People call it freedom...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 263,
+   "en": "Wha!? N-No way...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 264,
+   "en": "Those with wicked hearts cannot look straight at the light of truth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 265,
+   "en": "A light that pierces through lies...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 266,
+   "en": "People call it sincerity...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 267,
+   "en": "...Who goes there!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 268,
+   "en": "Huh!? No way... Londo Bell!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 269,
+   "en": "What!? Impossible, our jamming was perfect! And... it's too soon...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 270,
+   "en": "You fools, victory will never come to you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 271,
+   "en": "A heart that will not yield to evil, even in the face of death.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 272,
+   "en": "In time, that heart calls forth the wind of victory...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 273,
+   "en": "People call it the triumphant wind...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 274,
+   "en": "What!? Where are you!? You dare speak so to an officer of the Vega...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 275,
+   "en": "...Star Federation, Captain of King Vega's Royal Guard, Gorman!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 276,
+   "en": "Mocking me like this... Who are you!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 277,
+   "en": "Hm!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 278,
+   "en": "Wow! Could it be? Could it really be?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 279,
+   "en": "Though a lawless storm may rage, if you have a heart that will not break,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 280,
+   "en": "one day the storm will fall calm, and peace will return.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 281,
+   "en": "Misfortune always passes...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 282,
+   "en": "People call it the wheel of fortune...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 283,
+   "en": "What!? You... who are you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 284,
+   "en": "Don't think power and greed can lead hearts astray forever.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 285,
+   "en": "Hands clasped firmly together cannot be torn apart by violence...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 286,
+   "en": "People call it a bond...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 287,
+   "en": "Fools who know nothing of the emptiness of war...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 288,
+   "en": "War is permitted only to save those we love.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 289,
+   "en": "One who has the courage to cast aside one's own life for that victory...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 290,
+   "en": "People call such a one a hero...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 291,
+   "en": "A noble heart that loves friends, honors parents, and gives to others...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 292,
+   "en": "People call it friendship...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 293,
+   "en": "Hm!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 294,
+   "en": "Joe!? Just now, I thought I heard Joe's voice...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 295,
+   "en": "No!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 296,
+   "en": "That voice... I see, you've come!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 297,
+   "en": "To bend innocent children's hearts to serve one's own greed is sad...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 298,
+   "en": "People call it ego...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 299,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 300,
+   "en": "No way!? Now of all times!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 301,
+   "en": "It's you...! Rom Stol! It's you, isn't it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 302,
+   "en": "There are two kinds of people in this world...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 303,
+   "en": "those who love peace and try to help one another,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 304,
+   "en": "and those who love war and try to kill one another.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 305,
+   "en": "But only those who stay true to love will find a wonderful future...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 306,
+   "en": "People call it happiness...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 307,
+   "en": "Anger and sorrow breed strife and ruin; joy brings peace and creation...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 308,
+   "en": "Peace prevails over strife, and creation over destruction...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 309,
+   "en": "People call it the victory of love...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 310,
+   "en": "When wicked stars fill the heavens, a great shooting star appears,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 311,
+   "en": "and before its true light, the wicked stars lose their glow and fall...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 312,
+   "en": "People call it judgment...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 313,
+   "en": "Maggots feeding on bloodstained wealth and power... see yourselves!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 314,
+   "en": "A light that shows the righteous path...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 315,
+   "en": "People call it a mirror...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 316,
+   "en": "What did you say!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 317,
+   "en": "...So you've come...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 318,
+   "en": "The waterfall's flow washes all things clean.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 319,
+   "en": "Even you who have lived for evil, if you cleanse yourselves in its flow,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 320,
+   "en": "a wonderful future may await you...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 321,
+   "en": "People call it redemption...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 322,
+   "en": "Dang, I wasted too much time...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 323,
+   "en": "You... who are you!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 324,
+   "en": "Devils who deceive those who believe in God, painting truth over with lies...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 325,
+   "en": "Even if God never appears, someday one with a true heart will surely",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 326,
+   "en": "judge evil in God's stead...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 327,
+   "en": "People call it divine punishment...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 328,
+   "en": "What...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 329,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 330,
+   "en": "That voice!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 331,
+   "en": "Where is it? There's no one on the bridge... Where's it coming from!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 332,
+   "en": "Even beasts who live by the law of the jungle take no joy in killing...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 333,
+   "en": "Only those who have fallen into evil do that.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 334,
+   "en": "But God will never forgive your wicked hearts.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 335,
+   "en": "The great wrath of heaven...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 336,
+   "en": "People call it thunder...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 337,
+   "en": "Spouting nonsense on and on...! You've got guts, defying the Bunker!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 338,
+   "en": "Who the hell are you!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 339,
+   "en": "Even the smallest flower, once it blooms on the earth,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 340,
+   "en": "can pierce through rock with its roots.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 341,
+   "en": "The great power born of nature...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 342,
+   "en": "People call it mystery...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 343,
+   "en": "Though danger may lie ahead, if there is something in one's heart to protect,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 344,
+   "en": "one will guard it with body and soul, even at the cost of one's life...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 345,
+   "en": "People call it manhood...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 346,
+   "en": "You who are controlled by a dictator... do you still not understand!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 347,
+   "en": "People call it a puppet...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 348,
+   "en": "Battle begets battle, and those who strike down will be struck down...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 349,
+   "en": "People call it the cycle of rebirth...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 350,
+   "en": "What!? Where are you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 351,
+   "en": "Hm!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 352,
+   "en": "Those who try to stop a great river's flow by force",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 353,
+   "en": "will in time realize their own folly.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 354,
+   "en": "The tide of justice can no longer be stopped...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 355,
+   "en": "People call it the raging torrent...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 356,
+   "en": "Where are you! You coward,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 357,
+   "en": "who do you think you are, talking that way to Mashymre Cello!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 358,
+   "en": "You're a real pain! Just what are you!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 359,
+   "en": "Even that which was destroyed and crumbled in a storm of violence...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 360,
+   "en": "as long as a heartbeat of life remains, it will surely rise again...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 361,
+   "en": "People call it resurrection...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 362,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 363,
+   "en": "Each grain of sand that slips through your hand was once a boulder.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 364,
+   "en": "It was crushed by the power of the unseen wind.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 365,
+   "en": "However mighty evil may be... I shall become the unseen wind and strike it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 366,
+   "en": "People call it erosion...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 367,
+   "en": "That's right, in this battle... we're not the only ones fighting...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 368,
+   "en": "Londo Bell reinforcements!? Don't give me that crap! Who are you!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 369,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 370,
+   "en": "Whether in frozen glaciers or in flames that scorch the body,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 371,
+   "en": "one never goes back on a vow sworn in one's heart...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 372,
+   "en": "That which must be protected, even under the assault of force...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 373,
+   "en": "People call it dignity...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 374,
+   "en": "What!? How dare you speak so to King Vega! Who are you!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 375,
+   "en": "...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 376,
+   "en": "Hear the voice of the forest, hear the voice of the wind!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 377,
+   "en": "They are laughing at your wicked hearts...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 378,
+   "en": "People call it the spirits of the wild...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 379,
+   "en": "Whaaat! Where, where!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 380,
+   "en": "Confirmed. ...This is absurd. Someone is standing on top of the field.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 381,
+   "en": "S-Someone!? You're kidding, right, Ruri?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 382,
+   "en": "...If I were kidding, I'd say something funnier.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 383,
+   "en": "Who are you? Name yourself!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 384,
+   "en": "Nngh!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 385,
+   "en": "Wow! Could it be, could it really, really be?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 386,
+   "en": "Hahahaha! And who might \"them\" be, Devil Saturn 6?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 387,
+   "en": "...Crap...! Speak of the devil!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 388,
+   "en": "That laugh... But, but, that was back on Mars...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 389,
+   "en": "Cross-checking... It appears to be the same person.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 390,
+   "en": "W-We're... in outer space, right...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 391,
+   "en": "However vast an evil may exist,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 392,
+   "en": "among these stars it is no more than a speck of dust...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 393,
+   "en": "That which holds the eternal flow of time and boundless expanse...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 394,
+   "en": "People call it the universe...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 395,
+   "en": "This presence... no ordinary foe! Grr! Your name, tell me your name!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 396,
+   "en": "Those drunk on their own power will surely fall to a greater one,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 397,
+   "en": "and come to regret their own folly...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 398,
+   "en": "People call it inevitable doom...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 399,
+   "en": "Whaddya say!? Who d'ya think you're talkin' to!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 400,
+   "en": "What!? Another one!? Where are you!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 401,
+   "en": "Huh, what's that...? Captain Bright! Up there!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 402,
+   "en": "Huh? No way!? Hey, Captain! That's a bad spot!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 403,
+   "en": "Up there!? What do you mean, Lieutenant Uraki? Bad how!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 404,
+   "en": "Those blind to a flower's beauty can't know the worth of treasure...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 405,
+   "en": "True treasure is the richness of heart that lies within one's breast...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 406,
+   "en": "People call it abundance...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 407,
+   "en": "S-Someone's... on top of the Ra Cailum's... bridge!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 408,
+   "en": "What...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 409,
+   "en": "Quit yer yappin'! Who are ya!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 410,
+   "en": "Battle breeds betrayal and hatred...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 411,
+   "en": "But trust brings peace of mind and true friends.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 412,
+   "en": "Trust without a single shadow of doubt...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 413,
+   "en": "People call it a bond...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 414,
+   "en": "Migrating birds rest their wings on twigs adrift in the sea.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 415,
+   "en": "Then they await the right wind, follow their hearts, and fly toward justice...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 416,
+   "en": "People call it soaring...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 417,
+   "en": "Nn... gwuuh!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 418,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 419,
+   "en": "That voice!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 420,
+   "en": "Heh, you sure took your time...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 421,
+   "en": "Every person holds limitless power, enough to move the universe.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 422,
+   "en": "But some will try to use that power for destruction and slaughter...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 423,
+   "en": "Creation or destruction: it is the final choice left in human hands.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 424,
+   "en": "A heart that will not let the light, the source of all life, go out...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 425,
+   "en": "People call it love...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 426,
+   "en": "Who are you!? You...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 427,
+   "en": "What!? A sudden reading on radar!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 428,
+   "en": "...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 429,
+   "en": "Realizing one's mistakes, and reflecting upon them,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 430,
+   "en": "becomes the power to open new horizons.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 431,
+   "en": "But never forget the weight of what is lost along the way...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 432,
+   "en": "People call it admonition...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 433,
+   "en": "Y-You're... could it be!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 434,
+   "en": "I have no name to give you people!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 435,
+   "en": "I have no name to give you scum!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 436,
+   "en": "I have no name to give the likes of you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 437,
+   "en": "Son of Kirai Stol, chief of the Kronos clan... Rom Stol!",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

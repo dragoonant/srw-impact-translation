@@ -1,0 +1,349 @@
+{
+ "file": "BTL/BMCPACK.BIN",
+ "format": "BMC",
+ "pilot": 4,
+ "strings": [
+  {
+   "id": 0,
+   "en": "Concentrate fire on the target ahead!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Wear down the enemy forces as much as you can!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Let this work!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "I'm counting on you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Hm... well done!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Prepare to intercept!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "We can't back down now!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Gandor, commence counterattack!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Ngh... No good, any more and...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "All hands, evacuate immediately! Abandon ship!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Commander Igor... I'm sorry...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "We can't go on like this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Hurry and put out those fires! We can't go down yet!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Ngh! How much longer can we hold out!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Whoa, no! It's the worst-case scenario!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "The dragon hasn't much life left...! Hold on!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Even the Gandor can't last like this...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Hurry and check for damage!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "All hands, hurry and put out those fires!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Ngh... No good, raise output!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "It's all right! The main reactor is intact!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Lay down a barrage! Keep the enemy from getting any closer!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "This dragon Ross Igor left us won't fall to something like this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Damage is minor. Continuing the operation.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Don't flinch! This is only a scratch!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Ngh... No good, raise output!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "What are you doing! Close the shields!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "The Gandor won't go down from something like this.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "You underestimated the Gandor.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Don't flinch! This is only a scratch!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Evasion successful! Prepare for the next volley!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Stay sharp! Here comes the next one!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Good! Well done!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Gandor, you held up well.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Good! The barrier worked perfectly!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "An attack this weak is useless.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "How do you like that, gentlemen?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "The Gandor is equipped to nullify Beam attacks.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Blast, we're running down far faster than expected!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Out of energy...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "It seems we can't reach from here...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "From outside the Gandor's range...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "From here we can... provide support!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Don't let them escape! Concentrate fire on the enemy ahead!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Enemy in range! Fire!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Never mind some damage! Protect our allies!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "This ship will be your shield! Fall back while you can!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "The Gandor's armor should be able to take it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "All guns, engage individual targets!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "All guns, fire!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Fire!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Commence full barrage!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "All ships, open fire!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Energy charge at 100%!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Gandoll Cannon... fire!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Energy charge at 100%!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Fire the Gandoll Cannon!!",
+   "kind": "quote",
+   "keep": false
+  }
+ ]
+}

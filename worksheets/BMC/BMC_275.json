@@ -1,0 +1,643 @@
+{
+ "file": "BTL/BMCPACK.BIN",
+ "format": "BMC",
+ "pilot": 275,
+ "strings": [
+  {
+   "id": 0,
+   "en": "Scatter...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Prepare yourself...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "In range...! Go!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "This distance... you're mine...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Got you...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "I don't mind long odds...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "No one beats me on the charge!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "This range... suits me...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Excellen! Don't you know me!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "It's Kyosuke! Answer me, Excellen!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Hold on... I'll be the one who...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Show yourself!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "What are you after!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "This feeling... What is it...!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "I won't let you do as you please!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "My turn. ...Let's go!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Payback hurts...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Failing to shoot me down was a fatal mistake...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "You got careless and came too close...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "There won't be a second time...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "I can still move... Then!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Want to bet? ...On whether this takes you down...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Excellen...!? No, who are you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Why do you keep hounding me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Why are you calling me!? Who... are you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Guess I held out pretty well... ngh.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Excellen... the rest is up to you.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "I can... still move...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "I blew it! ...Don't go down yet!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "This is bad...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Don't relax until you've finished me off...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Ngh... Alt, hold out a little longer...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "So I lost the bet...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "It got through Alt's armor...!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "It pierced the armor!? Hold together, Alt!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Ngh! I can still fight...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Couldn't dodge...! But that's far from finishing me...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "One or two more hits, maybe... ngh.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Avoided a fatal hit, but...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Did I go in too deep!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Careless...! But it still moves...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Checking damage... Tough as ever.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Faster than I thought...!? Tch.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Surface armor damaged... Not done yet.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Tch... Can't exactly dance out of the way.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Grazed!? Can't hide this machine's weight...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Don't think this is enough to stop me.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Toughness is what I count on. Still good!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Thick armor is its strong point.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "A few hits won't matter...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Rattles a lot for so little damage.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Get through this and there's still the armor. I'm not easy prey.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Evasive maneuvers...! Good!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Don't underestimate me just because I'm heavy...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Move early... and this much is doable!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Even Alt can manage that much.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Dodge!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Ngh, I can't let that one hit...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "You call that aiming!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "I win this bet.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Ugh!? ...A barrier? My eyes are seeing spots...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Get through this and there's still the armor. I'm not easy prey.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "I can... still move...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "...Tch. Solid rounds are easy to use, but the ammo count...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "This is bad...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Got to get close or it's pointless...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "At this range... I'll back you up!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "I can do it! Take this too!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Sorry, I'm cutting in...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Alt, we finish this here!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "I'm going to push you a bit...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Look out...! Full power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "I'll cover you! This one suits Alt.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "It's slow, but the armor's thick!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "This head isn't just for show...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Boost! Now just ram it home...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "I'm not much of a shot. ...No time to complain.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "As long as more rounds hit... that's enough!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Whatever the armor... I'll punch through...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "I'll punch through...! Stop me if you can...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Whatever the armor... I'll punch through...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "I'll punch through...! Stop me if you can...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "It's a bit old-fashioned... but power is power...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Bigger caliber than before. ...This will cost you...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "This many ball bearings... can you dodge them!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Claymore...! Don't think you'll get through...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "This many ball bearings... can you dodge them!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Claymore...! Don't think you'll get through...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Every round is custom titanium. ...Take them...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Way too much powder. ...See how hard it hits for yourself.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "My trump card... here goes!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Point-blank... got you...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "My trump card... here goes!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Point-blank... got you...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "No armor can stop this...! Take... every round!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Time I played my joker, too...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Excellen, we're moving in.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Huh? Oh! Our Love-Love Attack!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Match my timing. Let's go.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Aww, Kyosukeee! Geez!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "We end this in one go!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Ready, Kyosuke?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Yeah, I'll match you.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Then with the power of our love...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "...Let's go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Hey! Weren't you gonna match me!?",
+   "kind": "quote",
+   "keep": false
+  }
+ ]
+}

@@ -1,0 +1,499 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1838,
+ "strings": [
+  {
+   "id": 0,
+   "en": "Whew. Feels like ages since I was last back here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Then again, of the Far East Branch members, the only ones here now",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "are the two of us and the Commander.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Yeah. The Cyber Beast Force is in space,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "and Chris and the others are in that place called Byston Well...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Are Big Bro and the others really in that Byston Well place?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "That's what they said was most likely, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Will Joe and the others truly be able to come back...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Even if that guy never came back, it'd be no trouble for us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "It may be no trouble for you, but it would be for me...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "M-My apologies... Princess...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Princess... raising your voice like that...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Right. Even if they're safe, it's no good if they can't come back.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Show came back once before. Won't it work out somehow?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Akira's right.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "For now, all we can do is trust them and wait, isn't it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Joe... please... come back...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "So, how are you feeling, Daisuke?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "I'm still a little numb, but I'm fine.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Don't worry. This ray gun is the real thing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "What makes you think so, Maria?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "But the radiation wounds are gone from Brother's body, aren't they?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Yeah, but... it won't have weird side effects later, will it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "How can you be so sure?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "But the radiation wounds are gone from Brother's body, aren't they?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "But it could be rigged to make him sick later. We can't let our guard...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "It's fine. She's not that kind of person.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Yes... she did seem to be being used...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "The Vega Star Federation grew by invading many planets...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "That girl likely can't defy their orders either...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "We'll have to thank her next time we meet, Brother.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Yes, we will. By the way, Father, what should I do with this ray gun?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "It may be useful for future research.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Hold on to it until you next come to the Space Science Lab.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Understood.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Who's there!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Huh? What's wrong all of a sudden, Domon?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Come out! If you don't, I'll blow you away, pine tree and all!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Hahahaha, it is I... Domon Kasshu.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "You're the one from before?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Yes... Schwarz Bruder.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "The one we met at Jaburo?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "What's Schwarz Bruder playing at!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "I came to stop you. I know full well where you're headed.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Where? You're going off to train, right, Domon?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Domon intends to go after Master Asia alone...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Domon...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Last time you helped me, and now you're getting in my way!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Heed my advice. Turn back now! You cannot win!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "That's none of your business! I have my own plan!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "I'm telling you your master, Master Asia, has long since seen through it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Listen, Domon Kasshu. Get as worked up as you like, you cannot win!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "What!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "And your skill isn't up to it either!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Dammit...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Domon... Schwarz is right. No matter what, you can't take on",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Master Asia and the Devil Gundam alone.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Watch closely, Domon. A fist without heart creates only destruction,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "yet depending on its use, that power can become something wonderful.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Yes, great power has two faces.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "It is a double-edged sword. Now, which will you choose...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "I-I...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Sorry to trouble you, Dr. Hazuki. Well then...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Huh, wasn't that the old guy just now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Yes, it seems the enemy is heading for the Nanbara Connection...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Then shouldn't we hurry to the Connection?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Thing is... that's not all...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Seems Akira's missing dad is being held hostage",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "by the Demon Empire...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "No way...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "The Nanbara Connection's got its electromagnetic cannon and barrier.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Wouldn't it be better to go rescue",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Akira's dad from them kidnappers first?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "...No. If they took a hostage, they must want something in exchange.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "My father should be safe for a while...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Akira...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Commander, what now? The Nanbara Connection's closer from here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Hmm... It seems a decision must be made...",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

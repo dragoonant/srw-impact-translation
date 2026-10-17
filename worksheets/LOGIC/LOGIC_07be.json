@@ -1,0 +1,955 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1982,
+ "strings": [
+  {
+   "id": 0,
+   "en": "",
+   "kind": "dialogue",
+   "keep": true
+  },
+  {
+   "id": 1,
+   "en": "Roux, good work.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Eh, don't mention it, Captain.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Didn't seem like the time to be lazing around on Jupiter.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Louka? That mobile suit is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "It's a Zeta Gundam, as you can see, Captain. I brought it from Anaheim.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "...Apparently, to develop a mass-produced Zeta,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "they broke it down into parts once, then put it back together.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Ah, so that's the Re-GZ.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "I heard it was sent to the surface for gravity testing...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Another Gundam? I'm glad to get more firepower,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "but isn't some, like... awesome super robot gonna show up?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Don't be greedy, Koji. We've got Grendizer and Zambot 3, don't we?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Another Gundam... I'd like two or three more super robots.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "It can't be helped. Most of them are on the surface.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Besides, we have Daisuke, and the Jins' Zambot 3, don't we?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "That's right. We don't need anyone else!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "But the more strength we have, the better, don't you think?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "True... It'd help if those allies who suddenly appear always came...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Oh yeah! Captain Bright, who are those people?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Honestly, we'd have been in trouble without them, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "...I don't know. Only that he's from another star system... an alien.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "He sure wasn't wearing a spacesuit... Can anything live without oxygen?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "I don't care what his background is.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Brother, you really like him, don't you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Does he come up with those sayings on the spot, I wonder?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Anyway, Roux, thanks for coming.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "...Now, next we need to hear from the Zambot team.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Roux, good work!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "You look well too. What's up?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Heh, I'm just curious about Judau.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "You made it out, so what's he doing?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "The Double Zeta.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "The Double Zeta!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Wasn't that dismantled after the last war ended?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Anaheim. They apparently took in the whole thing, parts and all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Huh? I got my mobile suit from there too...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "You guys too!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "That's right. Judau's still over there waiting on the Double Zeta, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Then... you're saying this enemy, the Gaizok, has no goal?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "That's what Gramps said.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "It's not that they don't have a goal, they just wanna kill living things.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "He said our ancestors got wiped out by 'em...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Your ancestors? What does that mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Says they were aliens from a planet called Bial.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "The Bialians were wiped out by the Gaizok, and survivors came to Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "When we were suddenly told that, we couldn't believe it, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "the Gaizok really do exist.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "These kids are aliens? ...Sounds like some kind of joke.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "But the Umon siblings are from Fleed, Captain Burning.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "They look human, any way you slice it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "It's not like they've got pointy ears or three eyes or anything.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Who cares what we are?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "We haven't finished off the Gaizok yet. There's plenty to do!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Jin has a point.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "...By the way, is there really no way to find the Cyber Beast Force?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "...Hmm, they rammed into the Gaizok battleship,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "and both got blown away. We went after the Gaizok,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "so... the Cyber Beast Force went the other way.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Hmm... Well, Captain, I guess we'll have to be satisfied",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "that we at least joined up with the Mazinger team.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "That mysterious bony enemy that showed up in the ring of meteors...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "That's got nothing to do with the Gaizok or anything, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "(Seems nobody else noticed that voice... Was I just hearing things?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Solve one problem, and another pops up... It never gets easier...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Captain, why not contact Commander Hazuki of the Gandor Team for now?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "There's the matter of the Mazinger and Zambot teams, too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Right. Very well, open a channel!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Our forces are... really coming together.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "That's right. Now that we're here, we'll make it easy on you, Daisuke.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "You were crying \"help me~\" back at that abandoned colony,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "so you're in no position to brag, Koji.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Don't be like that, Sayaka.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Well, just bein' safe is a lucky break.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Kojiii!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Oh, Maria, how've you been?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Glad you look well too. Is everything all right on the surface?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Yeah, Tetsuya's there. I wish I could've fought alongside him, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "But I'm really glad. Having you here is reassuring.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Leave it all to us! ...That said, about the Cyber Beast Force...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Yeah... But if things had gone wrong, the HLV might have been",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "shot down... It's hard to say.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "...You don't know where they are?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "We had our hands full just stabilizing the HLV.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "We couldn't check on them at all.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Well, they ain't the type to kick the bucket that easy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Yeah. I'd have liked to bring Koji too... but it's dicey on the surface.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "We didn't exactly join up without trouble either, Tetsuya.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Well, just bein' safe is a lucky break.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "You were surrounded by a weird bunch at that colony.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "I was really worried.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Well, that bunch... was nothing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Big talk! Oh, right, how's Koji doing?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "He's fine, Maria. We wanted to fight together, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Koji's doing his own job down there.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Sayaka's with him too, so worryin' is a waste.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "But I'm really glad. Having you here is reassuring.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "By rights, the Cyber Beast Force should have been here with us too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "No use talking about it. If they hadn't jumped out there,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "the Gaizok might've taken us all out at once...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "...You don't know where they are?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "No. ...Honestly, they don't think ahead at all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Well, they ain't the type to kick the bucket that easy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "So... either way, all we can do is wait for word.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Yes. The Cyber Beast Force... I'd like to meet them soon.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Whaaat! For real!? THE Domon Kasshu is over there?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Yeah. He's apparently chasing the Ultimate Gundam...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "the Gundam now called the Devil Gundam.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Hey, could you get me his autograph? Actually, let me talk to him.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "If I get the chance. ...Anyway, what did you want to talk about?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Oops! That's not what I called about today...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Say, Kyosuke, those bone-like things, and the plant-like ones...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "haven't they shown up down there?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "They're appearing in space too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "You too, huh... Somehow I'm the only one who hears their voices~",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "You too... Excellen?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "So you hear them too, Kyosuke! Phew, I'm not the only one...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Why can only we hear them?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "The only thing we have in common is that one thing, so...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Yeah, true... but I don't see why.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Right... and that girl seemed to know you, Kyosuke...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Girl? What are you talking about?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "A red machine that showed up with the bone things...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "From the voice, she sounded like a little girl...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "She hasn't gone your way?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "No. The bone things appeared, but I haven't seen any red machine...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "I see... She said, \"I'm going to see Kyosuke, I am.\"",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Me? What does that mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "I don't get it... What do we do, Kyosuke?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "I haven't told anyone in Londo Bell yet...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Better keep quiet for now... It'd only cause needless confusion.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Right. So that's that. We're sortieing soon, so I'm hanging up.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Yeah.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "If you get lonely, call me anytime. I'll be waiting.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "(Kyosuke and me... What connection could we have to that enemy...?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Inside Mars's thermosphere. Phase transition engine output dropping~",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "What's that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "A mass of nanomachines.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Nano?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Nanomachines... tiny self-replicating machines...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "They used nanomachines to bring Mars's atmosphere closer to Earth's.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Hmm...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Indeed. Even now they keep the atmosphere stable like that,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "and block harmful UV rays. Even with no one left to benefit...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Passing first nanomachine layer.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Is it okay for that stuff to get inside the Nadesico?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Don't worry. Everyone on Mars lived breathing that air,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "so it's basically harmless.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "It comes out when you go to the bathroom. Oops, shouldn't say that.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Ah yes, you were born on Mars too, Captain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "...I see...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Gravity Blast, stand by.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Fine, but... you should've used it in space while you were at it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "There should be a second wave below. We'll strike before we're surrounded.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Turn the bow toward the enemy, please.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Enemies eliminated. No Jovian Lizard readings within 30 km.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "First... we'll head for the research facility at Olympus Mons.",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

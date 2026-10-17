@@ -1,0 +1,1057 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 136,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "...? Where are we, Show?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Th-This is... the surface world.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "The surface!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "And it's Tokyo... though it's been torn up like this...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Was there a war on the surface too?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Maybe so...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "That's...!? Garalia's Bastole!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Hm...? Where is this?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "What do we do, Shooow?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "That's...!? The Dunbine! Show Zama!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Garalia, can you hear me!? This is the surface! Where people live!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "If we fight here, we'll hurt the people of the surface!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Hmph! If Show the surfacer is my foe, this is enemy land! I'll destroy it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "No! First we need to find out why we came out on the surface!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "It's no use, Show, she won't listen at all!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Drumlos...!? What's going on!? It's not just Garalia and me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Heheheh... perfect. Show Zama! You've nowhere to run...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "I'm the only one left... But Show Zama, you at least...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Garalia, stop resisting! You'll only make things worse for yourself.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Resisting!? Don't make me laugh! That's you surfacers!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "This is the surface! There are forces here without end!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Yeah, yeah!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "...Ngh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Let's go back, Garalia. To Byston Well!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "...Fine. Dying on the surface would be... a dog's death.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Yeah, I hate the surface... Let's fight in Byston Well, Garalia.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "It seems... they've settled things.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Acquired \"Skill Lv+1\".",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Battle Mastery increased by 1.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "What are those small... insect-shaped robots?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Show! Something big is coming!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "A battleship... from this world!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Can you hear me? State your affiliation!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "This is the Federation Far East Gandor Team. I'm Commander Hazuki.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "The Federation...!? I'm Show Zama. I'm Japanese!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Sorry, but at this rate the surface will be torn apart.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Lend me a hand!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Japanese? Who are you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "I'll explain everything later, I promise! Right now...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Commander, what should we do?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "We can't abandon someone in trouble, can we? I'm going!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "With this many different things showing up,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "it makes you want to take them all down one after another.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "All right, Jun, we're heading out too...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "OK, Tetsuya!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "I'm going too! These guys feel different from the ones before,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "but nothing surprises me anymore!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Ah, wait for me, Koji!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "The mobile suit team will launch as soon as it's ready.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "They look fast. Not that it matters once we catch them...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Mia, your home... Earth... is it always at war?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "...I don't know... My memory's still not complete.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "What a scary place...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "As long as I get to cut loose, I don't care.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Hey now, don't get the wrong idea. It's not normally this bad.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "No choice, then... All units, launch! Repel the unknown enemy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Another new model!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Give us a break already!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "...ONE... FORM...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "But... what is that? It looks like a skeleton...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "...Hm, did it just... speak?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Zama! Are those enemies too!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "...I don't know. I've never seen them before.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "...N-No...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Cham?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "...Show... that's... wrong... Show, I can't explain it, but that...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "is something that must never come out. Show...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Cham? Cham! Pull yourself together, what's wrong!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Ugh... what...? Raideen?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Akira!? What's wrong? Aren't you feeling well?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Ever since that thing appeared... Raideen's been acting strange...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Raideen, are you trying to tell me something...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Akira, when the Demon Empire showed up,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "you said Raideen reacted then too, right? Think it's connected?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "I don't know, Mister...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "What? Just snap that bony bastard in half!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Joe, brute force isn't always the answer.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "That's just like Big Bro, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Hmph, I don't feel a thing.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "All I feel is that these guys are enemies too!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Right now, keeping it simple might work best. Let's go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "That's right, this is no time to flinch! Move forward!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Please respond, Dr. Hazuki!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Huh? There's someone over there!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Civilians!? This is a combat zone! What are you doing!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "This is Gandor. I'm Hazuki. And you are?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "We're from Neo Japan. We came to Earth on Major Ulube's orders!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Neo Japan? Then you're the ones who appeared near the Barrier Satellite...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Commander, sorry, but let's talk later!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "The enemy won't wait for us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Right. I'd like you to join the battle as well. All right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Yes, that's fine.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "But I don't see any mobile suits of theirs...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "No need to worry! Let's go, Domon! Master Asia!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Come forth!! Gundaaam!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Three Gundams!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "I've never seen Gundams like those, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "After all, they were built for the Gundam Fight!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "G-Gundam Fight?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "We'll talk about them later! For now, wipe out the enemy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Well then, shall we see what they can do?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Fighting robots, huh. Hmph, show me what those Gundams can do.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Foes like these are no match for us... Come, Domon!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Yes! Master!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Gundam Fiiight! Readyyy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Gooo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Watch the power of my Nobel Gundam!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "(Domon...? And Gundam Fighters... Could it be?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "More of them!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "They ran!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "What!? A retreat? What's going on?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Nngh, I won't let you!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Master!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Domon! You will act together with the Gandor Team!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Why, Master!? I'll come too! It's better if we chase them together...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Don't flatter yourself, Domon!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Even if you came, you'd only slow me down. Nothing would change!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "M-Master...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "I can move more freely chasing them alone.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Work with the Gandor Team and pursue the Devil Gundam!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "But...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "They are not the only enemies on the surface!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Fight alongside the Gandor Team and hone yourself!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Master...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Do not worry, Domon.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "The School of the Undefeated East won't fall so easily.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "True, chasing the Devil Gundam on our own might be hard, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Master... Understood... Please, take care...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Good. Farewell, Domon!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "And all of you in the Gandor Team, I leave Domon in your care!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "That man plans to chase that enemy on his own!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "But why do you need to chase them?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "They're offshoots of the Devil Gundam. If we follow them,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "we'll eventually reach the Devil Gundam itself.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "The Devil Gundam?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Ask Ulube to explain later.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "What on earth is going on, Show?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "I don't know... While I was in Byston Well,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "it seems a lot has been happening on the surface.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "We let a few get away. Huh, Domon?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Yeah... If Master's chasing them, there's no need to worry...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "He'll contact us soon enough.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Dr. Hazuki, I'm Rain Mikamura, mechanic and doctor.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "I've heard about you from my father.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "I see, so you're the mysterious Gundams Captain Bright mentioned...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Hey Domon, like your master said, let's ask to join the Gandor Team.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Domon, it's fine, right? There's only so much we can find alone...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Dr. Hazuki... would you let us join the Gandor Team?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Well... I can't decide that alone, but I'll contact Major Ulube.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Thank you very much.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "...Master said so. I don't mind. ...Never mind us, what about them?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Ah, Zama, are you two all right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Yes. Thank you for your help. You saved us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "...Let me ask again... who are you? All we know is you're Japanese and",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "that, for now, you're on our side...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Hey, what do we do now? Show...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "Cham, keep quiet. ...It's a long story.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Don't tell me you flew in from another world,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "or something like that.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Huh? Yes, from a world called Byston Well... How did you know?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Hey, Joe... looks like you hit the nail on the head.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "I'm starting to get used to this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "It seems... this is no joke.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "My head's getting all mixed up.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "...It seems we can't just ignore this.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Zama, we won't treat you badly. Will you come with us?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "Even if I said no... it seems that's my only option.",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

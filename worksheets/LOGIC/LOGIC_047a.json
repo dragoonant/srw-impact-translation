@@ -1,0 +1,1975 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1146,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. Gran Garan destroyed 2. Nadesico Y Unit destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Nie Givun... Is this... the surface world?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "So it would seem, Lady Sheela.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Huh~, it's not that different from Byston Well~.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Surface world, surface world~!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Is this really the surface world? But... why so suddenly!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "...I don't know. But if the light that engulfed Show and the others...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "the thing that swept us in, was the Aura Road...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "then this is definitely the surface world.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Holy Warrior Show Zama... What on earth is happening up here...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Ah! Lady Sheela! Nie!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "It can't be...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Drake's army is up here too!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "...Is this really the surface world!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Yeah, no doubt about it. Looks like Japan, though...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Never thought I'd end up back up here!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Allen Brady...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "No business with small fry! Bring out the Holy Warrior, Show Zama!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Show Zama is not here. You... said you were Allen Brady.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "...Answer me. Has Drake's army... all come up to the surface too...!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Wouldn't know! Not about anyone but my unit! But...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Both you and we... were swallowed by that strange light and came here...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "The others are probably here too! But this place is mine!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Don't mess with us! Nie, Keen, let 'em have it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Let 'em have it~!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Keen! We'll protect Lady Sheela and hold out as long as we can!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Ngh, but against this many...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Found 'em! It's the Gran Garan!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Lady Sheela!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Lady Sheela! That's...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Could it be... Holy Warrior Show Zama...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Show!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Looks like rushing over was the right call.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Marvel's here too!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "The Nadesico, the surface military's ship, had trouble, so we went ahead.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Heh, Show ain't the only Holy Warrior around.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Even Todd Guinness...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Do they mean to spread Byston Well's war even to the surface...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Show! You found us that quickly!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Aura Battlers... and even Aura Ships are appearing all over the surface!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "We came to the nearest Aura Ship reading... Glad we made it in time.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "I see... I wish to believe Aura Power guided the Holy Warrior here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "But that nasty eyebrow guy's here too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Heh, what're you all yapping about!? Show Zama!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "It won't go like last time!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Show Zama, what is the surface military doing?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Lady Sheela! We'll talk later! Let's go, Nie, Keen, Marvel!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Right, we'll stop them no matter what!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Hang in there, Show!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "If we hit them before they regroup...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "...Brace yourself, Holy Warrior!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Waaaugh! No way... Me!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "This is the end! Jeryl Kuchibi!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "...!! This Aura Power!? No, Show Zama!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Aaaaaaaah!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Don't you underestimate meeeeee!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Did I get her!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Show! Did you do it!? Did you beat her!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "After all this! After all this, why can't I win!? Show Zamaaa! I'm...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Ooooh! Me...? It can't be! Why!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "It's over! Allen!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Why!? Why am I being beaten so easily...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Unlucky bastard... Go join Fei in the afterlife! Allen!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Jeryl, you...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "You'd laugh at your own comrade...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "You lose 'cause you're weak!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Why!? Why can't I be like Jeryl!? If I had that power too...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "That's a power no human should have, Allen!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Uoooooh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Guess... I'm finally running out of breath...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Nie! Don't lose heart!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Show, Marvel... When the moment is right, withdraw from this airspace.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "...Lady Sheela!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "You must understand, Holy Warrior Show Zama.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Why we have surfaced, and what is about to happen",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "to the surface and to Byston Well...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "What? What're you talking about!? Lady Sheela!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "And that Drake and his forces... were simply swept up in it as well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Isn't it because there's too much Aura Power!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "...Something much bigger is in motion...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Lost your nerve!? If you won't come, I'm coming to you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Show! Look!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Looks like we made it in time!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Look, Big Bro, there's Aura Battlers swarming all over!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "We have to hurry!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "We managed to get here, but... Ruri, can the Nadesico's trouble be fixed?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "I'm still working on Omoikane, but... it's no good.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "If anything, it's getting worse.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Aww, no good here either. The helm won't respond.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "The Nadesico is stopping at its current position.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Hey, hey, are we gonna be okay like this?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "It's a learning computer problem... It won't be easy to fix...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "There must be some underlying cause... If we had time to look into it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "It can't be helped... Captain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Aestivalis team, sortie! Please provide close cover for the Nadesico!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Seriously, what is going on?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Can't be helped. I, Gai Daigoji, will protect you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Guys like that are always the first to fall, y'know~.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Laugh here, 100 yen... What a cheap fall.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Hey! Don't you guys stray too far from the Nadesico!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Good grief.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Everyone, please be careful...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Tch, I dawdled too long!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Show! Everyone came for us!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Everyone!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Show, Big Bro! You're safe now!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Geez... You're late, cavalry!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "The Nadesico's been acting up! ...I'll make up for being late!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Aura Battlers, huh... We'll have to fight smart!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Yeah, get thrown off by their moves and you'll get hurt bad. Stay sharp.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "We can move just as well as they can!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "It's fine that you won't lose, but don't forget the Nadesico can't move.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "That's right. ...We'll just have to draw the enemy over to us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Turned into a big fight all of a sudden. Heh... Now this is fun.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Hm... I sense pressure from one of them... Zama, that huge castle...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "is it a battleship?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Captain Quattro! Lady Sheela is aboard it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Lady... Sheela?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Captain, she's the queen of the other world Kamille and I were sent to",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "from Jaburo before... Byston Well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "We've met her. ...But why is she here!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Sir Amuro Ray... Will you lend us your strength once again?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Of course, Queen Sheela.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "We'll need to ask her how this happened, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "There are some mechs I've seen before.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Last time it was Byston Well, now it's the surface world.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Anyway, let's beat those guys first!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Yeah, yeah, the enemy looks all fired up!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Hah, we pop out on the surface... and snag some big prey!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "The Aura Battler...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Hmph, Jeryl, huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Jeryl...!? Red-haired Jeryl Kuchibi!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "That's the Gran Garan, all right... And the Holy Warrior Show Zama!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Looks like my luck's turning too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Answer me! Drake... Has Drake come to the surface as well!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Wouldn't know! And even if I did, I've no reason to tell you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "She seems like a nasty person too~.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "It's less her personality... She's starting to drown in her Aura Power...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "You're from the surface world, yet you want war here!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Jeryl...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "You rotten woman!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Hmph! Then I'll knock you flat and see for myself!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "That's how we've always pushed forward, isn't it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "In the end, all we can count on is ourselves!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Quit your squawking, you brats!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "This creep pisses me off every time! I'm gonna knock you down a peg!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Looks like that mouth of hers isn't just empty bluster...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Careful! Their Aura Barriers give them strong defenses!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Indeed. ...Mobile suit weapons may struggle.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Then they'll learn the power of the Great...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Don't underestimate Mazinger's power!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Tch, so we've gotta take 'em up close, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Heh! I'll slice right through that barrier with the Danku Sword!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "I'll show you Raideen's power!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Whatever they are... we'll shoot down every last one...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Hahaha! Go ahead and try!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Jeryl!? What did you do!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "What is that...! The Leprechaun... This aura... Is that Jeryl...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "The Aura Battler...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Jeryl, what did you do!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "Stay out of this, Allen! Nobody... can stop me now!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "The Leprechaun looks like it's gotten huge.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Am I seeing an illusion...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "This... emotion... a light of terrible hatred...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "...What is this pressure... Big Bro?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Heh... Hahahahahaha!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Heheh... If my enemies look small... that means I'm gonna win!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "She's gone Hyper...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Lady Sheela!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Evil aura gone out of control...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "No, that must not be left on the surface! Show Zama!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "Even I can tell...! That's the light of human hatred...! We have to beat it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Still, it's huge...! Hey, hey, this is no joke!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "Doesn't look... like an illusion...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Masato, can't you figure anything out!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "That's the thing... it makes no sense. It's definitely there...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "So it's no hallucination, but... I can't get a solid physical reading either.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Could it be Aura Power... made physical by Aura Power itself...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Ruri, what's our analysis?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "...Omoikane...!? What's wrong...!? Listen to me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Ruri...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Captain, we're in big trouble.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "What's wrong? Did something happen?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "Omoikane is...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "What the!? The Aestivalis!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "Huh!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "What's going on!? The controls...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "What's going on!? The Nadesico won't do what I tell it!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Omoikane hasn't shut down... it's refusing our commands.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "Hey! Why is that happening!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "The Nadesico...!? What's wrong, Captain Misumaru!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "The Nadesico and all units of the Aestivalis team... are out of control!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "What!? What are you doing!? At a time like this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Aww, please don't get mad! We don't know what's going on either!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "Why'd the Nadesico and the Aestivalis suddenly stop moving!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "Captain Misumaru, what is going on!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "Yurika! Did you screw something up again!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "Ruriii! Everyone everywhere is chewing me out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "Please don't panic, Captain.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "...Omoikane is ignoring our entire chain of command...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "and is controlling the Nadesico and the Aestivalis.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "Omoikane... That's the Nadesico's central computer, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "That's right, Captain.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "Put bluntly, the Nadesico has seized the Aestivalis controls too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "Hahahahahaha! Looks like you've got some kind of problem.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "...Tough luck, Holy Warrior...! That's right, this is how a fight should be!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "What's the point of a fight like this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "Who cares about the point! As long as it's fun!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "Jeryl, you...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "Red-haired Jeryl Kuchibi...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "Show Zama! Today's the day, like they say!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "I won't let you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "Hm!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "(This frightening power... What is it? Is someone watching us?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "Pay close attention to the giant Aura Battler! Intercept it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "What about the Nadesico!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "...Cover it! We can't let it fall here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "Jeryl...! The Nadesico can't move!? Damn!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "Show! Here she comes!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "It's gone... that enormous aura of malice.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "Jeryl... So that was... an aura of malice...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "Show...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "(The presence... is gone?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "...For a while there, I didn't know what would happen...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "It's not all over yet. It's too early to relax, Kamille.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "Exactly. ...The bad dream is over. Now to mop up the real enemies left.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "(Three exceptional Newtypes, and none of them noticed... As I thought...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "Hm... Kyosuke?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "No, it's nothing. ...I'll help mop up the enemy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "Hoshino, how is Omoikane?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "...No change.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "Aww, doesn't it get fixed once you beat the bad guys?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "You watch too much TV.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "Show...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "Allen... The power of hatred... creates nothing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "Battle Mastery increased by 1.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "It seems to be over...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "Lady Sheela...? We won... Aren't you happy...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "Most of the enemy soldiers were people of Byston Well too...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "How did it come to this...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "Ever since the surface man Shot Weapon built the Aura Machines...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "it seems everything began to go wrong...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "That's...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "Surface folks... We're what you'd call surface folks too, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "en": "A surface man named Shot built robots in another world...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "en": "and the ones destroying them are surface people too... us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "en": "...I do not mean to speak ill of you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "en": "Thank you all... Allow me to express my gratitude once more...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "en": "No, you helped us before in Byston Well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "en": "Please don't worry about it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "en": "Looks like we managed to protect this ship, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 258,
+   "en": "You mean the Nadesico...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "en": "How is it, Ruri-Ruri?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "en": "No change.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 261,
+   "en": "So it can't fight at all, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 262,
+   "en": "It seems this dock stay in Sasebo will take some time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 263,
+   "en": "Then for our upcoming operations...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 264,
+   "en": "It can't come along. It was unstable to begin with,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 265,
+   "en": "and then it took the energy of that giant Aura Battler...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 266,
+   "en": "At this stage, there's too much we can't explain.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 267,
+   "en": "Probably... that's not all...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 268,
+   "en": "Ruri...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 269,
+   "en": "And so... that's how things are.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 270,
+   "en": "Aw, don't sweat it. You were planning to stop at this dock anyway, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 271,
+   "en": "You make it sound so simple...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 272,
+   "en": "Without the Nadesico, Tenkawa and the rest can't move their machines.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 273,
+   "en": "Correct. ...Running Aestivalis on their own isn't very realistic.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 274,
+   "en": "Yeah, it was a real pain when we took out the Nanafushi too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 275,
+   "en": "We finally reach the surface and lose a battleship right away...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 276,
+   "en": "Speaking of battleships... Lady Sheela, what will you do now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 277,
+   "en": "...We will travel with you, Holy Warrior.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 278,
+   "en": "Huh? But...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 279,
+   "en": "Drake has surely come to the surface as well. That evil aura...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 280,
+   "en": "We cannot let the war of Byston Well spread any further on the surface.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 281,
+   "en": "Yes, you're right. Drake, at least, must be stopped...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 282,
+   "en": "Also... if we have surfaced, Lady Ele's Goraon must be somewhere too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 283,
+   "en": "If so, we must join with her. In this world, we do not belong...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 284,
+   "en": "But shouldn't you take it easy?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 285,
+   "en": "No. From what I see, you have a great many units.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 286,
+   "en": "That waterfowl-like battleship alone would struggle to carry them all.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 287,
+   "en": "That's true... The Elshank alone might have a hard time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 288,
+   "en": "...May we accept your kind offer?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 289,
+   "en": "Yes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 290,
+   "en": "Heh, she gets it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 291,
+   "en": "Kappei! Don't be rude!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 292,
+   "en": "Then, Queen Sheela, let us work together for peace in this land.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 293,
+   "en": "Yes... And you are? You do not seem to be from the surface...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 294,
+   "en": "nor from Byston Well, it seems...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 295,
+   "en": "My name is Romina Radorio.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 296,
+   "en": "...Let me tell you about that along the way.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 297,
+   "en": "I'm also interested in hearing about Byston Well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 298,
+   "en": "Their conversation's... so elegant...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 299,
+   "en": "A princess's battleship and a queen's battleship, huh?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 300,
+   "en": "You don't see a unit like this very often.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 301,
+   "en": "Heh, till now we were a unit of grubby old guys.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 302,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 303,
+   "en": "Awww!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 304,
+   "en": "If the Nadesico could move, I could've joined the beautiful captains' fleet!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 305,
+   "en": "This is no time to be saying that! Besides, you're not even royalty!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 306,
+   "en": "Ugh... I have Akito, my prince...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 307,
+   "en": "Megumi, how's the docking paperwork?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 308,
+   "en": "We've been cleared to enter port.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 309,
+   "en": "And Akito is NOT your prince!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 310,
+   "en": "A-anyway, the Nadesico will be adjusted here for a while... Good luck.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 311,
+   "en": "Understood. We'll head for our next destination.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 312,
+   "en": "I suppose we should be grateful the Gran Garan is coming with us...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 313,
+   "en": "...Holy Warrior Show Zama. There is a unit I wish to give you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 314,
+   "en": "A unit...? An Aura Battler!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 315,
+   "en": "Yes. Built with all the technology of the land of Na...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 316,
+   "en": "the Aura Battler Billbine.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 317,
+   "en": "There is only one, but... it should serve you well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 318,
+   "en": "All right, Show!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 319,
+   "en": "The Billbine, huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 320,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 321,
+   "en": "Hm... Kyosuke? What's wrong?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 322,
+   "en": "Nothing... I was wondering what that giant growth was...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 323,
+   "en": "Jeryl couldn't control her own Aura Power... and as a result...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 324,
+   "en": "Show... Could it happen to you too!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 325,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 326,
+   "en": "(And what I sensed then... Aura Power... going Hyper...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 327,
+   "en": "How are they all connected?)",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

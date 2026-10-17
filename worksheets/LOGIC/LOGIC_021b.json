@@ -1,0 +1,529 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 539,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Hm... looks like it worked...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "No enemy movement... They don't seem to have noticed.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "All right, we strike by surprise. I'm heading out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Close in fast... right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Wow, my heart's pounding.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "The first strike wins! All hands, launch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Here I go!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Duuuuuke Fleeeeeed!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Grendizer, go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Hang in there, brother!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "It should be around here...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "No sign... of the enemy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "We did arrive late...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Couldn't they have already passed through?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "But... I just contacted Nina, and she said nothing's happened on the moon...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "...Which means... don't you get a really bad feeling?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "...Ah!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Maria!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Everyone! Hurry to the deck! Bright! ...They're coming!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "An enemy attack!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Captain, I'm launching! Everyone, hurry!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Just as Captain Gorman said. They took the bait!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Our reinforcements are on the way, but... we'll finish them off first!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Geez! That's so dirty!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Whoever can launch, engage and intercept! Hurry!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Such dirty tricks...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Duuuuuke Fleeeeeed!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Grendizer, go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "So we're completely surrounded... Now then...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "A Pinpoint Breakthrough to regroup... it's our only option, Captain?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Indeed... let's go.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Wh-what are these!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "It's the Earthlings' army! They outfoxed us!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Call HQ for backup!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Damn! I'll do it, I'll do it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Too slow...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Here it is!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "...Wait, you're kidding, this is a hot zone!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "What!? ...This ID signal... a Gundam!? ...No, it's not...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "That mobile suit...!? Is it friendly!? But... it's a Zeonic design...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Let's see, the frequency... Captaaain! Captain Bright, can you hear me?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "This is Elle Vianno, I've brought a supply unit from Anaheim!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Elle!? Is that you, Elle!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "...Elle Vianno... I see, she was with Judau...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "...one of the Shangri-La Children.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Elle! That machine!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "A woman named Nina at Anaheim slipped it to me on the quiet.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Captain Bright, now that I'm here...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Nina did!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Hey, Elle! Behind you, behind you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Hm! Pursuers!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Huh!? Wh-whoa! They caught up already! We'll talk later!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Do something about these guys!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "She's a fun one to tease, isn't she?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Never mind that! Isn't this bad!? They're close!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Elle! You've got ammo left, right!? Go straight into combat!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Everyone else, cover Elle's unit and keep up the attack!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "G-guess he still works people to the bone...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "1. Gerbera Tetra destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Battle Mastery increased by 1.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "It's over... Elle, good work.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "You haven't changed a bit, Captain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Ahem. Elle, we're free to use that mobile suit, correct?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Yup. On the quiet or not, the paperwork went through.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Something about not falling behind Nergal.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Nergal? You mean Nergal Heavy Industries?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Anaheim Electronics and Nergal Heavy Industries...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "I've heard ill rumors, but any extra strength right now is welcome.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "...Nina...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Oh? Something going on there?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Elle, have Roux and Judau... come back?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "...I don't know. Just that they're somewhere near Jupiter...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Jupiter? Why Jupiter?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "The Jupiter Energy Fleet... now that Scirocco's gone, it's the Jupitris II.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Its goal is to harvest helium-3 from Jupiter's atmosphere.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "I've heard some unsettling stuff, too... so I'm worried.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Unsettling stuff?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "They say the Jovian Lizards have been sighted there.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "The Jovian Lizards... they're the ones rampaging on Mars, right!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Why would they be at Jupiter!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "...Well, they do have \"Jovian\" in their name.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "(...Jupiter, is it. Challia Bull, Paptimus Scirocco...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "The Jupiter Sphere bred great Newtypes... What do they gain there?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "And... what is happening there...?)",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

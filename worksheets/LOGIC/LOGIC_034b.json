@@ -1,0 +1,1057 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 843,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed 2. Victory conditions not met within 10 turns",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "...I'd like to stop at Anaheim Electronics for the new weapon...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Is that okay? Weren't we short on time!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "We don't have much leeway... but we have a little.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "It's pointless unless we break through the colony's enemy guard.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "...Failure isn't an option.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Better safe than sorry, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Geez, Quattro sounded so serious, I wondered what would happen.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Looks like we've got plenty of time.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Yeah, that's a relief.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Looks like it'll go fine. Aren't you worrying too much, Lieutenant?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Maybe we were overthinking it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "You scared us for nothin', I tell ya.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "...I wonder.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Lieutenant?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "If I were them, I'd hold the enemy here. In which case...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "No waaay!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Fast as ever, Londo Bell.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "But for Operation Stardust to succeed... I can't let you act now!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "An enemy attack!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Th-That's...! The Gundam GP02A...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "The bulky Gundam that got stolen!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "If I remember right... it has a nuke!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "The crazy Gundam armed with a nuclear Bazooka!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Don't tell me they mean to blow up the whole city...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Just when we're about to head out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "As I thought... by the book. Captain, I'm going out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "I'm going too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Tch, nothing goes right. Talk about bad timing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "True. We're on the back foot, too...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "If only we'd headed for the colony sooner...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "You should say Zeon simply moved faster.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "If they drop the colony, it's a huge blow to the Federation Forces,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "plus a threat to those invaders crawling out from underground.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Two birds with one stone for Zeon.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Like hell we'll let 'em do that!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Captain Bright, do we still have time!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "...Ten minutes! We can't spare any more than that!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Ten minutes!? You've got to be kidding! What do we do!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Whaddaya mean? We just gotta do it, right, Sis Yuki?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "We have to keep pushing forward...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Heh, even if it's reckless, all we can do is Rush in.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "...So they've come out. All according to plan so far... Good, attack!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Gato!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Hmph, who are you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Why did you steal Unit 2!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "I have no words for the likes of you! A man who can't grasp why he fights!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Fighting for many people, to protect my homeland...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "You're saying that means nothing!? Gatooo!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "...Heh, you've grown quite bold...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Answer me, Gato!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Those without ideals, without convictions, have no tomorrow...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "A pilot fighting alone won't change the world!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "The proof... aside from you, the Federation can barely lift a finger!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "That's...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "People who need others' help even to defend their own homeland...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Can they survive!? A man who fights as a cog could never understand!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "...Maybe so! But I'll keep chasing you until we settle this...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "It seems our values are simply different...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Hm!? That move! Charging right inside my guard...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "...Major Anavel Gato.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "A contact line...!? Who are you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "What you... no, what Zeon sought, the ideals it raised...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "all of it ended back then.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "When Zeon Zum Deikun was assassinated by the Zabi family...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "...!! You... no, you're... Colonel!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Lieutenant! Captain Quattro! What are you doing!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "...He's opened a contact line? Why...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Think again. The Zabis are merely using the name of Zeon.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "And so is Haman Karn...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Ngh...! Colonel, even so... I am a soldier of Zeon!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "For the many fallen heroes trampled",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "by the fools of the Federation... I cannot back down...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Sorry to keep you waiting!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Crap! Enemy reinforcements!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Hey, wait! Didn't they just come out of the city!? What's going on!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Lieutenant? Captain Kelly Layzner!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "I've waited for this moment! Lying low so long was worth it...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "I'll cover you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Thank you, Lieutenant Colonel Cima! For arranging everything up to now...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Oh, I don't need thanks in words. It means nothing without results.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "...That's... the Gerbera Tetra...!? The one from before...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "A new model and... what's that? A pretty old mobile suit.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Enemy troops inside...! They knew we'd have the city at our backs...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Well done, Nightmare of Solomon...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "This is no time for compliments, Quattro!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Now we're in a real pinch.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "It's gotta be like this...! Otherwise it's no fun!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Tetsuya, are you all right!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Heh, making some big dramatic entrance! Doesn't matter to me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Let's go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "We can't dawdle in a place like this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "This... looks pretty rough.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "There's no time! Push it if you must! Take them out one by one!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "So many enemies... This is pretty tough.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Having more of 'em doesn't make 'em better.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Quit your grumbling!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "...They do outnumber us, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Natural, if stalling us is their goal... but we can't afford to say that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Right!? So what do we do?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "It's all over... Forget stalling, I'll finish you off right here...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Shame you might not get to see the colony fall, though... Hehehe.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "You bastard! Running your mouth like that!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Fujiwara! Don't take the bait!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Easy for you to say! Dammit!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "I can't say I don't get how Fujiwara feels, dammit!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Heh... However hard you push yourselves as individuals,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "you're just ants challenging an elephant. Too bad.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Kenrou! Grant me the thunder of justice!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Brother! They're being held up, just like we thought!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "You're helping us again!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "I'd rather not stick my nose into other star systems' squabbles.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "But if Gyandlar's moving behind the scenes... that's another story.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Surely not... with Zeon...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "No, not at all. I don't think the other side has even noticed.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Working in the shadows... is that it? I can't see their real aim.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "It seems they plan to use the chaos of the colony drop to descend to Earth.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "So they want to exploit our mess. How nasty.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "So we've got the same goal in the end. Count on you, heroes of justice!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Leave it to us! All right! Rom, let's go all out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Don't get carried away, Drill. But yes, that's how it is...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Nothing personal... but you'll be rust on the Tenku Shinken.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "What are you babbling about!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "What can five little machines do!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "In battle, size is not what matters...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "No, I can't take more damage...! When did they gather this much strength?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "...I'll withdraw! All that's left is to see Stardust through...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Gato!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "We drove off the scariest one. The rest are small fry, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Hope so. Anyway, let's hurry, Roll!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Yeah, I know! Let's go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "He still had strength left... A formidable enemy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "He just ran away. Fight to the bitter end, I say.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "But if you die, there's nothing you can do...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "A man fights until his machine can't move. I don't like it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Mobile suits aren't that sturdy, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "No... this Delaz Fleet, a detached Zeon force,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "knows when to pull back... Their kind is the most troublesome.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Anyway, we need to deal with the remaining enemies quickly...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Lieutenant Emma is right. Move, even a minute, even a second faster!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Battle Mastery increased by 1.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "All right, have we wiped out the enemy in this airspace!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Looks like we're clear.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "But we took quite a beating.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "The Ra Cailum will now pursue the colony headed for Earth!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "All units, return to the ship!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Huh? What about repairs and resupply?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "We only have the supplies we loaded before leaving!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Repair and tune up damaged units while we're under way!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "A forced march, huh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Reckless. Reminds me of you back in the day, Rom.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "No, it's not easy to do that while leading an organization...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "It shows how capable this unit's leader is.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Brother, what do we do now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "...Next, Gyandlar and the Bunker should move directly. We'll stop them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "So you're leaving again after all? Why don't you just...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "No. To judge those who move in the shadows...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "we must become shadows ourselves...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "An eye for an eye, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "I don't intend to stop you, nor do I have the right...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "But won't you tell me your name? I am Quattro Bajeena.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "...Rom Stol. Of Planet Cronos...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Weren't we short on time? Let's go, Rom!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "...Then, farewell. May Kenrou guide you all as well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "So cool~",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Planet Cronos...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Let's ask Dr. Tarsan.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "That old geezer's been up to no good all over, so he might know.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Still, that's encouraging. People are helping us from the shadows.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "We can't rely on that entirely.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "All right, we can't waste the time they bought us!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "We pursue the colony!",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

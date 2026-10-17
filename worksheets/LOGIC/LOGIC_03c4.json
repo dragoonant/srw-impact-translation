@@ -1,0 +1,1099 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 964,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "So the colony drop failed.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Heh... In a sense, the opposite of my Rafflesia Project:",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "a purge of Earth through sheer, overwhelming mass...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "I had some hopes for it, but it seems I must act myself after all.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "(Zabine reports the Gandor Team is quelling the chaos on the surface...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "I never thought I'd have to hurry this much.)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "All right, we're inside the Frontier colony! ...Hm, what's that!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "A big... flower mecha...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Those guys... weren't they at that abandoned colony a while back...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Tch... No matter how you look at it, that's a villain's mecha.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Let's hurry up and take 'em out!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Don't decide friend or foe by mecha design...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "It doesn't look like a pacifist's mecha, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "True... and that's a formation set to intercept us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Transmission from the large enemy mecha. Putting it through.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "I've been waiting, Londo Bell...! Stopping the colony drop... splendid.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "...Which is precisely why you must die here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "What? Out of nowhere, saying whatever you like!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Yes, just who do you think you are!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "...I am no one.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Just a man... who wears an iron mask to face his own weakness...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "What...? This feeling. ...That guy...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "...Wearing a mask to achieve something is hardly unusual.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "But... that's irrelevant to us now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "If you get in our way, we'll beat you to a pulp!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Fools... Even children act on emotion alone, blind to good and evil.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Heh, so what's wrong with that!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "With humans still the emotional beasts of old, we're on the verge",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "of devouring the Earth Sphere! Why can't you see that!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Even so, vainly deciding on your own that you've evolved...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "I just can't forgive people like that...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "...Captain, give the order to launch.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Captain...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "R-right. All units, launch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Ideals and dreams... I won't complain about chasing them.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "But if they can only be achieved by sacrificing others...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "I'll stake my life to stop them!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "How naive!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Naive, my foot! If it bugs you, try beating us!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "That's what's great about Daisuke! Let's go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "All units, please launch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Humans fighting humans... is this really the time!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "It seems it's ready in time. Oho... so this is it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "A Zaku head... but it's way bigger than the others!? A new model!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "So it seems. ...But where did they get Zeon technology?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "True, it's not a type in the Neo Zeon forces...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "but last time, too, they were running with this tasteless flower mecha.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Maybe people with bad taste just get along?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "There was a similar type on the ground...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Though there, it was operating with the Zeon forces...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Lord Carozzo.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "It's finally complete, I see. So that's the Apsaras III. ...Splendid.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "It seems someone in Zeon understands what a mobile armor is.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "...What kind of taste is that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Looks like it's just as the Captain said...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Looks have little to do with power. I've got a bad feeling about this...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "That mouth open in front, yeah.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Right. Stay sharp, everyone.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Moving to support the Rafflesia. ...Ah, yes, Iron Mask.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Back from the surface, are you? What is it, Zabine Chareux?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "...I've taken the head of this Apsaras Project into custody.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Barely breathing, but should survive.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "...Interesting. I'll meet with them later. Before that...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "I hold no personal grudge against you... but this is my job.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Like a few reinforcements would scare me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Judau, get 'em!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "If size alone won battles, it'd be easy...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Hell yeah! Let's do it... Hm, what!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Two small mobile suits have entered the colony.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "There it is...! It's here, Cecily!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "That mobile armor... Iron Mask...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "That's... a Gundam!? And the other is a Crossbone mobile suit!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Another new Gundam... Anaheim's been busy... Or not?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "...It seems it isn't an Anaheim make. It's quite small...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Wow, what's going on? Captain, any idea?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "I'm hailing them. You two, who are you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "...This is Gundam F91, Seabook Arno!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "We're not enemies! We followed that mobile armor here!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Mobile armor... you mean that giant flower?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "...The brat from before...! Insolent!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Gundam... F91... A Formula Project unit!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Never heard of it. You know it, Lieutenant Uraki?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Yeah. That's...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "We can talk later! We have to stop Iron Mask!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "That thing... that thing has to be completely destroyed here...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Captain, I'm treating them as allies... All right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "F91... a SNRI mobile suit... All right, Seabook, was it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Sorry, but please join the battle.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Understood.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Roger.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Lady Berah Ronah... If you side with those who cling to Earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "I'll show no mercy...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Zabine, you must know that you're the one",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "dancing to Iron Mask's delusions!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "If, in the end, it benefits our Crossbone Vanguard...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "...I'll do whatever it takes.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Tch, same goes for Zeon, but what's wrong with clinging to Earth!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "It's where we were born, dammit!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Exactly! Any reform that can only be achieved",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "by abandoning your homeland doesn't amount to much.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Fools... There's no talking to you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "What's wrong with caring about your home!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Laugh if you want.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "...But we'll protect our homeland to the end...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "What...! I see, so this force stopped Zeon's colony too...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "All riiight! Go down!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "...Yamada! It can still move! Watch out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Evasive action!? No! All units, cut off that mobile armor's escape!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "It's going to run!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "...If I'm to take on these people...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "the Bugs need far more work to be of any use. I'll withdraw!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "If it gets away now...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Iron Mask!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Berah... you truly are a naughty child...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "It isn't good to doubt what grown-ups do.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Wow, it can still move like that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "No time to be impressed! Bright, are we going after it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "...But it's already out of sight.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Is this the time to be impressed!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "But Tetsuya, it's already flown out of the colony!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Cecily... is it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Yes... I'm Cecily Fairchild...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "The pilot of that mobile armor... I'd guess an officer",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "of the Crossbone Vanguard, and you seem to know that person.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "I'd like to hear about it later, if I may.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Cecily... are you sure? There's no turning back...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "...Yes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "My, my, looks like another one with a story...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Phew. Fighting a huge thing like that",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "in a cramped place like this... gimme a break.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Yeah. But it looks like we managed to clear it out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "But... the mobile armor got away...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Can't track it. It's scattering Minovsky particles like crazy.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Omoikane's marker has come off, too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Like that Zaku dumpling... it may use thrust tech",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "that isn't used anywhere else...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Can't help it if it ran. So, what now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "What else? We've gotta keep going.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "The Gyandlar have been quiet lately,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "but it seemed like they're up to something, y'know?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Maybe they realized they can't win by charging in without a plan...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Which would make them all the more troublesome.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "...I agree. But things are settling down, both on Earth and in space...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "If the invaders are going to strike, now's the only time.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "I'm more concerned that with the moment here, the Meganoids and",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "the Bunker aren't moving. And there's the Jovian matter, too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Yeah...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "...I feel like this'll twist and turn a few more times.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "It's hard to stick strictly to defense...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "but with this many enemies, it can't be helped...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "But... if we hold firm, sooner or later they'll slip up.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Yup! A straight man who's too harsh makes it hard to play the fool,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Izumi said so, too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "...Indeed.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "That's an inappropriate analogy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "...Captain Bright, about Seabook and company...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "That's right.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "...Seabook, that suit was developed by the Federation's naval institute...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "SNRI, correct?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "Yes... My mother was involved in its development.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Seabook!? You don't have to tell them that much...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Cecily, now that we're this involved... we can't act like we don't know.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "You get it. Well, we won't treat you badly.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Yep, yep.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Just leave it to us big sisters.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Women are strong... as they say.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Huh? Wasn't that a little sarcastic?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Still... with them being developed in so many places,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Nergal would like to develop a Gundam too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Oh! When that happens, I'll be the pilot of Unit 1!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "Ahem. ...Very well. I'm with Londo Bell, an independent Federation unit:",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Bright Noa, captain of the Ra Cailum.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "As you know... the Earth Sphere is in crisis,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "and right now, there are far too few to defend it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Iron Mask's plan... I just can't believe it's truly underway yet.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "We'll fight too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Cecily...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "(Yes... I'll sever these blood ties with my own hands...)",
+   "kind": "thought",
+   "keep": false
+  }
+ ]
+}

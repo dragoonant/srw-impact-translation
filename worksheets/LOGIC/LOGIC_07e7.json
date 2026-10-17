@@ -1,0 +1,1303 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 2023,
+ "strings": [
+  {
+   "id": 0,
+   "en": "",
+   "kind": "dialogue",
+   "keep": true
+  },
+  {
+   "id": 1,
+   "en": "All right, that's everything set. Now it's up to Big Sis Diondra.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Indeed. Well done. ...Come quickly, Blue Jet...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "...Still, leavin' the Earthlings alone",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "just to take on Rom's bunch... you're a strange one, ain'tcha?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Blue Jet... the first worthy opponent I have met in twenty years...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "His Tenku Shinken and my Dark Twin Slayer Sword... we must settle this!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Just like Big Sis said...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Your type's got skill, but you're stubborn and hard to use...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Keep that up and you'll never get promoted, y'know?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Advancement in the Gyandlar matters naught to me...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "As a swordsman, fighting strong foes is my sole reason for living!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "All right, all right. Then you won't mind if I take the credit.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "That suits me just fine. ...Hurry up, Rom's brats...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "(I am a swordsman... Battle is my life...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "We sure have a lot more Gundams now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Yo, Lieutenant, what're you up to?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Oh, I came for maintenance... Just thinking we've got lots of Gundams.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "True. The Zeta, the Double Zeta... and the Gundam Project units too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Oh, that's right! Speaking of the Gundam Project...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "wasn't there talk about a GP03?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "GP03... Its code name was Dendrobium, I think.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "You know your stuff, Lieutenant. Nina from Anaheim mentioned it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "She wouldn't show it to me, though. Said it was top secret.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "...Top secret, huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "(Unit 1 is a general-purpose ground type, Unit 2 is for nuclear strikes...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "So what's Unit 3? High-mobility combat in space...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "But the Full Burnern already fills that role...)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Hiya, what're you talking about?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Oh, Excellen. You've been doing maintenance a lot lately.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Mmm, the Weiss has been acting up...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "It gets worse every time we run into those bony, planty enemies.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Huh. But those enemies are creepy, huh? What do they even want?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "...If they're attacking, it means they're hostile to us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "...But I can't tell what they're after.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Hey, don't you... hear a voice?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "A voice? Whose?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "...Nah, never mind. Okay then, maintenance, maintenance.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "(......)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "(Huh!? ...Could this be...?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "(...You... Excellen...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "(...I knew it... straight into my head... Who... are you!?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "(I want you to come... to me. You are...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "(Fine... by me... I've got things... to ask you... too...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "(Please come... You are... my...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Huh? Excellen, you say something!? In the cockpit already?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Huh? Hey, Judau, is Excellen going somewhere?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Wait, something's wrong... Weissritter, please respond!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Excellen!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "...Launching...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Elle, contact Captain Bright! Judau, help me stop the Weiss...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "No good, Lieutenant, looks like she's already fired it up.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Get close now and we'll get caught in it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "...I'm coming... Wait for me... I'll be right there...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "What...!? Hazard, you'd have me do such a thing...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Ah, no, please don't direct your anger at me.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "I heard this from that person...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Apparently, enemy forces are hidden in a certain derelict colony...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "What...? I trust you've confirmed it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Yes, of course. I sent Sherman right away, but... that place is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Is what?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Yes, well... when you descended to Earth before, Lord Ilbora,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "it's the point where the Earthlings regrouped just as you left, you see.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "...But that doesn't mean it will be so this time. Why must I...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Ah, this is also a suggestion from those gentlemen...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "That device you used when you descended to Earth, Lord Ilbora...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "It's their condition for letting us use it again...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Those wretches... mere mechanical puppets, exploiting my weakness...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Now, now, Lord Ilbora... Should you really be saying such things?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Your brilliant plan can't even begin without it, can it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "(Not much longer. Don't think the great Hazard'll stay like this forever,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "you fools.)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "What!? Excellen... deserted?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Apparently she was acting strangely.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "They say she seemed almost hypnotized...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Whatever her state, the fact remains that she flew off the Ra Cailum",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "in the Weissritter. ...We have no choice but to search for her.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Whatever the case, this is bad.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "The most irreplaceable and costly asset in any military is the pilot...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Jeez... Prospector, worry about Excellen",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "rather than the military budget!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "So, you'd like us to search for Excellen...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "No, I'd like the Nadesico to head for the Gate of Zedan.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Where the new aliens were attacking, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "If the Vega Star Federation hadn't hit Von Braun,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "we'd probably be there by now...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "The situation at the Gate of Zedan is urgent.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "I'd like the Ra Cailum to go as well, but too much is happening around us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "We'll reassess the situation around us, then head for the Gate of Zedan.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Leave it to us, Captain Bright!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "The Nadesico was built to take on the Jovian Lizards alone, after all!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Plus, we've got reliable pilots!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Heh, you get it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "I'm counting on you, Akito! Protect me again this time!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Uh, yeah.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Yamada. Learn the captain's patterns already.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "It's what you'd call a running gag.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Jeez, Captain! You're in a briefing with Captain Bright,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "so can't the chat with the Nadesico crew wait!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Ugh... Okaaay. Megumi's so strict...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "At worst, we may have to prioritize dealing with other incidents.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Frankly... you may consider this a solo Nadesico operation.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "No, no, we have two whole battleships here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Splitting up as the situation demands is quite economical, too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "It does split up our forces, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Are we really gonna be okay on our own?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "We'll be fine! Because I believe in Akito!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Ngh......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Oh my... Akito's got a heavy responsibility.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Ahem. ...In any case, that concludes the operation briefing.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Now, head for the Gate of Zedan at once.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "We'll get there as quickly as we can.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Roger! Minato, set course for the Gate of Zedan at full power!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Well then, Captain Bright, the battleship Nadesico is off",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "to live up to everyone's expectations!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Thank you. ...Don't overdo it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "He's warning you, you know.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Engine output at maximum. Nadesico, setting course for the Gate of Zedan.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Is this going to work?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Oh, having doubts? That Gato boy said the same thing.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Just keep quiet and leave it to me.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "This operation... if any part of it stumbles, it will fail...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Even Lady Haman is concerned.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Oh? Then will the honorable Mashymre Cello run it all himself?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "I don't mind either way... Heh heh heh.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "...I'm confirming it precisely because I can't!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "A man shouldn't get so flustered. Otherwise...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "you'll be the one who trips up, you know?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "And if that happens, I wonder what Lady Haman will say.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Ngh... Cima Fleet... commence the operation at once...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "I'll take my leave, then, Sir Knight of the Rose... Heh heh heh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "(I just can't handle that woman... For me, there's only Lady Haman...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Confirmed the Nadesico has left this sector.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "What now, Captain? We can't sit around either, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Where to next? If we stay on the moon... the enemy may attack again...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "True. The moon has many key sites. Nergal's lunar dock, Anaheim HQ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "(Nina... I couldn't see her with things like this, but I'm glad she's safe...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Uraki, what are you spacing out for?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "...!! Y-Yes, sir! My apologies, Captain!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Lieutenant Uraki, weren't you thinking about Nina?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Ahh, she's a bit of an oddball, sure, but she's a looker.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "It's a blessing in disguise that Ms. Nina Purpleton",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "and Anaheim Electronics came through that battle unharmed, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Yes... With Neo Zeon showing up too, we've lost too much time...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Exactly. We need to plan our course while factoring in the incidents",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "we'd meant to handle after the Gate of Zedan.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Plus, Big Bro Daisuke and Sis Excellen",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "are both gone now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Daisuke... I'm sure he's fine, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "he looked sick, from that Vegatron radiation or whatever...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Koji, I'm sure there's nothing to worry about. Maria's with him.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "I wonder if Daisuke's okay...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "The Vegatron radiation is eating away at his body, isn't it...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Come on, he's got that tomboy sister with him... And Daisuke... no,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Duke Fleed isn't a man to lose to illness. I believe that...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Sure, Umon might pull through somehow...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "But what about Excellen? Somebody saw her, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Yeah, me, Judau, and Lieutenant Uraki saw her, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "she was acting weird. Muttering to herself...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "Her medical report shows nothing particularly abnormal...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Uraki's report said she seemed almost as if",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "she were under hypnosis?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Yes, sir. To my eyes, she appeared to be under some... influence.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "I agree.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "If we don't chase her down fast, I've got a feeling things'll get ugly...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Captain, let's sort out the problems we're facing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Right... First, Daisuke Umon...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "For now, all we can do is leave him to Commander Hazuki on Earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Next, Excellen Browning's disappearance...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Can we go after her?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "She ran off on her own, right? That girl. Just leave her be.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "Huh, figured you'd be yelling along, Shinobu. You're awful quiet.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Shut up, Sara.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "He's got a record, after all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Now, now. Not much time has passed yet,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "and the Weissritter's signal can still be tracked.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "But it can only operate on its own for so long...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "We'd better hurry, then.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "As for the Gate of Zedan... we've sent the Nadesico on ahead for now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "I have some doubts about their strength, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "They seem to be professionals too, in a different sense from us soldiers.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "No need to fuss over them more than necessary.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Well, if we're gonna back them up, sooner's better, I guess.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "Never mind that, what bugs me is that creepy rock.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "The asteroid at PLS Black Point... The energy reading detected there",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "could very well be a sign of something...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Stuff like that's like a dam bursting. It starts small, then",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "it all gushes out at once...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "R-Really...? That's kinda scary...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "No use bein' jumpy. If it breaks, it breaks.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "No, that'd be too late, Koji.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "That's how it always goes. ...We just hit it with all we've got.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "That's all you ever say, Tetsuya.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "There's more. The unidentified units gathering at the meteor cluster.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "If we know they're machines, aren't they the ones",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "most likely to start something?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "With the Federation's units in space not functioning properly,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "it's certainly hard to imagine they're friendly.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "...Anyway, from the ones mentioned so far... um, these four,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "we've got to hurry and decide where to go, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "Given the urgency... yes, that's how it is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "Captain Bright...? Is something else bothering you...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "Was there somethin' else? I've totally lost track.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "...Isn't it the derelict colony that went missing?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "Oh yeah, there was that too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "Right. It's lower priority than the other incidents raised so far...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "but it really bothers me...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "A colony going missing is certainly an alarming anomaly...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "But Captain, as things stand...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "I know, Captain Quattro...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "For now, we have to deal with the crises right in front of us first...",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

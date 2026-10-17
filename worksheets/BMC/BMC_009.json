@@ -1,0 +1,325 @@
+{
+ "file": "BTL/BMCPACK.BIN",
+ "format": "BMC",
+ "pilot": 9,
+ "strings": [
+  {
+   "id": 0,
+   "en": "You are mere imperfect life forms. Bow down before me.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Fuhahahahahahaha.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Become prey to my evil spirits.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Sorrowful souls asleep in my universe, heed the voice of Muge Zorbados!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Now become prey to my evil spirits.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Hahahahaha.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "In this universe of mine, I am the absolute.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "You have no chance of victory.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "I shall add you to my evil spirits as well.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "This universe is my very self. Learn that well!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Flesh, perish...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Fool who usurps the name of a god!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "I have not forgotten my grudge from that day...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "What is it? Is that all?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "You will regret challenging me.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "I shall make you regret angering me.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Fools!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "How dare you...! Gwaaaaah!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "H-how can this happen in my universe...!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Wh-impossible!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "You lower life form!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Ooh!? Did I underestimate them...?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Ngh... How can this be...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Wh... why!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Nngh, sorrowful souls who sleep in my universe, answer my voice!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Hoho, not bad.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Nnngh!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Now you have truly angered me.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Impressive...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "You think this is enough to defeat me?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Your momentum ends here...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "What can the likes of you possibly do?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Heh heh heh.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "What did you do? Heh heh...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Foolish. You mean to resist in vain?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Fools who know not their place.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "It is futile.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "It is futile.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Naive.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Foolish...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Fool.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "You cannot even hit me.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "That has no effect... Fuhahahaha.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Foolish. Will you still resist in vain?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "After driving them this far...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Nnngh... How galling...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "What is happening!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Fuhahahaha! You will not escape!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Coming all this way just to be killed. How foolish...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "This is the end! Now become prey to my evil spirits!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "I shall be your opponent!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Fools! Did you think such an attack would work!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Foolish... Do you still intend to resist in vain!?",
+   "kind": "quote",
+   "keep": false
+  }
+ ]
+}

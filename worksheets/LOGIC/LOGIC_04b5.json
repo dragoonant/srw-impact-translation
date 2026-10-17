@@ -1,0 +1,1111 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1205,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "We're here, Dangel! Warukimedes!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "What kinda place is this? It's plain creepy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Demon Mask Castle... It lives up to its name...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Welcome! ...is what I'd like to say, but where are the others!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "We're more'n enough to handle the likes of you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "That's right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Hoh, they certainly look down on us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Threatening us with missiles... you dirty rats!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Even without that, we'd take ya on any time!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "We don't have time for this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Grrrr, you mock us! Brother, this isn't the plan, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "...I'm crushing these guys!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Indeed. The hated Combattler V has blundered right in.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "If we can just dispose of them...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "the Earthlings' forces will weaken, and Lady Janera will be pleased!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Now, Combattler V! No, Hyoma Aoi! I'll show you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Bring it! I'll beat some sense into a rotten bastard like you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Grrr, every word out of his mouth makes my blood boil!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Dangel! Don't fall for petty provocations!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Shut up, Brother.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Hmph, a foolish little brother is such a burden.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "...Very well, I'll make you regret coming alone!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Regret, my foot!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Just you guys against Combattler!? Don't make me laugh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Dangel, now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Go, my Magma Beasts! Make a bloody example of these cheeky Earthlings!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Just as we figured.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "They're so predictable.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "And the numbers... is this all?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Your ambush is way too obvious! Quit your yapping!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "You're just gonna sit up there and watch!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Just as calculated.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "You've got some nerve...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Dangel! I told you not to rise to the bait!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Just as calculated, you say? But are your calculations correct?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Fuhahahahaha...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Grr... I never expected them to be this good!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Told ya! We're more than enough on our own!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Let's finish 'em in one go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "...It's time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Hm... something's off...? Hyoma, be careful!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Heh, it's a bluff. At most they've got more reinforcements hidden, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Yeah, yeah. Quit wastin' time and bring 'em out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Silence! You lot, scatter these fools!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Th-This is...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "No way! Why!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "The Einst... series...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Hwahahaha! You seem surprised!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "So you finally crawled out!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "So what! We've fought these guys more times than I can stand! Now...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Hyoma! Geez, you don't get it at all!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "What? Get what!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "The Einst series... we don't know what they're after, but",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "they never teamed up with any other force...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Exactly! Just now, Dangel... called the Einst series",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "in as reinforcements!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Fufufufufu... I'd love to crush you with Magma Beasts, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "I'll leave this to them... Kukuku.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Those Campbellians... they've joined hands with those things!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "The Einst appeared when Garuda and Oleana were around too, right!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "So they were in cahoots from the start!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Could that be... Huh!? Something on radar... This is!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "It seems the breach went well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "So it does. All right, all units... What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "It can't be...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Well... we meant to surprise them, but it seems it's the other way around.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Gwahahahaha! Bad timing, Earthlings!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "The Campbellians and the Einst series... what's their connection!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Hey, old man Hazuki! Talk later! We'd better launch, fast!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "They're back again!? They just don't quit!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Watch out! These guys... are in cahoots with the Campbellians!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "So that means...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Are you saying they've... joined forces with another group?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "No, Captain, they may have been the Campbellians' pawns all along...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "...That can't be...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Kyosuke...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "...Kyosuke Nanbu, Alteisen, launching!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Hm? Anyway, launch! Back up the advance team!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "All units, please launch.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "(I have a bad feeling... Demon Mask Castle... is there more to this...?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "...Pawns of the Campbellians...? No, that can't be...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "...Old... Ones...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "What...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Kyosuke, what's wrong!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Could it be... you heard a voice!? Kyosuke!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "(What does that mean? Old Ones...?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Hm!? That machine!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "That red one...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "You...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Kyosuke...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Excellen... What did you do to Excellen!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "What's wrong, Kyosuke!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Don't tell me... this red one is...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "...Answer me. Why did you take Excellen? ...No, that doesn't matter.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Where did you hide her? That's all I need.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "But... whether you answer or not, you're getting my stake.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "...I am Alchemie...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "I heard that before. Besides, I've no interest in your name.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "...Where is she?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "...Kyosuke... why...? I'm... the same as that woman... and yet... you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "(...What is she saying...? Her goal... no, their goal is beyond me...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "What are you yammering about! Think about the situation!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "...Right. We meant to catch them in a pincer, but we're surrounded.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Tch, nothing's going right! In that case...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Same as always, then.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "...Kyosuke...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "This won't end like always...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Who you are, and what you did to Excellen... You're going to tell me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Alchemie, you said...! What do you want!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "What do you want from me!? Why did you take Excellen!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "...The hour... is coming...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "What...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Life... in the land of beginnings... a new... For that... it's not enough...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "What are you talking about...? Speak plainly!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "With that... I might understand this hazy feeling in my chest...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "...Person-Lichkeit... I wish you'd held out a little longer...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Running away...!? Wait! You haven't told me anything!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "...There's still time. Only a little... though. That woman... is gone too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "I've already met Excellen...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "I don't know what you did to her... but sooner or later, I'll take her back...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Nanbu! What's wrong!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Finish it off right here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "I'd like to have a meaningful talk... but it seems that won't do...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "...I have no such intention.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "The hour draws near... That woman and I... are both incomplete.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "But when the time comes...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "What...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "...Farewell, Kyosuke...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "What... was that all about...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Alchemie... what is about to happen...? What... is near...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Guoooooh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Gotcha!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "At this rate... we can take him down!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "If we can take out one of their leaders!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "This is the end, Dangel!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Grrr, Hyoma Aoi! Next time will be the end of you and Londo Bell!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Tch, you're running!? After you started this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Wait!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "You didn't have to point missiles at the Nanbara Connection...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "I'll take you on any time!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Blast, these infuriating pests...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Are you running away?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "A drawn-out battle is to our disadvantage. We withdraw for now!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "What the, he ran off!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "They weren't much at all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "I'd hoped to finish them off... Hmm...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "What a sorry bunch. Setting up a trap like this, then running away.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "It just means we're that strong. Isn't that enough, Hyoma?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Still... for some of us, it ain't that simple.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "That Aluminum girl or whatever... she's the one who took your girl?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Uh, only the first two letters match, Joe.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "Kyosuke... who is she?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "...I don't know. But... if I can find the link between her and Excellen...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "(And... to me as well.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Excellen, the Campbellians, the mystery foe... How's it all linked?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "...Probably... there's no link between the Campbellians and Excellen.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "...It's the Einst series... them.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Why they get in our way, why they side with the enemy...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "So much we don't understand.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "...If she's the one who took Excellen... then why, as well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Uh... yeah, that's true.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Demon Mask Castle... may hold something more. We should search it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "Yeah, and you're curious too, aren't you, Kyosuke?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "If we had the time. We can't afford it, Koji.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "...Let's go. They're not our only enemy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Are you sure, Nanbu?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Yes. Alchemie... she probably won't come back here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Nor will Excellen.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "All hands... return to the ship.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "(The land of beginnings... I've heard that before... Is this the place?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "And... something lacking...?)",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

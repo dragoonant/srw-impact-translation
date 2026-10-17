@@ -1,0 +1,733 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 113,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "I see, so it's around here. The surface seems in chaos... Heheh,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "but there's something to secure before any petty conquest by force.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "I'll teach them the last laugh belongs to us, the Great Demon Empire...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "What!? The humans are on the move this fast!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "No. That's no human weapon...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Could someone besides us know that thing exists...!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "No choice. Machines are a poor foe for my first battle, but...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Enemy attack! Battle stations!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Whoa, hold it right there! What brings you here, Mr. Invaders!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Mister! This is no time for wisecracks!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "I've sent a distress signal to the Gandor Team.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Hold out somehow until they arrive!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "...Just us, against this many? You're kidding, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "...That's how it'll be if Akira doesn't make it in time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Where's Akira!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "He should be on his way... to the Brave One...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Is this it!? Where the distress signal came from!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Gandor, you made it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "A dragon...!? I see, so that's the Gandor I've heard about!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Far East Branch means Japan's Cyber Beast Force. We'll be fine, Mister.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "This is Gandor, Hazuki speaking! Mutropolis, please respond.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Mutropolis?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "A science fortress built to oppose the Demon Empire's invasion, huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "This is Mutropolis. Thank you for the swift rescue.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "The Big Shell here is safe for now, but the Copelander Team is in danger.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Please give them support.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Understood.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "We'll repel the enemy forces now. Please fall back.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Whoa, don't underestimate us!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "The Bluegar's loaded with everything from missiles to resupply gear.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "We'll pass on watching from the sidelines.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Understood. We'd appreciate your help. ...All units, launch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Hmph, a human warship. Interesting! More of a challenge than machines!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Ah, that's...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "F-Flying Tanks... which means... it's those Bunker guys!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "What's going on? You didn't call them here, did you!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "What was that? Don't go accusing people on a hunch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Stop it, both of you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "That's right, Joe, it's embarrassing!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Let's just get out there, okay?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "What are you doing! We're launching!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "...Geez, are they gonna be okay...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Dangaioh! Has! Arrived! Bunker battle mechs... I'll crush you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "What a transformation...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "...That's beyond any split-personality issue.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Fade... Fade... Fade...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Nnnnhaaah!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Hmm...! This reading... the one Lord Barao spoke of...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "High-energy reading!? From where? ...From that face-shaped rock?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "You're late! Akira!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Akira!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Raideeeen!! Faaaade In!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Raaaideeeen!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Another robot!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "It looks strong...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "So that's... Brave Raideen... glimpsed only briefly in the last war...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "The guardian god of the ancient Mu Empire...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "This power... a god...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Cham?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Oh, no, it's nothing!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "That light just looked like a light I saw in Byston Well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Hahahaha! So you're the guardian deity!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Interesting...! Now learn the true might of the Demon Empire!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "I see... the reason Raideen was calling me",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "was to warn me these guys had appeared! All riiight!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Commander Hazuki, you and us,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "we both want to wipe out the invaders. Let's work together!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "...Very well. I'll gratefully accept your offer.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "All units, spread out and engage them one by one!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "...So here you are... Dangaiohhh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Whoa!? That's the one that wrecked Shinjuku...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "That big one's tough. I hate that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Wh-What is that thing!? Domon!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Hmph, this unit sure has a knack for attracting trouble.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "But it doesn't matter! I'll show you the power of the King of Hearts!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "...Gil!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Nooo, he's so persistent!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "...I won't give up so easily...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Not until I've finished you and Tarsan with my own hands!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "He sure hates you. What'd you people do?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "...Well, a lot of things happened.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "No time to dawdle. Here he comes!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Not once, but twice...! Dangaioh! And the Gandor Team...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "I won't forget this grudge! I won't forget it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Tch, what a pathetic sore loser!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Gil! Why are you after us!? Even dragging this planet's people in...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "...Mia Alice, ask your own heart...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "He mentioned a Demon Empire, didn't he?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "The Hyakki Empire appears, Mykene declares war... Too neat.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Yes, it might even be connected to Jaburo.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Jaburo... We've lost too much time, and things keep changing...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "For now we just keep fighting. Koji must be doing his best too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Geez... another new enemy? What the hell is going on?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Invaders are coming not just from space, but from underground too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "We're stuck in a sandwich! We ain't the lettuce or the ham, dammit!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Hibiki, was it? That robot of yours...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "A robot revived after 12,000 years to stop the Demon Century...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "That's Raideen.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Mutropolis was also built to oppose the Demon Empire.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "So were we, the Copelander Team.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "The Demon Century...? Who are they? What's their goal?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "The Demon Empire is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Akira, no sense talking out here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Why not go with them and talk it over properly?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "...You're right, Mister.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Commander Hazuki, please let Raideen's power be of use to you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "...Hm, but I can't just add a private army on my own authority...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Going through proper channels is impossible in this situation...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Let's be flexible here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "That's right, Commander. Given the situation...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "We've got kids and even aliens here. It's way past being just military!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Big Bro's right, Commander.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Whatever, just hurry on to the next place, okay?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Besides, the more friends, the more fun!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "You're the ones saying that...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "...Very well, come with us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Commander Hazuki is turning into another Captain Bright, bit by bit.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Still, it's odd. The Demon Empire's revival seems unrelated, but...",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

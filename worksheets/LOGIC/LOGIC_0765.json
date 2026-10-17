@@ -1,0 +1,775 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1893,
+ "strings": [
+  {
+   "id": 0,
+   "en": "Hey... Nadesi... can y... hear me?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Huh? Did you hear something just now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Heeey.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "I definitely hear it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "A ghost?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Heeey. Can you all hear me?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Akito!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Where are you now, Akito?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Umm, I'm in Von Braun.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "What about Banjo?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "I'm with Tenkawa.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Though we caused a bit of a stir in town...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Master Banjo, I am delighted to see you safe.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Like how we came to the Hyakki island on Dr. Tarsan's warp beam...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "they went from here to the moon in an instant?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "But there wasn't any special device, was there?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "I wonder if that sparkly stone had something to do with it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "So what, then? Like when we fell into Ilbora's trap and teleported,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "they went to the moon in an instant?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Without a Teleport Machine?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "That's what it comes down to, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "It's Tenkawa's power...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "He could do something like that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "And thanks to the CC...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Um, uh... Where's Yurika?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "The Captain has been shut away in the observation room for a while now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Akito, hurry and let the Captain see you're all right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "We'll need to sort out the information. Anyway, I'm glad you're safe.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Akitooo...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Yurika... Are you crying?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "......A ghost?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "I said no.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "How? Is it really you? Where are you now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "I'm not really sure... The moon.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Okay, I'm coming right now!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Idiot, you can't just come on your own...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "I said I'm coming, so I'm coming!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "The Nadesico's a warship now, you know.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Ugh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Captain... please come to the bridge at once. Admiral Misumaru is calling.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Huh? Father is?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "What on earth!? Anyone would normally notice something like that!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "It seems it was just a meteor swarm at first, but it absorbed surrounding",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "matter and grew rapidly.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "It's set a course for Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "If something with that much mass were to hit Earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "The cost of the damage would be considerable...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "I'd rather not think about it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "And just when we're about to go back into Jaburo...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "But we can't just leave something like this alone, can we?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "We're considering destroying it with the colony laser,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "but we won't know whether Gryps II works properly until we get there.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "That thing can't be relied on!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "We must also think about what to do if Gryps II can't be used.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Sorry, sorry! I'm late!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Ah, Yurika.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Eww!? Wh-What's this creepy image!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "It's what was at PLS Black Point.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Huh? That turned into THIS!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Yes, and it seems to be approaching Earth...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "No way... What do you intend to do, Father?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "We're working out countermeasures now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "To continue what I was saying, if the attack with Gryps II fails,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "I believe our only option is to storm the inside of the plant planet.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Mm. Indeed, that may be all we can do...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "So Londo Bell is our lifeline, then.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "I'm sorry, Bright. Right now, all we can do is rely on you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Not at all. Londo Bell's strength has grown, too,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "with Dancougar, Raideen, and others.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "How about this?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "You have a good idea, Yurika?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "We leave retaking Jaburo to the Gandor Team,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "and the Nadesico goes up to space too and joins Londo Bell.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Things are rough down here too, but if the plant planet hits,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "retaking Jaburo won't even matter anymore...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Yes. Right now, it may be wiser to send forces into space",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "to stop the plant planet.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "That's my Yurika.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "I am your daughter, after all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Bright, where would be best to rendezvous with the Nadesico?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "I think the moon would be a good rendezvous point.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Indeed, Captain. How about meeting at Nergal's lunar dock?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Good idea. That's close to Von Braun, where Akito is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Akito...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Oh, just talking to myself!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "There we can also fully resupply all of you in Londo Bell.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Thank you very much. We'll be waiting on the moon, then.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "(Yes! Now I've got an excuse to go pick up Akito!)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "...That concludes the briefing. Now that the Nadesico has left for space,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "we'll be storming Jaburo on our own...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "The problem is... the Neo Zeon unit that landed east of Jaburo.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Who'd have thought they'd strike right after we stopped the colony...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Haman Karn, huh... A shrewd woman.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "With that timing, even Bright and the others could only watch",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "them descend.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "This is no time to be praising her.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Right now... Jaburo is surrounded on all four sides, you know?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "The west side was the Titans' mobile suit unit with ties to Zeon, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "And to the north...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Survivors of Zeon's ground forces...! Where'd they find the strength...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Brother...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Aina... do you know anything?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "...No, my brother didn't... tell me anything...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Zeon on three sides, and on the south side...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "I saw the data. ...No mistake. Those are Hyakki and Campbellian robots.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "And... quite a lot of 'em, too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "I thought it was finally over... What's going on!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "In short... it ain't over. Dammit all!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "And the Hyakki Empire... we beat them right before our eyes...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Could they have kept some forces in reserve?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "That's hard to believe. That was an all-out war, any way you look at it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Besides... even if the Hyakki and the Campbellians aren't wiped out yet...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "I can't see those two armies joining hands.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Yes. The southern forces are all marching north toward Jaburo.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "All of them are AI-controlled robots. That part bothers me a little...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Maybe we shouldn't have sent the Nadesico into space?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "But stopping the plant planet comes before retaking Jaburo.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "No use talking about it. We just do our job.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "...There's just one thing we do know.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "...They're all... headed for Jaburo...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Guess we've... got no choice but to go.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "This is nuts. Enemies north, south, east, and west. It's the end times.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "But even if we force our way into Jaburo...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "The enemy will hit us from every direction... If we push into Jaburo...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "the enemies who catch up will have us pinned in between...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "So we'll just have to crush them one at a time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "...All right, everyone, return to your stations.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "The Gandor will now launch the operation to take Jaburo...!",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

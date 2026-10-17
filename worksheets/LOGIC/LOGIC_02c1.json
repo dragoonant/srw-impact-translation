@@ -1,0 +1,751 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 705,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. Dancougar is destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "They're thinning out. Let's push through all at once!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Isn't the problem that there are so few? Shinobu, where are we?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Who cares about that crap? We're in space, space!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "They may be Gaizok mecha, but they're all small fry.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "It's pointless if we let that clay-doll battleship get away.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Hey, are you even listening!? Shinobu!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Shut up! I'm telling you there's enemies right in front of us!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "We take care of these guys first!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Hey, Ryo, isn't something weird about this place?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Hmm... That thing, you mean.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "What? Looks like someone hollowed out the asteroid belt.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Unless some kind of special force field was generated...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "that sort of thing shouldn't happen in space...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Hey, you guys! What are you yammering about that crap for!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "I told you, the enemy in front of us comes first!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Yeah, yeah. You don't have to yell, we can hear you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Our leader has a point.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Something merely suspicious, versus something actually attacking...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "It's obvious which to deal with first.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Fair enough. Okay, Shinobu, we're good to go.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Quit dragging your feet! Let's do this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Phew, so many of them is a real pain.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Still no contact with Londo Bell!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "...That's weird.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "I'm sending a distress signal, but it seems like... it's being jammed.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "The Gaizok mecha?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "No, doesn't look like it. ...If anything, maybe it's over there.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Over where?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "...That space over there, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "What's that supposed to mean... Hm!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Something on radar!? Heads up, something's coming!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "What the hell? A whole swarm of 'em. Is that Londo Bell?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Doesn't look like it to me! They're... coming at us!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Doesn't look like they want to make friends. Shinobu! What now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Heh, bring it! I was just thinking this wasn't enough.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "I'll shoot 'em all down!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "No metal, no thermonuclear, no life signs...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "That's worrying. Then what the heck are these things...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "So this is the point! Cyber Beast Force,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "this is Bright Noa of Londo Bell, an independent Federation unit.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Oh, looks like they've arrived.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Wow, so that's Dancougar? It has four pilots, just like Dangaioh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Heh, headcount's got nothing to do with strength. Are they any good?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "You may not know, but in the battle against the last invaders...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "it was that super robot that brought us victory.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "So they're strong, then!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Let's hurry and support them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "They should be dependable in terms of firepower...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "But they're known as \"the insubordinate Cyber Beast Force,\"",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "so goodness knows how this will go...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "They say they got separated from the Mazinger team because they",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "launched on their own judgment...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Still, they're soldiers, technically, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Captain Bright must find them easier to use than a civilian ship.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Captain, Captain Bright asks us to launch and back up the Cyber Beasts.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Roger. Prepare the Aestivalis for launch at once!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Ruri, what's the enemy deployment?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Gaizok Mecha Boosts confirmed. Also several unrecorded types.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "What are those mecha the Cyber Beast Force is fighting?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Never seen that type... A new Gaizok model, maybe?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "No... They aren't machines? What does that mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Anyway, give the order to launch, Captain!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Yeah, yeah! We're getting nowhere like this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "It'd be awful for them with no repair equipment, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "They're clearly enemies, Captain.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "If we dawdle, those Cyber Beast guys might go missing again.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "I wouldn't want that to keep happening.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Let's launch, I tell ya!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "The enemy aside, something about this space itself is off...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "But it can't be helped... All units, launch!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Took your sweet time getting here! I'm sick of waiting, Captain!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "You're one to talk, after ignoring the rendezvous point and taking off!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "What!? If you'd kept that clay-doll creep pinned down properly,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "we wouldn't have had to take off in the first place!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Charging out isn't everything. You ended up stranded anyway.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "What was that, you punk?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Knock it off, Shinobu! They'll think we're all troublemakers!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "So they really are... a reckless bunch...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Just so you know, Shinobu's the only idiot here! Keep that in mind.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Is that so? You all seem about the same to me...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Good grief.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Image is everything, you know~",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Battle Mastery increased by 1.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "It seems all enemies in this area have been destroyed.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Yes... And the Cyber Beast Force seems safe too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Cyber Beast Force, I heard about it from the Mazinger and Zambot teams.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Good work out there.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Well, if Shinobu hadn't lost his patience and charged off,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "I think we'd have met up a lot more smoothly.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Anyway, the Cyber Beast Force... Shinobu Fujiwara, Sara Yuki,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Masato Shikibu, and Ryo Shiba, transferring to Londo Bell as of now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "We're in your hands, Captain Bright.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Understood. The pleasure's mine.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Dancougar... I haven't seen it since the Nadesico launched...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Yeah... In space, that black body and silver wings look even cooler!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Is that really the point?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Oh, looks like the Nadesico joined up with Londo Bell too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Seems you didn't vanish in the chaos of battle this time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Ahaha... You remember that well, Lieutenant Shiba...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Anyone would remember someone who vanished mid-battle.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Hey, Fujiwara! Your stunt made things rough for us too, y'know!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Well, it worked out in the end... We're all safe.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Bright's here now, so no more reckless stuff, okay?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "This time it only turned out well by luck.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "It's pointless. Fujiwara especially won't listen.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Don't sweat the small stuff. Come on, let's head for the next point.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "The small stuff...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "If you jump out of an HLV, you know what that leads to...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Oh, come on, Brother's so serious.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Isn't it fine? It all worked out in the end.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Daisuke's a real stiff, I tell ya.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Heh heh, sorry about that.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "People who don't like Shinobu really don't like him.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "...He seems hard to get along with.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Boys are better off with a bit of spirit like that, Lieutenant Uraki.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "They're certainly reliable comrades. Captain...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Right. All units, return! Don't neglect maintenance.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "The Ra Cailum will head to the next point.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Roger! Yay, we're getting more allies, this is great!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Seriously. ...Huh? What's up with the Cyber Beast Force?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "...Something's... off.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Yeah, something's bugging me. This area... like someone's watching us...",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

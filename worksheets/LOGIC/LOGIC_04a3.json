@@ -1,0 +1,1699 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1187,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Lady Elle! ...This place is...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "This place... does not seem to be Byston Well...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "That light that enveloped us just now... was it not the Aura Road...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "In which case, this is the surface world...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "The surface... Then Nie and the others who vanished are here too!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "It is possible.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Hm!? Lady Elle, look there!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "A floating city... I never heard of such a place on the surface.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Damn humans, suddenly bringing out a large warship...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "But I won't let you interfere with my plans! Go, Soldiers!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "That giant...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "It seems they have taken us for enemies...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "All ships, battle stations! The Goraon must not fall!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Abe, until we understand the situation on the surface, we must avoid battle.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "I understand, but... we must ward off the sparks that fly our way.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "...If this is the surface... then the vanished Holy Warriors...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Why! Why can't I win!? Grr, Holy Warrior Show Zama!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Did we get him!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "No, he's not down yet. One more push.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Ugh!? What is this!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "The enemy's aura is fading...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "No... this is...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "What the...? ...This... looks bad...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "This phenomenon... it's just like with that woman!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "The aura light...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "This is...! Show!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "H-He's gone Hyper!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Nuoaaagh! My plans...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "...I, the Meganoid who would rule over humanity...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Meganoids ruling humanity...! Perish along with that delusion,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Commander Neros!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Banjo...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "...Banjo turns into a different person when the Meganoids are involved...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "What!? Aura Battlers... at a time like this, of all times...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Those... are the forces of Drake Luft of the Kingdom of Ah...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Swarming in one after another... you humans!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "This city...!? Hoh, we've come to quite an interesting place.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "What shall we do, Lord Shot?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "The Goraon... the perfect bait to lure out Show Zama and the others.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "...Which means...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "That's right, Musie. We go into battle as we are.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Yes, Lord Shot.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "The Goraon could be our base of operations on the surface. I want it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Yes, Lord Shot... And what of that giant?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "A Megaborg, eh? ...Before I was summoned to Byston Well,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "they hadn't been put into practical use yet.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Pay it no mind, Musie. Focus on the Goraon for now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Understood. I will sortie in the Bubly.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Yes. Don't let your guard down, Musie.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Yes, Lord Shot.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Anyone who gets in Lord Shot's way, I'll destroy with my own hands...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Blast! Helmsman, don't let us be surrounded! Protect Lady Elle!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Hm? I took them for more reinforcements... but apparently not.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "All the better. I'll start by finishing off that battleship!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Whoa there! Things won't go your way that easily.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Wh-Who's there!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "For the world, for the people: Daitarn 3, crusher of Meganoid ambitions!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "And company.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "If you don't fear the light of this sun...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Then come and get it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Aww, I wanted to say that too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Yes, yes... More importantly, Banjo, look at that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "That large bow cannon... I believe it's the Goraon Show Zama told us of.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Well, I came because I heard the Meganoids were up to no good, and",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "an unexpected encounter was waiting for me, eh?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "People of the Goraon, I'm Banjo Haran. A friend of Show Zama's.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "I'm not your enemy.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Show Zama... a comrade of the Holy Warrior!? Then this is the surface.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Banjo Haran! I beg you, lend us your strength.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Leave it to us!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Me and Big Bro Banjo'll make short work of those guys!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Geez, Toppo, you're getting carried away.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Well, I'm not sure Daitarn should be carrying this many people, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Grr! This works out nicely, Banjo Haran!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "You meddle in the Meganoids' affairs, so you'll meet your end here too!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "So that's Daitarn 3... Very well. Let's see what it can do.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Musie, don't overdo it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Yes, sir. A surface machine... Let's see what it's made of!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "...Here they come!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Ah, look at that!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "The Goraon!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "No way... the Goraon too!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "But... what's going on!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Nie!? Is that you, Nie!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Rimuru!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Everyone... you're all safe!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Show Zama... Holy Warrior...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Elle Hamm... so you too have come to the surface.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Queen Sheela...! The Gran Garan came to the surface as well...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "The queens' greetings are nice and all, but that's Shot's ship.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Shot Weapon... a man you can't let your guard down around...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "I bet you've got lots to catch up on... but first, this enemy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Hey, isn't that...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Yeah, it's Shot's Spriggan... So that man came to the surface too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "It's been a while, Holy Warrior.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Shot Weapon, what are you planning to do on the surface!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Lord Drake intends to rule this surface world as well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Shot! Why were we thrown out of Byston Well?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Don't you ever think about that!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "I'm not interested. By that logic, why we were summoned there",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "would need considering as well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "The homeland of souls... Byston Well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "What is Show trying to say?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Most likely... them... the Einst series...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Now that you mention it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "I see, when we ended up in Byston Well too...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "That's right, they showed up...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Einst...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Right before we came here, beings with a sinister aura appeared too...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "So those beings have appeared after all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "The Tobikage came too, right, Big Bro?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Yeah. ...But it felt like it was following the trail they left.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "They could open that path at will.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "The Aura Road... was it? Hmph, they'll stop at nothing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "What are you babbling about? If you won't come... I'll come to you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "The Meganoids are moving...! The Aura Road and the Einst series...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Their link worries me, but the enemy comes first! All units, launch!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "(Drake's army suddenly surfacing...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "If what happened at Jaburo was their doing... what does it mean?)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Hurry, rescue the Goraon!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "So you've come... Holy Warrior! I won't let you get in Lord Shot's way...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Musie! Stop!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Lady Rimuru!? I see, you came to the surface too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Think, Musie!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Think about why we people of Byston Well came to the surface world!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "This isn't the work of Aura Power or the Ferario!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "...I only wish to serve Lord Shot... That's my only reason to fight...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Musie...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "No use talking to her...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Here she comes!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Shot, Musie Poe...! You stubborn fools!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Show, I understand how you feel, but we have to get through this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "...I understand.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "All forces, commence the attack!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "(Still... Einst...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Those machines appeared near us too... Linked to the Aura Road...?)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Ngh...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Lady Elle! What is the matter!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "This... tremendous aura of malice... it's...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "...Show!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Tch, looks like trouble, Show!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "I know! No doubt about it, this aura is...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Face me, Show Zama!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "It's him!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "I knew it... Burn Bunnings!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Heh... how ironic. Even the mask I wore to wipe away my shame",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "has been rendered utterly meaningless by the aura.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "But I was led to the surface to fight you! Face me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Burn Bunnings! Has hatred made you forget a knight's duty!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Silence! To remain a knight, I must defeat Show Zama!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "He's been swallowed by hatred too...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Even in another world, the outcome is the same... Perhaps it's human karma.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Tch.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "What the heck's going on!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Why does it keep coming, one thing after another...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "The surface, other worlds... is it all just grudges and hate!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "We gotta smash him! Show, you get that, right!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Show! If it's Burn...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Yeah, there's no choice but to fight...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Show...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "That's the spirit! Face me! Holy Warrior, Show Zama!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "Raaaaaagh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "(An aura of malice... human hatred... What is it? What's bugging me?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Heh heh heh... Hahahaha...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Hoh... he's growing giant...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Wh-What is this!? Don't tell me... Meganoid micromachines...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "No, Banjo! We've seen this before... It's!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Like when that red Aura Battler grew huge before!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "No doubt about it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "How... can a person generate this much hatred!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Do all the people of Byston Well have this kind of power!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "No matter where a person was born...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "envy and hatred can never create anything...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Power gained that way must not exist!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "That's right! We managed to take down that red one, too!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "No way we can't beat this guy!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "(...Power that must not exist!? And those who can gain it... are human...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "He's gone Hyper...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Such incredible Aura Power... Burn Bunnings has this much power!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Marvel Frozen, that is not a righteous aura...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Aura Power that has lost control through hatred is...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Show Zama! I've finally obtained power!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "I won't lose... With this, I won't lose even to you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "Burn Bunnings...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "Ngh! ...But you can no longer stop me...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Black Knight... you still mean to fight!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "Enough, Show Zama! Until I defeat you, I will never stop!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "Damn! What a stubborn bastard!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Don't go getting scared now, Shinobu!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Still, he's a nasty one, no doubt about that...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "Abe...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "Yes...? Lady Elle?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "Should anything befall me... I leave the Goraon and Mi to you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "Lady Elle! Surely you don't mean to use your spiritual power...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "If I can suppress that man's Aura Power...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "What...? What is it!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "This is... Elle Hamm, it's dangerous...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "Is this... power coming from that ship?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "From the Goraon... Lady Elle!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "This feeling... what is it...? It's different from Lalah...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "Power is flowing into that machine...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "Wh-What!? Th-This feeling! Ooooh...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "The Black Knight's machine is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "...returning to normal...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "Hoh... so that's the famed spiritual power of the Queen of Mi...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "With... this...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "Lady Elle...!? Medic! Medic!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "...Abe... I am all right... It's not... over yet...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "Lady Elle!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "...Ngh... what is this...! Why! Is my power still too immature...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "This is the end!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "Curse you... Show Zama!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "Next time... next time for sure, I'll have your head!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "Burn! You won't get away!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "Heh... Hahahaha... But it's true, I too was able to go Hyper!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "...If only I can sustain it, Show will be no match for me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "He got away, Show.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "Damn.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "No, let's be content that we forced him to retreat.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "Indeed... if that power kept pushing us, we would not hold out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "That's right. Show, let's wait for the next chance.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "That's right. Show, let's deal with the remaining enemies.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "Show... was that the aura of malice...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "...Does that mean... you'll end up like that someday too, Show?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "I can't go Hyper...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "Going Hyper leaves evil Aura Power behind on the surface,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "and leads surface people astray. No more of that...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "Should that happen... Holy Warrior, I will stop you myself.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "Even at the cost of my life.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "Lady Elle...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "It seems we've succeeded in eliminating all the enemies.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "What about Lady Elle!? What happened to Lady Elle...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "Captain Abe, Lady Elle is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "She seems badly drained, but her life is not in danger.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "Holy Warrior, people of the surface, I thank you on Lady Elle's behalf.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "But Princess Elle... releasing that spiritual power...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "Using enough power to cancel the Black Knight's Hyper...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "I-I am all right... That power has no place here... no, in any world.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "I have no intention of withdrawing until it is completely erased.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "Princess Elle... the surface is now rife with war, and Drake's army",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "has appeared on the surface, just as we did.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "Please lend us the strength of the Goraon.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "I understand, Queen Sheela.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "We cannot let Byston Well's war go on and on here on the surface.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "Lady Elle... thank you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "en": "I'm glad it was nothing serious.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "But that power... they also met the Einst right before coming here...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "It does seem there's some connection with Aura Power.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "en": "The Einst seemed to be lying low this time, though...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "en": "No, Captain. I suspect... they were watching from somewhere.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "en": "You sensed it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "en": "What about you, Akira? You can hear their voices too, can't you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "en": "I didn't hear their voices either...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "en": "but maybe there was that gaze Kyosuke's talking about...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 258,
+   "en": "If they were observing us... then what they're after must be...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "en": "Going Hyper... was it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "en": "Yeah. I wonder what they want to know about going Hyper.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 261,
+   "en": "Maybe how to get huge, huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 262,
+   "en": "Heh, those Einst want to get even stronger than that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 263,
+   "en": "But it's not impossible...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 264,
+   "en": "We'll have to investigate and reach a conclusion.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 265,
+   "en": "...Excellen may be at the end of that road.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 266,
+   "en": "I know how you feel... but cheer up, Kyosuke.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 267,
+   "en": "That's right. If you don't give up, things'll work out for sure.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 268,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 269,
+   "en": "(The different battles... are starting to connect... Excellen...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 270,
+   "en": "...Show... Burn was fine even after going Hyper.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 271,
+   "en": "Can human rancor control even going Hyper...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 272,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 273,
+   "en": "Forget all that, what're we doing about this floating city?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 274,
+   "en": "Oh, right. Garrison, where are Reika and the others?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 275,
+   "en": "They have already gone to disengage the levitation equipment.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 276,
+   "en": "As expected. Then we should have the city back to normal in a few hours.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 277,
+   "en": "The Meganoids are getting more active too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 278,
+   "en": "Worrying won't help. We just gotta beat 'em.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 279,
+   "en": "For now, all we can do is carry out our operations one by one.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 280,
+   "en": "We just keep building on what we can do.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 281,
+   "en": "(Koros... however you make your move, I'll see to it your ambitions...!)",
+   "kind": "thought",
+   "keep": false
+  }
+ ]
+}

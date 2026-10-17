@@ -1,0 +1,1285 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1861,
+ "strings": [
+  {
+   "id": 0,
+   "en": "We really owe the Gandor Team for coming to our aid, Captain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Thanks to them, my Akito is safe too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Not at all. I'm just glad we made it in time.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Besides, the Admiral was very worried about you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "That's what they call a doting parent, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "But if the Gandor Team hadn't come, we would've been finished.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "What on earth did that enemy want there...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "They must have had some purpose.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Allow me to explain!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Whoa, a surprise entrance by the Explainin' Auntie, Inez Fressange!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Yo! We've been waiting!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "The \"Auntie\" part... is uncalled for.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "So, Inez?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Ahem. The Nanafushi was releasing a great deal of energy",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "to charge its micro black hole shells...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "That enemy mistook the energy reading for \"something\" else...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "and appeared at Kursk, I presume...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Mistook it for something else?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Mutron.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Mutron!? The stuff they say powers Raideen?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "The thing Akira's dad is researching!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "\"Mutron,\" the super energy of ancient Mu.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "An unknown energy that our current science can't explain.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "That enemy may know Mutron's true value...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Mutron is certainly full of mysteries... but would aliens",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "know its value?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "What if the energy we call Mutron also exists out in space?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Does it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "I don't know... it's only my guess...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "But if so, wouldn't that explain a lot of things?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Hmm. It's no surprise some force would target a precious energy, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "is this Mutron really that remarkable...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "By the way, Captain, have you reported to Admiral Misumaru yet?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Oh nooo! I have to tell Father the operation's over...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Ho ho... What a rare mobile suit I've come by this time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Benmel... Commander Benmel...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Lady Koros!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Benmel... Collecting is fine... but is the operation progressing?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "O-Of course, Lady Koros...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "As you see, today I seized an Earth transport plane for my collec... er,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "I was just selecting personnel to turn into Meganoids.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "...Then all is well... The Don is concerned as well...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "H-Hail, Don Zauser.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Ohh, you're safe, Yurikaaa! I was so worried!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "I'm sorry to have worried you, Father.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "By the time we arrived at Kursk, the Nanafushi",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "had already been silenced by the Aestivalis team's attack.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "I see. So I sent you and your team on a wasted trip, Hazuki...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "No, if the Gandor Team hadn't come,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "the Nadesico might have been destroyed by the Gyandlar.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "So even the Gyandlar showed up?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Father, what should the Nadesico do next?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Normally, I'd want you to stop Zeon's Operation Stardust",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "by joining up with Londo Bell, but that's not possible.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Amid all this chaos, several Tulips that couldn't be stopped in space",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "have been falling to the surface...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "So eliminating those Tulips is the Nadesico's immediate goal.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Yes. I want the Gandor Team to keep giving its all to eliminate",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "enemy forces on the surface, like the Hyakki Empire and Campbell army.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Retaking Jaburo comes after that.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Understood.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Did you get through?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "It's no good... Minovsky density and EM interference are too heavy...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "I can't even pinpoint the ship's position.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Londo Bell, Commander Hazuki?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Yes... We can't reach them at all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Commander, what about the Combattler Team...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "A new volcanic island in the Pacific... That seems to be their base.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "I've told them to stand by in the skies above it... but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Knowing them, they probably won't be able to hold back.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Of course. With the enemy base right in front of us, I'd charge right in.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Combattler Team aside, I am worried about the situation in space.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "A derelict colony falling... We can't exactly hold it up from below.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Hey, Show. I asked before, but... what's a colony?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Everyone's making a fuss... but I don't know either.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Yeah, later, Cham.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Geez! You said that last time too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "It's complicated, okay!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Fine, then I'll ask Todd!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Shut up, shrimp.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Hey! I didn't even ask yet! Bleh! You droopy-eyed jerk!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Listen, shorty, a colony is... hmm, kind of like a giant house.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "A house? People live in it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "That's right. A whole lot of 'em, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "I get it! A giant mansion is gonna fall down!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Thanks for trying, Mister Jinguji. Cham, you see...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "This is why I didn't want to explain it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "...It won't come crashing down on our heads mid-battle... will it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "If someone meddles with the colony halfway... it could happen.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "No use scaring each other. Right, let's go help the Combattler Team...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "This is the Saotome Laboratory! Gandor Team!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Commander Hazuki, please respond! This is the Saotome Laboratory!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "From the Doc!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Opening the channel!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Dr. Saotome, what's the matter?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Oh, Commander Hazuki! You're still alive!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Doc! Don't say stuff like that, it's bad luck!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "So, what happened?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Don't tell me... Getter Robo G is finished...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Getter Robo... G!? You mean Getter Robo's getting even stronger?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Reassuring. ...I'd like my machine powered up too, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Ryo, you're half right.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "But the other half... the Hyakki Empire is closing in on the Saotome Lab...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Huh? The Nadesico's leaving?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Apparently they have a separate operation from ours...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Really? And here I thought we were getting stronger...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "There are lots of enemies on the surface and in space.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "We have to split up for now, or we won't be able to handle them all.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Space, huh... I wonder if Princess Romina's okay...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Big Bro, what's up? Thinking hard doesn't suit you, y'know.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Weren't you thinking about Princess Romina?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "I-It's not like that!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "That's an easy reaction to read, Joe.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Huh, so you go for the girl who's a princess through and through.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "I'd say she's just naive about the world.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "You peanut gallery, butt out!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "What's wrong with me worrying about the guys who went to space?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "The guys? Don't you mean one person in particular?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "What, Lenny? You're really picking a fight today!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "No reason~",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "...She's... easy to read, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Yeah...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "If you've got time for dumb arguments, go tune up your machines.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Tetsuya's as dense as ever, too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "What on earth are you talking about?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "It's something you wouldn't get, Domon.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Pilots in the briefing room! Come up to the bridge at once!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "I repeat, all pilots assemble on the bridge.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "That's from the bridge. Did something happen?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Is it about the Combattler Team? I heard they found the enemy base...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "I've got a bad feeling about this, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "From the sound of it... something's happened.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "No doubt about it. Honestly...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "...And that is the situation.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Mars Frontier Base Commander Hazard is linked to the Meganoids.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Then the one who helped the Meganoids revive really was...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Indeed. We may safely assume it was Mr. Hazard.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "In the last war, the Meganoid leaders, Don Zauser and Koros,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "were never confirmed destroyed.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "If they were hiding... it could only be at the Mars Frontier Base.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "See, Commander Hazuki? That bastard Hazard was in on it after all!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Wait, who's this old guy?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "I have the honor of serving as Master Banjo's butler.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "My name is Garrison Tokita. And you must be Joe Maya.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Master Banjo has instructed me to be of help to the Gandor Team.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Should you need anything, please just ask.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Anything else, Garrison?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "The missing Crocus has apparently been found at the Martian polar cap.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "The Crocus? Oh, the battleship that got sucked into a Tulip.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Commander Hazuki, have you heard anything about it",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "from Mr. Hazard at the development base?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "No, nothing to me, and it seems nothing to the Admiral either.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Hazard Pasha must be keeping watch on the Tulips too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "There's no way he hasn't noticed...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "It seems safe to say something is going on behind the scenes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Was the Crocus crew all right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Regrettably, I'm told they were all dead.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "All dead...? What happened?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "According to the information we obtained, the Crocus crew",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "was found in a gruesome state, neither quite organic nor inorganic.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "No... That's horrible...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Not a sight I want to imagine.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "What caused it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "It's said the cause was probably being sucked into a Tulip,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "and then making a Boson Jump.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "The cause was warping through a Tulip...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Huh? Wait a minute.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Didn't that ship, the Nadesico or whatever, jump here too?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "The Nadesico has a Distortion Field. Isn't that what saved it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "The details are unknown.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Well, no use saying \"we don't know\" over and over.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "That's not what we came here to talk about, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Exactly. The reason I've gathered you all here is none other than this:",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "we must discuss where we head next.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Sorry, we're late.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "Excuse me...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "You're late, Lieutenant Amada!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Whoo-hoo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Cham? What's gotten into you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Well, y'know, Shiro was being all like you and Marvel...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Shiro... That's why I said we should close the door properly...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "...Not being on a battlefield is no reason to let your guard down.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Ahem! Here's the briefing. There are two points we must head for.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "...Either we hit the Campbellians' base, or we go to the Saotome Lab first.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "Shouldn't we go to the Saotome Laboratory first?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "But distance-wise, the Combattler team is closer.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "True. We could join up with Combattler V,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "then turn right around and take on the Hyakki Empire...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Dr. Saotome was confident the lab wouldn't fall that easily, after all.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "But I can't say whether we can rely on those words.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "Or we recover Getter Robo G first, then deal with the Campbellians.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "I have the Combattler team on standby.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "I'd rather take the latter. I'm worried about the lab.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "But Ryo, what if the Hyakki guys turn out to be crazy tough?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Going in without the Combattler team is a big hit to our strength, y'know?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "True. Either way, we have to choose one or the other...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "I'll leave it to you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "Might I suggest the following?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "I shall compile every bit of information I can in a few minutes.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "The Hyakki Empire's movements, the size of the Campbellian force...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "There is a great deal of information to be had, you see.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "I'd like to go to the lab myself, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "Tokita, please start gathering information for now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "Very good, sir. I shall return to the terminal room, then.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "What a dependable old gentleman.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "Seriously. Okay, guess I'll go check on Blast Dragon...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "Oh, I almost forgot.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "Just now... I hear Za Boom combat robots may be heading for Kyoto.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "So we've got yet another option!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "You FORGOT!? Ugh! I take back what I said!",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

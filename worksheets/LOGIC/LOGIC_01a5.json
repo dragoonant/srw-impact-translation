@@ -1,0 +1,637 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 421,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed 2. Victory conditions not met within 10 turns",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "About ten more minutes, I'd say.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Kukuku... with this fortress island, I'll crush Japan and Gandor both.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Once they're out of the way, the rest...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "We're through...! The Hyakki fortress island...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Hmph... So this is the Hyakki Empire's home base.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "You think strolling in with this thing... is enough to beat us?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Bigger isn't always better, you know.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Nuoh! The Gandor!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "It got through this fortress island's anti-air fire!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Chaaaange Dragon! Switch on!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Getter Robo! To think you'd come to me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Didn't we tell you to get your neck ready, boss ogre?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "All riiight! Get ready!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "You dare mock me, Burai...? Mere humans!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Ow, ow...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "They're getting all fired up over there, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Geez, I thought I was gonna die.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Honestly, I can't believe they'd pull a stunt like this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Me, I like this way better than fiddly stuff.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Sure, you'd say that, Big Bro.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Still, guess ya can pull it off if ya try.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "...Not something I'd want to do again, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "This is where it starts! Let's give it our all, everyone!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "All right, let's go like we're blowing this whole island away!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "We'd be in trouble if it blew up, so go easy, Koji.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Now's the moment of truth... and there's not much time...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "We've come this far, so let's go all out, Tetsuya!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Moving out, Lieutenant Amada, Kamille, Nanbu!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Right!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Roger. Straight through the center. ...Not that it's ever any different.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "They're caught off guard... Let's beat them before they regroup.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Shiro... I'll fight too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Aina... Right, let's fight together...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Everyone, listen up!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "The Hyakki fortress island reaches Japan in only ten minutes!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "We must wipe out the enemy before then, no matter what!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Don't make me laugh...! Try it, then, humans!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "To think that I... the pride of the Hyakki Empire, the fortress island...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Unbelievable... I won't accept it! I refuse!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "It's not about accepting it or not! We... win!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Go back to hell and stay down!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Accept it or not, facts are facts...! Hell suits an ogre...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Send out support faster!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Just what you'd expect from their home base... it's loaded.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Bernie! This is no time to be impressed!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Emperor Burai! Leave this to me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Very well. I'm counting on you, Marshal Hidler.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Finish off the Gandor Team, no matter what!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Show! More of them are coming!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "I can see that! You're blocking my view, so get back, Cham!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Pushed back more than I imagined...? Absurd, it can't be...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Nngh, infuriating pests. Then I shall face you myself!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "There you are, Emperor Burai!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Today's the last day of the Hyakki Empire!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Fwaha, at least you have a big mouth.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Ain't you the one who's all talk?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Speak after you've seen my true power.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Now we just bring down this fortress island, and it's over.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "But our fight still isn't over...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Yeah...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Dangaioh, on the scene!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Owowow... hey...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Hey! We're smack in the middle of a battle here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "I'd like to say \"That's Dr. Tarsan for you,\" but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Geez! He didn't have to warp us into the middle of the front line!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Huh? Where'd you come from?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Gil... is heading for Earth...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Dr. Tarsan sent us here with his Warp Beam.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Gil Berg... of the space pirates Bunker...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Sorry, but the details can wait! Just join the battle as you are!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "You didn't need to tell us that!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "We're not the only reinforcements!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Whew, what a shock! Where... Joe! Mike! We're back, but this is...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Owww, couldn't he have dropped us off a little nicer?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "What's Lenny fussing ab... Whoa! B-Big Bro!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "This is... on top of the enemy's floating fortress!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "That old geezer really sent us straight in!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Maya, Coil, Ai!? Where have you been all this time!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Yo, Amuro, the star of the show has arrived.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Thanks to this handy Warp Beam, we're back from our trip to the moon!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "We said as close as he could, but dead center's a bit much...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "All right, reinforcements are here! Let's ride this momentum!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Right, Koji!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "They sure showed up at a good time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Yeah, this battle... is decided.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "A warp, you say? Nngh... at this rate, we'll be finished...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Clever little tricks! Behold the true might of the Hyakki clan!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "It's Tobikage!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Well, the real star makes his entrance.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "That's a dig at you, Joe.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Damn, just you wait! But this fight... is ours!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Directly beneath the spot where Emperor Burai was sitting...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "appears to be the power room.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "All right, lightly damaged units, go set the explosives.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Heavily damaged units, hurry back for recovery. We're out of time!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "The fight with the Hyakki Empire... ends here. It was a long one.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "For a while I didn't know how it'd go. Well, all's well that ends well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Checkmate. ...Though me got a little nervous.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Ogres from hell, huh...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "But ogres or not, they didn't seem that different from humans.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Coincidence...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Battle Mastery increased by 1.",
+   "kind": "system",
+   "keep": false
+  }
+ ]
+}

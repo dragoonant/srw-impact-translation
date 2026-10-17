@@ -1,0 +1,1003 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 890,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "PLS Black Point... I didn't want to make any detours, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Dr. Tarsan said that planet's energy was rising...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Yeah, I hope nothing's going on...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Well, it was right on our way. Let's check it out quick... Hey!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Huh? Something wrong?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Whoa!? Aren't the asteroids in different spots from last time!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Hm? Now that you mention it... The asteroids are moving?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Moving where...? Predict their course!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Moving...? If it's no problem, I'd rather ignore it for now, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "True... but it does bother me...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "I've got a bad feeling about this...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "I've got the asteroid's course! It's heading for Earth... Earth!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Earth!? Then if we leave this thing alone...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "It'll crash into Earth?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "What? Ridiculous. Are you saying the planet has a will of its own?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "But if it's true... at this rate, this asteroid will hit Earth...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "...But it's moving pretty slowly.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "I think it'll take quite a while to reach Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Then... shouldn't we stay away from it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Let sleeping dogs lie, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Yeah, yeah, let's just ignore it for now! We gotta stop the colony first...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "I'd like to look into it more... but I guess it can't be helped for now...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Even if we stop the colony, it looks like we'll stay busy for a while...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "This sucks. Lately nothing's ever clear-cut!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Don't get worked up, Fujiwara.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "If it's no immediate problem, chasing the colony comes first.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Right, right. The only thing worth getting worked up over is love.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Ah!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Damn! Did we get too close!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "What...? This feels different from the enemies we've met so far...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Fujiwara! Isn't this 'cause you were making such a racket!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "What, you wanna go!? You've been picking fights with me lately!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Shut up! The enemy's out, quit squawking at each other!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Whoa, this is getting out of hand, Lenny!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Geez! What are you doing!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "...I'm sorry.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Quit fooling around, Shinobu!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "These guys are way too much alike...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "...Has that planet's territory grown since last time?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Whatever the reason, they're out now, so what can you do?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Looks like we've gotta intercept 'em.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "So it seems... The road after the colony won't be an easy one.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "We can't be held up here... Let's go, Maria.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Okay, Brother!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "All hands, intercept the enemy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "We still don't know exactly what these things are.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Everyone, be careful!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Understood. Joe, don't do anything reckless either!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Heh, once I blast 'em, who cares what they are!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Aww, man, Big Bro's always like this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Well, isn't he the type that fits in with Londo Bell?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "More like the Cyber Beast Force, don't you think?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "No comment.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "...Good grief.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Wh-What, what!? More of them swarming out!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Same pattern as before. They sure don't get tired of it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "...It's different... Ryo.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Hm?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "(Sa... ra... Sara...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "That robot... the blue one, right shoulder trembling... Look familiar!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "...What!? That's...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "What's up? You know that mech?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Someone you've fought before?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Shapiro... It's Shapiro!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Someone... you know?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Shapiro... You mean Shapiro Keats!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Who? Someone famous?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Shapiro Keats...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "I heard he defected to the Muge Zorbados Empire in the last war...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "But his death was supposedly confirmed when the Muge Empire fell.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "...Seems the brass still remember you well, Shapiro...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "That's right, I'm the one who finished him off. No... mistake.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Huh!? \"Death confirmed\" means he died, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Sara, he's dead!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Somebody just happened to pick up Shapiro's mech and is using it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Whoever's piloting that mech doesn't matter!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Right now, getting out of here comes first!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "...Yeah. Got it, Captain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "(...Sa... ra...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Lord Shapiro!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "What the hell! If you're coming out, come out all at once! So annoying!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "You mustn't, Lord Shapiro.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "You've only just awakened... Don't push yourself...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Hm...? Are those two units piloted...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Now that you mention it... they move differently from the others.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Yes... they move differently from the rest.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "...It is... It really is... Shapiro...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Saraaa! Get a grip! He's dead, Shapiro's dead!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "He doesn't exist in this world... in this universe anymore!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "...This looks... kinda bad. Oh, they're coming this way!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "I'll protect Lord Shapiro... I will...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "I can't stop in a place like this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Dammit! Just when I thought we'd thinned 'em out, there's more...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "This is bad, Big Bro! With more enemies, we can't take 'em out fast!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Don't whine, Mike! ...But at this rate...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Hm... What's this...!? Heh, think we can't handle it alone!? ...Tobikage!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Wow, long time no see!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Is it on our side...? Still, what insane speed...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "I'd heard about it, but... wow, it can zip around even in space?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Right now we've gotta hurry. ...Tobikage, lend me your power!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Ngh... Mmph.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Did we get him...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Ah, he ran into that asteroid!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Bastard! Sara, Ryo, Masato! After him!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Huh!? Hold on, what about the colony!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "That's right! We're in the middle of chasing the colony!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "You planning to go missing again!? You guys!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Wait! Are you going to disappear again!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "...Ngh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Don't forget your mission, Fujiwara... We can't lose Dancougar now...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "I know that! But...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "...Shinobu. It's fine.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Sara...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Right now... the colony comes first.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Man, this is frustrating.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "If it's heading toward Earth, we can just deal with the colony first",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "and then take it out.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "It'd be easy if things were that black-and-white. Right, Sara?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "It took more time than expected... Dammit.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "No use crying over it. Let's get to the next destination.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Yeah... I'm a little worried about leaving this place, though...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Homework for after we stop the colony.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Phew... Anyway, at least we managed to drive them off.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "That took longer than I expected...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "And Tobikage bailed us out again.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Dammit! Next time those guys show up, they're gonna pay!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "But... I never thought the unit Shapiro Keats used",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "would show up in a place like this...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "And now a moving planet... Is this asteroid out to invade Earth too?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "This has become another place we can't ignore...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "I don't really get it, but... we can't just leave it like this...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "It won't attack unless we get close...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "but a friendly conversation seems out of the question.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "It's Shapiro, it's Shapiro...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Sara? That's going a bit too far...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Shapiro's guiding them to Earth...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Just like with the Muge...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Hold on, Sara. You must've been wrong about seeing Shapiro!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Shinobu, I'm the one who killed Shapiro! Yeah, I loved him once...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "But still... that was... that was Shapiro, no doubt about it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Calm down, Sara. ...We haven't confirmed anything.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "...His hatred... his grudges... all of that...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "...didn't fade, even after he became space dust...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Sara. Look, Sara... I know it's hard...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "But Shapiro... the fact you killed Shapiro...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Try to put it behind you a little more.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "...Let's go. Sara, I know how you feel, but... okay?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "I'm not Fujiwara, but... something about this just doesn't sit right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "True... but right now we have to stop the colony.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "It feels like there's more and more to worry about...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "All we can do is carry out our missions, one at a time.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "...And if this planet stands in our way while we do...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "...we'll crush it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "...Right. Above all else, stopping the colony drop comes first.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "We're leaving this area. All units, return...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "(...Sa...ra...)",
+   "kind": "thought",
+   "keep": false
+  }
+ ]
+}

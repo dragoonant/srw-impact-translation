@@ -1,0 +1,1627 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1125,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. Nadesico Y Unit destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "...What do you want with me...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Shapiro! You... have no intention of protecting Dirad, do you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Abel! What do you mean by finding fault with Lord Shapiro?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Lord Shapiro would never do such a thing...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "What...? You saw how he fought earlier too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "There's no way he's trying to protect Dirad...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "or Lady Diore.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Hmph... Then let me ask. I don't know what Lady Diore has told you, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "do you really think you can win?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Lord Shapiro! Are you saying we'll lose!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "We will not lose! If we do... it'll be because of your betrayal!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Me, side with Earth...? Don't make me laugh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "...Abel... Keim.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Ah... Lady Diore.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "We are the chosen people...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Do not falter. Eliminate the intruders.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Yes, my lady!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "...Shapiro. Do not underestimate them. They are in the right.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "...And I won't let you underestimate our Dirad, chosen by the righteous...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "What? We've come out somewhere wide open!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Where is this...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "The core? It's way too quiet for that, isn't it...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "I thought there'd be more enemy resistance, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Brother... There are enemies!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "So you've finally made it this far.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Lady Diore, go further inside.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Very well... I leave the rest to you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Shapiro, you!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "...Lord Shapiro... Why?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "I-it's true! It's the enemy, dawassa!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "I knew it...! They were lying in wait for us...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "...So someone has actually made it this far.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Not bad for lowly Earthlings... I'll give you that.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Your mouthing off ends here...! We'll turn this back into a lump of rock...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Who do you think you are!? But you know what? You're finished too...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "We'll turn this back into a lump of rock...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Abel... You understand, don't you? You're the one who let them in...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "And now you've let them get all the way here...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "I know... You should thank me. Now they're all the easier to clean up.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Still saying such things...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "If we'd beaten them before they set foot on our Dirad,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "just as Lord Shapiro said...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Enough, Keim! I told you to forget about him!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Allll riiight! Let's go, Akito!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Hikaru! Izumi! Don't fall behind!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Daisuke! Let's go too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Let's sortie too, Daisuke!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Yeah, we won't let them crash this thing into Earth!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "This is the moment of truth, Tetsuya.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "I've been through plenty of hell like this. We can do it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "So this is the moment of truth, huh, Koji?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "I guess so, Maria...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Our dream... anyone who interferes with Dirad's settlement,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "whoever they may be, will not be forgiven!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Dirad... settlement? I don't really get it, but we won't let that happen!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Nuoooh!? Impossible, this can't be...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "I... one of the chosen people of Dirad, beaten by such lowly creatures...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "In this vast universe... you shut yourselves away on your own planet...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "The moment you refused to accept or even look at others... you'd lost...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "...Those drunk on their own power will always fall before a greater power...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "and come to regret their own folly...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Abel!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Fools...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "I refuse... I, one of Dirad's peopllle!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "...People call that... inevitable doom...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "H-how dare you... Dirad's long-cherished wish...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Long-cherished wish...? If this crashes into Earth, your wish",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "is going to be a tragedy for us!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Yes... I've had enough of tragedies like Planet Fleed's...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Wishes granted by smashing other people's planets shouldn't come true!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "I don't... want to see anyone else lose their planet...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Princess Lamba...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Get lost...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "...We've already lost our planet... What... are we... supposed to do...!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "We came... we came all this way...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Maybe one side has to perish... That's what conflict is...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Tetsuya...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "But that... that's...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Lady... Diore... I, Keim... wasn't strong enough... Ah, I... Lord Shapiro...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Keim... You fool...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "(...Hmph... He didn't last as long as I expected...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Ngh, damn you... I am the man who will become a god...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Quit spouting gibberish!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "I dunno where you got that ugly Dancougar, but you and it both...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "can go back to hell!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Sara...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Lord Shapiro...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Knock it off! You're still after Sara...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Shapiro... Don't drag other people into your delusions...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Ngh... Some day... you'll regret this... Some day. I am...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "We made it this far...! What about the Mazinger team!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Could that be...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Omoikane, cross-check the data... No need, really. That is plainly",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "the Far East Branch's Cyber Beast Force flagship, the Gandor.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Huh? Huh!? The Gandor? What's it doing here!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Sorry to keep you waiting, Daisuke!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Koji! You came!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "It's the reverse of last time... isn't it, Koji?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Heh, I can't always be the one getting rescued.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Heh... Shall we go, then, Koji?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Leave it to me! Pilder On! Maaazin Go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Sorry to keep you waiting, Daisuke.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Tetsuya! You came!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Heh, same as before, Tetsuya. Showing up all cool like that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "The star of the show always arrives last, Koji.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Look who's talking. Well then, it's Double Mazinger time again!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Right! Here we go! Fire On! Scramble Dash!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Getting cocky... you lowly creatures...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Abel... don't underestimate them! If we don't go all out...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Silence, Keim! If we wipe them out together, it's all the same!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "...We're counting on you... Gandor...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Commander... Is it at its limit?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Yes... For the Gandor, and the planet's impact... it's a countdown.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Don't tell me we're not gonna make it in time, Hazuki, old man!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "This battle will test whether our convictions are true, Domon!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Looks like there's no time to dawdle... Let's go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "OK, Domon!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "We're heading out, Mike, Lenny! Don't fall behind!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Wait for me, Big Bro!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Commander! Give the order to sortie!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "...All units, sortie!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "So you've come out... Earthlings...! I'll look down on you no longer!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "...Well, Ruri?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "...No good. The Phase Transition Cannon's output drops sharply.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "As I thought. In an atmosphere, a phase transition engine...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Then...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Okaaay, everyone, attention, pleeease!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "We've learned the Phase Transition Cannon can't destroy Dirad.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "So, as first planned... we'll use the Nadesico's phase transition engine!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Huh? What's she talking about?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Idiot! You heard the explanation earlier!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Abandon the Nadesico... and blow up the plant planet by self-destruct...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "...So it comes to that after all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Commander Hazuki, with the Gandor here, everyone can surely escape.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "We're in luck!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "No, Captain Misumaru... That role isn't for the Nadesico.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Whaaat!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Then maybe that dragon's got some kinda awesome built-in weapon!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "I-is that so? Well... that's a relief.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Pardon me, Commander...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "but our records make no mention of the Gandor being equipped",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "with any weapon surpassing the Phase Transition Cannon...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Huh? Really!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "...All units, listen closely.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Pilots who fought in the battle for Jaburo should already understand...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "The Gandor will now shut down every function but the anti-air guns!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "What do you mean!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "To save the energy for the charge into the core... right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "That's right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Commander Hazuki... You don't mean the Gandor!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "That's exactly what he means.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Yes... In the planet's core, we'll overload the fusion reactor...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "and blow up the Gandor, scuttling it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "W-wait a minute! That was the Nadesico's...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "The dragon's life is 183 days... and that life is about to run out...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "I see... That much time has passed since we beat Muge in the last war...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "Commander Hazuki seemed to have decided this back at Jaburo.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "So that's why you followed us all the way in here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "I see... If it's going down anyway, it'll do one last job...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Commander Hazuki... You truly are...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "I see... So that's what you had in mind... Commander...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Sorry, but the plan has changed... The Gandor will make the charge.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Please have the Nadesico ready for an emergency withdrawal.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "...Returning the phase transition engine to normal operation.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Like the crane-shaped Elshank, the dragon-shaped Gandor...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "I really liked them both... and now one's gonna be gone...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Given the time we need to escape this planet, we have 10 minutes...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "We must wipe out the enemy and start pulling out within 10 minutes...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "...You heard that, Abel. Lady Diore is in the core...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "How dare they...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Then we'll crush their hopes! Target that battleship!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Our transmissions were intercepted after all. Here they come...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Just under 10 minutes... We have to wipe out the enemy and clear a path.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Well... let's do this...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "1. Gandor destroyed 2. Victory conditions not met within 10 turns of the Gandor team's arrival",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Tch, they just keep pouring out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "The enemy's desperate too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "Well, so are we!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "Heheheh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "L-Lord Shapiro! Where have you been all this time!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "That guy...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "Shapiro...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "You bastard... Riding around in a fake Dancougar!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Seems you're still hung up on us, the Cyber Beast Force.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "Attachment...? Heh... Don't make me laugh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "Then why are you piloting a mech that looks like the Dancougar!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "I simply chose the most fitting thing with which to bury you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "What's that if not an obsession?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Yeah, yeah!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "Hmph... Keim, you have served me well...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "One last time, I shall help you bury them.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "Yes, Lord Shapiro!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "(One last time...?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "Hah! Whatever shows up, our job don't change one bit!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "We'll defend the Gandor and the Nadesico at all costs...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "Yeah! I won't let them crush the Earth my master loved!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "That's right! We won't lose to you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "Hngh! I'm getting fired up, fired up!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "Yeah! Fighting with everything you've got for the ones you love!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "That's what a man's dream is all about!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "It'd be easy if dreams alone could win. ...Now then.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "Heh... Bark as much as you like... Heh, hahahahaha.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "Ah! Joe, look!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "...Hm!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "That's the one from when we went down to the surface!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "Isn't that... the one called Tobikage!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "So it was hiding somewhere after fighting Ilbora?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "Anyway, if it's with us, we're a hundred times stronger.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "So now we're really all together.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "Londo Bell and the Gandor team... plus the Nadesico and our alien allies...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "(He's the only one missing. ...At a time like this... Excellen...!)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "It's too early to relax! Time won't wait for us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "Brother, we're short on time, but... with this...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "...We can do it. Kenrou, lead us to victory...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "...",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "Big Bro... Tobikage's...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "Tch, it's leaving!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "Huh, it's leaving already!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "This time... did we finish him for good!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "Probably... I don't sense any evil aura.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "Shapiro, you idiot... You're such an idiot... Shapiro...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "So that's how the man who wanted to be a god ends up.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "What he meant by \"god\"... doesn't matter anymore.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "At the very least, that man wasn't worthy of it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "No... he simply must never have been.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "It stings. He was an Earthling, same as us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "This is no time to get sentimental! We're out of time...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "Don't let this battle be in vain!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "The enemy!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "No... readings!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "So that's the end of it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "From what I can see... there's no sign of the enemy, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "Well, the conditions are set, for now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "Commander! Prepare to escape!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "Everyone! Please return to the Nadesico! We're preparing to escape!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "Don't rush too much, okay~?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "Everyone standing by on the Gandor, please hurry too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "Minato! The phase transition engine's...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "On it~. Output rising!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "en": "We pushed it too hard, so there are a few problems.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "As long as we escape, it's OK!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "On the way out, Distortion Field at max, and we escape at full throttle!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "en": "...Commander Hazuki!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "en": "We're ready here too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "en": "...The explosion of the Gandor's fusion reactor can no longer be stopped.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "en": "All that's left is to ram it in on autopilot...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "en": "...We're really going to blow it up? Even if it's the only way...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "en": "I've got... mixed feelings.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 258,
+   "en": "On Earth... it was like our home.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "en": "Yes... Somehow... it's sad.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "en": "Even if its form is lost... its heart remains. Salute.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 261,
+   "en": "You did good... So long.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 262,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 263,
+   "en": "...The Gandor, huh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 264,
+   "en": "We leave the rest to you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 265,
+   "en": "So long. Thanks... for everything.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 266,
+   "en": "...Goodbye.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 267,
+   "en": "We're out of time! Commander, please hurry to the Nadesico too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 268,
+   "en": "Commander Igor... I borrow the final strength of the dragon you left us...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 269,
+   "en": "(Goodbye... Take Shapiro's soul... with you too...)",
+   "kind": "thought",
+   "keep": false
+  }
+ ]
+}

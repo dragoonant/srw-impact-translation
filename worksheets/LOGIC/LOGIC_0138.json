@@ -1,0 +1,583 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 312,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed 2. Enemy reaches Nanbara Connection",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Doctor, enemies have arrived! They are Campbellian robots!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Blast it, Ropet, hasn't the Gandor squad arrived yet!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "There appears to have been some trouble! It will take a little longer!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "But... why attack this Connection now?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Don't tell me... they're after that device!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "A big fuss over wrecking one human building... Very well, attack!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Lord Garuda... Mia will help too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Mia, I told you to stay behind...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Yes... but, Lord Garuda...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Very well... Just don't hold me back, Mia.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Yes...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Doctor, what do we do, Doctor?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Don't panic, Ropet. All we can do is trust the Gandor squad and wait...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "The Super Electromagnetic energy used in Combattler V...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Mother ordered me to seize this facility, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "The Connection...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Oh! The Gandor! You've come...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Hey, Pops!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Hyoma, Juzo, Daisaku, Chizuru, Kosuke!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Doctor!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Looks like we made it in time!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Campbellians! Ya ain't gettin' away with playin' while the cat's away!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Garuda, was it!? Haven't you learned your lesson yet!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Curses! I haven't forgotten my last humiliation...! Face me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "But... we've got no real mobile suits. We can't win this at long range...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "A close-range slugfest... Then that's my specialty.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Heh, if only we had two or three more Aura Battlers.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "If we had even two or three Drumlos, things would be different...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "What!? More of 'em!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "You've gotta be kidding!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Heh heh heh, hahahahaha!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "What took you so long...? So you were dawdling here, Akira Hibiki!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "You're... Sharkin!? Prince Sharkin!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Even the Demon Empire shows up... I'll dispose of you all at once.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "The Campbell army and the Demon Empire... Geez!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Quite the turnout. I'm so grateful I could cry!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "That's right, Akira, your father...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Sharkin! What have you done with my father... with my dad!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Patience... He is on a volcanic island in the Atlantic.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Besides, I have no business with you this time.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "No business!? Don't screw with us!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "If you're attacking, it's all the same! Prepare yourself!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Then what are you after, Sharkin!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Survive this battle and make it to the volcanic island, and I'll tell you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Hibiki... looks like we've got no choice.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Yeah. Sharkin...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "I'll beat you right here instead, then take my time rescuing my dad!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Hahahahaha! Very well!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Demon Beasts, your target is Nanbara Connection!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Don't let the early birds beat you to it! They're after the same thing!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "This is not in Mother's orders, but it can't be helped.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "I shall take on this Demon Empire as well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "...After the same thing...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Are they after the Connection's Super Electromagnetic tech...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Grr, to think you'd go this far...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Sharkin! Prepare yourself!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Akira Hibiki! I'll be waiting on the volcanic island! That will be your end!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Tch, we couldn't take him down!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "...Dad.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Grr, their power is as I feared...! Curses, we withdraw!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Hyoma! He's gettin' away!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "You jerk, scurrying around and running off!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "That does it! Everyone, after him!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Yeah! Ya ain't gettin' away!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Wha...!? Combattler team! I won't allow you to act on your own!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "He's right, Hyoma! We have to stick together...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Hyoma! Stop it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Hey, Hazuki and Pops Yotsuya!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "We'll go find the Campbellians' hideout, so look forward to it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "He's not listening at all! That kid!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Ah, youth.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "We'll check in regularly! Hyoma! Don't do anything crazy, okay!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "They're gone...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "All we can do is pray they pull it off.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "The institute!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Ngh... we let the enemy break in...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "We drove off the enemy... but lost the Combattler team.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Ugh, as if one Fujiwara weren't enough...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "No, Commander Hazuki, you saved us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Not at all. Keeping the peace on Earth is the Gandor squad's job. But...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Don't worry about Hyoma and the others. I'm sure they'll manage.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Ropet, where are Hyoma and the others?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Well... The radio jamming is very bad... I am sorry.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "We lost them, huh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "We were short on fighters as it is... This is rough...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "But... we can only move forward.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Let's trust in the Combattler team...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Heh, you've gotten tougher, Princess.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "That's right. I trust Koji and the others who went up into space.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "It's the same thing. ...Knowing Aoi and his crew, they'll manage.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Commander Hazuki, agonizing over it here won't get us anywhere.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "...It can't be helped. All units, return to base.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Dr. Yotsuya, please let us know how the Combattler team is doing.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "I certainly will. I'm praying for your success.",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

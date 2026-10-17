@@ -1,0 +1,1027 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 858,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed. 2. Enemy enters the Anaheim facility before Lieutenant Kou Uraki returns.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Huh, where's Big Bro Kou?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Uraki went to Anaheim to pick up a new model.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "The third Gundam prototype.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "He's still not back? Can't he just pick it up and go already?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "It's not like you stamp a form and you're done.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "We'll just have to wait.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Sure, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Zeon must know we're here, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Instead of chasing the colony directly, we went out of our way",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "to come to Anaheim. They're bound to have noticed...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "...Captain, shouldn't we deploy our forces, just in case?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Yes... All right, all ships on alert. Anyone who can launch, launch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Captain! Something on radar!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Dammit, they show up the second we say it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "So they came! Only the bad predictions come true.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Here they come.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "I see, so there was a reason you came here instead of chasing the colony...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "It seems you have a secret plan to turn the tables...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "...!! Mashymre? It's Mashymre! Don't get in our way!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Judau Ashta, I cannot allow that...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "For Lady Haman's sake, in this Operation Stardust,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "every uncertain factor must be eliminated, no matter how trivial!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "You deluded, stuck-up creep! Nobody asked for you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Ahh~ Telling his type won't get through to him.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Bah, how tiresome! Attack Londo Bell, and destroy",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "the new model being built at Anaheim! Go!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Uh-oh... They've set their sights on Gundam Unit 3!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "All units, keep the enemy out of Anaheim till Lieutenant Uraki returns!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Uraki... We'll hold them here. Hurry back...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Geez... After all this buildup, it'd better not be some cheap toy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Right, let's do this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "(The all-purpose Unit 1, the nuclear Unit 2... and the next prototype...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Just what kind of machine is it...?)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "No need to wait for any new weapon! Let's do this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Wh-What is it!? This huge energy reading...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "What...? Something's... coming!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Wh-What the hell is this...? Isn't that a town!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Narrow main roads and low buildings... This is a Japanese town!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Whoa... What is this? A town just appeared out of nowhere!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "It looks like... some town in Japan...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "What... is going on here?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Don't tell me... a town-shaped Bomb!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "What would be the point of that shape? But... what's going on?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "That light just now... didn't it look like a warp beam?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "The kind Dr. Tarsan uses, Mia?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "A warp? Like, the thing that gets you far away in an instant?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "I've never even heard of something like that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "What...? An Earthling base this close!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Blast those Meganoids, building defective junk!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Where... are we? Joe!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Damn you, Ilboraaa! Where the hell are we!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Heh, what does it matter where?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "At the very least... this will be your grave!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Hey, Big Bro, could this be... the moon!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "What!? ...Come to think of it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "That's right! Isn't that Anaheim Electronics!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Exactly, this is the lunar surface! I meant to blast you to Mars, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Die here, Joe!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "What an elaborate setup! You didn't need all that, I'd fight you anyway!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Huh!? That unit over there...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Could it be Londo Bell!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Hmm!? Wasn't that robot over there with the Gandor unit?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Ah! Joe and the others!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "That voice... Mia Alice!? Then it is Londo Bell!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "What are you doing here!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "I'd like to know that too! Seems we fell for a trap, but this is overkill!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Londo Bell... You mean the Elshank hasn't joined you!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "That's right! The princess, is Princess Romina safe!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Good timing, maybe. We were gonna go get 'em once we're done here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "After all this scheming, I won't leave empty-handed! Joe! Prepare yourself!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Looks like things have gotten all complicated,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "but we've gotta protect this base, no matter what. Lend us a hand!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "You don't have to ask!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "We'll scatter 'em in one go and go get Princess Romina!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Looks like we've got another hothead...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "That's...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Wow! Could that be...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Tobikage!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Looks like it's lending a hand.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Thanks, Tobikage! You sure are diligent! Coming all the way out here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Wh-Whaaat!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Ilbora! You dragged us all the way out here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Give it a rest!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Silence! Damn, it won't move how I want! With the Skeleton...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "can I no longer beat them!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "We'll settle this here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "I'll withdraw for now! But don't think this is over!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Ah, he ran away!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Tch, that Ilbora...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "where'd he get such an insane device...!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Am I late!? Sorry, everyone!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "You're late, Uraki! ...But good job making it in time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "No kidding, Lieutenant! Wait, is that the new model!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Amazing...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "It's huge... Is that thing a Gundam?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Armed Base Orchis... combined with the GP-03S Stamen,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "this form is the Gundam GP03 Dendrobium, a unit for",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "base defense in space.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "So it's like the Spazer docking with Grendizer...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "What's an \"armed base\"?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "I guess it means it holds weapons... Is that whole thing full of weapons?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Like Grendizer and the Spazer...? But is all of that weapon space...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Yeah, a walking armory... Like a mobile suit's mobility",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "with a super robot's weapons attached...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "It can't be mass-produced, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "used like the Big Zam once was, it'd be a real threat to the enemy...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "That's... the Unit 3 Major Gato spoke of!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Bah, it's just for show! Send in the ambush troops!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Are they trying to join up with that!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "I can't let Joe and his gang get any stronger...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "That Gundam's awesome.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "All right, the tide's turning our way!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Let's finish off the enemy fast... and go after the colony!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Roger! Man, I want a power-up like that too... Oh my?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Reinforcements!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Damn...! They were this close!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "I'm not foolish enough to face a new weapon without a plan!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Attack! Crush it here and it won't matter what it is!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "An ambush, huh! But we can't let you have your way here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Isn't this fight getting a little too fierce!? Joe!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Can't be helped!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "We're in the same boat-- or rather, on the same moon! We'll see it through!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Here we go, Gundam... GP03...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "1. GP03 Dendrobium destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "I wanted to destroy the new weapon completely...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Bah, we've held them up! Withdraw!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Wait, Mashymre!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Judau Ashta, we'll meet again! If you make it in time...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "it'll be just before or just after Operation Stardust succeeds!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Battle Mastery increased by 1.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "We'll make it in time, no matter what...! You'll regret this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "For that, we need to be able to move as fast as we can...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Ngh... Anaheim...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Phew, it's fiiinally over.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Hah! Like we'd lose to a bunch like that...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Still, that's one huge Gundam...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Looks like a Gundam stuck in a Container, I tell ya.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "With the GP03... we won't be outmuscled so easily. We can do this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "It's way bigger than the Double Zeta. Phew, that was a lot to deal with...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Anyway, shouldn't we get going soon?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Yes... Joe, Lenny, and Mike, was it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "You've probably heard our situation... No time. We must hurry on.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Yes, we'll explain our situation on the way.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "I'm a bit worried about things on the ground, but",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "since we ended up all the way out here, can't be helped. I'll tag along.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "What's with that attitude? You've got a real bad attitude, pal.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Huh? Got a problem?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Is this any time to fight? Think about the situation!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Why does Big Bro always cause extra trouble?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "People's personalities don't change that easily.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Still, we should be glad to have strong new allies.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "And that ninja robot is on our side, too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Right, right, now that it's settled, no time to waste.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Looks like we've got more problem children, Captain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "...I'm used to it by now, Lieutenant.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "All right, we head for the next destination. All units, return.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "Still, those Zeon guys... Always scurrying around in our way...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "That just shows how dangerous our actions are to them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "If they're keeping tabs on us, then what we're trying to do",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "must not be pointless, huh?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Right, right, they're in the middle of a big operation, too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "If they were confident, they wouldn't bother with us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Earth... my homeland... I'll protect it, no matter what!",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

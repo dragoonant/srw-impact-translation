@@ -1,0 +1,1111 @@
+{
+ "file": "BTL/BMCPACK.BIN",
+ "format": "BMC",
+ "pilot": 246,
+ "strings": [
+  {
+   "id": 0,
+   "en": "This'll finish you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Here I gooo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Hyaaah!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Take this!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Take this!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Look! Guts forged on the baseball field!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "I'll show you the Getter's power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Let's go, Getter-3!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "I'll show you the Getter's power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "I'm goin' in with my Poseidon!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "I'll show you the Getter's power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "You asked for it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Here's payback!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "I'll show you the Getter's power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Let's go, Getter-3!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "I'll show you the Getter's power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "I'm goin' in with my Poseidon!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "I'll show you the Getter's power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Whoa! I got hit!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "U-Uoooh!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Damn!! No good!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Damn, what power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "I-I'm gonna get wrecked!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Tch!! This is getting kinda dicey!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Nuoh!! Th-This is bad!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Damn it!! At this rate they'll take me down!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Guh, th-the Getter...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Ugh! Were you looking the other way, Benkei!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Wh-What'd you say!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "You two, this is no time to fight!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Ooh, damn it!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "It's okay, Benkei! We're here!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Ryo's right.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Kuh! That was a direct hit, Benkei!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "But the Getter can still move!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Sorry, Ryo, Hayato!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Guh, th-the Getter...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "What's wrong, Poseidon!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Ugh! Were you looking the other way, Benkei!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Wh-What'd you say!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "You two, this is no time to fight!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Ooh, damn it!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "It's okay, Benkei! We're here!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Ryo's right.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Kuh! That was a direct hit, Benkei!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "But the Getter can still move!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Sorry, Ryo, Hayato!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Guh, th-the Getter...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Shin Getter-3 won't go down from that!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Ugh! Were you looking the other way, Benkei!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Wh-What'd you say!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "You two, this is no time to fight!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Ooh, damn it!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "It's okay, Benkei! We're here!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Ryo's right.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Kuh! That was a direct hit, Benkei!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "But the Getter can still move!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Sorry, Ryo, Hayato!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "That hurt! You bastard!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Ow! What the hell!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "You got me, you jerk!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Uoooh!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "You asked for it!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Hang in there, Getter Robo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Oh! You two okay!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Y-Yeah! How about you, Hayato!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Never mind that, switch with me, Benkei!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Benkei! We took that head-on!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "S-Sorry!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "If we can't keep up with the enemy, we should change!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Cr-Crap! Can't I handle this!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Don't whine, Benkei!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "That's right! Don't give up here!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Hang in there, Getter Robo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Whoa!? The Poseidon!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Oh! You two okay!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Y-Yeah! How about you, Hayato!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Never mind that, switch with me, Benkei!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Benkei! We took that head-on!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "S-Sorry!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "If we can't keep up with the enemy, we should change!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Cr-Crap! Can't I handle this!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Don't whine, Benkei!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "That's right! Don't give up here!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Hang in there, Getter Robo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Shin Getter-3's still just fine!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Oh! You two okay!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Y-Yeah! How about you, Hayato!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Never mind that, switch with me, Benkei!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Benkei! We took that head-on!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "S-Sorry!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "If we can't keep up with the enemy, we should change!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Cr-Crap! Can't I handle this!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Don't whine, Benkei!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "That's right! Don't give up here!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Nngh, this is nothing!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Is that it!? Ohh, what's that supposed to be!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "I'm fine, I'm fine!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Like that'd work!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "That all you got!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "The Getter got scratched!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Whoa! I got hit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Benkei, don't push it too hard!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "If you want, I'll take that guy on!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Hey, Benkei! Quit fooling around!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "I'm not fooling around!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Stay focused! The enemy's still alive!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "S-Sorry, you two...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Benkei, don't worry about it.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Right. This much won't take down the Getter.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "The Getter got scratched!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "How dare you hurt the Poseidon!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Whoa! I got hit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Benkei, don't push it too hard!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "If you want, I'll take that guy on!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Hey, Benkei! Quit fooling around!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "I'm not fooling around!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Stay focused! The enemy's still alive!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "S-Sorry, you two...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Benkei, don't worry about it.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Right. This much won't take down the Getter.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "The Getter got scratched!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Whoa! Shin Getter-3 is tough!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Whoa! I got hit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Benkei, don't push it too hard!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "If you want, I'll take that guy on!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Hey, Benkei! Quit fooling around!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "I'm not fooling around!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Stay focused! The enemy's still alive!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "S-Sorry, you two...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Benkei, don't worry about it.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Right. This much won't take down the Getter.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Like that'd work on me!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Whoa whoa, that was close!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Hahaha, lousy shot!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Phew, close one.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Not a chance!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "I'm part of the Getter Team too!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "I can do it too!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Heh... Nice, Benkei.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Heave-ho!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Managed to dodge it somehow...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "I can do it too!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Heh... Nice, Benkei.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Heave-ho!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Managed to dodge it somehow...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "I can do it too!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Heh... Nice, Benkei.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Heave-ho!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Managed to dodge it somehow...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Open Get!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Useless!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Beams are nothin' to me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Huh, I can't counter!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Tch! Can't counter.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Damn, can't reach!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Damn it! Can't reach!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "We're attacking too!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Hold on! I'm not done yet!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "This is exactly when I'm needed!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Toughness is my specialty!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Getter Missile!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Ohhh! Daisetsuzan Oroshi!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "Uoooooh!! Dai-setsu-zan Oroshiii!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Taught by Musashi himself... The original! Daisetsuzan Oroshi!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Getter Cyclone!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Strong Missile!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Daisetsuzan Oroshi! Nidan Gaeshiii!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Daisetsuzan Oroshi, Nidan Gaeshiii!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "This'll finish you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Here I gooo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Hyaaah!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Take this!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Take this!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "Look! Guts forged on the baseball field!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Uoooooh!! Dai-setsu-zan Oroshiii!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "Getteeer Tomahaaawk!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Getter Drill!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Uoooooh!! Dai-setsu-zan Oroshiii!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Double Tomahawk!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Drill Arm!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Open Get!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Open Get!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Open Get!!",
+   "kind": "quote",
+   "keep": false
+  }
+ ]
+}

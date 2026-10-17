@@ -1,0 +1,1357 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 2004,
+ "strings": [
+  {
+   "id": 0,
+   "en": "",
+   "kind": "dialogue",
+   "keep": true
+  },
+  {
+   "id": 1,
+   "en": "No contact...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Yes, the Mars Frontier Base... We can't reach them at all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "The talk that they've joined hands with the Za Boom Army",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "and are plotting to seize control of the Earth Sphere...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Yes... It may not be a joke after all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "I can't say whether it's related, but... Meganoids have appeared.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Meganoids on Earth too...!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Captain Misumaru also reported that they'd appeared on Mars, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Oh? I thought the Nadesico would be staying on Mars a little longer...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Long time no see, Captain Bright.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Banjo, I hear you were quite active on Mars too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "On Mars, the Nadesico...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "We got kinda surrounded by enemies, so we ran away super quick!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Ha ha ha, but knowing when to pull back is",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "an important quality in a captain. The Nadesico seems to have a good one.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "With so much still unclear... as originally planned, the Nadesico",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "will be accompanying the Londo Bell unit.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Captain Misumaru... the admiral is always worried about you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Please try not to do anything too reckless.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Jeez! Father never stops treating me like a child!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Fathers never want to admit their children have grown up...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Anyway, we didn't completely destroy Don and Koros in the last battle...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "so I figured the Meganoids might come back.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Meganoids... Then isn't Commander Hazard of the Mars base",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "involved in this as well?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "It also bothers me that the Nadesico couldn't make contact on Mars...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "We're about to launch our assault on Jaburo.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "...We can't spare anything for Mars, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Our own forces have been growing. Please don't worry about us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Then again, we can't help you in the battle for Jaburo either...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Good luck.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Understood. It's almost time, so I'll sign off.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Right. Please give my regards to Amuro and Kamille...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Sounds like things are rough on the surface...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "A lot seems to have happened on the ground while we were out of contact.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "So the Elshank was an ally... But this ninja's identity is unknown,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "which is a strange story.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "If Amuro and Kamille are back in action,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "there's little to worry about... If anything, what concerns me",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "is the Meganoids... and the Gundam GP02A matter.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "The Gundam Project's Unit 2...! If I remember right, that one...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "No one knows where it went... Could it be Jaburo after all?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "...It bugs me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Koji?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "The Dangaioh team's outfits. Those are... trouble, man.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Twisting around things we don't know won't lead anywhere good.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "More to the point, I question letting the Dangaioh team wander",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "around dressed like that.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "That's not relevant right now, is it, Tetsuya...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Looks like everyone's bothered by those outfits...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "W-Well, of course...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Boys will be boys...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "So Akito likes that kind of thing too... Then I'll...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Oh my, you can only dress like that while you're young.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Besides, a captain dressed like that would be a distraction. Skip it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Tell her more firmly, please. ...She's all fired up to do it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Wow, this might be fun. ...The people at the center of it all...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "I was gonna go tease them, but it's not really the mood for it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Shazara... Lilith... Is our planet... really...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Lamba...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Princess... please take heart. We're still here... Lilith...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "The people of Lilith have not perished yet...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Shazara...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Lamba...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "I... I... Shazara...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "That... couldn't be helped, Lamba... It was the only way...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "We... can't afford to lose.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "So that no more people have to suffer like that...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "we have to beat the Bunker...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "That's how it is, Lamba. We've still got to get our revenge, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "No time to mope around. Pull yourself together.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Pai! Don't put it like that...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Mm... It's okay, Mia. Thanks, Pai... Right, there's no time for that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "You're just like us, Lamba.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "But as long as we don't give up, it's not all over yet.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "That's right. We can't let anyone else lose their home like we did...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Let's fight on together.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Right...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Well, look who's saying smart stuff.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "...What's up, Shinobu?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "I was gonna give that cocky punk Pai a piece of my mind,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "but... it ain't really the mood for it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Oh? Reading the room? You've grown up, Shinobu.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Shut up.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Still, this room's nothing but aliens, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "How do things stand, Mashymre?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "...Yes, things around Earth have been very turbulent lately.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "The aliens' offensive has the Federation unable to make a move...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "I would like to take advantage of this and act, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "...The aliens have been meddling with us as well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Lumping us in with the foolish old humanity that clings to Earth!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "I drive them off each time, Lady Haman.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "And is it not also true that because of it, Londo Bell remains undealt with,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Mashymre?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "That's...! No, my apologies.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Very well... Have you nothing else to report?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Yes, the Delaz Fleet... appears to be making its move.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "...Operation... Stardust...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Precisely.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "At present, I am sending Cima's fleet to that sector.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "There... that person is due to join them.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "...Those who carry on the late Aiguille Delaz's will, eh?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Very well. Prepare for our next move, Mashymre.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Yes, at once!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "(Foolish old humanity clinging to Earth... was it?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Brother, Captain Bright wants everyone to discuss our next move...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Brother... Brother!? What's wrong!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Ah... Oh, Maria, I'm fine. There's nothing to worry about.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "It's an old wound from the Vega Star Federation's attack on Fleed...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "What an awful wound... I had no idea you were hurt like this...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "We need to get you to a doctor right away!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "It's no use, Maria. This wound... is from Vegatron radiation...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Earth's science can't heal it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Vegatron radiation...? Then, Brother, you're...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Yes... I may not have very long to live.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "But I can't just sit and wait for that day to come!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "No! At least rest quietly...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Listen, Maria... Grendizer can't leave the fight now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Besides, I don't want to worry everyone needlessly.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Don't tell anyone about this.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "But, Brother...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Come now, it's not certain that I'll die.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "We may yet find a way. Don't look so worried.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "...The pain's gone now anyway. Come, let's go see Captain Bright.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "(...Vegatron radiation... If I don't do something, Brother will...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Everyone's here...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "...Sounds like you've learned something, Captain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Yes. ...Neo Zeon has made its move.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Looks like... they've finally run out of patience.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Lucky for us we caught wind of it first, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "So where is it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Konpeito... the place once called Solomon...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "A large Neo Zeon force is heading there.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "One of the Federation's bases... I see.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Jaburo's been seized by someone, and...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "the Gate of Zedan hasn't fully worked since the Gryps Conflict...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "That leaves Luna II, Von Braun... and...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "...Konpeito, then.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "So the enemy's finally getting serious, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Let's hurry.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "The Gaizok are quiet lately. We need to thin the enemy's numbers...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "And the Vega Star Federation. It's time we went on the offensive.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "If we crush Zeon here and Tetsuya and the others",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "take back Jaburo... we could ride that momentum!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "That'd be the best.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "If we strike Zeon here and Koji's Gandor Team",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "takes Jaburo... couldn't the Federation recover in one go?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "That's idealistic... but I'd like to hope so.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "...I have a bad feeling, but... it seems there's no other choice, Captain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "A bad feeling...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "What is it, Captain?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "For an enemy operation... their movements just seem sloppy.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "...But we don't have many options.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Meaning we've gotta go, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Gorman! Gorman, are you there!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "What is it, Commander Gandal?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "The Earthlings are on the move... apparently the side opposing",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "the one that Duke Fleed is with.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Oh...? So if we seize them...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "It's very likely Duke Fleed will show himself.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "...Heh heh, what fools. Fighting among themselves is one thing,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "but handing us a chance like this... Heh, ha ha ha ha!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Can you do it, Gorman?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Who do you think you're talking to, Commander? Right, I'm off...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "I heard Nergal's sending us a new Aestivalis and a new pilot...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "What? A new Aestivalis!? ...Is that it!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "Ooooh!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "What's this, what's this frame? A new model, huh?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "The face is different! And the generator's so compact!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Plus the skin's so silky smooth!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Knock yourself out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Still, when'd they find time to build a new model?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "It's a newer version than our Aestivalises! No fair!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Hmph!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Now, now... don't be so jealous.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Hm?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Nergal planned its next move in case the Scaparelli Project failed.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "Who are you people!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "Heh... I'm Nagare Akatsuki.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "I'm Erina Kinjo Won.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "Nergal sent us here, him as a pilot and me as vice-helmsman.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "Think of us as space pirates, gathered under the flag of freedom...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Pirates got nothin' to do with it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "And some reinforcement--just one Aestivalis and one pilot?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "Now, now. Maybe Nergal's finances are tight too, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "(This guy doesn't seem much like a pilot... Who is he?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "Judau! Judau Ashta! What are you doing there!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "The Double Zeta's maintenance is already done!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Whoops, don't mind me. Call it a junk dealer's habit,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "but I can't relax unless I check a machine I'm riding myself.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "I check every Gundam here myself, you know?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "I'd like you to ride with peace of mind.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "Yeah, yeah. ...This thing's mechanisms are complicated.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "Guess it can't be helped that it took so long to assemble.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "Phew. ...Well, it's a heavy mobile suit on par with GP02,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "combining the mechanisms of the original Gundam and the G-Armor,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "the ultimate Gundam, in a sense...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "That's this MSZ-010, better known as the ZZ Gundam.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "What deserves special mention is the High Mega Cannon on its forehead...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "Ahh, okay, I get it already!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "I heard that so much while assembling it, I could recite it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "It's the kind of machine people either love or hate, but I like it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "It's got a flavor all its own.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "The Double Zeta was a useful reference for our own research too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "It might even be applicable to my Gundam.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "...Well then, take care, Judau Ashta.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "Roger. Your name came up a minute ago... GP02.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "It's fine if I smash it to pieces, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "...Yes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "...Are you hiding something?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "Huh? No... I'm not hiding anything.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "Eh, whatever. Grown-ups are good at keeping secrets. ...Well, I'm off.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "...Give my regards to Captain Bright, then.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "Yeah, I'm off to lend Londo Bell a hand!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "...Oh, right. If you're hiding stuff, hide that \"my Gundam\" line.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "Isn't that kinda bad?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "That's fine.",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

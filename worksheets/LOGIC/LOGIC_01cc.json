@@ -1,0 +1,595 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 460,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "It works... it works... my Apsaras. With this perfected model...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Aina, in the end, you betrayed your own brother.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "I will prove how wrong your foolish choice was...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Wh-What is that monster!? A new Zeon weapon!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "A Zaku head...! So it's that Apsaras mobile armor we fought...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "They still had forces left!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "It's... strange, isn't it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "I doubt the Zeon ground forces right now could afford",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "to keep this much strength in reserve...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "...!! That's...! How!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Even in its final stage, it shouldn't be able to move so easily...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Aina, that's... the Apsaras...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Its completed form... It's strange. They shouldn't have that much left...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "True... it's strange. Don't tell me, Haman's forces on Earth!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "There's no sign they've joined up. ...Something's off.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "The Zeon ground forces... might be getting aid independently",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "from somewhere besides Haman...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "What the heck!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "With all these gun emplacements, not a single one fires back!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Are they just for show!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Doesn't that prove Jaburo isn't functioning?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "It's really thorough.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Damn, this makes less and less sense! What's going on inside Jaburo?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Ngh, all these gun emplacements... and every one of them silent.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "They've shut down completely. Even these outlying pillboxes...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "I'm starting to wonder what's going on inside Jaburo...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Commander Hazuki... I'm going out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Is that... Aina!? Heh heh... I see.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Behold! This is the Apsaras's true form, Aina!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "What kinda design is that... It ain't normal...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Like... a devil.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Amuro... this mobile armor...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Yes, it resembles the Big Zam from the One Year War.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Which means the power of the Mega Particle Cannon in its body...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "This... for something like this... I...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Aina...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Hmm...? You!? If only you weren't around...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Aina, a parting gift from your brother... I'll send you off together.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Brother... no more... no more...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Aina, let's go. We'll settle this with our own hands...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "You can't run from facing your brother...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "What a nuisance! Here they come again!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Struggling... Iron Mask, do you think a machine this outdated",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "will work forever...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "That round one! It showed up again!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Tch, one after another...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "That humanoid... a mobile suit? I've never seen that model... A new type?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Its concept seems different from Zeonic's mobile suits, though...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Come to think of it... I've seen those in space.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "It's not the Zeon military?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Pretty sure it's not. What were they called... Mia, remember?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "...Something Vanguard... I think...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "The Crossbone Vanguard!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Yeah, yeah, that's it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "What are they, Commander?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Captain Bright gave me the data. The Earth Sphere's turmoil is settling...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "and they chose that moment to move. Details later!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "For now, focus on defeating them one by one.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Another new faction. Damn, when will I ever reach the Devil Gundam...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "So that's it. The ones moving around Lord Ginias...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "were the Crossbone Vanguard.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Norris?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "You didn't know?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "I knew he was receiving aid from somewhere, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "And I thought it was almost over!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Things ain't that easy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "They're small and look like a pain... but let's do it, Hayato! Benkei!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Is this really the time for humans to fight each other?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Can't be helped.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "...Fools. Oh, well...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "If we'll clash in earnest eventually, gauging their strength isn't bad.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "I'll take Iron Mask's actions... in a positive light.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Tobikage!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "You're late! The enemy's sick of waiting, y'know!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Well, a late arrival, I see.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Here they come! Show! Don't lose, use your clones!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Easy for you to say!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "I underestimated them... Withdrawing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "The Crossbone Vanguard... siding with Zeon, of all things...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "I wonder about that. Bright didn't mention anything.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Maybe... they were only helping the Zeon ground forces.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "So they're unrelated to Neo Zeon... to Haman Karn?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "I don't know. But something smells fishy...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "We're so close to storming Jaburo...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "but there's so much to worry about.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Even so, all we can do is push forward.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "The people of Londo Bell are doing their best too... so must we.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Aina...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "...Goodbye, Brother.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Gh... nn... those... wretches... I won't let them... into Jaburo... ugh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Still alive...? Indeed, such tenacity... might be of some use...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Iron Mask, what are you thinking?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Ugh... ggh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "No choice... I'll take him along.",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

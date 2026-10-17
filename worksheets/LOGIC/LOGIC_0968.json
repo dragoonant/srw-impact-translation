@@ -1,0 +1,649 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 2408,
+ "strings": [
+  {
+   "id": 0,
+   "en": "",
+   "kind": "dialogue",
+   "keep": true
+  },
+  {
+   "id": 1,
+   "en": "Hee hee...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Ugh... Y-You're...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Amuro.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Lalah Sune...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "...He's... coming... Hee hee.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Don't think you can claim Char and me both as your own!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Living forever as pure thought would be torture... I just want to watch you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "That's just ego!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "I want to stay between you two forever...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Reject Char, then!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "...He's pure...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Pure...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "...A dream.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "(Damn... I've started having the same dream again... Why?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "...Merely dropping Axis on Earth",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "will cause damage on the scale of a nuclear winter.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "It's an atrocity no dictator has ever committed.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "...Are you sure about this? Colonel Char.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "It's too late for sermons, Nanai.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "I believe in the evolution of humanity that has gone out into space...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "But to turn all of humanity into Newtypes...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "someone has to bear that sin.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Has the last war... weighed on you that much?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "The Land of Beginning... It binds people, keeping them from evolving...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "And that's why you intend to see it through alone, Colonel?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "I'm not that much of a narcissist, Nanai.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "...But as things are, we'll give rise to a second, a third Einst...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "...I'm counting on you for this operation.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "I'll go ahead to Axis and wait for you there.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Yes, sir. And Quess... is that all right...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "I don't think she needs any more enhancement than that...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "No. Even without a psycoframe, that girl...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "is a Newtype who can control funnels.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "I'd imagine so... She'll have to carry the next generation.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Captain Bright!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Thanks for coming, Kamille. Sorry about this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "...Is it true?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "That Quattro... no, Char Aznable... is dropping an asteroid!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "...Yes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Damn it, how did we miss that Char was preparing an army...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "The Earth Federation rules space from Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "There are tons of Spacenoids who hate that...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "If Londo Bell goes to investigate, ordinary people cover for him.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "The last war... and now this, right after it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Had he been planning this... all along? ...Captain Quattro?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Probably.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "...I should have paid more attention to his moves at Anaheim.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Nina, you didn't notice anything?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "...I'm sorry.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "I don't keep track of every department.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "...What now, Bright?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "With our current forces... no, with the Federation space forces,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "we can't stop it... I've contacted Commander Hazuki on Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Then...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "...We'll be forming Londo Bell again, like back then.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "It seems Judau and the others are heading here too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "I've called her in, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "...Are you sure? Your wife may be enlisted,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "but isn't she off regular duty?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "She's been slacking a bit too much lately.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Besides, this is hardly regular duty... I'm sending Excellen out too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "...Like back then... though I suppose",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "we won't have the Dangaioh team or Rom and the others...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "It can't be helped. ...Bright, what's the plan for the rendezvous?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "It's taken care of. ...Now it's a matter... of time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Is everyone here?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Just the Mazinger team left...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Banjo, was it really Captain Quattro?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "I can't believe it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Me neither...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "But it's also certain that his asteroid is drawing closer.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "So all that pent-up stuff finally blew, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "When you think about it,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "trying to manage peace in space from the ground really is impossible.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Manage? Do people on the ground even have the right",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "to manage the people in space in the first place?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "I don't get it all, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "what the Captain's trying to do is wrong, isn't it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Tch! What did we risk our lives protecting Earth for!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Kappei's right, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Captain Quattro fought alongside us in that war.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "That's the part I don't get.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Isn't Captain Quattro supposed to be Zeon's last legacy or something?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Maybe he's just being used as a figurehead?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "No, I can definitely sense his strong will...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "That another one of them oracles from Mu?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "It's not an oracle... It's just how it feels to me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Knowing his personality... he's not doing it 'cause someone told him to.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Sorry! Kept you waiting!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "You're late, Koji!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Sorry, Cham. My brother took forever getting ready.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "I'm sorry... Grendizer has been acting up...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "It seems the god of Fleed is torn over this battle.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Oh, everyone's here? We've been waiting.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Hm? Is this everyone? Are the Gundam Fighters",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "with the Nadesico crew?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Yeah, we couldn't reach the King of Hearts...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "He's probably off training somewhere, anyway.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "The Nadesico folks have all gone back to their normal lives...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Well, we can't force civilians into this.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Hey now, we're civilians too, ya know?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "If you put it that way, so are we.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Right now, whoever can act just has to do their best...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "No, even so... this is quite a stellar lineup.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Well then, let's get going. Quattro... don't do anything rash!",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

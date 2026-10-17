@@ -1,0 +1,1213 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1303,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Raideeeen!! Faaaade In!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Raaaideeeen!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "A natural fortress like no other...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Now that the Star of La Mu is in our hands, it seems the Demon Empire",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "can't afford to be choosy about its methods.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Heh! We've had guys try to ram a whole planet into us, you know?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Like this is gonna surprise me now!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "But they never reached the surface. These guys are already here...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "But hey, how come they're not making any moves?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "They're not just gonna ram the island into us and call it a day, are they?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "...No, Mister. They're waiting, I think.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Akira...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "They mean to take us on... head-on...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "The Demon Empire must be pretty cornered, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Brings back memories, doesn't it, Ryoma?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "The Hyakki fortress island... right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Heh, come to think of it, they rammed their whole fortress into us too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "You came for the Star of La Mu, but that's where your luck runs out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Are you ready to sortie!? All units, launch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Seeing it up close... it's huge.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "It's creepy... the way it's just sitting there so close by...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Hey, Show, how does this island... move?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "...How should I know?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "It is Demon Emperor Barao's psychokinesis...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Psychokinesis...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "What's psychokinesis?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Who knows... Maybe it's something like Aura Power...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "I'll never understand things on the surface...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Raideen also moves by Akira's psychokinesis...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "I don't really get it either... It's the power of the heart.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "It's what makes Raideen move, I guess... I've never noticed it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Yes... psychokinesis! Akira Hibiki!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Heh, so you're finally showing your face!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Barao! So you're Demon Emperor Barao!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Indeed! A grudge twelve thousand years old...! I'll settle it, Raideen!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Come forth! Demon Beasts! And the Kyoretsu Beast Corps!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "They must have taken the bait of the Star of La Mu, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Looks like we hooked a pretty big fish, Tetsuya.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Attacking us with their whole home base...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "...What Barao is after is the Star of La Mu...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Leave it to us, Mom!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "We can't let the Star of La Mu be used! We'll beat them ourselves!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Curse you, humans! Behold the might of the demons, Barao's true power!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "I shall shatter heaven, rend the earth, and tear you humans to pieces!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "This is... a Great Kyoretsu Beast! Go to emergency defense status!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "This day, I shall obtain the Star of La Mu for you, my lord!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "I shall lay their heads before our great Lord Barao!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Raideen killed my brother! I shall defeat it without fail, my lord!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Doctor! That Kyoretsu Beast's face looks just like Gorai's!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Don't tell me... Gorai is...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Gorai himself became a Kyoretsu Beast... This is their final stand!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Kill them all, and the Mutron shall be mine!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "The battle of twelve thousand years ago... It'll end the same way this time!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Demon Emperor Barao! Raaaaaai!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Wh... Whaaat... Me...? Akira Hibikiii!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "It's over... Gekido Kyoretsu...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Impossible... This is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Nngh, guooooh... Raideen... Even if I fall... Lord Barao...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Do not underestimate the power of Lord Barao...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Oh, ohhhhh! You wretches!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Go back to hell! Gorai Kyoretsu...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Impossible! Big Brother!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Again... Am I to be defeated yet again!? Ooooooohhh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "So long...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Gekido! You at least! You at least must defeat them!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Big Brother! How pathetic! Losing to mere humans!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Lord Barao... my strength failed! Glory to the Great Demon Empire!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Ooooooohhh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Haaaaah...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Akira...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Incredible... Akira, you son of a gun...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Ooooooohhh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "See that, Barao!? We beat Baragoon too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Nngh! Don't get cocky, humans!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Nngh! Don't get cocky, humans!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Gu, guoooooooooooh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Is this the end of Barao...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "We beat him...! You did it, Hibiki!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "You gave us a lot of trouble! Now disappear...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "I-Impossible... That I would... Gunuuuuu...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "The Hyakki boss said something just like that!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "This is what happens when you look down on humans!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Why...? Why are those beings...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "...Why...? Even though those beings... are not here...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "why... am I defeated yet again...!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Those beings? Does he mean the Einst series from the tablet...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "This time... the Age of Demons was to be realized...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "That's... one down...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Oh, oh... Gekido...! Curse you, Raideen! How dare you do this to my brother...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Don't worry, you're next. You'd better be ready.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Gekido... I will... I will surely avenge him!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Barao! The Kyoretsu brothers have fallen! Now it's your turn!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "How long are you gonna keep hiding!? Show yourself!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Ohhh! Akira Hibiki! Beating the Kyoretsu brothers made you cocky!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "That is... There's no mistake... Demon Emperor Barao...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "So this is Barao's true form...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "It's enormous!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Twelve thousand years ago... there was a monster like this!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "You mustn't falter!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "That gave me a little shiver.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Heh, if anything, I'm shaking with excitement...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "It seems the title of Emperor isn't just for show... But I won't lose!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "I'm not afraid... of any enemy...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Akira Hibiki! Today I avenge my clan, which perished because of you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "I'll send you back to hell... just like the Kyoretsu brothers!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Come on! Barao!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Just like Gekido and Gorai...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Hwaaa ha ha ha! Akira Hibiki, they have gone to no such place!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Behold! Baraoooooooo!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Whaaat!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "What's he going to do!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "No... It can't be...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "With twelve thousand years of demon curses... from my steel-hard claws",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "and my hair, I shall birth the guardian dragon of the demons!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Come forth, Baragoon...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "What's that? That dragon-looking enemy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Gorai! Gekido! You shall fight on even in death!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Ooooooooohhh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Gaaaaaaah!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Ah! In the hands of that enemy called Baragoon...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "What is it!? Aina!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "It's got the heads of the Kyoretsu brothers from before on it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "What!? Dammit! Even in death, they're still getting in our way!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "The souls of the dead, however wicked, must go to the land of rest,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Byston Well... And yet...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "How horrible... To disturb the sleep of the dead...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "The sleep of the dead!? Don't make me laugh!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "It is for the victory of my Great Demon Empire, and of Barao himself!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "If their lives are spent for that cause, Gorai and Gekido are overjoyed!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "What an infuriating bastard!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Say what you will! Go forth, guardian dragon of the demons! Baragoon!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Seize the Star of La Mu so the Age of Demons may come to pass!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Queen Sheela...! What is that!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "The Einst series...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Why are they here...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "So the Einst are after the Star of La Mu as well...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "So you've come... Will you hinder us just as you did back then...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Reiko... You know, don't you...? If you use the Star of La Mu, your body...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "I understand... But if my life can destroy the demons... and the Einst...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "...Believe in Akira... in all of them... Reiko.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Dear...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Is it just me, or do they always show up right when we don't want them to?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Showing up when things are already complicated!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "They sure don't care about our schedule.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "What timing! Geez!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "BAD TIMING!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Complaining won't get us anywhere.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "They should be hostile to the demons too... That's the one saving grace...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "All units! Destroy both the demons and the Einst! Understood!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Oh... Akira...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Gekido, Gorai, and even Baragoon...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Raideen... Akira has...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "What incredible spirit...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "It's kinda scary...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Akira Hibiki... no, Raideen! Will you defy me to the bitter end!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "You fool!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "D-Dear! The Star of La Mu!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "What is this light!? Oh, it's heading toward Raideen!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Whoaaaaaa!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Dr. Hibiki! What happened!? Raideen's...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "This is... I sense power. What is it!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Hibiki! Hibiki! What happened!? Are you all right!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Wh-What is this...? Power... Raideen's filling with tremendous power!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Lemuria! If you release the power of the Mutron... your body will...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "No, I haven't done anything! This is... the Star of La Mu, the Mutron...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Ooooohhh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Raideen has recognized Akira as a true hero...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Nngh, I won't allow it! I won't allow it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "Look at their numbers!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Tch, this could be a pain... Huh!? Raideen!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "Raaaaideeeeeen!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "God Voice is now available.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "So this is the power of the Mutron! This is...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Uoooooh, insolent wretch! I shall crush you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Do not think my power is the same as it was twelve thousand years ago!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Whatever you've become... the result's the same! Barao! Here I come!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "The demons... are wiped out. We did it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "We've repelled all the Einst as well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "...I did it... Mom...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "Akira... at last... at last you've defeated Demon Emperor Barao...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Well done... Akira, you fought so well to get this far...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "Dad...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "A battle from twelve thousand years ago... settled at last.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Yeah, Akira! Good for you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Thanks, Koji.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "So does that mean the enemies on the surface are more or less dealt with?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "All we did was chase off that bastard Shapiro, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "...Mm. But the enemies based on the surface should be dealt with...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "That leaves...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "The invaders from other worlds...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "And the Einst... still shrouded in mystery...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "In any case, we must consider our next move.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "Good work, everyone... All units, return to your ships!",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

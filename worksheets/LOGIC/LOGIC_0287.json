@@ -1,0 +1,877 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 647,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. Zeta Gundam is destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "This is... kinda bad...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "You've done well to last this long. A new Earth model... Impressive.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "But it seems it wasn't quite up to facing our Vega Star Federation.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Says the guys who pick quantity over quality!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Besides, this machine isn't that new.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "It's a veteran that made it through the last war.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Heh heh... Then you have an excuse, at least.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "But even so, I can't let that machine join up with that pesky",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Londo Bell that's been buzzing around lately.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Hmph! Try it, then! I can still fire the Mega Launcher!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "I won't kill you so easily... You'll be the bait to lure them out!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "As long as the torso and cockpit remain, that'll be enough... Attack!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Captain Bright... hurry... I can't hold out much longer...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "What!? No way!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "I told you I wouldn't let you escape! Vega Beast King Gori!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "If she resists, so be it! Rip off her arms and legs!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "What a thing to say to a lady! You'll pay for that!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Hoho, splendid mobility. So that \"old model\" talk was a bluff!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Too bad! It's the pilot's skill! ...Or so I'd like to say, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "this machine carries the hearts of many people from the last war...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "No AI or lousy grunt is gonna get the better of it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Heh heh... Hahahahaha!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "I like it. I have no interest in people's hearts or whatever.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "But that robot... I like it very much!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "What!? So what's that supposed to mean!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "I'll present it to King Vega as new might for the Vega Star Federation,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "to put to good use...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "I'm done with keeping you alive to lure them out!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "...Just a little longer and Londo Bell, Captain Bright, will be here!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "If I can hold out until then, you guys don't stand a chance!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Heh heh, you haven't noticed, have you... I just started jamming.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "They should have lost track of you by now. ...Give up.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "...Ngh, is this it? But I won't hand over the Zeta, even if it kills me...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "This mobile suit... doesn't come that cheap!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "I'd never be able to face Kamille Bidan, who put his heart into it...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "What are you muttering about!? Die!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "I'm sorry, Judau...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Kenrou!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Summon the thunder of courage!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "You...! So, the one who's been helping these Earthlings lately...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "...is you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "I have no words to waste on villains...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Hey, you're one of those Londo Bell people, aren't you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Who... are you people?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Just passing champions of justice, miss. Jim, our location...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Yes, Jet. I'm sending a signal on a different frequency.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "They should notice it right away.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "All right, since we've stuck our necks in, we'll hold the line till then!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Are you with Londo Bell!? Are you on our side!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Unfortunately, no. But we have fought alongside them...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "They should arrive shortly. Until then, we'll lend you our strength.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "You mock me! I'll show you how terrifying Gorman can be!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Gyandlar, Bunker, Vega Star Federation... all who corrupt hearts...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "I will not forgive them!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Is this the point!? Where the distress signal came from!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Ah! Is that...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Oh, faster than I expected. Impressive, I suppose.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "That should do it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "That's... the mysterious alien... Rom, was it!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "And... the Zeta Gundam!? Who's piloting it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Captain! Captain Bright!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Roux!? Roux Louka! When did you get back to the Earth Sphere!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Where's Judau!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Geez, questions later! We can't even talk till these enemies are gone!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Hey, hey! What do you mean later!? Isn't Judau with you!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Ugh, shut up already! Just hurry up and help me, Elle!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "I'm heading out, Bright!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Captain, I'm heading out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "All right, all hands, sortie!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Join up with Roux and the others and push back the Vega Star Federation!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Louka, you're safe now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Thanks for the save... Well, some helpers did show up earlier, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "You helped us out again?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "As it turned out. ...Our role here is finished, then. And so...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Wait, please! We...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Wh-what the? You know them, Daisuke!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "They're allies. We just don't know who they are.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "You don't know who they are!? Well, they don't look like bad guys...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "You know them, Daisuke!? They certainly don't seem to be enemies...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "They're allies. We just don't know who they are.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Unknown...? What in the world is going on...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "The many alien invasion forces...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "...seem to be after something on the planet called Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "What concerns me, though...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Something they're after...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Rom! Looks like the Gyandlar are on the move again!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "This time... they're up to something pretty big.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "The place... is Mars.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Master Rom, is the Hyper Libido... here after all?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "I don't know. But... all right, let's go! ...May heaven be on your side.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "We want to save our planet too, just like you. Good luck!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "See ya.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Don't go dying on us so easily, got it? Jeeeet!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "I see... So that's the helper we've heard about. Who are they?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "They're aliens, right? So there are good aliens too?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Umon's a good alien too, y'know?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "I don't think that's the point here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Jeeet! ...Huh, I could get hooked on that.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Anyway... they're reliable, but we can't count on them every time.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "You all know them?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "They've helped us several times. Roux, we'll talk later.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Join the battle as you are. All right, commence attack!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "(Mars...? So there really is something on Mars?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "My Mother Barn!? Splendid... I'll give you credit!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "But don't think this is over!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "For you have angered the great Gorman!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Stop spouting nonsense! And don't come back!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Quite the spirited young lady.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Why, thank you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Looks like they drove off the main force before the Earth folks arrived.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "All right, let's deal them a little more damage.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Hell yeah, time to cut loose!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Yeah. If we can't breeze through this, we're in for a rough time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Battle Mastery increased by 1.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Phew... Looks like it's over.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "...The Vega Star Federation's Royal Guard...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Don't get worked up, Daisuke. ...We'll settle things with them someday.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "I know how you feel, Daisuke, but rushing in hot-headed won't help.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Brother, those guys...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "I don't know. ...But they're moving too fast.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "They must have a forward base somewhere in the Earth Sphere...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Where could it be...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "There can't be many options. ...A nearby colony, or an asteroid belt.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "...Oh, what about the moon?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Anaheim's and Nergal's factories, plus Von Braun... I doubt it's the moon...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "So just look into it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "That's about the size of it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "We're shorthanded, aren't we?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "We must investigate... but we can't spare the personnel for it. Tch...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "But the moon's out of the question.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "What do you mean? Hey, Roux, where's Judau?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "We went from the Jupitris II back to Von Braun, and there Judau...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "I see, so you came from Von Braun. ...Roux, I'll hear the rest later.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Right now, the Earth Sphere is in a very precarious situation.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "We must head to the next point at once.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Roger. Still a slave driver as ever, aren't you, Captain?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Didn't Elle say the same thing when she joined up?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Seems you're famous for it. Right, Captain?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Ahem... All units, return to the ship.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "(Still, I can't make sense of it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "They may help us, but they're operating in the Earth Sphere too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Earth... What could be here? And Mars is next...?)",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

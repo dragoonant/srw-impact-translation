@@ -1,0 +1,2161 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1355,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. Nadesico Y Unit destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "So boring...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "We're due at the rendezvous with the Elshank in a few hours.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Finally meeting up, huh... Let's join up fast and get back to the ruins.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "That decision... we'll leave to Londo Bell's commander.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "This is no time to be so laid-back...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Abnormal surge in boson particle readings in the aft hangar.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Huh...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Eek!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Enemy ship detected at the edge of sensor range.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "It's heading straight for the Nadesico.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Boson reaction, this time at the tip of the Y Unit...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Wha-wha-whaaat!? What the heck was that explosion!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "If not for the distortion blocks, we'd all be goners by now...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Distortion blocks... Come to think of it, how do those work?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "So glad you asked!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "It's a system that seals off damaged sections of the ship",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "with a Distortion Field. Heh heh heh heh heh...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Never mind how it works. Shouldn't we figure out why it exploded first?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "What's the enemy's status!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Distance 42 km. Visual contact soon.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "What shall we do, Captain?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Let's run. ...Minato, full acceleration away from the enemy, please.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Sure, but that'll take us a bit away from the rendezvous point, y'know.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "That's fine!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Okay, okay.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Boson reaction, this time directly below the bridge...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Full throttle!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Nadesico, rapid retreat!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "We found fragments of an explosive in the damaged block's wreckage.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "...The material closely matches the Jovian forces' shell warheads...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "In short, there's a good chance they're the same thing.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "A bomb? So it wasn't an attack from outside?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Allow me to explain!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Y-You're sure fired up.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Well, naturally.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "...Now then, everyone. The big robots the Jovian forces deployed lately...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "I trust you remember them well. Now, gather round!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "These robots are powerful weapons with built-in phase transition engines,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "but that's not even the most frightening part!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "They can perform a Boson Jump without the aid of a Tulip...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "So if a robot can teleport without using a Tulip...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Bombs, missiles, whatever... they can send anything right to us...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Exactly. The enemy teleported explosives right into the Nadesico...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "And we have absolutely no way to defend against it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "...Boson Cannon...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Boson Cannon?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Oh, um, I just figured it needs a name, or it won't feel right~",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Boson of a gun... Ohhh~",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "...S-So anyway, how are we supposed to deal with it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Then again, there's nothing we can do... huh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Enemy entering effective radar range.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Ha-ha-ha-ha-ha!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Running off right away! Typical gutless Earthlings!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "They must be terrified of our Leap Cannon.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Naive... Their quick decision is why our third Leap Cannon shot missed.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Don't underestimate the enemy captain.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Aren't you overrating them?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Well, as they say... a lion enters the tiger's den even to catch a rabbit!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Keep the Denjin ready to launch at any time!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Roger!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "We don't have time for this...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Humans fighting humans... What are we doing...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "...Human...! That's right, the Jovian Alliance people are... human too...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Minato! Please stop the engines!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "...Minovsky particles ready for dispersal, Captain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "When did you... load something like that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "You read my mind! Ruri!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "The Aestivalis team seems ready to launch... What should we do?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Launch immediately, pleeease!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Akito! Do your best!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Hey now, do our best? If you shut down the phase transition engine,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "the Aestivalis can't move either, you know?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "It's fine, it's fine!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Have you actually thought this through!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "If we get shot down just floating around, that won't be funny!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Those people are human just like us. So it'll work out!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Minato! Please!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "No idea what's up, but I'm shutting down the phase transition engine!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Captain, the enemy readings...!? Radio, infrared, gravity waves...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "the enemy ship has vanished from every sensor!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Cutting even their active sensors to play dead... Well played.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Damn, they plan to let us pass right by... Cowards!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Don't panic. If their units are too quick to lock the Leap Cannon on...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "...! They're using their onboard mechs...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Launch our mechs too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Cutting all the Nadesico's power to hide is fine and all, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Yeah, no energy supply for the Aestivalis either. If they shoot at us...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "all we can do is fire back.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Quit whining and let's do this! Those fake Gekiganger punks...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "I, Gai Daigoji, will give 'em a nasty surprise!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Um, we can't move, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "With the engines off, the enemy's sensors won't pick us up...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "But if things go wrong, we'll take direct hits with no field...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Do you have any chance of winning, Captain?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "...I believe in them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "The enemy's human, right? I'll try believing in them...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Captain, what should we do?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Continue straight ahead! Stay sharp on the search!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "H-How dare you... beat me up this badly!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "...W-Well, fine. Next time for sure...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Butcher... You will deal with what remains... Is that clear...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Y-Yes, sire! Without fail! Without faaail!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "We did it, Kappei! ...Ah!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Oh... Uoooooh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Waaagh! Captain...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Vice Captain!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Did we beat it!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Fake Gekigan jerk! How do you like that!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Vice Captain! Saburota!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "I-I'm all right, sir.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "...Escaping in a lifepod now... I'd be grateful if you could pick me up...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Recover him at once! Not bad, evil Earthlings...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "We'll withdraw for now!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "What!? Captain! I can still fight! If you just pick me up...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "...The difference in strength is plain to see. Besides...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Besides?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Once they saw the Leap Cannon's weakness and closed in, we'd lost.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "...We'll withdraw with dignity...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Ngh...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "They seem to have lost track of us, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "if they keep coming this way, they'll spot us by sight, Captain.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Just sitting here waiting feels kinda...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Tch.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "...Tote-chite-kenja...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Floating in space......... A mouse lost for words is simply squeak-less.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Enemy ship holding course and speed...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "You can't rush it when you're fishing!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Fishing!? Give me a break!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Why not just counterattack or send a distress signal already!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "The enemy aren't fish, they're people!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "...Right, the enemy are people too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "So they should think things through and react sensibly.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Nadesico, Aestivalis team, hold position.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "...If we send a distress signal or start fighting...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "the Elshank will be targeted by that Boson Cannon.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "...If they don't know about it, they can't dodge it...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Yurika, you... That's why!? But what about the rendezvous point!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Still no movement from the enemy. ...What could it mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "...Enemy reinforcements?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Anti-EM particles have been dispersed, so I can't be certain, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "there are no enemies within a 100 km radius.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Stop acceleration! We'll see what the enemy does!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Captain!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "...Probably, no, definitely, they've set a trap.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "...Get cocky and you'll get burned, y'know?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "(Somethin' don't add up...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "No backup's comin', and they can't ambush with that firepower... So?)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Captain, huge energy reading at the planned rendezvous point.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "The Elshank...! I see, the microworm drive...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Here we go...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Captain! Enemy ship detected!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Where are we!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "The Nadesico's signal!? And these guys... the Jovian Alliance...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Did the Nadesico... get taken out!? Uchuta! Keiko! We're going!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "That's... an Earth unit! How did they get here!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "Blast...! The enemy has a ship that can jump in a different way than ours!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Start the phase transition engine!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Prepare to launch! Mike, Lenny!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Distortion Field to maximum output!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "That many enemies...!? We need to sortie now!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Gravity wave beams, make contact with each Aestivalis!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Leave it to meee!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Roger.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Princess! It's the Nadesico's signal!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "I see, to hide our rendezvous from them. All right, we're moving out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "From the start, their aim was to have reinforcements that can jump",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "run headlong into us! At this range, we can't use the Leap Cannon...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "All right! Aestivalis team, all units follow me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "Here I gooo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Gooo!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "I've been waiting for this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "This is Akatsuki. Nadesico, respond! It's a big catch today.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "I repeat, it's a big catch today!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Ngh! I'm borrowing the Denjiiin!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Come on! The Denjin is your opponent!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Now it's Riku-Ganger...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Don't you dare pass yourselves off as Gekiganger, you creeps!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "Big and useless...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "Being big isn't everything, y'know!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Enemy approaching from the Nadesico's rear.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "Ho-ho-ho-hooo! How kind of you to come all the way out here to us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "Saves me the trouble.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "That's... the Gaizok!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Their battleship's as tacky as ever.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "Ehh? Don't you think it's cute?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "This is no time for that! They're way too close!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "Ho-ho-ho-hooo! Seems even Earth has someone with good taste.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "Not that it changes the fact I'll kill you all. Hoh-ho-ho!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "That laugh is so creepy...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "Cover the Nadesico!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "You wiped out Kappei's ancestral planet, and now you're after Earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "but we won't let you have your way so easily!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "That's right! Today's your last day! Prepare yourself!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "Hohoho~ I'll throw those very words right back at you~!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "Captain, what's that!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "...Hmph, so that's the outfit they call the Gaizok!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "What's this, someone got here first? Don't get in my way!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "(Now that it's become such a melee, the Leap Cannon is hardly effective.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "...Chase two hares, catch no bees... the fisherman's son is a frog...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "It'd be wiser not to get involved here.)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "Nngh...! We can't hold out any longer!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "Captain! At this point, even a suicide charge...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "...Two enemy ships, and we're nearly sunk... Downing one means nothing.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "Besides...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "Besides?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "Once they saw the Leap Cannon's weakness and closed in, we'd lost.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "...We'll withdraw with dignity...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "Ngh...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "Admirable, for an enemy. ...Send them a message.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "Admirable, for an enemy. ...Send them a message.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "What the? It's down to just a head!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "...Did it break apart?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "No... it just separated...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "Only the body ran away?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "...That definitely looks like a retreat. Is that the main body!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "Like a lizard dropping its tail, huh! Kappei!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "You're not getting away!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "Halt! I won't let you give chase!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "Don't get in my way when you're nothing but a head!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "You'd run off and abandon our duel!? You coward!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "Whaaat!? Who're you calling a runner!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "Kappei, don't fall for such a cheap provocation!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "That battleship's body... is that really the main part?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "The man with the weird laugh seems to be riding in this head here...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "Shall we... pursue it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "...If this is a trap, splitting the team would be fatal.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "For now, focus on wiping out the enemies here!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "Captain Burning is right. Our radar is tracking the body's position.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "It should be easy enough to pursue.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "Kappei, let's beat Butcher first, then go after the Bandock.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "...Fine. Runnin' from a fight would shame the Jin family name...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "Let's settle this, Butcher!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "That's more like it! Hoh-ho-ho-ho!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "Did we get him!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "There was no time to escape...! We won.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "All right! Next, let's neatly finish off that runaway body too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "Hey, look at that...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "Hm, what's up...? Whoa!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "...Ugh... Heh, heh heh heh heh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "Butcher's still alive...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "en": "I see... he's...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "A cyborg... isn't he...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "Butcher, the fight's over...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "en": "If you're the enemy's leader, then face your end like one!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "en": "Fu, fuhahaha... I was ready for that long ago!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "en": "...But there's one thing I want to ask...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "en": "...? What!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "en": "...Why did you... For what purpose did you fight me...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "en": "What's that bastard getting at?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "en": "It doesn't seem like... sour grapes...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 258,
+   "en": "For what...? To protect peace on Earth, obviously!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "en": "Hmph...! And who... asked you to do that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "en": "Nobody asked! It's our own choice!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 261,
+   "en": "...And who out there... will thank you for it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 262,
+   "en": "...Who on Earth is grateful? Who... will be happy for you?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 263,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 264,
+   "en": "(...Captain Quattro?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 265,
+   "en": "Shut up! Quit yammering!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 266,
+   "en": "...Earth is where we were born and raised!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 267,
+   "en": "I won't let anyone... anyone trash it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 268,
+   "en": "We don't fight because we want something in return.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 269,
+   "en": "Everyone's fighting to protect their home and the places they cherish...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 270,
+   "en": "I won't let you call that meaningless...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 271,
+   "en": "That's right, what would someone like you know!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 272,
+   "en": "Heh... heh heh heh... If only those who think so... lived on that planet...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 273,
+   "en": "then they might never... appear again...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 274,
+   "en": "\"They\"...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 275,
+   "en": "Ho... Hoho... Ho... Either way... Earth is doomed to perish... doomed!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 276,
+   "en": "Fuhohohoho... Hahahahaha... Ha!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 277,
+   "en": "Did we win...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 278,
+   "en": "Hard to say... It leaves a bad taste... but we did win, it seems.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 279,
+   "en": "A fight... someone will be happy about...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 280,
+   "en": "There's no such thing. We fight to end the fighting...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 281,
+   "en": "There's no joy or gratitude in that. ...Only sorrow, perhaps.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 282,
+   "en": "(The meaning... of fighting...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 283,
+   "en": "...So in the end, it just goes around in circles?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 284,
+   "en": "Tch, he was just messing with our heads. Fighting's our only option.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 285,
+   "en": "As long as they keep attacking, anyway!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 286,
+   "en": "...If you can't draw the line like that, you couldn't fight at all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 287,
+   "en": "Captain, look...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 288,
+   "en": "What is it, Ruri...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 289,
+   "en": "Huge energy reading from that battleship's body.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 290,
+   "en": "It's speeding up. At this rate, it'll leave our operational range.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 291,
+   "en": "Like hell we'll let it get away! We're going after the body!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 292,
+   "en": "Yeah! No way we're ending it on such a lousy note!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 293,
+   "en": "Wait! You three, don't act on your own...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 294,
+   "en": "We'll stay in touch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 295,
+   "en": "...You must not!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 296,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 297,
+   "en": "Princess... Romina?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 298,
+   "en": "Princess Romina raising her voice...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 299,
+   "en": "I understand how you Jins feel, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 300,
+   "en": "if each of us acts on our own, surviving the battles ahead",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 301,
+   "en": "will surely be difficult, will it not...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 302,
+   "en": "Ugh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 303,
+   "en": "The haniwa body... is leaving radar range.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 304,
+   "en": "...If you chase it now, we'll lose track of you along with it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 305,
+   "en": "Please, calm yourselves here... I...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 306,
+   "en": "it pains me to see those who fought beside me put themselves in danger...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 307,
+   "en": "Princess Romina...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 308,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 309,
+   "en": "Kappei, let's help everyone.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 310,
+   "en": "Damn it... Fine!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 311,
+   "en": "(Princess Romina... When it counts, her royal dignity really shows.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 312,
+   "en": "Still, the Gaizok... Behind that robot called Butcher,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 313,
+   "en": "is there something more...?)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 314,
+   "en": "Have all the Gaizok forces withdrawn!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 315,
+   "en": "Looks like it's over... No readings.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 316,
+   "en": "Finally over, huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 317,
+   "en": "Hey, aren't we gonna chase that body?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 318,
+   "en": "We're not ignoring it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 319,
+   "en": "But it'll have to wait until we've dealt with our current problems.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 320,
+   "en": "Tch! Lucky bastard...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 321,
+   "en": "The Gaizok concern me, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 322,
+   "en": "the Jovian Alliance's attacks are getting hard to ignore too...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 323,
+   "en": "True... If ships like that came in force, could we hold them off...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 324,
+   "en": "Nah, no matter how strong a weapon is, it doesn't matter if you dodge it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 325,
+   "en": "Against Boson Cannons... the Aestivalis will have a hard time...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 326,
+   "en": "Right. Without a frame that can operate independently, it'll be tough.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 327,
+   "en": "Who cares about the details?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 328,
+   "en": "Anyway, we met up with the Nadesico and beat that cocky Gaizok guy.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 329,
+   "en": "All's well that ends well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 330,
+   "en": "And so the Mobile Battleship Nadesico joins Londo Bell once again!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 331,
+   "en": "It's good we joined up, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 332,
+   "en": "later you'll be telling me why you jumped to Mars on your own.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 333,
+   "en": "Though the Nadesico's navigation logs would tell us most of it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 334,
+   "en": "Ugh... Oh well, guess I got a little too hasty.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 335,
+   "en": "Forgetting the Elshank could use worm navigation was a mistake.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 336,
+   "en": "What are you saying!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 337,
+   "en": "This operation worked precisely because of worm navigation!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 338,
+   "en": "Lady Yurika.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 339,
+   "en": "I'm sorry, Princess Romina! For kind of tricking you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 340,
+   "en": "Tch, using us to ram into the enemy... pretty clever.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 341,
+   "en": "Joe, don't say that. ...The Nadesico can apparently do the same,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 342,
+   "en": "so next time, we can simply have the Nadesico do it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 343,
+   "en": "(S-Surprisingly, maybe she holds a grudge...?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 344,
+   "en": "Even so, the Meganoids, the Jovian Alliance, and even the Gaizok...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 345,
+   "en": "Indeed... Mars has more hostile forces than we thought...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 346,
+   "en": "It may be best to simply come clean with Londo Bell.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 347,
+   "en": "Right, right, honesty is best!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 348,
+   "en": "You're way too honest...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 349,
+   "en": "Idiot...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 350,
+   "en": "(The Gaizok... An evil star... They've appeared again...?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 351,
+   "en": "Oh, Captain. Incoming message from the enemy ship.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 352,
+   "en": "Huh? What?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 353,
+   "en": "\"My respects for your brave and bold command. That even the vile",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 354,
+   "en": "Earth Federation Forces had so fine a young man as you was a surprise.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 355,
+   "en": "We shall surely meet again in battle. Genpachiro Akiyama, Kannazuki.\"",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 356,
+   "en": "...End of message.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 357,
+   "en": "Hmph! What do you mean, \"fine young man\"!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 358,
+   "en": "I'm such a cute girl, thank you very much!",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

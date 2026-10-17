@@ -1,0 +1,1627 @@
+{
+ "file": "BTL/BMCPACK.BIN",
+ "format": "BMC",
+ "pilot": 244,
+ "strings": [
+  {
+   "id": 0,
+   "en": "How's this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Take this!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Here I come!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "I'll finish you in one blow!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "You can't escape this one!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "My trump card!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "This is the end, Emperor Burai!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Prepare yourself, Marshal Hidler!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Gula! You, I'll never forgive!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Baron Ashura, face me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "This is the end, Brocken!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "We're your opponents, Dr. Hell!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Great General of Darkness! Have at you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Believe in the Getter's power...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Take the Getter's power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "I'll give you a taste too! Of the Getter's terror!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Leave it to the Getter!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "I'll show you Getter-1's power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Believe in the Getter's power...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Take the Getter's power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "I'll give you a taste too! Of the Getter's terror!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Leave it to the Getter!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Feel the Dragon's power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Believe in the Getter's power...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Take the Getter's power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "I'll give you a taste too! Of the Getter's terror!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Leave it to the Getter!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Let's go, Shin Getter-1!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Let's go! Hayato, Benkei!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Payback!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "You'll pay for that!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Now it's our turn!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "This is the end, Emperor Burai!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Prepare yourself, Marshal Hidler!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Gula! You, I'll never forgive!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Baron Ashura, face me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "This is the end, Brocken!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "We're your opponents, Dr. Hell!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Great General of Darkness! Have at you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Believe in the Getter's power...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Take the Getter's power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "I'll give you a taste too! Of the Getter's terror!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Leave it to the Getter!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "I'll show you Getter-1's power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Believe in the Getter's power...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Take the Getter's power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "I'll give you a taste too! Of the Getter's terror!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Leave it to the Getter!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Feel the Dragon's power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Believe in the Getter's power...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Take the Getter's power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "I'll give you a taste too! Of the Getter's terror!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Leave it to the Getter!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Let's go, Shin Getter-1!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Let's go! Hayato, Benkei!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Waaaaaah!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Whoa! Damn!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Ngh!! Is this it!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Whoa!! N-No!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Kuh! This is bad...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Ugh!! What power!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "D-Damn!! At this rate...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Gwah!! Bad! At this rate...!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Ngh!! Did we take too much damage!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Ngh! I c-can't go down yet!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Not yet! We'll show you our true grit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Uah! Is fighting on as Getter-1 a losing battle!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Whoa! Hayato, Benkei! You okay!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "W-We're fine here!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "But there won't be a next time, Ryo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Ugh! What's wrong, Ryo!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Come on, pull yourself together!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "I know! It won't happen again!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Guh... To push us this far...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Not bad, for an enemy!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "But we can't back down!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "N-No! At this rate, even the Dragon...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Whoa! Hayato, Benkei! You okay!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "W-We're fine here!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "But there won't be a next time, Ryo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Ugh! What's wrong, Ryo!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Come on, pull yourself together!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "I know! It won't happen again!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Guh... To push us this far...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Not bad, for an enemy!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "But we can't back down!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Kuh... Is Shin Getter-1 not reaching its full power!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Whoa! Hayato, Benkei! You okay!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "W-We're fine here!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "But there won't be a next time, Ryo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Ugh! What's wrong, Ryo!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Come on, pull yourself together!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "I know! It won't happen again!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Guh... To push us this far...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Not bad, for an enemy!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "But we can't back down!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Ugh!! I-I can still go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Kuh!! I won't let you!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Mmh!! Not bad!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Not yet!! Not from something like this!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Whoa! You got me!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Ngh!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Ngh! Not bad! But not yet!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Ngh!! But I can still go on after this much!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Tch!! This won't bring me down!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Damn, did they hit the anti-gravity circuit!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Gwah!! This won't finish the Getter!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Kuh! But Getter-1 can still fight!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "...!! Getter! Not yet!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "H-Hey, the enemy's fast!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Ryo! Switch with me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Damn, a direct hit!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "What are you doing, Ryo!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "That's not like you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Looks like our friend there is a match for us.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "S-Seriously!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "If the three of us combine our strength, we can't lose!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Gwah!! This won't finish the Getter!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "We don't have the power to beat the Dragon!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "...!! Getter! Not yet!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "H-Hey, the enemy's fast!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Ryo! Switch with me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Damn, a direct hit!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "What are you doing, Ryo!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "That's not like you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Looks like our friend there is a match for us.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "S-Seriously!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "If the three of us combine our strength, we can't lose!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Gwah!! This won't finish the Getter!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Fighting Shin Getter as an equal... Not bad!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "...!! Getter! Not yet!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "H-Hey, the enemy's fast!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Ryo! Switch with me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Damn, a direct hit!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "What are you doing, Ryo!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "That's not like you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Looks like our friend there is a match for us.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "S-Seriously!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "If the three of us combine our strength, we can't lose!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "That's nothing!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Not a chance!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Heh, that's nothing!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Hah, it only grazed me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Nothing I can't handle!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "What's wrong, is that all!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "This little damage!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Hmph! Not even close!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "That won't be enough to beat the Getter!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "That's the Getter for you... This is nothing to it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "What's wrong, is hitting Getter-1 the best you can do!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "What, it hit!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "What's wrong, Ryo! Want me to take over!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "No need for that, Hayato!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Ryo, this is no time to be doing the enemy favors!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Dodge it properly next time!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Yeah, I know!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Damn, did I fail to dodge!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Were you looking the other way, Ryo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Heh... I'm not you.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "That won't be enough to beat the Getter!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "That's the Getter for you... This is nothing to it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "That won't work on the Dragon!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "What, it hit!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "What's wrong, Ryo! Want me to take over!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "No need for that, Hayato!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Ryo, this is no time to be doing the enemy favors!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Dodge it properly next time!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Yeah, I know!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Damn, did I fail to dodge!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Were you looking the other way, Ryo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Heh... I'm not you.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "That won't be enough to beat the Getter!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "That's the Getter for you... This is nothing to it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "This is nothing for Shin Getter!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "What, it hit!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "What's wrong, Ryo! Want me to take over!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "No need for that, Hayato!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Ryo, this is no time to be doing the enemy favors!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Dodge it properly next time!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Yeah, I know!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Damn, did I fail to dodge!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Were you looking the other way, Ryo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Heh... I'm not you.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Useless!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Whoops!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "Not good enough!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "Too naive!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Once I read your moves, it's nothing!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "What's wrong? You're not stepping in far enough!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "You're not up to taking on the Getter!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Getter-1 is faster!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Like that'll hit our Getter!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "Heh... Nice, Ryo.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "Hup!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "Ryo, keep it up next time too!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "Emergency evasion!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "All right, that's our Ryo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "You're not up to taking on the Getter!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "That won't even graze the Dragon!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "Like that'll hit our Getter!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "Heh... Nice, Ryo.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "Hup!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "Ryo, keep it up next time too!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "Emergency evasion!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "All right, that's our Ryo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "You're not up to taking on the Getter!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "You think you can fight Shin Getter with that!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "Like that'll hit our Getter!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "Heh... Nice, Ryo.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "Hup!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "Ryo, keep it up next time too!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "Emergency evasion!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "All right, that's our Ryo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "Open Get!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "Open Get! Emergency evasion!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "Useless!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "Defense system, activate!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "Yes! Completely deflected!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "Whoa! Damn! I can't counter!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "No good, not at this range!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "Damn, at this range...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "Getter Robo will lend a hand!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "We'll follow up with an attack!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "Not done yet, one more! Take this!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "I'll handle this enemy!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "Leave this to me and get away while you can!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "Getter Robo will protect you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "How's this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "Take this!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "Here I come!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "Hyah!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "I'll finish you in one blow!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "Double Tomahaaaawk!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "Double Tomahawk!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "Double Tomahaawk Boooomerang!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "Double Tomahawk! Boooomerang!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "Double Tomahawk Boomerang!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "Getteeer Beeeeam!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "Getter Beam!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "Getteeer! Beeeeeam!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "Getteeer Tomahaaawk!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "Tomahaaawk Boooomerang!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "Tomahaaaawk!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "Boomerang!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "Tomahawk Boomerang!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "I'll show you Shin Getter's power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "Go, Ryo!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "Shin!! Shiiiiine Spaaaaark!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "en": "Spin Cutteeer!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "Getter Laser Cannon!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "Getter Blast Cannon!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "en": "Missile Machine Gun!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "en": "Ryo, you know what to do, right!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "en": "Yeah. Pour our feelings in and draw out Shin Getter's power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "en": "Raaah!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "en": "Stoneeer... Suuunshiiine!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "en": "Sync up when you hit the pedals!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "en": "Leave it to me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 258,
+   "en": "Let's go!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "en": "Getter Shiiine!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "en": "Shiiine Spark!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 261,
+   "en": "Uoooooh!! Dai-setsu-zan Oroshiii!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 262,
+   "en": "Getteeer Tomahaaawk!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 263,
+   "en": "Getter Drill!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 264,
+   "en": "Uoooooh!! Dai-setsu-zan Oroshiii!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 265,
+   "en": "Double Tomahawk!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 266,
+   "en": "Drill Arm!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 267,
+   "en": "Open Get!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 268,
+   "en": "Open Get!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 269,
+   "en": "Open Get!!",
+   "kind": "quote",
+   "keep": false
+  }
+ ]
+}

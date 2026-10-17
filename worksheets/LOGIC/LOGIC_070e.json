@@ -1,0 +1,445 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1806,
+ "strings": [
+  {
+   "id": 0,
+   "en": "Blast, who on earth are they? If they hadn't suddenly appeared,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "we'd have crossed the Karakara and entered Tartara!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "It seems the Aura Road opened and surface machines came down.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "That many at once...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "What is happening in this Byston Well?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "I don't know... But it does seem the Aura Road opens more easily now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Holy Warrior Show Zama, and now Todd's unit gone missing...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Are these recent disappearances due to the Aura Road opening?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Todd's unit lost contact right after encountering",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "those bone-like enemies that suddenly appeared.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "You mean they opened the Aura Road...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "I see. To think that's happening on the surface...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "While I was on the surface, did anything change here?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Come to think of it, Drake's Todd Guinness went missing too. Maybe...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Yeah, I ran into him in New York.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "So... Todd's on the surface too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Yeah, he's with the Gandor Team on the surface.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "He's one of your comrades?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "He should be fighting the invaders on the surface right now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Todd helping you, Show...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "You two! Never mind that, what do we do now!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Right. What are Nie and the others doing now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "They should be heading to Castle Uroporos in the Goraon.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "The Goraon?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Queen Elle of Rau's aura ship. It's our mothership.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Anyway, let's try contacting Nie.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Lady Elle. Word from Marvel at Karakara.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "So, was Show at Karakara?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Yes, he apparently appeared suddenly with other surface machines.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "I see...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "So Lady Elle's vision was right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "What shall we do, Lady Elle?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "The Goraon will continue to Castle Uroporos.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "We cannot let Drake's army interfere with the Gran Garan's construction.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "I told Show and the others to head for the Storm Sphere...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Right. We can't just leave Queen Sheela captive.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "The Storm Sphere keeps moving. Can the Holy Warrior really find it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "In that case, tell Show Zama to come",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "to Castle Uroporos as well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Understood, Lady Elle.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "...Yeah, got it, we'll head there right away... Yeah, thanks, Nie.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Show, let's hurry and go help them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "...My friends are in a pinch. Everyone, please lend me your strength.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "No need to be so formal. We'll help as much as you need.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Thank you so much.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Lady Sheela has been captured and swept up into the Storm Sphere.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "And who is this Lady Sheela?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Sheela Lapana, queen of the Kingdom of Na in Byston Well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Without the strength of the Kingdom of Na, there's no way to end",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "the war raging across Byston Well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "So we're going off to rescue this princess, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "She's a queen! Were you thinking about Princess Romina again?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "No way.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "That attitude isn't nice, Joe.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "You've sure been taking Lenny's side a lot lately, Allenby.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Allenby and I are both maidens with troubled hearts, you know.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Exactly.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Geez. What'd I even do?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "See? You just don't get it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Mm-mm. Doesn't get it, doesn't get it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "This is why I don't get women. Not that I get Princess Romina either.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "...That's right, what's going on up on the surface!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Yeah. ...We have to get back as soon as we can...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Hey, Show, how did you end up coming to the surface?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "...I'm not really sure. I was fighting Garalia, and suddenly...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Isn't there some surefire way?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "If there's one possibility... it'd be to get help from Silky Mau,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "who's being held in Drake's castle, like I mentioned before.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "But, Show... even Silky might not be able to do it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "...Even if the odds are low, if it's all we've got, we do it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Right... It's nice here, but we can't just sit around.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Yeah, and Mike's probably worried about us, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "All right. We'll join up with Show's friends and head for Drake's castle.",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

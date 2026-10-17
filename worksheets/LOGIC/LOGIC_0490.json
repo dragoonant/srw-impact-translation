@@ -1,0 +1,1537 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1168,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "What are these rock-like things...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Creepy... They're floating, see?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "...Tch, they've got the lab completely surrounded...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Thank you for coming back, all of you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "So far, the Getter Ray amplifier reactor experiment is going smoothly.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Doctor, what kind of experiment is this one?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "...In the middle of a war, and while we're surrounded",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "by some unknown things...! If the enemy attacks now...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "It's precisely because of times like these that this must be done.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Peaceful use of Getter Rays... For that, peace must come to Earth,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "no, to the universe...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "But our Londo Bell comrades' forces are scattered...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Was there really a need to call us back, Doctor?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "And we're using the old Getter, not the Getter G...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "If this experiment succeeds...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "we'll be able to fire up a new Getter Reactor...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "...!! A new Getter Reactor!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Does that mean... there's a new Getter Robo!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Is that true, Doctor?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Purely in theory, but relative to the absolute value of Getter Rays,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "if the Getter Reactor doesn't go berserk... a stronger Getter results.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Now that's great. I see, so you wanted to hand it to us first...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "That's part of it, but... as you've been saying,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "when we began the experiment, those rocks appeared from nowhere.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "What are those things, Doctor?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Well... It's too early to conclude, but almost certainly...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "someone is watching this lab. Those must be their monitoring devices.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "What?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Don't tell me the Hyakki guys survived, Doctor?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "...I can't say, but... probably not.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "They're waiting...? For you to finish the Getter Reactor, Doctor?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "I think that's highly likely. That's why I called you here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "I see... Then, Doctor.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Yes, the test now enters its final stage.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "If nothing happens, so much the better.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Besides... I can't say the experiment will fully succeed. You all...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Understood, Doctor. We'll crush those rocky lumps with the Dragon.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Right...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Getter Rays... So there are still guys after them, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Is it really not the Hyakki's revenge?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "...Hey, Hayato, those guys watching us... what d'you think they are?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Well... When I hear \"unidentified,\" they're the only ones I can think of.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "What!? It can't be...! Doctor, enemy attack!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "That enemy... It's the Einst!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Hayato was right... It really was them!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "What is this...! Ryo, Hayato, Benkei!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Buy us some time! The experiment has already begun!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "All right! We'll hold them off! Hayato! Benkei!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Yeah, we won't let 'em do as they please!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "I'll throw 'em all over the place!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Brother, we're sortieing too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Yes! Let's sortie!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Everyone, listen closely.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "We can't stop the Getter Reactor experiment... now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "...If the enemy destroys the lab... there's no telling what will happen!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "(That much Getter Ray energy!? What kind of Getter...!?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Here we go!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Chaaange Dragon! Switch On!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Come on, then!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Ryo! We've just received word from Londo Bell.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "From Londo Bell!? They're coming here!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "That's right. Hold out until then!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Tch, there's a lot of 'em.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "And compared to that, we've only got two units... It's tough, ne.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "But we're way stronger than they are, many times over!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "That's the spirit!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "...Li... fe...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Good, sooner than expected! The enemy hasn't deployed its lines yet!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Dr. Saotome!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Are we late...!? The enemy's moving fast...! Dr. Saotome!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Oh! Londo Bell! Thank goodness!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "The enemy is... It really is the Einst!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "If they've shown up at the Saotome Laboratory...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "does that mean they're after Getter Rays too?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "These rocks lined up like this... like the ones they said were in space...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "They appeared at Demon Mask Castle too... What could they be after...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Kosuke! Worry about that after we've chased 'em off!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "I don't understand... The enemy is after the Getter Reactor?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "A mech with the power of Getter Robo... Isn't that their goal?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Could be. If they're after Getter Rays... that power...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "...No, that's not it...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "That's not it... not it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Cham!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Something more... more fundamental... about life...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Holy Warrior, what is wrong?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Dr. Saotome! Is everyone at the lab all right!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "You're... Dr. Mikamura's...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "...The Getter Reactor experiment is underway; we can't step away.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Ryo and the others are doing well holding off the enemy, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "if we ever let the enemy get inside...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "If you did!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "...For a while now, the Getter has been resonating with that enemy.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "I have no idea what will happen!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Resonating with them...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "You're... Dr. Mikamura's...? There are no casualties so far!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "But... since the enemy got in... the old Getter has been acting strangely...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Doctor!? What do you mean!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "...For a while now, the Getter seemed to be resonating with that enemy...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "And it's getting stronger and stronger...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "I have no idea what will happen from here...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Resonating... with them!? Getter Robo... no, the Getter Rays!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "If that Getter Reactor went out of control... what would happen?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Maybe nothing at all, or the whole lab area...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "no, all of Japan might be blown away.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "That much energy!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "...That is what Getter Rays are.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Chatting is fine, but we'd like some support soon, ne!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Yes!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Cover us, please!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "I get that things are getting complicated, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "We're counting on you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Everyone, please hurry and save the lab!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Right, let's go! Mike, Lenny!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Okay, Big Bro!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "We have to help Ryoma and the others!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Kyosuke Nanbu, Alteisen, heading out...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Ah! Kyosuke!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "(I've got a bad feeling... Their goal... and this feeling... It's nearby...!)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Li... fe... Ne... w...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Unknown energy... Getter Rays! What do you seek in them...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Kyosuke, what's wrong?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "He's lost his focus...? Kyosuke!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "...Don't tell me... it's coming!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Akira, something happen?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "What? Raideen is... resonating...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "...! Th-this is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Hm! That's...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Wh... the Weissritter!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "The machine of the missing Excellen!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Thank goodness... She's safe!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "You idiot! Where the hell've you been wandering all this time!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Just vanishing without a care... It's been rough on us, y'know.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "That's... not right...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "It seems there's trouble brewing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Yeah... any way you look at it, that's not someone here to back us up...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "It showed up with the mystery enemy, so there must be a connection...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "...But that doesn't mean Excellen's the one flying it, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "The enemy may have stolen only the machine...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Then... what about Excellen...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "In the worst case...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "...No... it's her...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Y...ou...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "What...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Hm? What's wrong?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "...Nothing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Tch, the enemy's not gonna wait around for us!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "We intercept! Kyosuke... we have no choice but to fight...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "...Roger...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Why... why are Kyosuke and Excellen...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "What in the world's goin' on!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Hey, Kyosuke, no hard feelings, all right!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "...Tch.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "What're those escorts!? Mobile suits...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "...no, they're not. But I've seen that shape somewhere before!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "What...!? Could those be...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "...They're Gespensts.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Yes, I saw them too, back when I was a test pilot...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Gespenst... Kyosuke, your machine is also...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Alteisen is the Mk-III.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Only three Gespenst prototypes were ever built, so...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "...are those the mass-produced Mk-II!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "But the Gespenst Mk-II units deployed to the Federation Forces...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "...numbered thirty-odd, and most of them were lost in the last war...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "...Most likely... they were based on the Weissritter...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "(The enemy has that kind of technology...?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Excellen! It's me. It's Kyosuke...! Don't you recognize me!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "You're in there, aren't you!? What... what happened to you!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Looks like Excellen really is aboard...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "But she attacked us... I hope we can bring her back to her senses...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Yeah, I don't wanna fight that girl...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Hang in there, Kyosuke...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "...Getter Rays... That... is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "...Getter Rays!? What about that energy!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "What happened to you, Excellen... Answer me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Excellen...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "...Kyosuke...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "Excellen!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Ah!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "She took off at an incredible speed!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "What the heck! What's going on!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "...That speed... It's nothing like the Weissritter we knew.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "So she's all right, at least? Her, I mean.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "Yeah. She... seemed to know my name, at least.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "But... why...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "Battle Mastery increased by 1.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "...Kyosuke...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "Excellen!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "Ah!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "She took off at an incredible speed!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "What the heck! What's going on!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "...That speed... It's nothing like the Weissritter we knew.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "So she's all right, at least? Her, I mean.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "Yeah. She... seemed to know my name, at least.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "But... why...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "Ngh! The enemy's in the lab...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "It seems we've driven off all the enemies.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "We kept them out, but... what about the Getter reactor!? Doctor!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "I can't tell without a closer look... We seem to have stopped a runaway...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "Doctor, then...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "Yes... an unexplained resonance... The Getter reactor is very delicate.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "The one from the old Getter is already...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "I'm sorry, Dr. Saotome... that the lab ended up like this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "Not at all. That all the researchers are safe is blessing enough.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "But what happened to the Getter reactor!? Doctor!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "I can't tell without a closer look...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "When they broke in, the Getter reactor resonated violently.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "It seems we stopped the reactor from running away, but... it's hard to say...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "So their goal... was the Getter reactor after all?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "Were they trying to build some bony Getter, or a plant-like Getter?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "But... either way, the experiment has failed.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "Once a Getter reactor goes unstable... it's too dangerous to use.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "That's a shame...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "No... members of Londo Bell, you have my sincere thanks.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "No... it seems we weren't much help... with the Getter reactor experiment...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "Life comes first. As long as you're alive, there's always a next time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "You sure are upbeat, Doc.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "Hahaha, a scientist who isn't upbeat won't last long.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "Gramps said the same thing once.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "Well, it's a lot better than a pessimistic scientist...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "Banjo...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "Still, the Weissritter... it felt strange.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "Yeah, what happened?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "Kyosuke, did she... say nothing at all?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "No...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "Kyosuke... you can talk to the rest of us about it, you know?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "Fa... don't push him. There may be things he doesn't want to say.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "...Most likely... this battle was set up to bring Excellen",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "face to face with us...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "Why would they do that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "So it really was her in the cockpit.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "I didn't actually see her, but... there's no mistake.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "Hey, at least she's okay, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "That's right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "As long as she's alive, we'll get a chance to rescue her...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "en": "Indeed... for now, all we can do is pray for Excellen's safety...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "It is just as Akira Hibiki says.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "So long as we fight this war, we shall have a chance to meet her again.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "en": "That machine had the same spiritual power as the enemies around it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "en": "...but if she lives, she may yet return to her true self.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "en": "For now, it seems all we can do is pursue our own objectives...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "en": "(...She'll... appear before me again... And when she does...)",
+   "kind": "thought",
+   "keep": false
+  }
+ ]
+}

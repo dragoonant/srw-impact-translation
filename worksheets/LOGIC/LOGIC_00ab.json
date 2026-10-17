@@ -1,0 +1,895 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 171,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "...Well, I'll be... Is this... New York?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Looking for Show, I end up in a place like this... And it's all since...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "these things showed up... The Aura Road opened... Could it be...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "An Aura Battler after all! What's going on?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Is the Aura Road opening more easily now!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Show, look!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "...SHALL... COME...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Not an Aura Battler...? What is that... Cham?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "This is... Cham!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "It's them! The friends of those bony things!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Whatever they want... if they're in our way, we smash through...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "(That voice... again...!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "And this time... nobody else can hear their voices...!?)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "What!? Seriously, what the hell!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "How many armies do we have to fight before this war ends!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "True... Zeon... Even the fighting between people of Earth",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "hasn't ended yet...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "What's going on? He called that an Aura Battler, didn't he?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "It looks like they're helping it, too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Tetsuya, you think so too...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "That's... the Dunbine! Show! So this is where you were!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Wha-- Todd!? You came up to the surface too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Todd Guinness!? That man's on the surface too!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "What has become of Byston Well!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Who cares why we came out here?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "I'm gonna settle things with you, Show!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Come on! Do you even get what's going on!? This is no time to fight...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Quit your yapping! Show, here I come...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Ngh, Todd...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "What the hell are they fussing about! Just take him out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Big Bro! Brute force isn't always the answer.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Right! ...Though it looks like we've got no choice but to fight.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "All units, launch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "...Todd... I want to get through this without killing you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "That's the one that showed up with those Death Army enemies, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "What about Master, who's chasing the Death Army?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "I've got a bad feeling about this... Let's go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "What? Surface reinforcements!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Master!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "...Master, you came here chasing the Death Army too?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Amuro...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "...Yeah. What is this...? This grating feeling...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Master Asia's acting... strange somehow...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "What are you saying, Rain! Ugh...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Domon, your master's been surrounded!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Master, I'm coming!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "...Hahaha.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Master?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Heheheheh... You fool! Have you still not realized who I truly am!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Come forth, Death Army!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "He called the enemy...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Wait, Master Asia!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "C-Could Master Asia have served the Devil Gundam from the start?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "...That can't be... My master isn't that kind of man!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Domon... No wonder you're shocked. No wonder you can't believe it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "But this is the truth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Are you sad, Domon? Are you afraid, Domon? Your master sees all.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "So trust in me, and you shall be saved.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Wh-What is he saying? He betrays us, then tries to win him over?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "I am always with you. So be at ease.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Look, the Devil Gundam... no, your brother awaits.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "...My brother's waiting... Master is with me...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "No, Domon!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "His brother's waiting? ...What does that mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "The one who stole the Devil Gundam that Domon's group is chasing...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "is his own brother.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "What did you say?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Then he joined the Gandor Team to defeat his brother?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Yes. Come with me... and grow strong, strong, strong... stronger...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Don't! It's hypnosis! Wake up, Domon!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Tch, what an annoying girl...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Domon, are you all right!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Pull yourself together, Domon!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Domooon!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Shut up!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Too soft, Domon!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Your Shining Finger won't work on me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "The King of Hearts' master... Master Asia, the Undefeated of the East.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "...With him as an enemy, this is trouble.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Todd and the others' Drake army...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "and the Devil Gundam army, led by Master Asia...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "A three-way battle... How do we get through this...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Master... I'll wake you up with my own hands.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Stop it! Todd!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "What on earth is happening in Byston Well!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Same mess as ever! But none of that matters!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "You droopy-eyed jerk! We might never be able to go back!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "I said I don't care!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Besides, my home is this world! Suits me just fine!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Cham! He's in no state to listen! Get back!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Geez!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Surface people like us shouldn't be doing this...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "If only I get a chance to talk him down!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Pointless! Show Zama!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "That's enough for today...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "But Domon, the next time we meet, I will surely take your life.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "...Prepare yourself and wait for me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Wait, Master!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Why!? Tell me it's a bad joke! Masterrr!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Don't be a weakling, Domon! This is the truth! Plain, with no lie in it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "That's enough for today...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "But Domon, the next time we meet, I will surely take your life.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "...Prepare yourself and wait for me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Wait, Master!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Why!? Tell me it's a bad joke! Masterrr!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Don't be a weakling, Domon! This is the truth! Plain, with no lie in it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Master... Masteeerrr!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Master... Masteeerrr!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "To think Master Asia was a servant of the Devil Gundam...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "That's impossible! The Devil Gundam is just controlling Master!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Domon...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "In the end... we never learned what the mystery enemies are...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "And... the Aura Battlers and the mystery enemies... the Einst, was it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "I think that's what it was.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Their link to the Devil Gundam is unclear too... It's all too murky.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Captain Amuro, weren't those things... talking?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Talking...? No, I couldn't tell...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Come to think of it... that red robot from before didn't show up, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Aren't the rest just AI or something?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "(No... I definitely... heard it. That was the voice of a thinking being.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Todd... why did we have to fight...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Show!? Look!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Hm... that's Todd!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "It wasn't a direct hit. He might still be alive, Show!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Commander Hazuki...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "...You may bring him aboard. I'll leave the rest to you... All right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Thank you. The rest... I'll try to talk him around!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Either way, it seems all we can do is keep pushing forward.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "The way might reveal itself in time.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Geez, how carefree.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Arguing here won't get us anywhere.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "It's less a positive outlook than the only option, I'd say.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "First bones, now plant-like things, huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Is there some connection, I wonder,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "between all these invasions and those things showing up?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Who knows. ...But it's true they've been showing up more often lately...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "For now, we head for Jaburo. Once all units are aboard, we depart at once.",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

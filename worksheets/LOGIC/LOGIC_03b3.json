@@ -1,0 +1,1375 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 947,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. Akito's Aestivalis or Daitarn 3 lost",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "It seems we were jumped from Earth to a lunar city...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "but with my unit back, I can't ignore a city of arms factories!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "You invaders! I won't let you build any more devilish weapons!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Let's go, Mazin!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "That's...! The robot that came here with me...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "At this rate, the city is in danger. Launch the Elshank...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "We can't, it's still moored in the dock... We can't launch right away!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Damn! Joe and the others are on Earth... Guess it's up to Daitarn!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Looks that way...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Londo Bell should be here soon. I'll try to buy time until then.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Please, Banjo... Ah, what's that!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Hm? ...I see... Looks like you've sorted yourself out, Tenkawa.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Hahaha! You evil Earthlings...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Can't put up a fight? Did the sight of our heroic forms terrify you!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "What...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Okay, with this lunar frame, I can operate solo...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Same type as at Kawasaki...? I won't let you do as you please!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Only one machine... Seems some Earthlings have a little backbone...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "But evil can only perish!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Whoa there! That's far enough!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "What!? Y-you!? ...Curses, this time we settle it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Oh, we agree. That's my plan too. For the world and its people!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Hm! Ngh!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Daitarn 3, smasher of evil ambitions!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "If you don't fear the brilliance of the sun... come and get me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "...Ohh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "He's frozen...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Hm!? ...N-no! I got caught up admiring it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "What right do evil invaders have to say that! Feel the power of Mazin!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Tenkawa... you're all right, aren't you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Yes, Banjo.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "I'll fight... to protect the place where I belong!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "With this many enemies, don't push it. Hold out until Londo Bell arrives!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Roger!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Now that the Jin series is complete and manned jumps are possible...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "we of the Jovian Alliance have no equal!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "(I see. They may be called the Jovian Lizards, but... they seem to be",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "as intelligent as Earthlings or more... No, as human, maybe...?)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Dammit! Daitarn's reliable and all, but with only two of us...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Fighting while protecting a city is tough, even for me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "That's unusual, Banjo, to hear you sound unsure.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Hang in there, Big Bro Banjo! We're coming to help!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "That's the Ra Cailum!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Well, well, a lively cavalry has arrived.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Princess, it's Captain Bright and the others.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Ah, they made it in time...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "The enemy's deployed. All hands, launch as soon as you're ready!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Support Banjo and the others! Hurry!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Yeah, yeah.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "We just stopped the colony, and now we're up against Jupiter's mecha.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Jeez, they're working us way too hard.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Don't complain, Koji. At this rate, the people of Von Braun are in danger.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Hmph, if you want to complain, tell the enemy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Right, this time the safety of Von Braun's citizens is at stake.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Nina... please be safe...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Hm!? New enemies? One evil hand after another...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "but the goddess of victory always smiles on the warriors of justice!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "A phase-transition engine ship! Perfect, you legion of evil...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "come at me all at once!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "We've arrived at Von Braun City.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Confirming Londo Bell is engaged with the Jovian Lizards.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "That Aestivalis... Akito!? Is that you, Akito!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Yurika...? Is that you, Yurika!? You're here already?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Yup, it's for Akito! I came as fast as I could!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "This time, Earth's defense line didn't get in our way...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Still... the bridge feels rather lonely.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "And things are rather restless aboard the ship...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Seems they're chasing the Jovian Lizard pilot around.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Aestivalis team, launch and back up Akito and Londo Bell, pleeease!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "You got it! Hang on, Tenkawa!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "It's been a while since we saw the Londo Bell folks.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Yeah! Heh heh heh... Super robots with a different flavor",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "from the Gandor team's are waiting for us!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Don't get so excited to help that you stall out... Heh... heh heh heh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Looks like the battle's started...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "If we're going to move, now's the time...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Honestly, I feel like we're doing something pretty dangerous.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Especially now that the Jovian Lizards'... er, Jovians' secret is out.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Don't act so smug. That report came from Garrison!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "And if all you'll do is complain, you don't have to come along, Reika!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "P-please stop. Don't fight over me...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Oh, don't you like being surrounded by beautiful women?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Wh-what, I... um... It's Haruka that I...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "My, my, for a man from Jupiter, you're quite the charmer.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Ah, there you are! Why aren't you all on the bridge!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Hurry... Huh, that guy!? Get away from him!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Wh-what do we do!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "At a time like this... right, Minato?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "? What, what?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Right, Reika. ...Shiratori, over there!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Eh? A lady holding my hand... Whoa!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "We're getting out of here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Yes, get away from him, quick... Huh? Why... are you going with him?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Huh? Huh? What just happened?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "The Jovian Lizard robot we recovered has launched.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Oh, really. Hmm, so it moves even without a pilot... wait,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Whaaat!? Who's piloting it!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Yurika, this is bad!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "The pilot of the captured mecha took Megumi, Minato,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "and Banjo's two assistants hostage...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "What!? Megumi, Minato...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "What...!? ...But... that's odd. Banjo Haran's assistants...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "The other one aside, Sanjo was a top International Police agent...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Could they be up to something...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Anyway, contact Londo Bell too!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Aestivalis team, rescuing the abductees is your top priority!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Oh, Shiratori! You escaped the den of evil. I believed in you...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Well, I did escape, but... mmph.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "What's wrong? Is someone else in there?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "I guess five people in a one-seater machine... was a bit much...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Just a bit...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Way too much! Hey, Beauty! Your chest is in the way!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Can't be helped! It's cramped... Ah! Shiratori, don't touch me there!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "N-no, this is an accident! I'd never intend such a thing...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "(...What's going on in there?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Genichiro! These people may be from Earth,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "but they've agreed to help us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "...I-I see, but... they're all women?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "I-I have no impure intentions...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Ah, at a time like this...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "S-s-sorry, Minato... Anyway, I'll lend a hand too, Genichiro!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Whaaat, we're going into battle like this?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "I-I don't really get it... but you've brought allies, then.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Very well, second wave! Sortie and cover Shiratori!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "What!? There are hostages inside that machine?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "The Nadesico's crew... and Banjo's assistants.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "I see. Quite a cunning ploy...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Megumi and Minato!? Dammit! Those dirty rats!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Good grief... Anyway, all we can do is stop that thing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Huh? Banjo, you're pretty calm.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Aren't you worried about your assistants?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Well, I trust them...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "And they should be prepared for the worst.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "(He's so easygoing... but he's pretty hard-boiled, huh...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "I won't let the worst happen to Megumi and the others!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "We'll all save them together!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Yeah! Pulling a dirty trick like that! ...I'll make 'em regret it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Enemy reinforcements are here, but... we have to save the hostages!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Phew. If you want to look cool, I'd rethink that villain's exit line.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "(But... they don't seem to be beyond reason, these Jovian Lizards...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "No, the Jovian Alliance forces. I hope we can find some kind of opening...)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Wait!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Listen to us!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Megumi, Minato...!? Ngh...! That's dirty, you people from Jupiter!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Huh!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "(People... from Jupiter...?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Hmm...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "(As I thought...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "No, Akito, stop attacking!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "For this man's honor, let me say it: we are not hostages.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "We were all deceived! These people are...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "...I heard it here... They're human, right? Exiled from the Earth Sphere...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Whaaat!? Hey, Tenkawa! Is that true?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Whoa, whoa, isn't that totally different from what we were told?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Could it be... information control!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Hmph... The brass's favorite trick, information control...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "I see... So you were told too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Step aside, please. We only want the phase-transition engine ship.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Shut up! I'll protect the Nadesico!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "No, dragging an old war along...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "You don't get it!! This is \"our\" war now!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "We're on a battleship! Fighting the enemy!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "You can't just call it some old war when it suits you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Get out of that thing!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "(\"Our war,\" hm... Mankind's foolishness...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "brings misfortune regardless of era, or of soldier or civilian.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Does he sense that by instinct...? Is this... youth...?)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Captain Bright!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "...Our goal hasn't changed. Silence that machine and rescue them!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Captain Misumaru, any objections?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Y-yes... th-that's right. Rescue Megumi and Minato!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "It stopped? No, not yet! This is for the people of Mars...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Stop! Akito, please stop!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "Wait!! The Tetsujin can no longer fight.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "I'll let the four of them off! So face me one-on-one!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Stop it! Please stoooop! Why do you need to do this!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Akito!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "It's to protect Earth!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Are people who protect Earth, who fight, so much better!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "This is wrong...! This isn't like you at all, Akito!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "...That stings...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "You don't have to fight a war!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "We could just stay home together watching Gekiganger...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "Megumi...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "That's more like you...! More like you...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "That's who you are, Akito...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "...Yeah. Maybe that is more like me... But that's not who I wanted to be.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Tenkawa...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "I thought... instead of being a grown-up who watches Gekiganger,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "I could become Gekiganger...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "...That's not it, Tenkawa. Our fight... isn't like that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "Battles don't let you pick and choose.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "...They're never as cool as in some cartoon.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Right... I guess that's right... Hey, you, from Jupiter. Go...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "Thank you... Won't you tell me your name? I'm...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "I don't want to kill someone whose name I know.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "I see. ...Everyone, please get out... Farewell...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "Enemy Gekigan type confirmed withdrawing by Boson Jump.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "Ngh!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "Genichiro! Are you all right!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "Looks like this fight's decided.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "Curses, next time we meet, I'll beat you for sure!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "Sure, I'll be waiting. ...If you dare challenge this sun again...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "Always acting so cool! Remember this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "Looks like that's done. ...But still...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "Yeah, it leaves a bad taste...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "Akito! I'm so glad you're safe... Nergal took back your firing, too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "Yurika... yeah, so it seems... I heard about that over here...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "Otherwise he couldn't fly an Aestivalis without permission.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "But... the Jovian Lizards were human...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "Yeah... We can't fight them with the same feelings as before...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "(Well, it wasn't something we could hide forever.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "So the Jovian Lizards are really human... Did you know, Cap'n Bright?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "No... But even if I'd been told, I'd have been sworn to silence.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "...The brass kept it hidden... In other words, it's top secret.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "The military sure doesn't give you much freedom.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "Anyway, we've all regrouped.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "Why don't we all gather and meet face to face?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "That's right... Oh!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "As of today, the mobile battleship Nadesico has joined Londo Bell.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "Nice to be working with you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "We're counting on you. ...But...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "Yes, I'm worried about the Nadesico crew's morale...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "I don't mind a scandalous story, but... this one's different.",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

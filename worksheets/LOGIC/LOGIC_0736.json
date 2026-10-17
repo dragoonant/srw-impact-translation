@@ -1,0 +1,889 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1846,
+ "strings": [
+  {
+   "id": 0,
+   "en": "I see...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "With Amuro's group gone, your side must be struggling for strength too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Umon's group did come here chasing the Vega Star Federation, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "our numbers have been cut drastically.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "We'd kept the Vega Star Federation from invading Earth until now,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "but we let them slip through to the surface.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "No, it couldn't be helped. There are plenty of enemies in space too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Would it be all right if we kept Umon's group here for a while?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Yes. For now, they'll do more good with you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Thank you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "The Vega Star Federation seems fixated on the Moon.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "True, there are plenty of facilities that could serve as bases there,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "like Anaheim and Von Braun, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "What on earth is happening in the Earth Sphere?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Far too many incidents are piling up. What they have in common is...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "that every invading army... is aiming for Earth,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "and a mystery army... the ones who call themselves the Einst.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Those robots made of bone... and the plant-like robots?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "And then there's our still-unidentified helper...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "That's our only saving grace. Still no idea who it is?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "No. Probably from another star system... maybe not even human.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Something about a sword wolf...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Ours is a ninja.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Listen, Domon...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "with the Shining Gundam's Super Mode you've used until now,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "you cannot defeat Master Asia or the Devil Gundam.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Super Mode activates when your anger reaches its peak.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "That emotion becomes energy and unleashes maximum power.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "The emotion energy system Uncle Mikamura developed...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "But with the emotional energy of anger, you lose your composure,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "and openings appear...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "...Then what am I supposed to do...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "...Meikyo Shisui.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Meikyo... Shisui...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "A mind clear as still water, without a single cloud... That is Meikyo Shisui.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "If you master the mind of Meikyo Shisui,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "that will truly be the real Super Mode...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "The real Super Mode...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Yes. And to draw it out...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "What!? Mom's alive!? Is that true, Dad!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "I was told Mom went missing right after I was born...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Your mother couldn't possibly be dead... She's no ordinary human...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "No ordinary human...? What do you mean by that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "I was surprised too when I heard it from Sharkin.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Akira, your mother... was one of the Mu people.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "The Mu people... the mysterious power of the ancient Mu Empire.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "...Why! How!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "The Mu people were supposed to have died out 12,000 years ago!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "That's right. But before they died out, the scientifically advanced Mu",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "somehow sent your mother to our time. Likely via a kind of cryo-sleep.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Then she married me... and gave birth to you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Then... inside me... there's Mu blood...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "That's right, Akira.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "That's why you can pilot Raideen, a legacy of the ancient Mu Empire.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "...Then, Dad, the way Raideen reacts whenever the Einst appear...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "could that be connected somehow!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "It's quite possible.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Akira, I'll return to the lab and push ahead with my Mutron research.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "I may find something out.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Mutron... said to be Raideen's driving force...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Until then... you must fight together with everyone.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Sharkin of the Demon Empire has fallen, but Earth's still in danger.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Yes, Dad...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "...I have some urgent business. In the rift between sea and land.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Please give Master Asia my regards.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "I'll be right back once my business is done...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Just in case, I'll leave a few guardians behind, so do not worry.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Farewell, then...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "So here you are, Princess Romina.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "What is it, Dr. Hazuki?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "It's about the Elshank's fuel we discussed before.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "You mean the Kirhasium?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Yes. We did manage to obtain it, but",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "we can't have it transported all the way here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Kirhasium is a dangerous substance. That's only to be expected.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "They say even a little jolt can make it blow up.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Having it brought all the way here is out of the question,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "but they've agreed to bring it as far as the Space Science Laboratory.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Our fuel is still all right, isn't it, Gameran?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Yes, Princess. It'll last a while longer.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "I see. Then until we have a chance to stop by the Space Science Lab,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "I must ask you to wait a little while.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Understood, Dr. Hazuki.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Tell me, Schwarz! This real Super Mode you talk about...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Very well. ...Have at you, Domon!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Gundam Fiiight! Readyyy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "H-Hold on a second... I have no intention of fighting you here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Gooo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "How can Schwarz move his Gundam so freely in such a cramped place?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "With the mind of Meikyo Shisui, Domon!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Easy for you... to say!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Domon, come at me for real! Otherwise, you'll lose your life!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Ngh...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Take this, and this, and this, and this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "A-At this rate...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Hahahahaha, give up, Domon!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "With a quiet heart... DIE!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "(I-I'm done for...! I'll die... I'm going to die... W-What is this feeling?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Brother? Father, Mother? Master? Everything is fading away...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Anger, hatred, none of it matters... Only death before me... Rain!?)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "I can see it...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Ohh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "W-What is this light...!? What on earth?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "It is the mind of Meikyo Shisui...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Listen. A clear heart without rancor or guilt: that is Meikyo Shisui.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "It can grant a person power beyond themselves...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "That's my Super Mode... But why are you teaching me!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "That doesn't matter! Right now, focus on perfecting the technique!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Use that power to push back my Gundam...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Only then can you perfect your Super Mode and...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "What is this...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "The Death Army?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Just one step away from completing your training...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Domon! Leave this to me and get your Gundam moving!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Got it! Come!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "SHIIINING GUNDAAAAAM!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Where's the epicenter?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "The location is... the Guiana Highlands!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "From that tremor just now, that was no ordinary earthquake.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "What's wrong, Asuka?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "...It must be that thing...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "What thing? Quit stalling and tell us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "You mean... the Devil Gundam, I assume? Asuka?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Yes... This feeling...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "The Devil Gundam!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "That's right. It matches the direction it fled in, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "The Guiana Highlands aren't that far from Jaburo...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "It might be a good place for the Devil Gundam to hide...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "In that case, Kasshu and Rain are in danger...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Huh? What do you mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "According to Mikamura, Kasshu and the others",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "are training in the Guiana Highlands.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "If that thing shows up... the Shining Gundam alone doesn't stand a chance!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Still, knowing Domon Kasshu, he'd do it even if it's reckless.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Whoa, no doubt about it. Isn't that bad?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Then let's hurry and go help him!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "The Gandor will now head for the Guiana Highlands.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Be ready to sortie the moment we arrive.",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

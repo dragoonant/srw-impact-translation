@@ -1,0 +1,1135 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 785,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Ngh... I chased Diondra this far... but it seems she's given me the slip.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "...I've strayed far from Rom and the others. ...Enough. Show yourself!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "So you knew, Blue Jet. ...It would be no fun otherwise.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Had you turned your back here, I'd have cut you down from behind.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Here, no one is likely to interfere...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Whether we live or die is up to us alone.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "The Gyandlar and Earth's turmoil mean nothing! My blade awaits you,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Blue Jet of the Tenku Shinken...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Globine...! ...I accept your challenge! JEEET!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Heh, that's the opponent I've had my eye on... Here I come!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "...Why would a swordsman of your skill serve the Gyandlar!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Hah! Isn't it obvious! My town was too peaceful.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "The townsfolk drove me out, saying a town without strife needs no warrior.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "The ones who took me in were the Gyandlar!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "A swordsman's job is to fight. I care not who my employer is!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "No... You're wrong! Globine!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Spare me your pretty words! Face my Dark Twin Slayer Sword!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Not bad, Globine... You've earned the right to challenge me...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "And you're the swordsman I took you for... No one will interfere!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Let us settle this!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Gladly! ...Or so I'd like to say, Globine! You'd deceive me!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "What!? What are you talking about, Blue Jet!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Heh heh heh heh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "You lot...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "So it was a trap after all... You're just a Gyandlar pawn too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Wait! They acted on their own... Blast you, stay out of this!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "This is a duel between me and Blue Jet! Interfere and... I'll cut you down!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Whaddaya say!? Here I'm offerin' ya a hand, and ya won't play along!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Ya think Big Sis Diondra's gonna let that slide!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Grr...! Blue Jet! My spirit for this has soured!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Mine as well. ...Go, Globine. We'll leave this fight for another time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "...Next time, I hope we can fight as true warriors.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "True warriors, my foot! Ya won't get off easy next time!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "If you've got time to babble nonsense, come at me.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "...I'm a bit angry right now...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Splendid... Tenku Shinken... Blue Jet...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "The Dark Twin Slayer Sword... Had I not seen it before, I might have lost.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "But... my spirit is not yet broken...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "I won't call it futile. ...Come, Globine...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Heh heh heh heh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "You lot...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Hm...!? So it was a trap!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "...Globine, I saw you as a true warrior, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "in the end, you're just a Gyandlar pawn.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Wait! They acted on their own... Blast you, stay out of this!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "This is a duel between me and Blue Jet! Interfere and... I'll cut you down!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Whaddaya say!? Big talk for a guy who's all wobbly!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Grr...! Blue Jet! My spirit for this has soured!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Mine as well. ...Go, Globine. The first round of this fight is mine.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "...I am in your debt...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Th-This ain't good! Dang it, all that setup and it still flops!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "We're pullin' out! Strategic retreat!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Devil Saturn 6! Tell Globine this!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "I'll face him anytime! I won't run or hide!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Quit showin' off! Next time we'll pound ya flat!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "So this is where that woman told us... But no Earth forces here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "That looks like the Gyandlar... and a warrior from planet Cronos.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "The Cronos lot seem to be siding with the Earth forces,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "so if we torment that one, maybe they'll show up?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Yes... and with the Earth forces is that man too... Heh heh heh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "More newcomers...? They don't look like the Gyandlar, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "this is starting to get tough.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Heh heh... Even a warrior of planet Cronos,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "alone against the Bunker and the Gyandlar, is at a disadvantage, no?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Heh heh... But don't worry, we'll send your friends to hell soon enough!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Jet! Thank goodness, we made it in time! Honestly, Jet!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "We rushed after you so fast, now I'm starving...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Drill, we're about to take on the Gyandlar, you know.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Just a little more effort.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "...Sorry, everyone.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Don't sweat it... Huh, there's some folks we haven't seen before.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Yeah, they're with the space pirates Bunker... but a different unit.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Be careful.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "So your friends have gathered... Fine, I'll send you all to hell together.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Don't think we're the same as the ones you've fought before!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "...It makes no difference.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "You're still pawns of evil all the same...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Tenku Chushin Ken... Let's see what it's really worth!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Very well. ...Come!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "This asteroid field, is it... Looks like fighting broke out",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "before we got here... Is that the Bunker and the Gyandlar?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Hah! Did they finally start fighting each other?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "That'd make things easy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "No... it looks like a joint operation. But if they're teaming up,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "then the enemy they're fighting must be...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Hey, look! Isn't that the powered suit team!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "So it seems... Not good, at this rate they'll be overwhelmed. Captain!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Yes, we owe them many times over...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Not that this repays them, but we can't just look the other way.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "All hands, prepare to launch, on the double!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "If it's the Bunker, we'll go out first!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Dangaioh... has... arrived...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "...Ufufu...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "There it is... Heh heh... Heh heh heh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "(...Hm?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Dangaioh has launched.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "So fast! They seem extra fired up!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "...Aestivalis team, please hurry and prepare to launch, too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Geez... It's one battle after another... I'd like to relax in the kitchen...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Tenkawa!! What're you being so laid-back for!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Those heroes of justice are in trouble!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "If we don't go help them now, what are we even here for!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "We have no name to give yooou!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Nah, that's not cool at all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Shut up, you guys! The enemy won't wait, get ready to sortie now!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Sorry for the wait. Switching roles once in a while is refreshing, no?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Not bad.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Miss, the people from Earth have come to help us!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "We're saved! Now we can fight the Gyandlar on even terms!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "I see. Being rescued isn't a bad feeling.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "I'd hoped not to drag them into our battle if I could...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "but for now, let's gladly accept their help.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "All right, time to fight back!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Heh heh... Finally you've come. Earth forces... no, Dangaioh!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Hm? This seems to be a different Bunker unit from before...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "...Gil doesn't seem to be here... but I have a bad feeling...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Come on, you Bunker scum!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "As long as Dangaioh is here, we won't allow your evil!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "My, my... Have you already forgotten our voices,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Roll Kran...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "...!! That voice... could it be...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Roll, do you know her...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Ngh... N-No way...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "What's wrong, Roll? Pull yourself together!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Ufufu... Roll, I'll send you back to hell...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "I see why Gil has such trouble with you... Oh well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Roll Kran... We'll meet again.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "This time was just to say hello.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Next time, I'll make sure to kill you... Heh heh heh heh...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "...Flash, Burst...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "True warriors, my foot! Ya won't get off easy next time!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "If you've got time to babble nonsense, come at me.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "...I'm a bit angry right now...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Battle Mastery increased by 1.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "We drove them off...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Thank you very much, people of Earth.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Hey, no need to thank us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "You guys have helped us out plenty of times.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "We were just repaying a debt. It's nothing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Still, for you guys, who show up out of nowhere, to get surrounded...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "that's a rare sight.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "We found a Gyandlar commander near here, and while we were chasing him...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "it looks like we fell right into their trap.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Honestly, Jet! You went off on your own...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "(Globine... We couldn't settle it this time either...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Who cares? We drove 'em off in the end!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Sure, but... Put another way, all we did was drive 'em off, y'know?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "He's right...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Now that the Gyandlar have started sending their commanders,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "the fighting will be harder than ever.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Which means we can't afford to sit around either.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "I don't suppose I could convince you to stay at this point...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "but it would be reassuring to fight alongside you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "When the time comes... Farewell. Let's go, everyone!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Okey-dokey. See ya, Earth folks!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Let's meet again!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Take care~",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "What a shame...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Nergal would very much like them to come along with us...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "You just want to study their machines, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "Well... I'm rather intrigued by them myself...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "I can't even imagine how they're built.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "I want a transforming suit like that too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Transforming...? Captain, what would you transform into?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Isn't it obvious! Into a sexier body! You know, like boom!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "You'll need to tighten that waist first, or it'll just look silly, y'know?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Keeping a figure is the hard part. Can you manage, Captain?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "That's what the transforming is for!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "You've got it wrong from the ground up.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "The powered suit team has left sensor range.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "They're gone... Anyway, that new Bunker pair...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "Who are they, Roll?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "They seemed to know you pretty well...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "...Roll... who are they...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "...Sorry, everyone... Let me think for a bit...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "My, my, sounds like a pretty heavy story...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Roll, we must head to our next destination right away...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Can you sortie?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "...I'm fine.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Geez, that's not a very reassuring answer...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Shut it, Shinobu! ...Everyone needs time to sort out their feelings!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Anyway, our priority now is heading to the next destination.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "All units, withdraw and get some rest while you can.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "(There's no mistake... That voice was...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Roll...",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

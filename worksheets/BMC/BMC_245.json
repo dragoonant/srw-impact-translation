@@ -1,0 +1,1477 @@
+{
+ "file": "BTL/BMCPACK.BIN",
+ "format": "BMC",
+ "pilot": 245,
+ "strings": [
+  {
+   "id": 0,
+   "en": "Take this!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Leave it to me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Here I go!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "I'll be your opponent!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "I'll show you a battle beyond the speed of sound!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "I'll show you the world of 0.01 seconds!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "I'll teach you the difference in skill!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Emperor Burai, prepare yourself!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "I'm sick of your face, Marshal Hidler!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "This is the end, Gula!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Here I come, Baron Ashura!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Brocken! I'm your opponent!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Your ambitions end here, Dr. Hell!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Get ready, Great General of Darkness!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Leave this to Getter-2!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Getter-2, let's go!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Heh... Liger's turn.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "You can't escape Getter Liger!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Don't underestimate Shin Getter's speed!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Shin Getter-2 will take you on!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Ryo, Benkei! Let's go!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Now it's our turn!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "This is payback!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Emperor Burai, prepare yourself!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "I'm sick of your face, Marshal Hidler!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "This is the end, Gula!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Here I come, Baron Ashura!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Brocken! I'm your opponent!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Your ambitions end here, Dr. Hell!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Get ready, Great General of Darkness!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Leave this to Getter-2!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Getter-2, let's go!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Heh... Liger's turn.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "You can't escape Getter Liger!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Don't underestimate Shin Getter's speed!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Shin Getter-2 will take you on!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Ryo, Benkei! Let's go!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Tch!! I must be losing my touch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Ngh!! Is this it!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "What!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Tch!! Damn!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Damn! At this rate...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Kuh!! Better than I thought.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Tch!! This is getting kinda dicey!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Ngh!! This is bad...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Whoa! Is the damage too heavy!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Guh! I can't make a fool of myself here!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Tch! Has Getter-2 hit its limit against this one!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Tch... Never thought we'd be pushed this far.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "C-Come on, Hayato!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Here comes the next one, stay sharp!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "W-Whoa! We took a hit, Hayato!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Kuh... That's heavy damage!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Don't worry, I'll handle it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Uah! The enemy's got us dead in its sights!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "S-So what do we do!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Then I'll just finish it with the next one!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Ugh! It's actually keeping up with the Liger!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Tch... Never thought we'd be pushed this far.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "C-Come on, Hayato!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Here comes the next one, stay sharp!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "W-Whoa! We took a hit, Hayato!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Kuh... That's heavy damage!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Don't worry, I'll handle it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Uah! The enemy's got us dead in its sights!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "S-So what do we do!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Then I'll just finish it with the next one!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "To corner Shin Getter-2 like this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Tch... Never thought we'd be pushed this far.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "C-Come on, Hayato!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Here comes the next one, stay sharp!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "W-Whoa! We took a hit, Hayato!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Kuh... That's heavy damage!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Don't worry, I'll handle it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Uah! The enemy's got us dead in its sights!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "S-So what do we do!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Then I'll just finish it with the next one!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Whoa!! Not yet!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Like I'd go down from this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Tch!! Pretty good!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Hm! But I'm not beaten yet!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Hah! Not even close!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Heh!! Not bad!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Heh!! But I can still handle this much!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Heh... Landing a hit on my Getter? Not bad.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Don't think this is all Getter-2 has!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "W-We got hit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Tch... Are we losing ground!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Then change over, Hayato!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Tch, I got careless!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Don't be reckless, Hayato!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Yeah, Ryo's right!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "I-It's keeping up with us!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Looks like a tough one...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "What's up, you two... Going soft isn't like you.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Heh... Landing a hit on my Getter? Not bad.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "A direct hit on the Liger... I got careless.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "W-We got hit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Tch... Are we losing ground!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Then change over, Hayato!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Tch, I got careless!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Don't be reckless, Hayato!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Yeah, Ryo's right!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "I-It's keeping up with us!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Looks like a tough one...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "What's up, you two... Going soft isn't like you.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Heh... Landing a hit on my Getter? Not bad.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Looks like this one can actually fight Shin Getter-2.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "W-We got hit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Tch... Are we losing ground!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Then change over, Hayato!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Tch, I got careless!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Don't be reckless, Hayato!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Yeah, Ryo's right!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "I-It's keeping up with us!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Looks like a tough one...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "What's up, you two... Going soft isn't like you.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Not good enough!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "You're doing it all wrong.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Heh... Is that all?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Damn! Got hit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Tch! Just a graze!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Damage like this!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Heh... I'm still too soft.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Tch, failing to dodge in Getter-2...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Hayato, it grazed us!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Keeping up with my speed, huh!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Can't let my guard down with this one!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Oh, not bad!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Is it as fast as we are!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Hmph, quit joking!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "What's wrong, Hayato? This isn't like you.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Want me to take over?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Heh... You two couldn't handle that guy.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Heh... I'm still too soft.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "I'll give you credit for hitting my Liger.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Hayato, it grazed us!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Keeping up with my speed, huh!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Can't let my guard down with this one!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Oh, not bad!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Is it as fast as we are!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Hmph, quit joking!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "What's wrong, Hayato? This isn't like you.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Want me to take over?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Heh... You two couldn't handle that guy.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Heh... I'm still too soft.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Oh? Keeping up with Shin Getter's speed, huh.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Hayato, it grazed us!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Keeping up with my speed, huh!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Can't let my guard down with this one!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Oh, not bad!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Is it as fast as we are!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Hmph, quit joking!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "What's wrong, Hayato? This isn't like you.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Want me to take over?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Heh... You two couldn't handle that guy.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Heh... Is that all?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Too slow!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "It won't hit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Forget it. You just picked the wrong opponent.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Sorry, I don't have time to play with you.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Don't underestimate the Getter's speed!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Targeting my Getter was your mistake.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "You can't catch Getter-2!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Hayato!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Heh... Targeting my Getter is reckless.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "You'll never hit me at that speed.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "If it were me, I might've been hit...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Heh... They sure underestimate us.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Hayato, it's too early to relax.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Impressive, Hayato.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Dodging that is a given.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "That was close!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Nah, I dodged that one easily.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "Don't underestimate the Getter's speed!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Targeting my Getter was your mistake.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "Can't be helped against my Liger.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Hayato!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Heh... Targeting my Getter is reckless.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "You'll never hit me at that speed.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "If it were me, I might've been hit...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Heh... They sure underestimate us.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Hayato, it's too early to relax.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Impressive, Hayato.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Dodging that is a given.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "That was close!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "Nah, I dodged that one easily.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Don't underestimate the Getter's speed!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "Targeting my Getter was your mistake.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "You against Shin Getter-2? Not even a contest.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Hayato!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Heh... Targeting my Getter is reckless.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "You'll never hit me at that speed.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "If it were me, I might've been hit...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "Heh... They sure underestimate us.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "Hayato, it's too early to relax.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Impressive, Hayato.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "Dodging that is a given.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "That was close!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "Nah, I dodged that one easily.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "Getter Vision!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "Mach Special!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "Shin Mach Special!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "Open Get!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "I'll dodge with an Open Get!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "Useless!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "Heh... No effect!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "Beams won't work!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "Heh, that won't work!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "Heh!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "Defense system, activate!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "This is a battle beyond the speed of sound!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "Ngh, is it no good!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "Ngh, is it no good!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "Kuh! Is it too far!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "Ngh! Too far!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "Your luck ran out when you showed me an opening!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "With the Getter's speed, one more hit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "My Getter can still attack!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "With the Getter's speed, one more hit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "My Getter can still attack!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "With the Getter's speed, one more hit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "My Getter can still attack!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "Heh... I really am too nice.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "Throwing the enemy off is my specialty!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "Fine, I'll help you out.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "Getter Arm!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "Getter Drill!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "Drill Storm!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "Drill Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "Drill Arm!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "Liger Missile!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "Chain Attack!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "Mirage Drill!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "Drill Tempest!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "Getter Missile, fire!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "Uoooooh!! Dai-setsu-zan Oroshiii!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "Getteeer Tomahaaawk!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "Getter Drill!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "Uoooooh!! Dai-setsu-zan Oroshiii!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "Double Tomahawk!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "Drill Arm!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "Open Get!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "Open Get!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "Open Get!!",
+   "kind": "quote",
+   "keep": false
+  }
+ ]
+}

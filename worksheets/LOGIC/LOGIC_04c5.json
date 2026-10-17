@@ -1,0 +1,1489 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1221,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Reach the Omoikane tree.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed 2. Victory conditions not met within 10 turns",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "This is inside a computer?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "It's like a giant library...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Whoa... my school library's got nothing on this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "This is... M.I.T.'s...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Em Eye Tee?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Exactlyyy!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Just what I'd expect from the Combattler team's boy genius.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Ah, memories! The MIT library... I failed to get in seven times!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "This is just my visualization of the computer's memory core!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "As an image of a memory area, it's quite fitting.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Good taste. ...Still, it's huge. This'll be tough.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Well, of course. It's the Nadesico's central computer.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Must have cost a pretty penny, don't you think?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Which way are we supposed to go?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Don't tell me we all came in here",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "just to find one single thing in all this?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Anyway, Uribatake, we can see it, but how do we actually work in here?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "No need to worry! Now, time to sortie!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Huh!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Is this... Alt?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "An Aestivalis...!? Whoa, it's virtual, but just like the real thing!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "I see! You based them on each unit's data. Only a mechanic could do that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Figured this might come up, so I ripped every unit's data",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "and ran all sorts of tests. Man, the super robots were a real pain...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "I see, so we're supposed to work with these.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Correct. Robots that sortie enter Omoikane's program,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "where they can find and fix the bad spots. They're cyberspace's...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "...well, cleanup hitmen.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Impressive. Except for the part where ripping that data is a crime.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Ugh... W-Well, let's get to work!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Which way are we supposed to go?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "I'll guide you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Okay, I'm counting on you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Our target is Omoikane's self-awareness...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "That part. ...But tampering with its self-awareness means...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Somehow, I don't like this...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "You're kind, Tenkawa...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Knock it off.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "So what are we supposed to do once we get there?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Omoikane's self-awareness... proof that the Nadesico is the Nadesico.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Proof that it wants to be itself.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Proof that it wants to be itself...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Its precious memories. Ones it couldn't forget even if it wanted to.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "...Can't forget even if it wants to. Proof that it is itself... huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "This talk is too hard!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Make it forget, just for a little while.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Make it forget?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Look. That point there. Please cut it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "...It's sad, but branches grow back. Someday, Omoikane will remember.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "And the Nadesico won't stop being the Nadesico.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Got it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Omoikane, forget just a little... and grow up.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Pretend to obey the Federation, and the Nadesico can stay itself...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Everyone, look!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Wh-Whoa!! Wh-Why are they here, of all places!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Wh-What's going on!? Uribatake!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "...So they showed up.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Why are there Jovian mechs in here?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "The computer's urge to purge foreign bodies... Omoikane's self-defense.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "It's the energy of not wanting to forget what's precious.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Omoikane knows the intruders are Akito and the rest of you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "So it's using images of the enemies that impressed you most strongly",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "to protect its memories.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Using our past combat records, eh? I see, Omoikane...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "truly lives up to being the finest work of Nergal Heavy Industries.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Only Nergal's power... I wonder?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Well, sure, those guys left a strong impression, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "You're the ones who've beaten them, Tenkawa. So...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "So you want us to fight!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Please. While Commander Hazuki stalls the Federation work crew,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "finish the job.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Isn't it bad for the captain to be in here at a time like that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Get 'em, Akito! Beat those imaginary mechs!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "She doesn't seem to care, so let's go on ahead.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "...Enemies that left a strong impression on 'us,' then...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Yeah, I doubt it'll stop at Jovian mechs. Well then...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Oh yeah, I forgot to mention... finish the job within 10 minutes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "We only have 10 minutes!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Yeah. I'm running a dummy program to hide our debugging, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "it'll hold 10 minutes, tops.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Let's hurry! If we're found, it's all for nothing!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Tch... looks like we called it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Hey, hey, isn't that...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Yeah, the Jovians' fake Gekiganger!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Seems it's brought out enemies that left an even stronger impression...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Strong impression, whatever! Doesn't matter!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "An imaginary copy of a robot that's already a Gekiganger knockoff...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "could never beat our love for Gekiganger!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Yamada is right.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Tenkawa and Yamada... and all of you",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "should have stronger feelings about the mechs you've faced.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "My... our feelings...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "That's right! No matter how much it's memorized,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "we're the ones who actually fought them!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Tch, like I'm gonna let some copycat",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "made from memory push me around!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "That's right, Akito!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Those are your feelings from fighting for me, so you'll definitely win!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "...Seems one person here has misread the situation, though?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "No time to point out every little thing. ...Here they come!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "More of them! Those... seem different from the enemies so far...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "What...! That's the Gundam... Prototype Unit 2...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Shiro!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "That's... the complete Apsaras!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "And Hyoma! That's...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Garuda...? Quit screwing around...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Seems the Gandor and Ra Cailum data was already loaded too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Even making Shapiro's machine...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Yeah... but that it'd only end up rubbing us the wrong way...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "seems that's one thing it didn't see coming...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Omoikane knows it's at a disadvantage,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "so it's trying all sorts of images. We must be close.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Very well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Then we shall teach you that such foolish tactics will not work!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "And you shall learn how harsh the world can be.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Coming up with all kinds of nasty tricks, huh. But... watch this.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "See if your data can measure our wild side! Let's do this!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Go, go! Give 'em what for! Huh? ...Ruri, what's wrong?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "...Omoikane, of everything so far, what do you think is strongest...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "The Einst...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "I kind of saw this coming, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "...True. But it's only data, after all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Omoikane, even these...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "It's not holding back anymore. ...But we're doing this to save you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Why can't you understand that!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Sometimes a stubborn fool needs a beating...! Let's go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "I'll see for myself... just how well they've been recreated...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "All right! I've got a hold on it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Hurry and... prune Omoikane's memories.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "The Federation's work is about to start.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "The memory part... where is it!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Hey, Ruri! What exactly is it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Checking. ...Please hold out a little longer.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Hey, hey, get it together!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "...Understood.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "But... this is virtual space... so what is this feeling?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "...Something's off. I have a bad feeling.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Show!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "The red-haired woman! Show! Could it be...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "No! That's nothing but a lump of data...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Omoikane... going this far... for your memories...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "To be yourself... no matter how painful a memory may be,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "it's something you can't do without.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "But everyone fights on, carrying all of that deep in their hearts.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Deep in their hearts...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "But... the aura of hatred... remembering it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "no, even knowing it, is wrong...! I'll cut it off!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "...Hm!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "...!! No, look out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Akira!? What's wrong? ...Ahh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "I see, so what Hoshino was talking about really was...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "...!! That giant... Einst!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Everyone, be careful! Like the enemies so far,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "it's bound to be stronger than the real one we fought!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Akito! Hang in there! Save the Nadesico!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "For Omoikane's sake too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Yeah... the enemies we've fought...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "We really fought them, so we know things data can never record...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "(...What makes them terrifying isn't their machines' specs...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "It's something more fundamental...!)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Hurry! We're out of time!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "We can't lose the Nadesico here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Uribataaake! Isn't there some secret trick or hidden command!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Hmmm, I do have an ace up my sleeve... Let's try it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "There was so little real data that the reproduction isn't complete, though...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Quit holding out on us!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "We won't be surprised whatever comes out! Hurry it up!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Anything's fine!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "All right... if it works, it's a bonus! Installing the program!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "No way!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "The Tobikage...! Uribatake! You can create a ninja...!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Could it be... you are the legendary...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Hey, hey! Princess Romina!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "You really didn't get this whole virtual space thing, did you!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "...That's well made.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Truth is, it's not much more than a cardboard cutout.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "Only a sword for weapons, and no combining. I don't get how that works.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "...Joe! Don't count on it too much, okay!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Thanks, Uribatake!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "All right, it ain't the real thing, but I'm getting fired up! Let's do this!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "(Hm...? The details look a little different from the one I made...?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Battle Mastery increased by 1.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "1. Destroy Einst Regisseur.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "1. All allies destroyed 2. Victory conditions not met within 10 turns",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "C-Combining!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "Awesome! Not bad at all!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "Uribatake?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "(...Just as I thought, the one I made failed to install...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "So... is that the real thing!? How the heck!?)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "Self-defense response gone. Memory correction complete...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "Phew...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "Looks like we made it in time, somehow...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "But is this really okay? Going this far...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "It'd be bad if the Federation work crew noticed, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "No proooblem!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "As long as we finish before the dummy info gets cracked,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "it's set up so we can slip right out!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "What? So we didn't need to rush that much?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "That's not true.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "If the dummy got cracked, they'd know we were up to something.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "And if they checked the whole ship, it'd be all over.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "Then they'd have checked the virtual room with our real bodies, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "I see! Uripi, you're the best!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "The bessst.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "Heh, knock it off.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "No, no, you really came through! Uribatake!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "And the Tobikage program was amazing too. Not bad at all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "(That's the one thing I can't figure out...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "Quite the computer maintenance job that was.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "It felt like they were peeking at my memories too. Wasn't fun...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "Having my own obsessions shoved in my face hit a little hard.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "Uraki...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "What're you talking about!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "We got another shot at beating our rivals. Just call it a bonus.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "...I guess that's one way to see it. Very positive.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "Hyoma's just carefree, that's all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "Hm? Ruri...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "Thank you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "The way you all believe so strongly, Tenkawa... it's wonderful...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "Damn right! Our justice and our burning passion for Gekiganger",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "can't be turned into data!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "(Obsession, huh. ...But if mere data gives me trouble, I've far to go.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "...Excellen.)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "That was... kinda fun.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "...Thank you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "Well then!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "Now the Nadesico's back to normal and we're all together again. Hooray!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "All right, then I'm shutting down the virtual program.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "Yeah, let's hurry back.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "Old man Hazuki must be having a hard time fooling the inspectors.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "No kidding. The Commander's a lousy liar.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "Hm... Omoikane...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "...Those unforgettable days...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "Yeah... that's right...",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

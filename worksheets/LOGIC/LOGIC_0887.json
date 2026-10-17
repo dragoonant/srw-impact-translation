@@ -1,0 +1,337 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 2183,
+ "strings": [
+  {
+   "id": 0,
+   "en": "It begins...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "...A new life.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "It ends...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "...The land of beginnings.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Your...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Then we'll go ahead and join the robots that went down to Earth first.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Understood.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Once the Nadesico's adjustments are done, we'll head your way!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "But... the Nadesico's computer...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "It's Omoikane. ...Oh, that's its name. The computer's...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Allow me to explain.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "In ancient Japanese myth, when Amaterasu hid in the Ama-no-Iwato,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "it's the name of the thoughtful god who devised a way to lure her out.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Huh... I was on the Nadesico and even I didn't know that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "I see. That's a fine name.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "...Thanks.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "This Omoikane... the Nadesico's control computer...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Have you found the cause of its malfunction?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Yes, but fixing it looks like it'll take time...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Huh? Erina!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "I see. We can't take our time either. We're heading out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "R-Right! Please be careful.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "...Thank you for your concern.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Right. As soon as they finish the night camouflage paint on the Billbine,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "we'll head right out.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "...Take care.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "The Elshank and Gran Garan have launched.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Erina, we still don't know what made Omoikane malfunction...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Silly, saying that was the best move in that situation!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Right, right. The Nadesico still can't move either way.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "No point telling them bad news, is there?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Huh... For a helmsman and a pilot, you two sure are good negotiators.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "W-Well, I did get an elite education, you know.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "That's just common sense for any working adult.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Tch. Guess we just had a bad upbringing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Don't sulk, don't sulk.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Common sense... common cents... the small change of ordinary minds...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Too much of a stretch. Puns that obscure aren't worth it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Captain Quattro seemed to realize it was just a white lie, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Hoshino. Truthfully, have we got no leads at all?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Everyone managed to protect us, but... if it's like that every time",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "from here on, we won't stand a chance...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Yeah. One lone ship standing up to the whole Federation!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Sure, that gets my blood pumping... but I'd rather not be the villain.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "I'll tell you now, that was no maintenance problem.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "What do you think? Ruri, Inez...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Well, Ruri knows Omoikane better than anyone...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "I already know the reason. But as for treatment...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "That's our Ruri! So, what's the cause? And...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Treatment...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Omoikane is stressed out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Huh...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Stressed... out...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "This... looks like it's going to be troublesome...",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

@@ -1,0 +1,751 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 560,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Damn, I never thought the enemy forces would be spread this far...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "So you've come... Londo Bell, is it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "You've done well against us of the Vega Star Federation...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "...but this is where you'll be buried!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "These guys... the Vega Star Federation...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Big talk! Don't get full of yourself!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Vianno, don't take the bait... hm!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Brother, that mark on the battleship...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "The cross-star...! This is bad! Captain, I'm launching now!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Umon!? It's dangerous to rush ahead! All hands, battle stations!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Whoever can launch, sortie!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Duuuke Fleeeed! Dizer, go!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Umon, what's wrong?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "That cross-star... is the mark of King Vega's Royal Guard...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "If they're showing up... it means the Vega Star Federation",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "...is finally getting serious about invading Earth...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "The guardian deity of Planet Fleed... Grendizer!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "As you guessed, I am Gorman, a Royal Guard captain serving King Vega.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Prepare yourself, Duke Fleed!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Talking tough, huh? Sure is confident.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "King Vega...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "The crime of destroying the green planet Fleed... I haven't forgotten...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "You're the ones who should prepare yourselves, King Vega included...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Quiet, Duke Fleed! All units, commence attack!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Take out the enemies one by one! Commence attack!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Hm, enemy contacts!? A new force!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Lookit 'em all. I see, so that there's the Vega Star Federation.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Then this lot must be...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "What! A new Earthling weapon!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Captain, what's their ID signal!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "...Unknown.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "But it's neither Zeon nor Vega... it's a completely new force!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Get in our way and ya'll pay! Not that we won't trash ya anyway!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Oh, no...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "They're... attacking!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "It's a pain, but don't lay a finger on them Vega whatsits!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Trash the Earthlings!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "They're hostile! ...A new force, here of all places...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Fine, then I'll take every last one of you on!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Come on, bring it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Damn, but there are so many...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Captain, if worst comes to worst... we withdraw.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "...Is there no other choice...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "They don't seem to be attacking us. ...Fwahaha! Excellent!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Brother! What are those guys!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Who are you! Why are you siding with the Vega Star Federation!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Sidin'? What're ya talkin' about? Sidin', schmidin'!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "We're after Earth's treasure! Get in our way and ya know what happens!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Treasure...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "You mean, like, gold coins and stuff?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Earth's beautiful green land is its true treasure!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Just like the Vega Star Federation, I won't let you trample it...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Green? Quit spoutin' that naive crap, ya moron!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "We'll burn it all down, then take our sweet time huntin' treasure!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Kenrouuu!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "A robot...!? Where did it come from!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Oh my, isn't he striking a pose!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Y-you're... R-Rom Stol! Don't tell me ya followed us here!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Whoops, don't forget us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "All right! That's how it is!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Making trouble even on a backwater planet like this. You're the worst!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "M-Miss, please don't push yourself too hard.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "That's right, Leina. The Power Riser can't handle this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Gettin' in our way again! Argh, trash 'em all!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "You don't seem to be enemies... but who are you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "I'll explain in detail later. We are your allies.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "You'll simply have to trust us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Come on, isn't pushing back against these odds what matters right now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "...Understood.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Captain!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "If they were enemies, they'd have crushed our bridge by now, Captain.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Right now we need every unit we can get. Even mysterious ones.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Yup, yup.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Captain Bright, if that hunk were an enemy, we'd be in deep trouble.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Ugh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "You get it! All right! Let's take 'em all on!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Brother...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "I feel the same. ...I want to trust them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Kenrou will never betray... those who believe in justice. I swear it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Kenrou...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Jim, you've got the resupply unit equipped, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "I know minding our wild filly is tough, but back her up.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Understood, Jet.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Who are you calling a wild filly! Honestly!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "All right... let's go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Wh-whoa!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Gorman! I'm going to cut King Vega's Royal Guard down to size!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Duke Fleed! Don't think you've won!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Barking while you retreat isn't a good look, pal.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "You fools... defy the Vega Star Federation and you'll regret it...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "If you mean to keep up this senseless invasion, I'll show no mercy...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Grrr...! Blast it, retreat!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "King Vega's Royal Guard... so they've finally made their move...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "What!? What the heck!? Why're we gettin' beat up like this!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Retreat! Retreat! Ya'll pay for this!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Nyah! Don't come back!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Miss, that's unladylike!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "All talk, as usual. What now, Rom?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "We can't catch them from here... Besides, I'm worried about these folks.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Rom's just too nice for his own good.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "The enemies in this area... are all wiped out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Phew, that was close. Anyway, they saved us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Who on earth are these people...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Thank you for helping us. I'll ask again... who are you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Nobody worth naming... right, Rom?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Yes, it would only confuse you... We couldn't stand by and watch cruelty...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "That's all we are.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "That's hardly an explanation...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Miss Leina, take a look at this data.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "What is it, Jim? Oh... Brother! I've found Devil Saturn's retreat route!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "If we follow this...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "All right, then we'll find their home base!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "...Good, after them! People of another world, good fortune in battle.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "(So, just like Umon... they're from another star system.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Wait. Why did you... help us?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "One who loves the green can't be evil... That's why I lent a hand.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "We may never meet again... but until then.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Wow, talk about laying it on thick.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "To think there were still warriors like that... in this universe...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Koji would love this kind of thing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Enemies and allies alike, all unknown.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "What on earth is happening in the Earth Sphere...",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

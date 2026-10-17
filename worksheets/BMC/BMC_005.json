@@ -1,0 +1,1447 @@
+{
+ "file": "BTL/BMCPACK.BIN",
+ "format": "BMC",
+ "pilot": 5,
+ "strings": [
+  {
+   "id": 0,
+   "en": "Eat this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "This'll finish you!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Raaaaah!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "I can't afford to lose to you bastards now!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Here I go!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Let's do this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Gooo for iiit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Let's dooo this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Daaaaah!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Take this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Eat this, damn you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Drop dead!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Get ready to die!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Trampling on people's hearts like that... you're too damn low!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "No reason can chain the Cyber Beast Force's wild side... Let's do this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Hey, old man Hazuki! ...I'm gonna push it a little!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Sara! Ryo! Masato! Let's go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Our rage... our wild power... I'll slam all of it into you!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "I'll crush the Muge bastards myself!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "What the hell are you doing there... Shapiro!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Shapiro! I'm settling things with you right here!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "A fake, huh...! Don't mess with me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Bring it on, you fakes!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Creepy-ass plants!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Tch! This planet's... robots!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Creepy-ass plants!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Tch! This planet's... robots!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Creepy-ass plants!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Tch! This planet's... robots!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Here's some payback!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Don't screw with me!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "This is payback!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "I'll pay you back for that!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Why you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "You're not getting away!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Tch, I screwed up!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Damn it! I got hit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Damn iiiit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Damn it!! They got me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Daaaamn iiiit!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Ugh! Th-this is bad!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Ngh! Damage over 70%!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Gwaaah!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Gwaaaaaaah...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Dwaaah!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Fwah!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Daaamn it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Ngh!! This is bad...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Damn it!! At this rate they'll take me down!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Ugh! Th-this is bad!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Ngh! Damage over 70%!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Gwaaah!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Gwaaaaaaah...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Dwaaah!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Fwah!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Daaamn it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Ngh!! This is bad...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Damn it!! At this rate they'll take me down!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "D-damn it! To get beaten this bad by those Muge bastards!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Ugh! Don't think this is enough to beat me, you Muge bastard!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Shapiro! He's gotten stronger than before...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Shapiro... You're the one guy I refuse to lose to!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Damn it, at this rate the Dancougar won't hold out!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Kyah! Sh-Shinobu, this is getting bad!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Who knows! What happens, happens!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "D-damn it!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Why are you spacing out, Shinobu!? This isn't like you!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "S-Sara...! Are you okay!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Ngh! The damage!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "What're you doing, Shinobu!? This is bad!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "They won't get me next time! Leave it to me, Sara, Ryo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Waaah! Ngh... Not good, output's dropping!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "A-at this rate we're done for!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Keep it together somehow, Ryo, Masato!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Wah!! Th-this is bad...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Tch! Tough one!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "What's wrong, you two!? It's too early to lose your nerve!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Wah! D-do it right, Shinobu!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Never mind that, what's the machine's status!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Ngh!! Did we take too much damage!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "You did it now, damn you!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Ow! You bastard, what the hell!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Not yet! I won't let you!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Tch! You're better than I thought!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Ngh! Tch, they hit me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Fwaaah!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Damn it! You're mocking me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Damn it! Now you've done it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Daaamn it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Damn it! You bastard!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Ngh!! I can still go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "You bastard! You did it now!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "You did it now, damn you!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Ow! You bastard, what the hell!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Not yet! I won't let you!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Tch! You're better than I thought!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Ngh! Tch, they hit me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Fwaaah!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Damn it! You're mocking me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Damn it! Now you've done it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Daaamn it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Damn it! You bastard!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Ngh!! I can still go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "You bastard! You did it now!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Damn it! Don't get cocky, you Muge bastard!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Waah!! I'm hit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Shinobu! Get it together!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "I just let my guard down a little! Quit squawking!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "A direct hit on the Cougar!? You okay, Sara!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "I won't go down to something like this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Ngh! Not bad!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Did it hit the torso!? Ryo!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Ha! Not yet!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Ngh!! You did it now!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "What's wrong, Shinobu!? We're getting pummeled!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Shut up! I'm about to turn this around in one shot!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Ngh! Not bad!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Ngh! The Dancougar's better than this, right?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Damn right! Watch me next time!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "The Liger took a hit!! Masato!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "I-I'm not going down that easy!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Hm! This power... not to be underestimated.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "What're you saying, Ryo!? That guy's nothing!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Heh, piece of cake.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Didn't hurt!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "What the hell!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Damn!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Now I'm mad!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "You did it now!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "What!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Damn it! Shut up!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Ngh! Why you...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Tch! That all you got!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "That all you got!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Too soft!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Heh, piece of cake.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Didn't hurt!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Tch! That all you got!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "That all you got!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Like the Dancougar's going down that easy!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Kyah! You'll pay for that!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Looks like you're fine, Sara!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Tch, they hit me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Sorry, Ryo! I'll dodge properly next time!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Ow! You did it now!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Geez, that was sloppy.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Sara! You always gotta add one more word!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Didn't hurt!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Heh heh, that's the Dancougar for ya. Looking good!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Damn straight!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Ngh, just grazed! You okay, Masato!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "I'm fine! Didn't hurt!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Well, that's about it.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Not even close!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "If you've got complaints, fly the damn thing yourself!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Too soft!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Heh, that was nothing.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Ryo, Masato! Here comes the next one!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Heh, piece of cake.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Like that'll hit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Whoa there!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Can't hit me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Aim better than that!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "Where are you aiming!? You suck!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Too soft!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Whoa!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Whoa, close one!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Still too soft!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Your aim's too soft!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Whoa, that was close!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Not yet! Too soft!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Your aim's way too soft!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Whoa, close one.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Like I'd let a Muge bastard's attack hit me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "What's wrong, Muge bastard! I'm over here!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Too bad, Shapiro!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "Shapiro! Things won't go the way you want!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Hitting me? You're ten years too early!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "That's my line!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Can't hit me!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Of course not! I'm the one piloting!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Here it comes!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Your timing's off!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "I see right through it!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Okay, evading!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "Th-that was close...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "Thrilling, huh, Masato!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Not by something like that!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "Like that'll hit me!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "Oh my~",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Hup!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Like that's gonna hurt!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "A Beam this weak is nothing!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "A Beam this weak is nothing!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "Like that's gonna hurt!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "Barrier up! That won't work!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Tch! Can't counter!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "Out of energy, damn it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "Tch! Can't counter!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "Damn! Can't reach!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "Damn it! Can't reach!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "I won't let that opening slip! Let's do this!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "Too soft! Have some of this too!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "Don't look away!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "Whoa! I'm your opponent!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "Fine, I'll be the shield!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "Leave this to us, the Cyber Beast Force!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "Pulse Laser, fire!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "Come on! I'll shoot down every last one of you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "Take this! Twin Cannon!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "Come on! I'll shoot down every last one of you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "Ryo! I'm leaving the close combat to you!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "Got you!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "This'll finish you!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "Alright! Do it, Ryo!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "Ryo! Smash 'em with the Iron Fist!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "I see right through it!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "Maximum level! Shoot!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "Target locked! I'll knock you down with the Daigun!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "Dan! Ku! Sword!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "Gooo!! Danku Sword!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "With my heart, I sever the evil space! Behold! Danku Sword!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "Here I go! Danku Sword!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "Here I go!! Danku Sword!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "Danku Cannon, fire!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "Take this!! Danku Cannon!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "Here I go! Danku Cannon!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "Here I go!! Danku Cannon!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "Danku Cannon! Formation!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "Danku Cannon Formation!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "Ryo, now! Danku Cannon Formation!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "Let's go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "Come on! I'll shoot down every last one of you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "I see right through it!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "Alright, let's blast 'em! Danku Cannon Formation!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "With the heart of love, I sever the evil space! Behold! Danku Koga Sword!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "Danku Koga Sword!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "Let's dooo this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "Ooooh! Here we go! Aggressive Beast Charge!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "We'll show you our wild side! Aggressive Beast Mode!",
+   "kind": "quote",
+   "keep": false
+  }
+ ]
+}

@@ -1,0 +1,1189 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1684,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. ???",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. ???",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "What is that gigantic thing... A mobile armor?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "With this Alpha Azieru, I won't lose!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Colonel.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Major Gato.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "I will sortie as well, in the Neue Ziel.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "I'm counting on you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "...Quess still has little combat experience... Back her up.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "You who carry on the will of the late Lord Delaz... I have high hopes.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Sir.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Neue Ziel, launch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "The one that came out with that new model... Is that the Neue Ziel!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Gato! Is that Anavel Gato...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "...I have never felt better...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "I fight for a great cause, alongside Zeon's last legacy...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Gato...! You...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Even I have not given up on realizing the ideals of Zeon...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "And now the time has come, Lieutenant Uraki.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "I...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "I don't know who's right in this fight, or what great cause there is...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "But... we're settling this, Gato...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "The operation has failed... so why do they still need to fight!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Damn it, Captain Quattro...! Why!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "So there's no turning back, is that it!? Tch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "...Char Aznable... I said... I'd protect you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Nanai! Eject her by force!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Nanai! Eject her by force!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "...Ngh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "...Ngh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Nngh... Argh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Gato, I...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "...Heh. Without the rotten Federation, you would not suffer so...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Why, Gato!? Ending it... like this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "I told you... did I not...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "To pass on our true battle... to future generations...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "C-Colonel! I believe in your victory...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Nanai!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Nanai, I'm going out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Wait, Colonel! For you to go out yourself...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "No... It seems I have no choice. ...Dangerous ones... are coming.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Huh? ...Understood.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Colonel, I won't stop you any longer... but after Londo Bell is defeated...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Yes, I'll do as you say, Nanai... Go to the combat bridge.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Yes...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Good girl. ...Sazabi, launching.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Bright red... A mobile suit as red as blood...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "So this is... it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Yes... He's going this far.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Unless we talk with our fists, our hearts won't get through to him!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Hey, Quattro!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Sure, the Federation bigwigs do whatever they please!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "I kinda get what you're saying!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "But they're not all bad people, are they!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "If you drop a rock like that, it's over for everyone!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Can't we all work hard together... and change things!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Char...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Unlike you, I cannot afford to be just a pilot!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "What that man is aiming for... is different from Iron Mask...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "But... but the means to get there are the same...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Cecily...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Captain! That's nothing but ego! The Earth...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "...Earth can't swallow all of humanity's ego...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Human wisdom can overcome something like that!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Then grant those ignorant masses wisdom right now!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Yes... That's why Captain Quattro... But this isn't the way...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Kenrou!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Rom!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Dangaioh, on the scene!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "We're here too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Sorry for the wait! I rounded everyone up!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "It took a little longer than planned... but it seems we're in time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Now it's our turn to repay the people of Earth...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Yes. It's just a shame our opponent is a familiar face...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Looks like the asteroid has split apart.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "So the cast is complete...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Dangaioh... Tobikage!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Even Rom and his crew!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Whoa! It's a total all-star lineup!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "...I've heard the story. In this battle...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "we'll fight alongside Londo Bell to protect the Earth...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "I understand, Rom Stol. But... what I must do has not changed.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Char...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Captain Quattro! Why... why!? We...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "I... can wait no longer.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Damn, he was this desperate... and we never noticed...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Captaaain...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "...We've got no choice...! Let's go, Dangaioh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "A man like you... being so small-minded...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Remember to your heart's content the pain you felt when Lalah died!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "...You're pathetic!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "What!? Why can't you see that you're the one wasting that power of yours!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "...Look who's talking!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Colonel! I'll assist you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Nanai... What about Axis?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "It's fine... Everything is going according to plan...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "...I see... I'm sorry.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "An all-out battle!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "But this looks like the last of them... We can do this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "...Captain Quattro! Hasn't this gone far enough!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Is there any point in fighting any more!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "...I... am no longer Quattro.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "To us... you're still Captain Quattro!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Mia...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "...I'm gonna knock some sense into you, no matter what...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "The malice... is gone!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "...Gato...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "...Isn't defeating me enough!? Amuro! This is no different from a massacre!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Wrong!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Then what are you, trying to massacre humanity!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "...With such power... you sweep aside my allies who fight for mankind",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "like obstacles... Do you truly believe you're right!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Is there any meaning in defeating Nanai!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "...True... perhaps there was no need to sink that ship...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Amuro! Is this your justice!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Char!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "...With all that power...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "those who side with me and fight for humanity, as if removing obstacles...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Isn't defeating me enough!? Amuro! This is no different from a massacre!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "...True... this isn't a battle meant for needless destruction...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "At this rate... it's no wonder the Einst abandoned us...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Amuro! Is this your justice!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Char!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "...With all that power...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "those who side with me and fight for humanity, as if removing obstacles...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Isn't defeating me enough!? Amuro! This is no different from a massacre!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "...True... this isn't a battle meant for needless destruction...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "At this rate... it's no wonder the Einst abandoned us...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "I win, Amuro!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "I win, Amuro!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Heh... It's time...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Heh... It's time...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Can't we stop it!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "It can't... be stopped now... The operation has failed.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Are you saying... Char has won!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "My monitor's... dead!? What! ...Damn it, I'm ejecting!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "An escape pod...!? You're not getting away, Char!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Caught!? But...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "You don't know a thing about reforming the world!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Revolutions are always started by intellectuals.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "They chase dreamlike goals, so they only ever go to extremes!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Meaning there's no building it up step by step.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "You can't change everything... all at once.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "...But after the revolution, even the noble spirit of revolution",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "gets swallowed up by bureaucracy and the masses...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "The intellectuals hate that, and withdraw from society and politics",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "to become hermits...! So then!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "I'm not thinking about reforming the world...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "You are!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "You are, and that's why you started this fight, isn't it!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Mia...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "...You overestimate me...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Hey... just now, near the front of Axis...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "I thought I saw a flash, like an explosion...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Just hurry up and blow to pieces already.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "...Shinobu!? Doesn't something seem off?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "This... isn't what we calculated?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Captain... The rear section of Axis is off its expected course...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "Hey! What's going on?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Show... What's wrong?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Axis... is falling to Earth?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "...No...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "...I've got it... That flash that looked like an explosion",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "seems to have come from its thrusters firing.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "What!? So what happened!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "...The rear section of Axis was braked,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "and lost the thrust it needed to break free of gravity...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "...Curses! Nngh... I must admit, that was well played...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Hey, it's not too late!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "If we smash the back of Axis, it'll burn up in the atmosphere, right!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Yes, if it breaks into small enough pieces, that's possible...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Hey, old man Hazuki! Why're you clamming up!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Hurry up and tell us the rear's weak spot or whatever!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "The time limit! Commander!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "...We have been had. At this rate...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "All units, fall back! We won't make it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Huh!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "No way...!? Can't we still make it now!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "We've been tricked...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "Char... He counted on Axis's brief destruction from the start...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "We should have realized... from the start! To be misled by the time limit!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Dammit!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "...We're withdrawing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "Huh!? Captain!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "All hands... withdraw...! This battle... is our loss...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "No way...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "Like hell we'll leave Dr. Saotome to die!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "Damn it all...! Argh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "Char... you...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "Captain Amuro!? There's a retreat order!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Hey, you're not...!",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

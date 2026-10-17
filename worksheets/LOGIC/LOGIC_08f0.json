@@ -1,0 +1,919 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 2288,
+ "strings": [
+  {
+   "id": 0,
+   "en": "Are you feeling all right, Excellen?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "...Yes. Sorry to have worried you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "He didn't show it, but... Kyosuke was really worried about you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Heh, what're you talking about? It was written all over his face.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Wow! Tell me more stuff like that, lots and lots more!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "...More importantly, we need to discuss the Einst.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Hey, come on, why do you always do that...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "That's right. Sorting things out once would help us going forward.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Ah, you too, Cecily!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "...Man, what a lively person.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "But it's great she hasn't changed one bit!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "We need somebody this cheerful around.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Hey, hey? That makes it sound like I'm an airhead.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Seems she's aware of it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Now, now, calm down...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Could you tell us about the Einst?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "...Thing is... I don't really remember much... honestly.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "You did seem kind of sleepy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "If I recall, Excellen and Kyosuke... you two were both",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "in a shuttle accident, weren't you?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "...You told them about that, Kyosuke?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Yeah.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "In that accident, you two survived miraculously... no, inexplicably...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Were the Einst series really behind it back then?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "A miraculous survival... It is indeed an inexplicable phenomenon,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "but there may be some other reason...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Why would that accident connect to the Einst?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Yeah, good point...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "I don't know how that accident ties in with them either, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "...Why was it you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Huh? Why was what?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "...Why did the Einst control you... and not me?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Hmm, maybe they prefer a young woman over a stone-faced grump...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "(...Harsh.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "...Answer seriously.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Hmm, if the accident and the Einst are connected,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "then it'd be no surprise if Kyosuke had been the one controlled... right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "That's true. Is there some reason?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "A reason, huh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "...Excellen, I heard you flew off into the Dark Zone?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "I don't really... remember, but... probably.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Could that ring of rocks have something to do with it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "That place... is probably their point of contact with this world...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "An entrance and exit, I think.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "The ones around the Saotome Laboratory on Earth were the same.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Stone Circle... Then the Stone Circles scattered all over Earth too!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Since the Einst series seems to have existed since ancient times...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "that may well be the case.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Hmm... Then what is their objective?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "...The Einst's ultimate goal... the extinction of humanity...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "You don't really think that, do you, Kyosuke?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "No. If that were it, they'd attack in a more straightforward way.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "There'd be no need for such baffling behavior.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Then it's simple. They don't mean to kill us, yet they keep meddling with",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "humans this much... They must be observing us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "I agree. Domon, it seems you've developed an eye for things.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "My, Domon, you're sharp today. But that would explain it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "They came to the Saotome Laboratory for the Getter Rays...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "They've appeared in Byston Well too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Show Zama's group being summoned via the Aura Road in the first place...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "They've meddled... that far?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "I'm not certain... but they're definitely involved with the Aura Road...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "In other words... they're looking for a power to wipe out humanity?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Then why only Earth?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "None of the other enemies have been attacked by the Einst... Why's that?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "If they just wanted to wipe us out, they wouldn't need",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "to do anything that complicated, would they?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "That's right... They could just come at us with their overwhelming forces...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Their fixation on Earth's people... means there's some other reason...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Ooh, ooh! Aren't we still forgetting something?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "What about that girl, Alchemie?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Yeah, what's with that girl? Didn't she seem kinda like Excellen?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Being young sure is enviable, huh.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "...Jokes aside, I don't really know much about that girl either.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "...But, probably...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "What is she?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "A person being controlled by the Einst, like you were?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Or else...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "That girl is... my...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Everyone, to the bridge. We'll be talking to Commander Hazuki soon.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "...The land of beginnings, Earthlings...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "...That being the situation, we're going to storm Demon Island.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "I see. So it's the final battle with the Demon Empire at last...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Nah, if they go wild like always, even the Demon Empire'll run away!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "With those guys rampaging, even allies would hesitate to get close.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "They can scare people off just by yelling!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Ahaha, so true, so true.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "And if the King of Hearts is in the mix, even I'd run for the hills.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Heh heh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Hey, what's that supposed to mean!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Honestly... You're barely back and already getting carried away.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "So Excellen has returned as well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "A lot has happened, but all in all, that's a relief, eh, Nanbu?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Commander Hazuki, have you met up with Rom and the others yet?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Yes. It came as a surprise, but... they saved us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "...Captain Bright, is everything all right on your end?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "We've checked every suspicious point, and things had calmed down...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Or so I could have said until just a moment ago...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Huh? Captain, is there new information?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Yes. We've finally caught the Vega Star Federation's movements.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "The Vega Star Federation!? They've been quiet... Did you find something!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "We just got word from Von Braun...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "The Vega Star Federation has been building a forward base",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "on the far side of the Moon from Earth. In secret, and very carefully.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "A secret base!? When did they build that...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Hmph, to build a stronghold unnoticed in the enemy's blind spot...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "They are not to be underestimated.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "So that's why they were so fixated on the Moon...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "We've been to the Moon so many times, and never noticed...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Whenever Londo Bell goes to the Moon, it's always total chaos, huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "An unwelcome jinx, but true enough.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "...Commander Hazuki, we'll strike the Vega Star Federation base at once.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Good luck to you there. Please give my regards to Queen Sheela as well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Understood. Good luck to you as well, Captain Bright.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "May the Kenrou guide you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Kenrou...? Could it be...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "...Yes, Rom's group chased the Gyandlar off into the sky again...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "I expect they'll join up with you...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Huh!? That guy's wandering off again!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "...Sigh, it can't be helped. Commander Hazuki, stay safe.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "You've all heard it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "The Ra Cailum will strike the Vega Star Federation's lunar base!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "King Vega... At last I've found you... Feel Fleed's fury, and mine!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Brother, I'm coming too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "I've heard the story, but... it's rare to see Daisuke this fired up.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "They destroyed his home planet... There's no way he can forgive that!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Princess Lamba... Someday, we too shall take on the Bunker...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Get too heated and the enemy will trip you up. Stay on your guard.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "By the way, how are Captain Quattro and Captain Burning doing...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "We heard they safely joined up with the Nadesico... but it's Mars, after all.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Right now, we still don't have enough detail to stay in touch with Earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "The Elshank's fine, but can the Nadesico do that Boson Jump thing",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "again? Sounded like a pretty risky tightrope act...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Even if they manage to join up, they might not be able to come back...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "But apart from the Elshank, there's no ship that can teleport...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "What're you talking about? There's a handy guy around, ain't there?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Can teleport... and handy...? Oh! That shady doctor!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "That's right, if we use the Daldal's warp beam...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "I see... Then, without relying on the unstable Boson Jump,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "they could get back from Mars quickly...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "But is it all right to just ask him like that?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "It's fine, it's fine. The Doc may not look it, but he can't say no.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Yeah, yeah, just use him however's convenient.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "I kinda feel a little sorry for Dr. Tarsan...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "...Maybe so.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "All right... Mia, please get in touch with Dr. Tarsan.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "With the doctor in hiding, the only ones who can reach him right away",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "are probably the Dangaioh team.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Understood. I'll let him know right away.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Captain, we'll get ready for battle too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Good. Everyone, stay battle-ready.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "It's a Vega Star Federation base. This will be a fierce fight...!",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

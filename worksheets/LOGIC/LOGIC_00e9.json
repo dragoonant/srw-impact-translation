@@ -1,0 +1,553 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 233,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed 2. Victory conditions not met within 10 turns",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "1. All allies destroyed 2. Victory conditions not met within 7 turns",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Looks like we made it inside.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Lady Sheela is...here?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "I wonder if she's okay.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Wow, look how huge these mushrooms are! ...Not very fairy-tale, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "They sure don't look edible.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "The Storm Sphere... To think it'd be a place like this...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Wow. Hey, Show, is it safe to go down there?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Maya, we're not here to play.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "...Show, didn't you say we couldn't spend much time here?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Right. The Storm Sphere keeps moving. If we stay too long...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "we'll drift too far away to ever reach Drake's castle...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "True... We did push back the Wil Wiph, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "It's pointless if we're stranded afterward.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "How much time do we have?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "...Ten minutes. That's about all we've got.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "...Seven minutes. That's about all we've got.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Then let's hurry up and search.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "All right, let's get started!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "...If Getter-2 burrows into the ground, we won't fall out the bottom, will we?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Ooh, that sounds fun! Try it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Hey, hey, it'd be bad if we really fell through. Some other time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "What!? Enemies!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Drake's army! They still haven't given up on Lady Sheela!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "You're not the only Holy Warrior around, pal.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "If you prove yourself as a warrior here, Lord Shot will be pleased.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "You understand, Fei?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "I consider myself a Holy Warrior too. I'll show you I'm useful.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "This is no time for a search party.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "What a pain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "But they don't seem to know where the queen is either.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Let's hit them all at once.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Heh, I like it better this way. Nice and simple!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "All right, we're short on time. Spread out and crush the enemy. Let's go...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "All riiight, everyone, get 'em!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "New arrivals!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Come on, we don't have time for this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Those are... Wait a minute, from the surface...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Machines from the Dinosaur Empire and the Hyakki Empire!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Here, of all places!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Show!? I've never seen Aura Battlers like those...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "What are they!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Marvel, they're surface enemies. Their armor's thicker than ours.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Be careful!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Rather than being sent here from the surface,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "they may have been caught up in that light, just like us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Eeek! What is this, what is this!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Ah! It's Elle! Show, over there! It's Elle Fino!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Elle...? Ah, what is this...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Lady Sheela!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "So that's the princess we're looking for!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Geez, why do princesses always have such lousy timing!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Joe, she's not a princess, she's a queen.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Doesn't look like the time for joking around.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "We don't have time to spare. Let's go.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Anyway, we gotta wipe out the enemy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Lady Sheela, I'll save you now!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Ngh, this Bubly is...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "I won't miss this chance...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "I can't die in a place like this...! Withdrawing!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "That's... Shot Weapon's...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Wh-what!? The aura converter's output is...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Fei Chenka! I'm finishing you off!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Like hell you are! I'll take you on again! If you ever get out of here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Show...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Yeah, I have to defeat them...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Not just Fei, but Allen too... and that red-haired woman.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "You saved me, Holy Warrior Show Zama...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "I'm glad you're safe, Sheela Lapana. I'll escort you to Castle Uroporos.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Lady Sheela, I'm so glad you're safe.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Lady Elle... I've caused you trouble as well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Trouble? Not at all...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "The Kingdom of Na must finish the Gran Garan as soon as possible",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "and crush Drake's ambitions.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Yes, Lady Sheela.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "...Yes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "She's so dignified. A real queen.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "...If only that princess of ours were a bit more like that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Lady Sheela, Drake's movements have grown bolder again...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Castle Uroporos has been attacked too... The Goraon is defending it now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "You should return to the castle as soon as possible...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "...Marvel, it seems I've put you through hardship as well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Cham! Geez, where were you at a time like this!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Things have been totally crazy here!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "I had a crazy time too, you know!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Elle, stop that. ...Show Zama, who are these people...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Allies. I'll explain later.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "We don't have much time. We're getting out of here now...!",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

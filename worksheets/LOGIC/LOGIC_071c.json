@@ -1,0 +1,1273 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1820,
+ "strings": [
+  {
+   "id": 0,
+   "en": "So you're saying that red machine is how you got back to the surface?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Most likely...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "So does that mean the Einst sent us flying to Byston Well, too?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Were they trying to trap us in another world...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "The red machine's pilot said they'd brought some extra baggage along...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "They probably meant to return to the surface by themselves,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "but for some reason, we got dragged along too...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "In Byston Well, we people from the surface",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "are called Holy Warriors.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "With so many surface people like us there, the Aura Road",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "may have become easier to open.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "There's still so much we don't know about that enemy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Did anything happen on the surface while we were in the other world?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "A lot happened, but the big news is that we destroyed the Devil Gundam.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "You were short on fighters without us, and you still beat it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Thanks to Domon.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Domon?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Meikyo Shisui... Maybe it's something we just can't understand...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Wow, so Domon finally beat the Devil Gundam!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "For now, I suppose things have settled down...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "This place really is the most comfortable, huh, Lenny?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Yeah. The Goraon was nice, but the Elshank feels more like home.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "I'm so glad you came back safely... Joe.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Hey! I'm here too, you know?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Man, I was wondering what we'd do if we couldn't get back. Right, Lenny?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Oh please, you were the one saying you liked it and could live there.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "If only he had. It would've been a load off my mind.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Heh, too bad for you, Gamey.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Were there any ninja in Byston Well, Joe?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Nah, not among the people we met, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "But what?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Tobikage came to help us in that world, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Really? That Tobikage sure shows up everywhere.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "So Schwarz is still our only lead on the ninja...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Where is Schwarz now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Who knows. Isn't he with Domon Kasshu and the others?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Still... it bugs me.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "...He took a beating shielding the Shining Gundam, you know?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Yes. ...I wonder if he's all right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "...Yes, I understand. I'll tell Domon that too. Goodbye.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "What about Father!? What's happened to him?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "They'll lift his cryo-sentence once the Devil Gundam is recovered...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "I see... Thank goodness...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "So that takes care of our original goal, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Yeah. There's nothing left for me here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Hey, Domon! Don't tell me you're saying goodbye here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "...I know, Allenby.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Then you'll stay with the Gandor Team, Domon?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "We beat the Devil Gundam, but Master's surely still scheming.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "I see. Then this is good timing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Good timing for what?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Father is developing a new Gundam for Domon.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "A new Gundam?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "It has an enhanced emotion energy system, and a multiplier that turns ki",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "into energy. It's truly a machine worthy of being the Shining Gundam's",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "successor.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "If that new power is combined with my Meikyo Shisui...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "But he said it'll still take time to complete.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Lucky. I wish they'd power up my Nobel, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Hey. Come to think of it... where's that man?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Schwarz? He left a moment ago without a word.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "I see...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "(The damage he took shielding me...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "he shouldn't have been able to move so soon...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Schwarz Bruder... who in the world is he?)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "...Absurd! You want me to do that to my... my Apsaras!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Yours or mine, it makes no difference.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "These are Lady Haman's orders. You have no right to refuse,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Technical Major General Ginias Sahalin.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Lady Haman... But... that's absurd...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "You understand, don't you? The operation is entering its final phase.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "We're already being hindered by those incomprehensible invaders.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "If that Gandor Team comes up here, it'll be a real nuisance.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "...Under... stood. Tell Lady Haman that...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "My, my, you look pale. Well, do your best, then.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "And try not to get that cute little girl pilot killed by mistake.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Right, Technical Major General? Heh heh heh...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Ngh... Grr...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Brother...? That transmission just now...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "The complete Apsaras will take a while longer to finish...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "All we have are a few prototypes...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Brother, I... can't anymore...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "...Aina... We're launching the Apsaras...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "...!! What on earth has happened, Brother?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "A colony... is going to fall on Earth...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Lady Aina... may I have a moment?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Norris...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "So that thing... appears to be complete.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "I am a bit troubled by where its backing came from, though...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "It hasn't even had a test run yet.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "I almost wish... it would never be finished.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Lady Aina. Why is it that you came here?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Would it be strange if I said... for my brother's dream?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Not at all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Once Brother's Apsaras is complete, the flames of this war will die down.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "But... it's still a weapon that will take countless lives...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "It is for the Sahalin family. My life will remain with the Sahalin family.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Thank you... Norris.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Pride, honor, bloodline, me as a Sahalin... I'm just like a doll...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Lady Aina...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "It's all right... Norris... I'm fine.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "...It seems you sent the surviving soldiers off to Lady Haman.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "I'm surprised your brother, Lord Ginias, agreed to it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "...The condition: I take the Space Science Lab with the prototype.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "...What...! Lady Aina... I will follow you anywhere. But...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "I can't let the soldiers die along with my brother's obsession...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Lady Aina...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "You've grown strong. Is it... because of love?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "You wound me. I wasn't born from a tree trunk, you know.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Not before I chose the path of a career soldier, anyway...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "I know nothing... about Norris, who was like a parent to me...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "I...? Lady Aina's... parent...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "I'm honored...! My mind is made up... I'm heading out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Norris!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "A person's life... is measured by what they accomplish.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Lord Ginias achieved his dream... That is admirable.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "If Lady Aina wishes to seize the lab, helping her is my duty as a soldier.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "...Norris!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Please... come along a little later.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "I'll go ahead, seize the laboratory, and be there to greet you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Impossible... A colony!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Bright, what's going on!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "These days a colony drop should be detected early on!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "...We were set up. By the Delaz Fleet!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "We're moving now to stop the colony from falling. There's no time.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Captain Bright! Where's the projected impact point!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Most likely... Jaburo.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Haman can't be happy that an unknown army has taken it, either.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Sure, we'd be safe if we just stayed here in Japan...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "but all we can do is sit and watch...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Dropping a colony!? What the hell are they thinking...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Commander Hazuki, can't we stop it from our end!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "...Impossible. An HLV won't make it before the point of no return...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Then how about going straight there in the Gandor?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Hold on, look at the state the surface is in.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "If the Gandor goes off into space...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "...Right, that's no good.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Besides... if we push it, the dragon's life would...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Dammit, we just have to leave it to Londo Bell!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Grendizer can reach space on its own. At least I can go...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Daisuke, I'm going to space with you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "No, Koji!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "She's right. If you go up into space too,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "then who's going to protect this green earth, Koji?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "\"How green was my land\"... right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "How do you know that...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Koji said it once before...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Heh heh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Like all of you, I want to protect this beautiful Earth.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Princess Romina...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Please use the Elshank...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "We will take Daisuke and his sister to Londo Bell.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Our Elshank has a warp drive called Microworm Navigation.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "With it, we should make it in time... However...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "You mean the fuel. You needn't worry about that.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Major Ronin should be delivering Kirhasium to the Space Science Lab",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "any time now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "That Ronin, he really comes through...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "With the Elshank's Microworm Navigation, we can soon join up",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "with this Londo Bell of yours right away.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Are you sure, Princess Romina?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Yes, if it will help you all...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Princess Romina... thank you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Thank you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "...How lucky I am... watched over by so many friends from other worlds.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Then, Captain Bright...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "We're grateful... We'll contact you later about the rendezvous point.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "We'll head for the Space Science Laboratory at once, too. Until then...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "We can't leave the surface.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "Can we really do nothing but watch...!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Grendizer can reach space on its own...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "At least I can go to space.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Brother, I'm going back to Londo Bell too. I only came down on a whim.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "But Aphrodite A can't break through the atmosphere alone, can it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Please use the Elshank...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Princess...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "We appreciate the offer, but you could never make it in time now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Leave this to us...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "No, the Elshank has Microworm Navigation...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "what you would call a warp device. With that...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "But Princess, to use Microworm Navigation, we need Kirhasium...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "The fuel won't be a problem. Major Ronin should be",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "bringing it to the Space Science Laboratory any time now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "That Ronin, he really comes through...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "Then let us hurry to this Space Science Laboratory...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Are you sure, Princess Romina?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Yes, if it will help you all...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "Princess Romina... thank you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "Thanks. ...How lucky I am, watched over by friends from other worlds.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "Then, Captain Bright...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "We're grateful.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "But... they say the area right around the colony is a war zone.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "If you go waltzing out there, you'll just be in danger, you know?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "...Are you worried about me, Joe?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "Uh, w-well, yeah.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "But the Elshank alone...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "I'll go.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "Whoa, whoa, Akira, it's outer space, you know?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "Like Daisuke said, the Einst are showing up in space too, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "Raideen might be able to figure something out.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "Hmm. Yes. Losing more of our strength here hurts, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "this is no time to worry about that.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "All right, the Gandor Team will now head for the Space Science Lab!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "Get me Director Umon!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "Space, huh. ...The Einst are said to be appearing in space too...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "I'd like to see it with my own eyes, but...",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

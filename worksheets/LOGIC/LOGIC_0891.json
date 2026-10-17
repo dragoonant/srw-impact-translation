@@ -1,0 +1,1435 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 2193,
+ "strings": [
+  {
+   "id": 0,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Kyosuke, got a minute?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Captain Amuro...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "About Excellen... I'm sorry.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "...Yes. I had a feeling it might come to this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "But it's only just begun, hasn't it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Huh...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "She wasn't our enemy to begin with.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Maybe she's just lost herself because of something like the",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "mind-control device the Meganoids used down on the surface.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "(He's not wrong...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "But... the root of it must lie much deeper than we imagine...)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Is that... the Captain and Nanbu?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Hey, Kyosuke. You've been through... a lot, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Yeah... I finally saw her again... and that's how it went.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "And I've got no idea how she's tied to that red one... Alchemie.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Cheer up. At least she seems to be okay.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Right... At least it means there's still a chance.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "We have to get her back somehow. Until then, all we can do is fight.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "(Excellen... Where are you now...?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Whew, we've still got a mountain of problems.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Looks like we'll reach Sasebo soon. I wonder if the Nadesico's fixed...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "They said its main computer was acting up...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Hope it's fixed by the time we get there.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "If it's not, we just barge in with our mechanics too",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "and fix it ourselves.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Joe, there you go being reckless again. Brute force isn't everything.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Anyway, at Sasebo, Commander Hazuki, Captain Quattro, and I",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "plan to visit the Nadesico.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "I wanna go too. Last time, I never got the chance to hit the hot springs.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Koji, honestly, that's all you think about...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Hot springs aside... we fight together, but we hardly interact.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "It might be good to take this chance to have a look at the Nadesico.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "That's the Captain for ya, he gets it! Right, Koji?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Yeah. The Nadesico's full of beauties... I can't wait.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Ko~ji~",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Is that okay, Captain?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "We've fought nonstop. Even touring a ship in our unit is a nice change.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "And it helps the Nadesico crew's morale... is that it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "That's the idea.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "So the surface has places like this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "It seems you've taken a liking to the surface, Lord Drake.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "...Indeed...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Lord Drake?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "...Who do you think led us to this surface? Shot Weapon?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "That woman... from before?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Indeed... We were driven out of Byston Well...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "To conquer the surface without knowing who is behind it all...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "makes me feel as though I've become a fool.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Surely not. ...Lord Drake, securing our footing must come first.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "That woman who meddled with us and the rest can wait until after.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Indeed... And where are they?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "We've located them. ...It's at the far western edge of the Pacific.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Good. They'll be a fitting foe for dispelling this unease.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Shot, make no mistakes, understood?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Yes, sir. I've prepared a new model as well... We will not fail.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Everyone, it's been too long. Welcome to the Nadesico.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Even with the Nadesico in dock, I apologize for all of us",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "barging in like this.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Not at all. Considering the trouble we caused you in that last battle,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "letting you all unwind on the Nadesico is the least we can do...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Oh my, welcome! Three Captains, and the hot-blooded Lieutenant too?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "And Mr. Handsome as well. Can I get you anything to drink?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Come on, this isn't some bar.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Pardon the intrusion.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "I'd rather you didn't call me handsome...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Hmm, and where is everyone else?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Hm? Looks like one of the Nadesico crew just showed them around...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "We came to the bridge first to pay our respects to Captain Misumaru, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "It seems Captain Misumaru has stepped out.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "...And your operator, Hoshino, too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "W-Well... about that...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "She said she was going to get ready to welcome you all, and that was it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Honestly, she has no sense of what it means to be captain!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Heh, that's just like her...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "By the way, how are the Nadesico's main computer adjustments going?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Well, we've run into a bit of a problem...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "If we can't fix it quickly, a Federation Forces work crew",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "will forcibly wipe Omoikane's memory...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "That's troubling... If all the combat data up to now",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "were erased as well, it would be a great loss for us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "We have pinned down the cause of the trouble, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "...So there's some problem in solving it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "If you don't mind, could you explain? If there's any way we can help...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Explain it simply... you say? Dr. Inez is never around at times like this...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "No need to worry.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Ms. Fressange? Over the ship's PA...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "3, 2, 1...! Kaboom!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Wheee...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Why? What? Nadesico.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Hey, everybody, gather 'round! It's time for the secrets of the Nadesico!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "...Gather 'round.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Wh-What is this...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "...How should we respond to this, Amuro?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "For now... it seems all we can do is watch.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Yurika... So this is what you meant by getting ready...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "The captain herself went to all this trouble... for us?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "...I doubt she needed to build a set...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "...She's absolutely doing this for her own fun...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Does everyone know how the Nadesico runs?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Ummm, Big Sister, I don't know!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Hey, hey, why can't the Nadesico move anymore?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "S-So cute... No, wait! What are you doing!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "That's because Omoikane has built up a lot of stress.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Ruri-Ruri, you're so cuuute!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "I used to be on a show like this too, you know...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Ruri, that's way too flat! And your breath support's a bit weak, too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Ummm, \"Hey, Big Sister, what's this stress thing anyway?\"",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "K-Kabuto...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Tetsuya, the script. It's your line.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "...I'm not doing this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Hey, come on!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "He left. ...Well, can't say I blame him.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Hey, weren't you the one who went in saying it looked fun, Hayato?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Come on, now! We're on the air!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Koji, take Tetsuya's place and keep going!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Huh? Oh... \"Koji, stress means when you get all irritated, right?\"",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "...Wait, why am I saying that to myself?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "\"But can a machine really get irritated?\"",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "\"...I wonder?\"",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Even Princess Romina... It seems the place the crew showed everyone to...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "was the broadcast room...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Ah, that's a good question.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Then let me explain about the Nadesico's main computer, Omoikane.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Come on, this way. Hurry up.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Ah... Wait a sec, my next line...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "The Nadesico's main computer, Omoikane, is a learning computer.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Do you understand that?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Ummm, I don't get it. I mean... I'm a bunny, after all...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "(Why a bunny...?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Hey, Vice Captain! How long are you going to let this go on!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "...Well, it's certainly a silly stunt, but the topic is right on point.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Probably Dr. Inez's doing... We'll get there faster if we just listen.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Show, a \"learning computer\" is a machine that keeps remembering",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "things that happen, like people and Ferarios do, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Hey, Cham, don't interrupt the show.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "That's right, it's just like you said over there.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "So by gaining combat experience, the Nadesico",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "can keep choosing more and more efficient responses.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "\"Oh-ho, I see. But Big Sister, why did Omoikane",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "get so stressed out?\" If it lashes out to blow off steam...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "it's got a pretty short fuse, huh?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "(An ad-lib... Not bad, Banjo Haran.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Omoikane remembers a time it broke through",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "the Federation Forces' defense line before.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "\"So it learned that the Federation Forces are in the way, huh?\"",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "\"Oh, I get it! We're Federation too, so...\" Hey, wait, that's not fair!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Hey, Joe Maya! The good boys and girls of the Nadesico are watching!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Stick to the script! Ruri... time to wrap it up, please.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Wrapping up.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "...That's right. The Nadesico was very hostile toward the Federation,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "so we kept resetting the memories that caused the glitches, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Every reset made the irritation pile up more and more, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "\"And that's how last time happened.\" Gotcha, Big Sister.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Nice, Hayato. \"...But even if we know why, how do we fix it?\"",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "That's why we need your help.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Huh...? Are we to persuade the central computer, Omoikane?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Don't tell me... that's it? Sounds like the important part's next. Dr. Inez?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Yes... All right, playtime's over.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Shall we move on to the next room on our Nadesico tour?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "Ruri, Captain, and all our performers, thank you for your hard work.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "I never want to do that again.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Oh, it was fun, wasn't it? Even if Tetsuya ran off.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "...Oh, Garrison?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "My line... was taken by Miss Cham...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Good grief. ...Still, it seems there's a way to solve this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "...I still don't get why they built such an elaborate set, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Was this one a success, I wonder? Megumi?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Hmm, it might've flopped a bit.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "In any case, Commander... it seems we'd best join them as well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Indeed. Where have they gone?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "It seems they're in the virtual room.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "The virtual room?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "This is... the virtual room?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Yes. Originally, it's a facility that shows virtual visions",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "to relieve stress during long voyages, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Don't tell me you're gonna make this Omoikane computer dream",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "so it can blow off stress!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "I doubt that's possible.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "I modded it so you can dive into Omoikane's programming.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Debugging, you could call it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "You can mod it like that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "Uri-P, you're amazing!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "Heh, believe it or not, I've accessed Omoikane plenty of times.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Its programming's so slick, I never get tired of looking at it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "But how do you debug it in a virtual reality world?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "I don't see how.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Well, you'll see once you're in. Hooked up to my host computer,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "this simulator turns you guys into first-rate cyber warriors!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "...I've got a bad feeling about this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "Hey, instead of all this hassle, why not just wipe the data",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "clean and start from scratch?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "That would be the quick way, I suppose.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Oblivion is the act of forgetting... That's grown-up logic, isn't it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "Just forget anything that's awkward... Grown-ups are so unfair...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "The dearer a memory is... the less you can forget it, even if you try...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "To erase something like that...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "Yeah... Conveniently forgetting everything,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "or making someone forget... I can't agree with that either...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "...Sometimes it's happier to forget, to not remember.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "But human karma won't allow it. ...Along with our cursed memories.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "......?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "Besides, erasing every combat record so far would be a problem.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "It'd mean the Nadesico goes back to being a newborn again.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "Yeah, yeah. So we use this machine to get inside Omoikane",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "and fix it, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "If it was all set up like this... why didn't you just do it already?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "Yeah. Couldn't we have done it on our own...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "You'll see once the debugging starts. Now, put on the virtual helmets.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "Wh-What's that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "Bridge to all hands! The Federation work crew has sent notice!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "Due to mission requirements, they can't give us any more time...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "They say they're boarding the Nadesico to force-initialize Omoikane!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "Looks like they finally ran out of patience.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "We'd better hurry.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "If we don't hurry, they'll mess with the Nadesico however they like!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "Commander Hazuki... please hold off the dock's work crew somehow.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "Very well, I'll do that.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "...Banjo, I'd like your assistants to lend a hand too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "Understood. Beauty, Reika, Toppo, I'm counting on you. Garrison too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "Leave it to me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "But how are we supposed to get in the work crew's way?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "You just need to talk to them like normal.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "Let's see... We'll ask the Nadesico crew still on the bridge",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "to lend a hand as well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "All right, we'll hurry and adjust Omoikane. Everyone ready!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "Yeah, I'm counting on you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "Captain... Shouldn't you go to the bridge?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "As captain, I will watch over Akito as he works on Omoikane!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "That doesn't really follow, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "Then I'll handle backup...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "Thanks!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "All right, let's go!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "Virtual machiiine! Switch ooon!!",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

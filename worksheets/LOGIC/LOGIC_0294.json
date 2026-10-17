@@ -1,0 +1,967 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 660,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "A strange gravity zone...? What is this...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "...Ugh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "What's this? Meteors arranged in a ring...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "I thought this point was just an ordinary asteroid belt.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Exactly. What on earth is going on here?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "I can't make heads or tails of it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "It kind of looks like Stonehenge in England.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "What's that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "A ring of stones. Nobody really knows who built most of them, or why.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "But why would one be out in space, where there's no ground?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "You can see them in Japan too, in places like Hokkaido.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Hokkaido? What, crabs?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Koji, just be quiet.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Why would something that occult be out in space?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Surely a coincidence? The ground and space are worlds apart.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "I don't think you can lump them together.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Tetsuya, you really got no sense of wonder, I tell ya.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "There doesn't seem to be anything in particular here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Captain, shouldn't we avoid wasted trips?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Or we might not make it in time when it counts, like last time...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "I know, Lieutenant. But we know far too little about the enemy...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Not just their strength, but even their goal.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "So no effort is too much for that. But this time, it seems a miss...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "...Wait!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Maria...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "...Wh-what... is this... Ugh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "What's with you all of a sudden?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Maria, you got a stomachache? And Excellen too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "B-Brother... Take Grendizer...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Grendizer? What are you saying...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Everyone, we have to launch or we're in trouble!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Are you all right, Maria?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "...Lieutenant Uraki, Maria can see the future. Right, big brother?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Yeah. It worries me... Captain, I'll head out for now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "If there's nothing out there, all the better.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "I'm going out too. ...Something about this... just bugs me...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "(What is it... this sense of dread... There's... something here...?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "...Understood. All hands, launch. Stay on your guard.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "What!? The enemy!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Never seen that type. A new model? Or... yet another new enemy!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Feels like every time we go somewhere, we run into a new enemy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Seriously.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Now, now. If it comes to this, we'll just take them all out one by...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "...A...gain...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "...!! What?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Hm? What's wrong?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Just now... Didn't you hear a voice?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "A voice? What are you talking about?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "This... pla...ce...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "I knew it! Captain! It's saying something!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Who is?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "They're attacking!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "No contact on comms... Can't be helped. Intercept them!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "There's a good chance they're new enemy units!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "...Ugh... That's... not it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Maria? Maria!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Daisuke! Let's deal with the enemy in front of us first!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "We'll worry about Maria after that!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "But what in the world...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Maria! What on earth is wrong!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Daisuke! Maria was acting strange before they even showed up.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Either way, doesn't that make them dangerous!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "So that's all we can do...! All right, Tetsuya.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Any enemy in our way has to be defeated regardless!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "(Hey... what's going on? I'm the only one... who can hear it...?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Ngh...! This... this feeling...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "High energy reading at the center of the circle!? What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Tch, more of them...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "...Hmm, maybe it was just my imagination? I don't hear anything...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Captain, did the enemy respond to our hails?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "...No, we couldn't connect. In fact, I doubt they even received us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "What do you mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "They may be some kind of... life form. No heat source, no metal...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Then again, there were no life signs either...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Space creatures...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Come on, this isn't science fiction...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Yeah, yeah. Isn't the equipment just busted?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "All of it at once? That's weird.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Maria, have you calmed down?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Yeah... But, Brother...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "What was that about? Maybe I'm... a psychic too?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "A psychic...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "These guys just don't quit!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Where did they come from!? I didn't see them!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "There's somethin' real creepy about these guys, I tell ya.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Where did they come from!? There was nothing at the center!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "I have no idea. What on earth...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "There's somethin' real creepy about these guys, I tell ya.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Reinforcements...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "...!! What is that...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "...You...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "...!!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Who... are you...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Who? Who are YOU!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Excellen, what's wrong? You've been acting strangely for a while now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "N-nothing...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Here they come! Intercept them!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "You're going to answer me! Who are you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "The appointed time... draws near...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Could you say that so I can understand? From your voice...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Are you a cute little girl, maybe?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "...Little... girl? I am not... I am... you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "If you... were more complete... I too... would be more...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Okay, stooop! Could you explain it in order!? So I get it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "(Somehow... it doesn't feel like we've just met... Who is this girl...?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Damn, looks like it's still got plenty left. Tough bastard.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Still holding on? ...This one's a cut above the ones before.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Tell me who you are... and maybe I'll let you go.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "What's with you all of a sudden?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Do you know that robot?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Excellen, do you know that mysterious enemy?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Huh? No, no, I just thought maybe we could get acquainted.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "(Something's definitely off... And nobody else seems to hear her voice.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "...Kyo...suke...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "...!!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "I am going... to see him... What I lack... so that I can be... me...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Wait...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Hold it, Excellen. ...We can't catch up at that speed.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "What was that? It just showed up... And Excellen's acting odd too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "What are you doing!? Keep scanning! Wipe out the rest and leave this area!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "What a pain. Let's just wipe 'em all out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "They're the enemy either way, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "But this place... scares me. I think we should get out of here fast...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Battle Mastery increased by 1.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "No enemies... And the energy readings are gone too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "What is this area...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Brother, I have a really... really bad feeling. Let's leave quickly.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Maria, this isn't like you. You're awfully timid.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Yeah. Now that we're here, why don't we flip over every rock?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "They might be stuck all over the undersides, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "They're not pond snails, you know...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Maybe we should just go over every inch. We might learn something.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "No, we should withdraw. ...Something here feels off. Besides...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "She may just be tired, but she's acting strange too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Hey, what's wrong?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Huh? Oh, please, it's nothing. No need to fuss, Lieutenant!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Captain, if we're searching, let's search for enemies.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "No, we're leaving. We still have a mountain of work to do.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "We can't spend time on something this uncertain.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "...All units, return to the ship.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Can't be helped, I suppose...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "I'd like to look into it... That red one especially felt different...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "(Kyosuke... She definitely said Kyosuke. What is going on?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Kyosuke, would you understand this...?)",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

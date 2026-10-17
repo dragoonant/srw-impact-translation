@@ -1,0 +1,403 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 2381,
+ "strings": [
+  {
+   "id": 0,
+   "en": "",
+   "kind": "dialogue",
+   "keep": true
+  },
+  {
+   "id": 1,
+   "en": "Has everyone been brought aboard!? Shaff.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "All is well, Your Highness.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Good. Engage the micro-worm drive at once.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "What's the Nadesico's status!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "We're OK too. Captain, the Boson Jump, please.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Roger. Erina, how are the Tulip Crystals?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "They're fine. Hurry up and get it over with, Captain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Roger! Akito, Inez, give me a hand!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Please transmit the rendezvous coordinates to the Nadesico.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "No problem.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "We will now break away from the space pirate Bunker's battleship!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "All hands, please brace for impact.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "I hope nothing goes wrong...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "O sorrowful souls who slumber in my universe...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Answer these foolish humans... with your wrath...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Wh-Where are we...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": ".........!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Shaff, what is the meaning of this!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "I don't know. ...And our current coordinates are unknown, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "What the hell is this!? What's going on!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "What about the Nadesico!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "This is the Nadesico! Captain Bright!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Earth... When did it end up like this!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Coordinates unknown. ...At the very least, this isn't normal space.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "...Safe for the moment, then.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Please verify the data on your end too. We'll also...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "The analysis results are in, Captain Bright.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "That was... awfully fast. I was curious and checked too,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "but all I could tell was that space is distorted here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Space is... warped, ya say?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "...We already had the data. I simply cross-checked it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Data?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Has something like this happened before?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "...!! Commander, a spatial distortion... Don't tell me...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "...It's the Muge universe.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Wha...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "You're kidding!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "It's the truth. ...Ever since the Cyber Beast Force base was devastated",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "by Muge Zorbados's double, I had expected this.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Hmph... That settles what we have to do.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "...Yeah. This will probably be... the biggest showdown of this war...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Plus... the Einst series too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Muge Zorbados...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Fighting him might tell us something...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "The Einst series...!? You're saying they're involved too?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "No doubt about it... They're here...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "The Muge universe... You're saying the Einst series is here!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "It's not hard to accept.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "...Muge Zorbados's universe... and the space the Einst appear from...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "They have one thing in common: the ability to manipulate space at will.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Places like the Stone Circle, the way they suddenly appear...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "You mean they were coming from another dimension...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "That's creepy. Let's just hurry up and take him down, okay?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "But... it still bothers me. In the end... we barely understand any of it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "A role...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Rom... What's wrong?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "It's nothing... Gades spoke of the Cronosians' duty... their role.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "If such things really are decided for us in this universe...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "then what is the Einst's role...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Don't overthink it, Big Bro Rom.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "If that's how it is, then taking down guys like that is our role,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "and getting in our way is the role of the Einst and the like.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "I'd like to believe that, Koji.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "(...That may not be far off... A duty... a role... Is that it...?)",
+   "kind": "thought",
+   "keep": false
+  }
+ ]
+}

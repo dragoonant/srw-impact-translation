@@ -1,0 +1,1309 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1830,
+ "strings": [
+  {
+   "id": 0,
+   "en": "Whew, I'm beat. One thing after another... What the hell is going on?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Hey, Joe. It's not break time yet, you know?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "That's right, Big Bro. Once our units are resupplied,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "they told us to collect the Einst wreckage, remember?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "C'mon, what's the harm? Just a little while.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Thank you for your hard work, everyone.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Yeah, you too, Princess Romina!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "I haven't done anything...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Should you lot be slacking off here?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "What a noisy guy. I'm trying to rest here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Noisy!? Who do you think you're talking to!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Ugh, so noisy. I'd rather go pick up bones.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Let's go, Mike, Lenny.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "I've still got a bit of maintenance left on the Blast Dragon...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Hm? Who's that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Huh, so this is what the inside of the Elshank looks like?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "What is all this commotion?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "You are... Lady Allenby, I believe.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Y-yeah. That's me, but... being called \"Lady\" is kinda embarrassing...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Need something?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Hmm. I'm looking for Domon...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "I saw him outside with Rain a little while ago.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Domon Kasshu was pretty down, huh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "At times like that, the best thing's getting comforted",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "by a knockout girlfriend like Rain.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Rain's Domon's girlfriend?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Isn't she? They're always together.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Just 'cause they're together doesn't make her his girlfriend, I think.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Exactly. Some dense guys never notice, even when they're together!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Wh-why're you looking at me!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "No reason~",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "...I see, we've both got it rough.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "...Yeah, pretty much.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Huh? What are you girls talking about?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "None of your business~",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Yep, none of your business.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Geez, what's with those two? Suddenly all buddy-buddy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "The start of a beautiful female friendship.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Um... Lady Allenby, there's something I'd like to ask...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Yeah, what?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "The princess believes this man called Schwarz may be the ninja.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Yeah. His moves really did look like Tobikage's.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Hmm. Come to think of it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "I heard there's a fighter who uses Germanic ninjutsu.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Germanic... ninjutsu?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Then is he the legendary ninja!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Who knows?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "If anyone who uses ninjutsu is a ninja, maybe he is,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "but I can't say if he's the ninja from planet Radorio's legend.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "I see...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Isn't that good, Princess Romina?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "I thought the ninja's trail had gone completely cold at the Iga village,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "but there's still a chance.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "(...But only Joe and the others can pilot Radorio's royal machines.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "What could this mean...?)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "So this is where you were, Domon.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Domon?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Rain... I'm leaving on a training journey...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Training?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Because I was so green, I let the Devil Gundam revive.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "If I'd been stronger, I could have saved my brother and Master...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Domon...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Got it. I'm coming too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "...You'd get in the way of my training. Stay on the Gandor.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Wha-! In the way!? Who do you think handles",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "the Shining Gundam's tuning and all!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "I'm part of the Shining Gundam's crew too, you know!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Domon.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "All right...! Let's go... Rain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "W-wait a sec. We can't just leave on our own.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "We have to tell Dr. Hazuki first...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "The ones holding Jaburo... are this mystery army?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "We're recovering the wreckage now. We'll learn something, Commander.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Who's out doing the work?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "The resupplied mobile suit units, including Captain Amuro.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Just in case, the Getter Team's out too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Big Bro headed out with Lenny a bit ago too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Allenby tagged along too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Hey, doesn't that sound fun? Let's go too, Banjo.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Beauty, this isn't a game.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Besides, how can you even want to go look at those creepy things?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Now, now, let's leave this to the Captain.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "MS are definitely better suited to delicate work.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "That's right.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Don't we have stuff of our own to take care of?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Ladies?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Mister's right. We've secured the skies over Jaburo,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "but there's too much we don't know, like who the enemy is.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "And we can't just ignore that Devil Gundam thing either.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Speaking of which, I haven't seen Domon around.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Mikamura contacted me. Kasshu and the others",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "are leaving the Gandor to pursue the Devil Gundam.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Right, they came here chasing the Devil Gundam to begin with.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Domon has to go after his brother and his master, doesn't he.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "They'll pursue the Devil Gundam while training for a while.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "They'll contact us as soon as they find it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Whatever.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "We came all this way, so let's just storm in, Commander Hazuki!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Koji, this is exactly when we need to act calmly!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "It's the opposite. When you're on a roll, that's when you push all the way.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "We've come this far. Now we can only go as far as we can.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Right, the situation on the ground is still far from good.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Commander, what's the plan for going in?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Now, wait. Analyzing the enemy comes first.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "What a drag. Let's just get goin'.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Juzo, calm down.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "No use rushin' it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Hm, Chris? Commander Hazuki, the recovery team's calling.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Yes, put them through.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "...Princess...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Shaff... I have a bad feeling...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "What is this light!? It's coming from outside!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Dammit, I can't see a thing! Was that some kind of explosion...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Big Bro! Lenny!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "What, what!? What's going ooon!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Ugh, light with no heat at all... Where's all this light coming from...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "What's going on, an enemy attack!? Are the guys outside okay!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "No good, I can't keep my eyes open...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "If this is an enemy attack... Jun, get ready to sortie at once.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "If they target this place, we're in trouble...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Ngh... got it... Tetsuya.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "What's happening outside...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "If only I can safely reach... the rendezvous with the Commander...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Still, those two... so persistent... Why go that far?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Domon revived me, but it seems I must still build up more power...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "But if I stay here, the Gandor Team will soon come after me.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Hm... Who's there!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "...A pleasure to make your acquaintance...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "A crimson machine...? How did you get in here, girl?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "...No, no ordinary girl. What do you want with me? Answer wisely...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "The Gandor Team won't be coming anytime soon...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "What...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "...I've sent that dragon off... to the rift between sea and land...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "The rift between sea and land...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "I am on your side, you see...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Heh... What an amusing thing to say out of nowhere.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Do you think I'd so readily believe the words of some uncanny intruder?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "...That is up to you...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "...But have you forgotten how I helped you in that southern forest?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "...Southern forest...? South America... Jaburo. Then, girl, you were the one?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Is it... over?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Dammit, my eyes are still flickering...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Check the Gandor for damage. All personnel, stand by on deck!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "What's the status of the mobile suit team doing recovery work?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Captain Amuro, Lieutenant Amada...! It's no use, they're not responding!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "No, this can't be...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Sakurano? Don't tell me... something happened to Captain Amuro's team!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "What about Joe and Lenny!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "What's wrong, Mari? Don't tell me they all got blown away...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Mister...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Whoa, whoa, don't tell me...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "No way... Big Bro, answer me! Lenny!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Joe...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Are you saying they were all blown away...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "Could be a new enemy weapon...! Hazuki, this is bad...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "If that was an enemy attack...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "then staying here is dangerous, Commander Hazuki.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "But... we can't just abandon everyone outside!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "No, that light just now... rather than a beam or an explosion...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "it felt closer to a glow, like Raideen's.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "I see, Raideen runs on the mysterious energy",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "of the ancient Mu Empire, doesn't it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "So that light was the work of some kind of supernatural power?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "...Supernatural... Commander Hazuki, you said Show and the others",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "came from another world, didn't you?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "Yes, from a place called Byston Well...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Could it be... they returned to their own world?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "Whaaat! And dragged everyone else along!? No way!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Heh, probably... it's exactly that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "You're...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Todd... Guinness, was it? I see, you're from Byston Well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Not quite.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Strictly speaking, I'm like Show: summoned from here to Byston Well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "...And that light just now looked a lot like when I was first summoned.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Which means...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "There's almost no doubt...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "But everyone around them too? Isn't that way too many?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "Did you forget what happened when I showed up in New York?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "My whole unit got thrown onto the surface. Same thing.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "Then Joe is... I mean, everyone is still safe?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "Whew, what a relief.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Well, no way Joe or Lenny would kick the bucket that easily.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "All their ID signals are gone too... All we can do is trust them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "Gah, what a pain! So they got an invite to some wonderland, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "But, y'know, getting flung into a place like that out of nowhere...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "is Big Bro gonna be okay?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "Show told me they've got a war going on over there too, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Hmm... Captain Amuro and Lieutenant Amada can take charge there,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "and with the Getter Team there, they shouldn't fall behind. The problem is...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "Us... right, Commander Hazuki?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "Sanjo is right.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "...We've missed our chance to storm Jaburo.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "Talk about bad timing!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "We came all this way, and all we can do is sit and watch!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "Seriously. It's like it was all set up...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "Don't tell me it's that mystery bunch holding Jaburo, or the Devil Gundam!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "After coming this far... can't we force our way in anyway?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "Honestly, it'd be tough. Our forces are spread too thin...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "We've lost most of our MS, so even long-range attacks",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "are hard to manage now, Jun.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "You're right... How did it come to this...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "What do we do now, Commander?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "We're getting a request for help from the Far East Branch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "Now of all times...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "No, we were planning to return to the Cyber Beast Force base anyway...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "True, we should head back once to regroup...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "Right. The Gandor will now head for the Far East Branch's base.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "All hands, Level 2 battle stations.",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

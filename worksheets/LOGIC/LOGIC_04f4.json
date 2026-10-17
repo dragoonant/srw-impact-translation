@@ -1,0 +1,823 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1268,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "So this is Bardos Island... This is where they were hiding?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Hey, Tetsuya! Don't leave me behind! There's only two of us here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "We've found Mykene's main base...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "We can't dawdle and let them get away!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Even so...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Jun... why do you think we've trained since we were kids and come this far?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "That's...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Defeating Mykene is our mission. That's... We'll talk later, Jun!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "You did well to find this place...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Show yourself! Marshal of Hell!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Patience, Tetsuya Tsurugi. Our Mechanical and Battle Beasts await.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "A pincer attack? How old-fashioned. Marshal of Hell... no, Dr. Hell!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "I'll make today the last day of your Mykene Empire...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "No, you're wrong...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Today will be the last day of Great Mazinger!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Great General of Darkness!? Quit hiding and show yourself!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Only the two of you? You can hardly be in your right minds.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Heh. For the likes of you, Great Mazinger alone is plenty!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Honestly, with us surrounded like this, I'm not so sure...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Fwahaha... I shall at least build you a grave...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "So die in peace!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Ready, Jun? Let's go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Ready! Tetsuya!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Ooooohhh! Koji Kabuto!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "It's over... Baron Ashura...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Oh, Dr. Hell... Forgive me! Ashura... Ashura has...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Gwaaah! I've been...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "You looked down on me, on all of us, to the end. So you lose, Brocken!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Curse you! Remember this! Next time, I'll surely...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Oh... ohhh... I... who was revived... as the Marshal of Hell...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "I...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Dr. Hell...! To think this island... would end up being your grave...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Heh heh... heh... Yes... This is where it all began... Koji... Kabuto...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "...And this is where it ends.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Heh heh heh heh... Ha ha ha ha ha ha ha!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Kabuto, I'm coming to see you,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Hwaa ha ha ha ha!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "...What... What is this...? Koji Kabuto... Tetsuya Tsurugi...! You...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Great General of Darkness! As your name says, return to the darkness...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Gh... How bitter...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Gwahahaha... You do well with only two machines... Tetsuya Tsurugi.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "But your resistance ends here!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Great Mazinger!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "How's this, Tetsuya Tsurugi! With the data from our battles so far,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "we have built Great Mazinger with our own hands!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Oh no...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Heh... You think something like that will work on me?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "It's nothing but a copy...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "We may have built them, but they are still Great Mazinger...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "You know better than anyone that its power is not to be taken lightly.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "And you know what happens when this many are gathered together!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "......Hmph.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Go forth, Great Mazinger Corps!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Garada K7, support them with a full volley!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "You came for us!? Everyone else too?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "We rushed over to back you up!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "So this... is Bardos Island...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "The ruins where the Star of La Mu was felt a lot like this, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "We're all set to sortie, Commander!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Shall we head out into battle, Lady Aina?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Yes... Let's neither of us push too hard... You too, Shiro.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Yeah, I'll make it back to the Gran Garan in one piece.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "This is the enemy's main base... There's no telling what may happen.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Everyone, stay on your guard! All hands, sortie!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "So this is the final battle with Mykene at last.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "With us storming their home base, they must be pretty surprised.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Don't think you'll be going home in one piece.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Fuhahaha... Fools, coming all this way just to die.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "That's my line!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Let's go, Koji!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Yeah! Let's show 'em the power of the Double Mazingers!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Koji...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "So long, Baron Ashura. I'll send Dr. Hell to the same place real soon...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "That's when our fight... will truly be settled...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "There's no next time, Brocken. We've got to keep moving forward...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Curse you, how dare you...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "I shall avenge Baron Ashura and Count Brocken!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "There's still more coming?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "What is that thing!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Way too big to be an octopus...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "That is... Dragonosaurus...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "It's said to be a survivor of the marine life that lived on the ancient seabed...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "You know a lot about it, don't you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "It's said to have grown huge from a diet of petroleum.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Heh... So its belly is basically an oil tank.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "So they made it a Mechanical Beast... Just like Dr. Hell to think of that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Units low on energy, please return to the battleships for now...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "We are ready to resupply you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "The BACKUP is OK too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "This is the enemy's main base, after all. More of them will show up...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Conserve your strength while you take out the enemy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "You make it sound so easy, geez.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Griping won't end this fight, you know...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "All we can do is push through.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Nngh, impressive... To think you'd get this far.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "There you are!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "We came all the way to your home base, so you should be grateful.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "As I promised, today looks like the last day of the Mykene Empire.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "You won't get away with this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Heh, talk is cheap!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "We shall show you the true might of Mykene!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Another new enemy...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "The enemy's resistance is fierce, as expected...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Pretty timid of you, Holy Warrior!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Holy Warrior, sir, you mustn't lose heart.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Let us take this place in one fell swoop.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "That's right. With this momentum, we can do it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "You should've just stayed put. Now get ready!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "What was that about? Going to see \"Kabuto\" at the end?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "He probably went to see my grandpa...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Grandpa and Hell used to be research partners, after all...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Koji...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "...So long, Dr. Hell... Say hi to Grandpa for me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "...We won.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "You did it, Tetsuya!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Yeah. The Great General of Darkness... was one tough opponent...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Battle Mastery increased by 1.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "It seems it's finally over.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Good work, everyone.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "The feud that started back in Grandpa's day... It's finally over.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "All the hardship Tetsuya and I endured, raised to defeat Mykene...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "It's finally paid off...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Yeah, that's right... But our fight isn't over yet...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "At a time like this... you oughta just be happy about it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "That'd be more like you, Tetsuya.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Anyway, Mykene's beaten... so that's one less enemy force.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "With the Mykene Empire gone, the only enemy based on the surface left",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "is the Demon Empire, I guess.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "For now, all we can do is crush them one by one...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Right... That's why the Ra Cailum and Nadesico went to the Moon and Mars",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "for us, after all.",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

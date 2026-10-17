@@ -1,0 +1,883 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 830,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "...Mm, mmm...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Where am I...? Oh, right... I...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Well, here I am! Show yourself!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Isn't it rude to keep a guest waiting?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Hey, it's not you guys",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "I'm calling for. I want that red one and the little miss to come out.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "No small talk either, huh?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "...Well then, until they show up, I'll kill some time with you guys...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Wow! The whole gang's here~... Guess this isn't the time for jokes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "And now you're giving me the silent treatment again?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Look, you're always saying weird stuff, so why so quiet now?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Raring to go, huh? Then I'll play along!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Okaaay, even more of you~!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Seriously, what's the idea!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "If you're coming out, come out all at once!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Ah~ Kidding, kidding! It was a joke! Don't take it seriously, 'kay?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "(Still, bones first, then plants... So next comes armor, I bet.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Stronger ones are showing up bit by bit... So what comes last?)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Okay, okay, the exit's that way~. ...Well, right on schedule.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "I'd like a surprise, you know, a surprise.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "(That's all that's been confirmed so far. What shows up next?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "The little miss... probably.)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Maybe you were told to keep quiet, but women hate being bored!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "If you're not in the mood to chat... then come at me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Here you come again!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Keep pestering me and I'll reach in all over",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "and rattle your back teeth loose!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "R-Reach in where...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "No, Captain, that's not the part to question.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Hey, shouldn't we just shoot that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Yeah, she's messing with us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Oops. Ah, ahaha, it was the Ra Cailum. Hi, everyone, how've you been?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "You idiot! Running off on your own! What the hell were you thinking!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "No kidding. ...Still, we'll have to ask about that later.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Exactly. And on top of that, she suddenly picks a fight with us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "But...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Discipline can wait. Wipe out the unknown enemy! All units, launch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Wow... So I am getting disciplined...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Still, these guys again?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Excellen, you sure you're not secretly in league with them?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Don't go casually saying such problematic things!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "It's like I got invited, or... I just kind of wandered all the way here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "(As I thought, there's something about Excellen Browning",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "and Kyosuke Nanbu down on Earth...)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "No time for chitchat, Judau. There's a fair number of them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "We'll just have to attack.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Hmm, if we knew anything about what they are, we could plan a fight...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "At least against the ones that shoot beams from their eyes,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "the Distortion Field works great!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "That's got nothing to do with what they are.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Careful, everyone! I bet... after this, their ace in the hole will show up!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Ace in the hole...? You mean the enemy's main force?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Browning, how do you know that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Well, they've been coming out in order this whole time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "(And for a while now, I've felt like someone's watching me... Probably...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Enemy reinforcements!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "No way... That's...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "What the? I've never seen that before!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "A new enemy model!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "It's... not in our data. The Lieutenant may be right!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Ruri!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "No data on the enemy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "So it really is... a new enemy robot!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Heh, so what! Even if they've beefed it up some...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Wait, Kappei! Haven't we... seen that somewhere before!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Yeah, that shape... But it's gotta be a coincidence, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Kyosuke's!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "That's it! If I remember right...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "...It's the Alteisen.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "You're correct.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "...I knew it... It's you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Tch, I see. So this is their ace in the hole.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "So it's their boss!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "I see, the whole lineup's here. With a new model thrown in as a bonus.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "What are you up to!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Making a fake Alteisen... What's your angle!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "...Kyosuke.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "...Huh...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "When I think of him... my chest... feels all hazy...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Excuse me!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "But... I don't know him...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "In the end... all I can make is his shell.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "(This girl... is creating the enemies... these bone things...!?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Ugh... What is this... feeling...? Excellen! Are you all right!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "What's wrong? Here they come...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Huh!? What this girl's been saying... the others can't hear it...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Yes, and Kyosuke... can't talk like this either...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "But with you, I can.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "...That's exactly why I need you, Excellen. You, only you...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Geez! Stop saying things that make no sense!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "You, me, and Kyosuke... I don't know how we're connected,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "but if you're an enemy I have to defeat... I won't hold back!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "...Excellen, I still... you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "...Excellen, I still... you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "She got away... And there's no sign of the others either.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Confirmed withdrawal of all enemy forces... Looks like we're safe.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Phew, guess we can relax for now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "(That girl... Why is she so fixated on Kyosuke and me?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "And... she only spoke to me, one-sidedly.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "...That's exactly why she needs me...? I don't get it at all.)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Browning! Respond, Browning!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Huh? Ah, yes!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Explain yourself. Why you rushed off, and why you were surrounded here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "We were worried, you know?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "...How should I put it... I sensed the enemy, sort of...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Hey, hey, that's no kind of reason...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "You rushed off for a reason like that?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "If we'd been late, what were you going to do against that many?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Hey, hang on.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "...I kinda get it, though. Times like that, you know?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "...It's true. When you get a sort of... bad feeling...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "That's it! Kind of a Newtype thing, or a Psychic Slash thing...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "(Her connection with that enemy. It may be related to that accident.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "...I can't say for sure, though...)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Or she's just picking up some signal, y'know.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Um, don't forget Pai's supposed to be psychic too, okay?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Very well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "...You'll be confined to the brig until we reach the next point.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "We are a military unit, after all.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "...Understood.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Wow, so strict. The Nadesico's so easygoing about that stuff!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Well, if we were that strict, you'd never get out of the brig, Captain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Might not be a bad idea.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "No comment.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Wh-What's that supposed to mean...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "(Still... why does that little miss keep going on about Kyosuke?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "A love rival...? A dangerous one, then. And only I can hear her voice...)",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

@@ -1,0 +1,1519 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 435,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Damn, don't we get any rest!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Whew... and we'd been talking about going shopping, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Yeah, seriously.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Hmph, take your complaints up with the enemy, Allenby.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Sorry! Launch as soon as you're ready.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Have we identified the enemy!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "The Jovian Lizards. And... a few mechs from the space pirates Bunker.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "The space pirates Bunker!? Why would they be here...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Bunker...!? Everyone, are you ready?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Ah, hold on...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "We're late to launch 'cause you got all excited about shopping!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "And Bunker's here too!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "...Probably guys Gil brought along after he got away!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Hey, at Von Braun on the moon, too, just as we went shopping,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "we got attacked, didn't we?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Ohh! Dangaioh! On the scene!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Hm!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Captain! We're heading out too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Please do!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Aestivalis! On! The! Scene!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Idiot...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "On the scene too! Well then, shall we give it a go~!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "All right! I'll fight hard enough for me and Tenkawa both,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "and wipe out those Lizard mechs!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Ugh! There's a Dragonfly.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "That thing's Distortion Field is such a pain.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "No worries, no worries! We've got Field Lancers~",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Exaaactly! No enemy can stand before my Gekigan Lancer!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Don't worry, Akito! I'll protect you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Didn't expect a battle to break out here...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "It's dangerous here! Evacuate!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Come on, Akito, this has nothing to do with you anymore, right!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Let's hurry to the shelter!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "The Bloody I!? But still!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Gugh... kh...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Is this the end...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Got him. There's no escaping that...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "All right! It's over!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Quit chasing after that girl forever!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "This is the last stop for your quest for revenge!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "D-Damn youuu...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Roll!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "...All right, Mia.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Huh? What are you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Hurry and jump over, it's going to explode!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "What is Dangaioh planning to do?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "They're gonna save him!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Bunker mech's internal temperature rising... At this rate, within seconds...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Ugh... uuh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Hurry! Over here!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "You'd save me...? Naive! Too naive, Mia Alice!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Huh...!? Th-That's...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "What's that? ...Gekiganger?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "C-Could it be... Gekiganger came for my sake!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Then it wouldn't bring Battas along!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "You know that robot!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Hey, hey! Don't tell me it's some new Bunker model!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Could be!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Till now they've all been bug-like, but this one's humanoid!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "It's possible. ...It's clearly unlike the insect types so far.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Why would space pirates send an enemy that looks like Gekiganger!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "That can't be it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Gekiganger... the anime Akito and Yamada love!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "An anime!? Why would something like that...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "It's like some kind of joke... but it won't end as one.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Agreed. But we can't just laugh it off, Ryo.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Yeah, its energy readings are pretty high. ...Here it comes!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "All units, don't be fooled by its looks! Intercept!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Earth has begun experiments in Boson Jumping with living beings...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "and they've noticed...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "In that case, the likely aim is... sabotage... and destruction...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "So the Jovian side sent a new model here...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Whaaat!? Now it's the Umigan type!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "The same type...!? What's going on? Which one...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Bunker or the Jovian Lizards... whose forces are they!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "...A Boson Jump! Which means... the Jovian Lizards, I'd say.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "A new model, then. ...What a pain, showing up now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "New enemy signatures. ...Here they come.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Whaaat!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Again!? More new Lizard models!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "The ID codes are different. That's...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Ku... kukukukuku...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Bloody...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "You bastard!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "We lost track of each other... and now you show up here!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Gil...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Fwahahaha... looks like luck is finally turning my way!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Geez! Just stay hidden forever!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Ah! That guy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Yeah, that Gil Berg guy. Mia's stalker, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "That's not really it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "We're completely... caught in a pincer...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Tch...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Hmph, Jovian mechs. ...Fine. My only target is Mia Alice.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Damn, at a busy time like this! They just keep crawling out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Kawasaki City... is it a really popular spot?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "This is no time to be so laid-back, Yurika!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "...Staying here any longer is out of the question.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Tenkawa! And you too, Banjo and the rest! To the shelter, quick!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Banjo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Akito!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "(I've got a bad feeling about this. Especially that new Lizard model...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Unlike Bunker, I can't see what they're after... What is it?)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "It split!? Something red came out of it!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Now the real fight begins.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "...Its speed is on a whole other level.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Heh, I get it. Like going from heavyweight to bantamweight.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "I don't think this is the time for such leisurely talk.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "But... the comparison may be apt. ...It's fast.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Well then, let's start round two!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Then I suppose you could call it... the start of round two.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "No matter how many times you come, I'll knock you out every time...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Come on! Gil Berg...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "That was my plan all along! Die!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Gil... I can't... lose to you...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Aaah...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "No way...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Stupid fool...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Uu... uh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Hey, he was the one chasing them... so why...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "I don't know what went on between them and that Gil guy...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "but it seems complicated.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Damn, this really gets to me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Gil... You even had Dr. Tarsan give you cyborg enhancements...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "What was it you wanted to do...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "He... just used that power the wrong way...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Let's just think of it as something that couldn't be helped...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Gil... why...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Seems this sort of thing... has happened before, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "...Yes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "In a way... maybe he was a real man.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "...A warrior's pride, is it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "...I don't understand that kind of pride.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Mia...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Did we get it...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Wait, Domon! Something's not right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Enemy's internal temperature rising fast. Boson reaction growing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Boson reaction...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "What what!? What's going on!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "It's like space itself... is being pulled... What is this?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "It's like when the Aura Road opens...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Worst case... It was programmed to self-destruct from the start.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Self-destruct?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "It's trying to cause a phase transition in all the space around it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Well, I guarantee this whole city will be blown away.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "N-No way! Even the shelters won't be safe!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Self-destruct...!? If it does that... everyone will...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "I can't let that happen right in front of me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "What are you planning? Shouldn't you just run for it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "There's no time. Besides, there's no point if only I'm saved.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "...Tenkawa, take this.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Huh? This is... a Tulip... Crystal...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "H-How do you have that!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "I picked it up while I was on Mars a while back.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Tenkawa, you know what you need to do... right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Akito!? What are you going to do!? Banjo, what are you making him do!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "I'll hold that thing in place.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "...The rest is something only you can do... because you're you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Don't tell me...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Daitaaaaarn! Come heeeere!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Daitarn 3!? Is that you, Banjo!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Banjo!? Where have you been all this time!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "No time to explain, Captain. Everyone, get well clear!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Haran! What's going on!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "What's that...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Tenkawa!? What the hell's he doing over there!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Akito... what are you...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Enemy Boson reaction still rising. ...It will explode in 10 seconds.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "10 seconds!? That's all!? Wait, this is bad!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "What!? Everyone! Get away!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "...Something I can do... something only I can do...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Is there really such a thing... Can I become something!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "Get away, Banjo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Never mind me! Do it, Tenkawa! ...Take us both!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "B-But!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "Hurry! We've only got seconds!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Believe in the radiance of the sun, and above all, in your own power!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Raaaaagh",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "Wh-What happened!? This light...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "Akito...? Akitooo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "So the CC... Tulip Crystals really are the trigger for Boson Jumps...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "Was that just now...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "A Boson... Jump, I'd guess.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "Then what happened to Tenkawa and Daitarn 3!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "A-Akito...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "Did they... warp somewhere!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "Looks like it. ...Kinda like when we got blasted to the moon?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "...All units, mop up! The enemy's self-destruct has been stopped!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "Commander Hazuki... Akito... Akito is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "Worry about their safety later, Captain Misumaru.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "We can't waste the lives they saved, the time they bought us...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "Quit hopping around and making this a pain!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "A machine that can Boson Jump on its own... Hmmm.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "Hey, no rush, but recover that Jovian humanoid machine for me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "What are you going to do with robot wreckage?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "Put it back together.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "Then we might learn something about the Jovian Lizards, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "I seeee. Uripi, you're so smart~",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "Haven't we got 'em pretty cornered?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "But the enemy still seems plenty eager.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "They're unmanned weapons, so they don't know when to quit.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "(Unmanned...? No, those movements... they don't look like a drone's...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "Akito! See, with everyone here, we'll be fine! Hurry to the shelter!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "...Gekiganger...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "No enemy signatures or readings.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "Looks like we managed to protect Kawasaki City...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "It's over... huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "Well, at least it's settled with Gil.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "Not a victory that leaves... a good aftertaste, though...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "Bunker... we must strike before their main force enters the Earth Sphere.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "Come to think of it, they were looking for something, weren't they?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "They mentioned Mutron before, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "Speaking of which, there's the Gandoler, too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "Man... what a headache.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "We just crush them one by one... until we hit the head.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "Looks like we somehow avoided the whole city being phase-shifted...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "Akito! Akitooo! Ruri, where's Akito!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "Tenkawa... has disappeared. The same goes for Daitarn 3...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "Banjo...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "How the hell did they warp!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "If it was a Boson Jump, that robot tryin' to self-destruct",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "just blew itself up someplace else, didn't it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "Hard to say. It depends on where it jumped to, but",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "it might not self-destruct where it'd be pointless...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "We have too little information.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "A Boson Jump... What's going to happen to Banjo and Akito?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "...Normally, a living human body can't withstand a Boson Jump...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "That's been proven by experiments.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "H-Hey! Then what about Tenkawa!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "He can't be saved...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "No...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "en": "...He has survived a Boson Jump in the flesh before... but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "Don't tell me... what about Banjo!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "en": "Battle Mastery increased by 1.",
+   "kind": "system",
+   "keep": false
+  }
+ ]
+}

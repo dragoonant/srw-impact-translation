@@ -1,0 +1,889 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1667,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed 2. Victory conditions not met within 10 turns",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "So you've come... Later than I expected.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "...Char! Why drop Axis on Earth...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "If you do that... Earth will freeze over and no one will be able to live there!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Why!? Captain Quattro!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Why... Was that battle all for nothing!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "A man who fought alongside us... Why is he trying to crush Earth!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Those who remain on Earth do nothing but pollute it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "They are people whose souls are bound by gravity.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "That's just what you've convinced yourself!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "...But... for those of us born in the colonies...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "it's not that I can't understand...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Hey, Roux!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "...After that... what the Earth Federation did,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "don't tell me you've forgotten.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "W-Well, that's...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Nothing changed. ...It was the same as before.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "...Yes. The Titans, Neo Zeon, the invaders from other worlds...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "and those who, from ancient times on Earth, the land of the beginning,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "watched over the universe's fate... we defeated them all... And yet...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Earth... hasn't changed at all... Not its thinking... nor its system.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "But... but!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "That's why we have to be the ones to change it...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "...So this is Quattro's... no, Char Aznable's answer.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "That's right, Banjo Haran.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Those who live on Earth think only of themselves!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "That is why I declared I would wipe them out!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "What the heck! This is no different from the Gaizok!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "No... It's different.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "...Huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "...The Captain is thinking beyond this...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "I get it... but... doing it this way...! Captain!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "For man to pass judgment on man...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "I, Char Aznable, intend to purge them...! Amuro!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "That's nothing but ego!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "The time has come when Earth can no longer endure!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Hey, Show! If that thing falls... what'll happen to Byston Well!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "...I don't know.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "But even if Byston Well is safe...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "that's something that must never be done...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "...Someone must shoulder the sins of humanity.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Why shoulder it alone, and in such a way!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "I only wish to restore Earth as it was, and await humanity's innovation!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Can't you wait!? The invaders and the Einst are all gone...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "...Because they're gone. That's exactly why we must do it...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "But...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Give it up, Ryo. ...We've got no choice but to fight.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "...We know better than anyone what kind of man he is.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Yeah. ...That fella's dead serious.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "To go this far, his resolve ain't no half-measure.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "...We'll stop him. There's gotta be another way.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Colonel... are you sure about this?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "...Nanai, launch the mobile suits!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Good luck to you all!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Ten more minutes...! Once Axis is on course, no one can stop it...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Captain Bright, ten minutes left. If we can't stop Axis by then...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "nothing we do will be able to keep it from falling to Earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "...Understood. All hands, you heard that transmission!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Ten minutes left!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Once Axis is on its descent orbit and the nuclear pulse engines ignite...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "we won't be able to stop it from falling to Earth...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Tch, we gotta finish a fight for Earth's fate in ten minutes?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "It's easier on the mind to think we've got that much time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "No kidding... I just hate who we're up against, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Shiro... Must you really... fight that man?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "After overcoming those hard battles... together? Why...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "...We have no choice.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "If this is the answer he's reached... then our answer is to stop it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Axis... go...! Along with all those cursed memories...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Tch! I can't die... in a place like this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "The Gundam! I just gotta take him out, right!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Whoa, whoa! A whole bunch of 'em just showed up!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Geez! There's no end to them!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "I feel a pressure... like Ple's...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "...A kid...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Heh... I won't let you get the Colonel!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Human innovation... What it needs... is young blood.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "The man who said the old don't create a new era...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "is using children...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Kinda mixed feelings here...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Hmph, who cares about age!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "What matters is if you've thought about why you're fighting, right!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "...Which side... is right, Kyosuke? I...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "...I'd like to believe... neither is wrong.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Anyway... that's Captain Quattro for you... He came fully prepared.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Tch! I won't lose a battle of endurance!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "That's right! Overcoming adversity is what makes a hero!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "That voice...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Sorry to keep ya waitin', everyone! With me here, it's like a thousand men!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Yamada, please don't get carried away and stray too far again.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Enter the Nadesico!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Captain Misumaru... B-But didn't your crew disband?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Well, if Earth becomes uninhabitable, business is out of the question...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "and space is already Anaheim's turf.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "It's not that I don't get how Captain Quattro feels...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "but I feel like we shouldn't be the ones to crush Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "I believe in Akito! And in my own will too...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Tch...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "All units! Check the range of the Nadesico's Gravity Wave Beam!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Separate them from the Nadesico and the Aestivalis can't move...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Surround them and cut them off.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Not so fast!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Goooood! Fingerrrrr!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Could this be...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Hey! You guys hitched a ride on the Nadesico! No fair!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Hmph... There's no fair or unfair in a fight.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Sorry, everyone! We got the message, but",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "finding Domon and Allenby took us a while.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "I was looking for Master to learn Meikyo Shisui,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "and got separated from Rain... Sorry.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "I'm a bit late... But allow me to help as much as I can!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "No... You made it in time. We're grateful.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Hah, I had foreseen that this would happen.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "It is hardly my place to say so...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "No... Precisely because I made the same mistake!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "I shall put a stop to your rampage!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": ".........",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "All right! Aestivalis squad! Let's go all out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Yeah!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "We'll stop Axis...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Colonel... this is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "\"Earthlings protect the Earth,\" is it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Why can't they see that this only spoils those on the ground...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Why, you!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Damn it, Captain Quattro...! Why!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "If you go any further... there's no turning back!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "...If that's the path he chose, so be it... But we can't let him do it...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "We just have to prove it, right!? Yurika! Let's goooo!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Okay! Akito!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "All forces, commence attack!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "You got Gyunei!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Shot down!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "...It's all right. We're recovering Quess's escape pod.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Heh... It's time...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Can't we stop it!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "It can't... be stopped now... The operation has failed.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Are you saying... Char has won!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "...This power... is fine while it works toward what's right, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Don'tcha get it!? Now's that time!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Don't get cocky!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Now is our chance...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Captain Bright, let's land on Axis and destroy it from within.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "So it seems... All units! Surround Axis!",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

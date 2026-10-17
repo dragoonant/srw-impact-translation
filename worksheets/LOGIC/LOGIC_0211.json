@@ -1,0 +1,487 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 529,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "What a luuuvely planet this is.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "But once the great Butcher gets to it, it'll be a dead planet in no time!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Ho-hohohoho!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Hyoho? What's this, a barrier?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "You think this'll stop my Bandock?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "This is the point. ...Hm?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Ho?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "What is this robot... no, is it a battleship!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "What is that! Talk about tacky!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Speaking from my aesthetic sense... it's actually kinda nice.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "That's weird.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Save the chatter! Captain, I'm launching!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "All hands, launch. ...Stay alert.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Fuhyoho!? What're these teeny little things?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "It's bigger than I thought, Captain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Yes. But that means it can't turn well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Then let's run rings around it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Hohho, how amusing. I'll take you on.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "With my Mecha Boosts, that is!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Hm, what are these!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "More of them... a whole bunch of strange-looking robots...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Hostile intent... so it's a new enemy! We can't let it descend to Earth!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Don't be fooled by their looks! All units, commence attack!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "What a nuisance! Never mind 'em, keep descending!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Huh, it's running!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "No good, we can't catch it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Damn, it's descending...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Captain Bright! The Spazer can handle atmospheric entry. I'll...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "...No, Umon. If we lose the Grendizer now, we can't win this fight.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Leave it to the Gandor team on the surface.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "...It can't be helped. Londo Bell will hold position.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "If any enemies remain, don't let any more of them reach Earth!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "So frustrating, really.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Kyosuke... don't you lose to that thing, okay?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "There ya are! Now I've got ya!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "I'll show ya what happens when ya pick a fight with us Gyandler!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "That's...!? The mysterious army that appeared in the colony belt!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "What did they say!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "I couldn't quite catch it, but Gyan... something...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Hyo? What's this, space is noisy too?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "But! Anything that throws those pesky humans into chaos suits me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Hooo-hohohoho!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Huh? What's with that butt-ugly battleship?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Whatever. We're only after the punks who mocked us last time!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "What is going on! In a situation like this...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Seriously! That's what people call not reading the room!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Quit copyin' Rom, of all people!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Last time, thanks to that guy, we had to turn tail,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "...but not this time! Get 'em!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Rom...? So there is a force opposing this army...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Is that the absurd bunch from before? Blast...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "What's with this power! This ain't good!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Finish it...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Folks fightin' back, Rom pokin' his nose in...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "This is the pits! Retreat, retreeeat!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Phew...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "What a troublemaker.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "...But their combat ability is nothing to sneer at. We must identify them soon.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Same goes for that guy on the bridge. He didn't show up this time, though...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "I'd like to believe he's no enemy...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "But as far as being unknown goes, he's no different from them...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "We don't have enough information...! Dammit.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "But we pushed them back. Now, if any enemies remain, we hit them hard.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "We can't let any more of them reach Earth...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Quite the entertaining show! But I'm not so easily beaten.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Fuhyo-hohoho!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Is it over?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "No other readings in this area... Looks like it's over.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "But... the Gaizok battleship made it to Earth...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "After all that... it's so annoying.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Against that force, we're lucky only one ship got through.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "It may sound irresponsible, but... you're right. You really are.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Building up our forces is urgent, then.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "If we had two or three more machines with real punch, it'd be different...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Excellen, come on. We don't have the pilots.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Hmmm, maybe we load in some AI?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Brooding won't get us anywhere.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Once all hands are back aboard, the Ra Cailum heads for the next point!",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

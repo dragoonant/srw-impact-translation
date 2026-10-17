@@ -1,0 +1,1279 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 769,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. Grendizer is destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "It's almost time. We'll intercept the Vega Star Federation.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Captain, we'd best sortie and deploy in advance.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Right, all hands, sortie!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "The Vega Star Federation, back again... Ngh...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Daisuke? Are you all right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Hmm? Haven't you been pushing yourself a bit hard lately?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "D-Don't worry... I just felt a little dizzy...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "(Brother... Could it be... the Vegatron radiation...!?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "By the way, is this lunar city really such an important place?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "It is. As a supply base, it's in a very important location.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "In battle, a secure supply line is a unit's lifeline, after all.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Having a base or not makes a huge difference to the budget...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Good thing we got here ahead of the enemy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "...Still, I just don't get what they're after.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Huh? What do you mean, Brother?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "They're just like the other invaders, right? Their aim's obvious.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "What's bothering you, Daisuke?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Daisuke, aren't you overthinking this?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "What's on your mind?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "...Well... they seem awfully fixated on the area around the Moon.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Weren't they after invading Earth?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Hmm, now that you mention it, I got jumped right after leaving Anaheim.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Is there somethin' here?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Anaheim Electronics, Von Braun here...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "plus a few resource mining bases... There are facilities, sure...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Don't tell me they're attacking 'cause it's closer than Earth.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "This is no time for dumb jokes, Shinobu. Here they come!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Enter the enemy~",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "There they are. Everyone, you ready!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Bring it on, anytime!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Oho! You move quickly, Earthlings!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "So that's Grendizer... If I defeat it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Yes. Unless you defeat it, the Freeze Ray research",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "you inherited from your late brother will be handed to someone else!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "I won't let that happen!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "I'll defeat Duke Fleed... and carry on my brother's research!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Yes, and that's why I've entrusted you with our trump card...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Lure him out skillfully.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "That emblem...! So you've shown up, King Vega's Royal Guard!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Duke Fleed!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "I can't stand you lording it over space like you're its king!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Hah! Big talk from a bunch who act like they own the place!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "We'll send you packing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Whatever the reason, I show invaders no mercy...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "(Yes, even if the Vegatron radiation burns out my life...!!)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Now I'll wipe you from this universe...! Attack!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Here I go! Grendizer, GO!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Kyaa! ...Earthlings... I'm no match for them... But!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Hm!? An escape Minifo? You won't get away!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Wait, Duke Fleed! Are you sure you want to shoot me down?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "A woman...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Tch! Don't you dare beg for your life!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Either fight or tuck your tail and run, pick one!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "What do you mean!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "I have a Minus Vegatron gun that neutralizes Vegatron radiation.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Brother!? With that... you could be...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Hey, what's going on, Maria!? Vegatron radiation...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Daisuke, don't tell me...!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Vegatron radiation...!? Daisuke, could it be that you...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "If you want this, trade me Grendizer for it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "What!? ...That's dirty!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Say what you like... I have something I must do,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "and that means defeating Grendizer!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Now, Duke Fleed, if you want the Minus Vegatron gun,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "follow me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Wait!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Don't go after her, Maria!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Brother...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "...Vegatron radiation... Search data from Omoikane.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "It's the radiation given off by decaying Vegatron ore.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "...It's harmful to humans.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Don't tell me... Duke's body is...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "You've been hiding this...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "But! With a Minus Vegatron ray...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "No, Maria...! I can't abandon the friends fighting alongside us!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "The enemy in front of us comes before me...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "No! Daisuke!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "That's right, Duke Fleed! If you fight like this...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "you're just a burden!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Koji...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "...Sick people should stay out of the way.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "T-Tetsuya!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Someone in your shape hanging around in front of me is a distraction.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "How can you say that...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "So, Daisuke, hurry up and get well... and come straight back.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Until the King of Space returns... the Brave Mazinger will hold the fort...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Tetsuya...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Looks like the answer's clear, no? ...Go on, Duke Fleed.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Captain Bright, Captain Misumaru... I...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "...Grendizer is assigned to pursue the fleeing enemy craft.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Refusal is not permitted. ...That's an order.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Well then. ...Ruri?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Right. ...The enemy from before is flying toward Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Sending estimated arrival time and entry point to Grendizer.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "I'm sorry... I'm sorry, everyone! I'll come back, I swear I will...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Brother!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "I'll call this a good result. Duke Fleed is gone!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Now I'll finish you lot off here!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "I don't like their methods.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "...I won't forgive this...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Hmph, these fools... not bad at all! Interesting! We'll settle this later!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "What!? Ah!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Aww, come on! It got away!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Get back here! You're not getting away!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Coward...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Stop, don't pursue! Never underestimate the Royal Guard!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Tch! I'll pound that wimpy bastard flat!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Let's chase him down and settle this!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Fujiwara, we can't leave this place right now...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "When the time comes, we'll settle things for sure...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Shinobu! Umon's right. Getting stranded again would be ridiculous!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Fujiwara, Daisuke's right, y'know?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Duke Fleed has the right idea. We'll settle it eventually...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Must be tough for my brother. He's got so many names.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "...Tch, this sucks.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Good, we've driven off the Vega Star Federation's main force. Mop up!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "All right, one more push! Let's give it everything!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "I thought the Royal Guard would be cooler guys...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "They're a bit much, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Heh heh... You seem to be in quite a state, Londo Bell!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "That's... Neo Zeon!? Blast it, at a time like this...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Neo Zeon mobile suit unit confirmed.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Their objective doesn't seem to be intercepting the Vega forces.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "You mean, they're...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "We're the target, huh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Hm? ...Heh, this is a golden opportunity.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Right, ignore the Earth army that just arrived!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Our target is Duke Fleed! And his comrades!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Captain! What do we do!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "...There's nothing to decide...! We can't fall back!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Heh, that's right! It's no big deal!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "We crush them all... That's all there is to it...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Mashymre Cello...! Mashymre! Stop it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "There's no need for a pointless fight!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "You're... Judau, Judau Ashta! Heh heh... Interesting!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "This will make a fine tale for Lady Haman!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Seems like... they're not even having the same conversation.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Read the situation! You pompous creep!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Rant all you like! My loyalty to Lady Haman will not waver!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "He's not listening at all...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "...Haman, is it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "We're all human...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Now we'll just have to go all-out! I've had it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "That's right! It's fine, isn't it, Bright?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "...I told you we can't fall back!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Take them out one by one. Defend Von Braun at all costs!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "We'll intercept the Vega forces and hold off Neo Zeon too!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Aestivalis team, please stay flexible!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Flexible, she says. Easy for her to say!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "You say I underestimated you!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Blast it, remember this! I swear on Lady Haman's rose, I will...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Neo Zeon's Haman Karn...! Hmph.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Can't you see the state of the Earth Sphere,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "and that this is no time for us to fight each other!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Irrelevant! To us Spacenoids, the Federation squatting on Earth is evil!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "The aliens are welcome to that planet!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "This guy's talking total nonsense...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "We love our homes too... That's no different for us!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "What fools! You don't even know why I came here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "The reason... he came here!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "I don't care what it is! Mashymre!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Tell Haman this! Hatred only breeds more hatred.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "If she still spreads hatred through space... I won't forgive her!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Don't lecture me as if you know, boy...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "Hatred breeds hatred. ...That's true...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "...Judau, right now we must deal with the problem in front of us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "...I know... I know that... Quattro...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Whew, I wondered how that'd turn out... Looks like we wiped them out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Right. ...Now it's up to Daisuke and Maria.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "What a messy hassle, but it seems to be over for now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "I wonder if Daisuke and Maria caught up...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Grendizer should be fine, but... what about our fighting strength?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Losing Grendizer hurts, but our own forces are growing stronger.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Heh heh~ Leave it to me! Rely on me all you like!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "He probably means the Cyber Beast Force or the Dangaioh team.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "That's one way to see it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "Well, Commander Hazuki's in for a shock when Grendizer shows up.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "He'll be less trouble than we are, so it'll be fine.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "Still... for the Royal Guard, that Vega attack earlier",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "was awfully half-hearted...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Maybe it was to lure us out... no, to lure Umon out?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Oh, like Gil does?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "He's a stubborn one, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "In that case, Zeon's movements concern me too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "For an attack exploiting the chaos, as Dr. Inez said,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "it was far too careless.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Captain, so you think their real aim lies elsewhere?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "...Most likely.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "But with things like the missing transport colony,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "there's been one fishy incident after another...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "...Mashymre... if Mashymre Cello moved in person,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "I think it's because Haman gave some kind of order.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "And who's that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "...A bad woman from Zeon. If it really was her order...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "I won't let her get away with some whim like that.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "Aren't you overthinking it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "Yeah, yeah. We've just gotta crush 'em one at a time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "We'll just have to stay positive.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "Right, we'll resupply in Von Braun City and head for the next point.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "All units, return to ship.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "King Vega's goal is invading Earth, yet he's fixated on the Moon...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "I wonder if there's something there. I'd like an explanation.",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

@@ -1,0 +1,1633 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1057,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed. 2. Victory conditions not met within 20 turns.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Plant planet confirmed.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "It's already this close...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "It's close. ...And the enemy's set up a pretty thick defensive line.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "So you've come, Earthlings. But it's already too late...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "The moment the great Dirad takes root... see it with your own eyes...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Lord Shapiro... I'm going to take your homeworld...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "I can't believe not firing the colony laser is costing us this much...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "The other side's desperate too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Ramming us with an entire planet... That's unheard of...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Oh? I don't see Shapiro Keats's machine.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Come to think of it, he's nowhere to be seen...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "We didn't finish him last time... Now he's watching from on high!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "No faaair!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "It's a clever approach, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "He's not here? At a crucial moment like this, he's not here...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Sara? Don't tell me you're going to go looking for him...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Don't insult me, Ryo. I've decided... I'm done wavering!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Come on, come on, this is no time for that!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Bright, I'm heading out!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Captain, how much time... until the planet gets here!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Are you serious about this!? The enemy base is right in front of us!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Captain, how much time... until the planet gets here!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "...Twenty minutes...! We can't buy any more than that!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Twenty minutes!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "No, that's all!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Even if we charge straight in... will we make it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "We got no time at all, dagnabbit!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "We'll never make it in time, Brother...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "A heart that never gives up till the end... That is what brings victory.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Rom's right. We've made it this far... all that's left is to fight.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Yeah! The great Gai Daigoji will wrap this up at super-express speed!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "The Gandor unit has the ground. ...This is our moment of truth. Sortie!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Hell yeah! Let's do it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "I cannot lose this battle! Kenrouuu!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Heh heh heh... What can you do with such a meager force!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Lady Diore, it's nearly time... We, the Dirad people who lost our star...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "our long-cherished wish is about to come true...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "(Lord Shapiro... We will take your homeworld... And when we do...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Heh, we're short on time, but there's not many more of 'em than usual!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Let's scatter 'em!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Twenty minutes is plenty. Easier than stopping that colony was.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "...Even if we clear them out in twenty minutes... the planet may not stop.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Good point...! What do we do then!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "...We'll have no choice but to destroy the planet itself.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "How!? Even if we all fire at once...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "If outside won't work... then from the inside.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "That's right. Besides... Shapiro might be inside...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Heh heh heh... It's over, lowly Earthlings...! Commence attack!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Dunno if we're lowly, but we're not about to lose to you bastards!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Kyosuke... you hang in there too, okay...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Big Sis Diondra! This is the spot!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Don't call me Big Sis! ...Oh? They mean to ram the whole planet into it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "A battle this big... I expected someone to butt in, but...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Ah, Brother, look!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "...Tch.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Oh, great, a whole tour group just showed up, Rom!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Diondra...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Ho ho ho, looks like you're busy, Rom.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Coming out in person... What's gotten into you, Diondra?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "I'm cleaning up after my useless underlings,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "who never manage to beat the likes of you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "And besides... I've found out about the treasure on Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Treasure? Come to think of it, Rom and the others mentioned that...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "So you're after the special energy on Earth!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Treasure? I see, that's what Rom and Dr. Tarsan were talking about!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "You're after a substitute for the energy you failed to get on Cronos!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "So it's just as Dr. Tarsan and Rom said...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "We ain't losin' this time! We don't give a damn what happens to this planet!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "We'll beat you all to a pulp, grab the treasure, and see ya later!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Say whatever you like! What, too scared to come alone?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Aha! This time you didn't think up a parting line for your getaway!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Whaddya say, you little...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Don't rise to the bait, Devil Saturn 6. That's just what they want...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Oh well, didn't work.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "...Shut that down with one word. Who is he?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Kills the mood of a conversation with one word... I can't stand that type.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "I've never seen him before... Is that the Gyandlar's boss!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "...No, that's not Gades...! Who are you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "So you are Rom Stol. Heh... I'd like to say I have no name to give,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "but I'll tell you. My name is Gardy.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "I've taken an interest in you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "We're busy here. If it's just curiosity, I'd rather you stayed out of it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Don't be shy. Let me see what you're capable of in this battle.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "(I feel like I've met this man before... What is this? And... Gardy?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Is it... a coincidence?)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Forget the small talk! Rom! This time I'll finish you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Master Rom, that girl is...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "This is gonna be an all-out war...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "The plant planet's people are after Earth itself, while the Gyandlar",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "are after something on Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "...Which means the one obstacle they share is us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Enemies everywhere. Gimme a break already!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Ngh... More enemies or not, time won't wait for us!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Take them out one at a time! I'm counting on you all!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Akito, go for it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Easy for you to say... but here goes!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Rom... my father's killer... I swear...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "That is unmistakably Kenrou!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "It's like my Kenrou!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "What is the name of your sword!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Kenrou!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Heh! My sword is Nagase! Remember that name!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "The two swords are fated to fight until one of them shatters!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "We're running out of time...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Don't panic, Lieutenant. Their numbers are dropping fast.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Keep it up...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Ngh!? Raideen!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "...Th-this... awful feeling...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "...Judau... Judau! This feeling!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Ngh, what is this...!? Judau, do you feel it!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "What's wrong, everyone!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Ugh... ungh... Brother...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Maria, you too!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "...Danger... Brother... It's that thing... It'll do something bad to Earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "To... protect Earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Maria! What's wrong!? Sayaka, are you okay!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Yes, I'm fine! Boss, what about you!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Maria!? I don't get it. What about that enemy!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "This has never happened before!? Boss, are you all right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "I'm fine, dagnabbit. More importantly, can we even fight like this!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Morale's broken!? Is it an enemy attack!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "No... This is the pressure of that thing from when we met up with Akira...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Several Ra Cailum pilots seem to be in a state of confusion...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Ruri, anything unusual!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "...Unidentified unit approaching.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "They showed up again! Hey, wait, that huge thing is...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Like the Gyandlar, they've brought out an officer-class unit too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Dammit, being big doesn't make you tough!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "This is no time to be so laid-back! What do we do!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "What else can we do but smash it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Come on, what's wrong with you all!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "...This... Pla...net... From...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "...That... voice... I knew it... the same... as that time...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Raideen... Is this a will to reject it!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Raideen, answer me! Raideen!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "What is this? We've fought them before... but this time something's off.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "It's close to malice... and yet I sense something entirely different...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Brother, what's going on? Some people are in pain!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Get a grip! This is no time to be wiped out!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "What's wrong with everyone!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "I don't know... but...! We have to beat that... We have to beat it...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": ".........Be...gone.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "What are you saying!? You're not complete... huh...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "...That's exactly right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "...You... again!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "That red robot... again...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Excellen!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Don't worry, Akira. I'm fine... I'm fine.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Yes... there's nothing to worry about. Excellen... it should be soon...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "...You mean it's past the kiddo's bedtime? Then good night.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "(What that girl's thinking... that giant thing... I kinda... get it...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Kyosuke... what's happening to me...?)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "What's that...? Hmph, it seems plenty of others have their eye on Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "This is getting interesting.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Oh? It seems they'll hold them off for us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "Should I see this as an opportunity?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "...Lord Shapiro... What would you do...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "That will be all for tonight. ...Excellen.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "The time draws near. You should know that too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "If the land of beginnings vanishes here... that's fine, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Land of... beginnings...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Perhaps that would be better... for me, and for you as well...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "...What... are you saying? Land of beginnings... a new... universe...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "I'll be waiting...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "...I... am...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "You must hate me, Kina...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "But I can't afford to die right now, either.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Why!? You killed my father! Lady Diondra told me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "That Rom took my father by treachery, and he died with regret!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "That you trapped him and cut him down from behind!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "No! Brother would never do something like that!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "We didn't see it! Why should we trust what Rom's friends say!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Diondra, your methods are as dirty as ever.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "...But tell me, do you really think Rom is the kind of man",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "who'd pull such a filthy stunt?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Lady Diondra said so! She said Rom is a coward!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "Then what about Diondra, who ran off and left you behind?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "If you've lost sight of the truth, dancing to a false lust for revenge...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "then I'll cut you down...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Without regard for their own safety,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "friends who put their lives on the line fighting alongside us...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "Are they cowards?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "...Ngh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "Kina. If I defeated Jingi by foul means...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Heaven will judge me one day. If you think it's now, then come at me.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "Brother...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "...But I can't die yet. If it's my fate to fight and be wounded,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "then fighting and winning is my duty...! I'll fight you with all I have.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "Ngh! To come up with lines like that so smoothly...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "that guy's a hero through and through!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "Is this the time to be impressed!? He's way too close!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "If she runs him through there, he's done for!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "No, it seems there's no need to worry, Shinobu... The spirit of martial arts.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "Whatever the planet or the body, that spirit alone never changes.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "Sis...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "...A true martial artist... Very well, Rom Stol.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "I'll be there to see when heaven's judgment falls on you...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "Yes, I can't promise when that will be. But I'll stay true to my code, Kina.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "Acquired skill \"Hard Worker\".",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "Did we do it!? Is it over!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "I don't see any more enemies, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "Looks that way. Phew...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "Don't let your guard down. Captain, what about the asteroid!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "...It isn't stopping.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "Whaaat!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "No good!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "After all we did... all we can do now is watch!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "What... what is this...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "Is there a way!? Captain Bright, isn't there any way left!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "What am I supposed to tell Koji and the others!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "We stopped Iron Mask's plan... How can it end like this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "...Seabook...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "...We charge in.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "...Let's charge in.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "Shinobu!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "Yurika!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "Looks like that's all we've got.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "Though I hate that it's the same as when we fought that Muge bastard.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "Yeah, well, we can't think of anything better, so it can't be helped.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "Hold on, with no chance of winning!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "Exactly. If we were wiped out on that asteroid...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "Nergal... no, the Federation would suffer irreparable losses!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "Even so, it seems this is our only option other than watching.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "Agreed. This is no time to be fussing over Nergal.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "If we're wiped out, everything's over anyway.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "Hmm...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "\"If you don't enter the tiger's den, you can't catch its cub\"... is that it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "What's that mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "A proverb meaning \"if you take no risks, you get no matching reward.\"",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "The spirit of high risk, high return.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "...Still, Duke Fleed... for an alien, you know a lot.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "If there's a tiger cub, that is.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "...There may be nothing, but it's more of a chance than staying here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "...All units, return to the ship.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "en": "Londo Bell will now storm the core of the enemy asteroid...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "...It's the only way, huh. Here goes...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "Heh, we'll find out once we're inside.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "en": "Rom, this has nothing to do with the Gyandlar... It's a fight for Earthlings.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "en": "Thank you... for everything until now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "en": "Captain? What are you saying?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "en": "Hey, hey, don't be such a stranger.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "en": "Seriously, though, this has nothing to do with you guys, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "en": "I haven't seen hell enough to turn my back on those who risk their lives.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "en": "Let's go, everyone.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 258,
+   "en": "Thank you... Rom.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "en": "Dammit, he gets me every time... Come on!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "en": "Even people from another planet are lending a hand! Let's go, everyone!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 261,
+   "en": "Yeah, we've got no choice...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 262,
+   "en": "Gekiganger always got through pinches like this too...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 263,
+   "en": "Then the Nadesico will also retrieve the Aestivalis team,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 264,
+   "en": "and promptly prepare to go in. ...This is kind of exciting.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 265,
+   "en": "We're not kids exploring the block... But what'll become of us...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 266,
+   "en": "We'll find out once we go in. ...If we're still alive, that is.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 267,
+   "en": "Big shake-ups, on the ground... and in space. Kyosuke... I'm going ahead...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 268,
+   "en": "(Though I don't know what'll happen to me either...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 269,
+   "en": "Acquired skill \"Comeback\".",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 270,
+   "en": "Acquired skill \"Command\".",
+   "kind": "system",
+   "keep": false
+  }
+ ]
+}

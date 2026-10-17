@@ -1,0 +1,1021 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1770,
+ "strings": [
+  {
+   "id": 0,
+   "en": "It's an honor to meet you, Captain Amuro Ray.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "...Bidan, are you feeling all right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "...Yes. I don't know why, but... I sensed it wasn't time to be sleeping.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "So I managed to steal an MS the Titans used to use.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "(Kamille's mental collapse should have been severe.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "...What brought about his full recovery?)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "...Hm, Amuro...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Kamille, did you... sense it too?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Yes. I can't quite put it into words... but something...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Do you understand it, Amuro?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "I'm the same as you, Kamille. I don't know anything concrete.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "The Federation seems to have bigger worries than watching me,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "so slipping out was fairly easy. Then I spotted that big one and followed it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "By the way, Bidan, I hear you came from the medical facility in Jaburo...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "What on earth is happening at Jaburo?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "I don't know...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Don't know? What do you mean?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "You came from Jaburo, where Federation HQ is, didn't you?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "I woke up with a bad feeling, and the military people were in an uproar...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "That's how I managed to slip out so easily.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "When you left Jaburo, didn't you see anything from the air?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "That's the thing, nothing... It was just quieter than usual...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "I see...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "So we'll have to go to Jaburo ourselves to learn the truth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "...Kamille...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Fa... Sorry I worried you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Mm... It's okay. Kamille... I'm so... glad.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Fa...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Big Bro...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Rosamie... No one will ever make you fight a war again.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Uh-huh...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Kamille, that girl is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "...From the Titans'... Cyber-Newtype project...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "I see. No, that's enough. I'm sorry, Kamille.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Bidan, we've prepared a room for you. Get some rest today.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Thank you. Just Kamille is fine, Commander Hazuki.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Commander Hazuki, I'd like to know the current situation...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Yes. On the ground and in space alike... things have gotten serious.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "You'll need to understand the situation.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Oh, by the way, Captain...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Yes?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "The mobile suit you came in... what is that...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "The Re-GZ... a prototype from the Zeta Gundam mass-production plan.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "The plan fell through over costs, so that's the only one.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "No, that's not what I mean.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Captain, forgive me, but you weren't permitted to own a mobile suit.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Escaping the Cheyenne villa aside, where did that Re-GZ come from?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "...I had it hidden underground.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "...What on earth was that...? Tell me, Raideen.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "What were those bone-like things? Answer me, Raideen.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "...Huh, that guy...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "...No good... The Demon Empire... Is that all Raideen called me for...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Umm~",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Hm... Whoa! You're... um...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "I'm Cham Huau. Nice to meet you... Hey, why're you so surprised?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Well, I've never seen a fairy before...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Geez! Everybody calls me a fairy, a pixie, whatever!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "I'm a Mi Ferario!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Cham... Cham! There you are. Hm, and you are...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Sorry, looks like she startled you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "No, it's fine. ...Cham? Did you want something with me?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Huh, oh, no, it's nothing. Just... no, never mind.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Cham, you're acting strange. ...Did something happen?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "You're so dense, Show! Didn't you feel anything when they showed up!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "...You mean the new enemies that seem made of bone?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Yes, exactly! I knew you felt it too, Akira!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "It's not so much that I felt it. Raideen... this robot told me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "This robot...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "From the look of it, it's unusual even among super robots...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Raideen was apparently built...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "about twelve thousand years ago, in the Mu Empire.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Back then, a demonic army called the Demon Empire...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "The Mu Empire... It doesn't quite click.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Then again, the same goes for Byston Well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "If my father were here... maybe he'd know something...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Your dad? Then just ask him!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "He's... missing right now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Oh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Cham! ...Sorry, Akira. She can be so tactless...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "No, it's fine. Right now there's a mountain of things to think about...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "True... Still, why would such an ancient army show up now...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "I heard the Dinosaur Empire is from way, way earlier, though...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "But they appeared at the same time... What could it mean...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Geez... One problem after another. It never ends.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Seriously. The space pirates the Bunker... was it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "The ones the Dangaioh Team is fighting?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Space pirates, huh. Oh yeah, those combat suits were something else.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Didn't know where to look.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Ko... ji!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Ow ow ow ow! Okay, okay, Sayaka!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "You two never change.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Anyway, now an army has come from another world too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Byston Well... they said? The homeland of human souls?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Does that mean heaven?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Heaven, huh. ...If they're waging war even there,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "humans are hopeless creatures to the core.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Whoa, Hayato, you're quite the poet.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Aliens, huh... Come to think of it, Princess Romina and her people",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "are looking for a ninja.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "I can't make heads or tails of anything. What'll become of Earth?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "The Bunker... the space pirates those Dangaioh kids are fighting.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Come to think of it, they showed up out of nowhere and left just as fast.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "They wore some crazy outfits.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "If I were a bit younger, I'd have given them a run for their money.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "That's a real shame.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "This is no time for jokes, everyone.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Not ground, not space... enemies are coming from another dimension too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Byston Well. A world beyond all comprehension.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Come to think of it, there were aliens looking for a ninja too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "The princess of planet Radorio... A ninja, in this day and age?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "The ninja legend... At first I thought it was just a fairy tale,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "but with so much happening at once, I'm starting to feel anything goes.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "It seems the time is ripe... Mia, summon that child.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "...You called? So the time has come at last, Mother...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "So many years since we left our home... at last the moment has come.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Ha! Then Earth's civilization shall be utterly...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "No. To begin, attack a base called the Nanbara Connection.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "They have become aware of our existence.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Take great care not to be tripped up.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Understood, Mother. Then at once...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Wait. There is one last thing to tell you... Look at this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Hm? Mother, who are these? This red glow... how sinister...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "It would take long to explain... In any case, they may appear suddenly.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "If so, you must never fight them... Is that clear?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "...Understood. If you say so, Mother.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Then... Right! Ready the Graydon!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "(Those who appeared on the surface 12,000 years ago are stirring again...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Something is about to happen...)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "...Do try your best... Garuda.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Colonel Norris... letting that Newtype escape... was a blow.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Yes, I have no excuse...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "...What's done is done.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "For now... we must complete my child, the Apsaras, as soon as possible.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Brother.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Lady Aina...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Ah, Aina. Good work the other day.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "But failing to achieve results was a problem.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "At this rate, I can't face the one who gave me the Apsaras Project,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Lady Haman.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "...I'm sorry, Brother.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Lord Ginias, with respect, Lady Aina...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "I dislike that an unknown army is holding Jaburo, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "the Federation's regional unit, the Gandor Team, was it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "They may attack. When they do... I'm counting on you, Aina.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "...Yes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Colonel Norris!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "What is it!? I'm busy right now!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Y-yes, sir! My apologies! But there's a transmission...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "...From whom?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Sir, from Major Anavel Gato of the Delaz Fleet.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Major Gato...? Why is the Nightmare of Solomon on Earth...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Are we heading to Jaburo now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "No, I plan to stop by the Nanbara Connection first.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "The Nanbara Connection?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Is there something there?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "I've heard they research super electromagnetic energy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Apparently they're developing a robot there that uses it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "So you'll have that robot join the Gandor Team.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "And then add it to the Gandor Team, huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Yes, it's said to be nearly finished.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "If it's not finished yet, isn't going there pointless?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "We're also scheduled to load supplies there.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Then it won't be a wasted trip.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Commander! A call for help from the Nanbara Connection!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "What!? We're about to arrive...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "All hands, battle stations!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "You'll sortie as soon as we reach the Connection!",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

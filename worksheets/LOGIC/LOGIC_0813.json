@@ -1,0 +1,1693 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 2067,
+ "strings": [
+  {
+   "id": 0,
+   "en": "",
+   "kind": "dialogue",
+   "keep": true
+  },
+  {
+   "id": 1,
+   "en": "I heard a new mobile suit was brought in... Ah! Isn't this a Zeon...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Hm? What's wrong, Uraki? Here for maintenance?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Captain Burning, what is this?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "A transport arrived from the Elshank a little while ago.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Anaheim sent it over.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "It was recovered when Von Braun was attacked and then restored.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "If I recall... a Doven Wolf. A mobile suit like this is a real asset...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "I'm more interested in this one, though. The GP03's true form...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "No matter how often I see it, it's like a walking arsenal, Uraki.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Yes. With this... I could even take on Gato, guarding the colony...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "I know I can win...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "...Uraki, I understand how you feel, but... fixating on one enemy in battle",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "is dangerous, you know?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "I know... but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "On our way here, besides Zeon, we ran into the space pirates the Bunker,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "the space crime syndicate Gyandlar, and even that mysterious enemy.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Right... Those skeletal ones, and the ones that looked armored...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Exactly. And all we managed was to make them retreat.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "We didn't take out their leaders... This isn't over yet.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "...Yes, sir.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Yo! What are you two guys up to?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Kappei! ...I'm sorry, Lieutenant Uraki, Captain Burning.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "It's fine. I'm used to it by now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Age has nothing to do with it, huh? Everyone here's so hot-blooded.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Excellen? Here for maintenance again?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Yeah. The Weiss has been acting up lately.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "It hasn't affected my fighting, but it just doesn't feel right, you know,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "or it just doesn't fit...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "That means the same thing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "You're still such a kid. If you can't tell the difference...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "What's going on? Why is everyone gathered here?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Oh... Akira Hibiki?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Just Akira is fine. ...You're Excellen, right? I need to talk to you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Sure. ...Not here, though. Let's have a chat with big sis over there.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Ooh, what's this? Sounds suspicious!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Come on, Uchuta, leave them be! You make a cute couple!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Huh!? N-no, it's not like that...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Um, hello? I already have a boyfriend?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "You're Dr. Tarsan...? I've heard about you from Roll and the others, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Indeed! I'm the creator of Dangaioh and the Dangaioh Team,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Tarsan himself!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "So, what does a doctor like you want with us?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "I contacted you for no other reason than",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "to tell you what the Bunker is after.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "What the Bunker is after...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "If I recall, they're after some kind of energy on Earth...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Yes, that's it... You know that the Bunker has joined hands",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "with the space crime syndicate Gyandlar, don't you?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "That noisy bunch with the guy called Devil Saturn, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Yeah, that bunch led by Devil Saturn 6, who never learns his lesson.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Precisely. And the aim of those Gyandlar",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "is a mystical power called Hyper Libido.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Hyper... Libido?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "I've never heard of it... What is it like?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "There's a record of it being used just once before, on planet Cronos.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "They say its power even corrected the tilt in the planet's axis.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Planet Cronos... That's Rom's home world!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Indeed. Defeated in that battle, Gyandlar left planet Cronos behind",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "and came all the way to the solar system. ...Why do you think that is?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Wasn't it just by chance?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "No... From the way Dr. Tarsan is talking...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "they came to Earth looking for this Hyper Libido thing...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Correct. You've a deeper mind than that brat over there, young man.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Shut up, old geezer! I've got a name, and it's Kappei Jin!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Besides, we've never heard of any Hyper Libido in our whole lives!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Ho ho, full of spirit, aren't you... You're right about that, though.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "There's probably no Hyper Libido on Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "But what about something that could take its place...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Hmm... Earth does have many special energy sources...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "But one strong enough to fix a planet's axis...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "What Gyandlar is after... is probably the thing that, on Earth,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "goes by the name of Mutron.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "What!? They're after the Mutron?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Hey, speaking of Mutron... isn't that Raideen's...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Yes, it's the source of Raideen's power, I think.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Mutron...? I've heard of it. ...If I remember...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Tetsuya, it's Raideen.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Raideen's power source is... Mutron energy, I think...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Oh my, it seems Earth already has machines that run on Mutron...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Well, anyway, Mutron is said to be a mysterious power like Hyper Libido,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "with tremendous strength.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Well, Raideen does have something mystical about it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Whatever the case, it mustn't fall into Gyandlar's... no, the Bunker's hands!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "I have a terribly bad feeling about this.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "I understand. We'll pass this on to our comrades on the surface.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Thank you for the information.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Not at all. You've been taking care of the Dangaioh Team,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "so I'm glad if I can be of even a little help.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "(Besides, with them in my debt, callin' Mia and the others back'll be easier,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "and I might even get a taste of that Mutron...)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Dr. Tarsan, you've done so much for us... I don't know how to thank you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "...All we've faced are villains like the Vega Star Federation, who trample",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "and exploit others for their own selfish greed.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "I'm truly grateful to have an ally like you, Doctor.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Urk... Th-that's right! I hate the Bunker too, you know.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Ha ha, ha ha ha.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Thank you, Doctor. ...I'd like to have a long talk once this battle is over.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "...Provided you stick with us to the very end, that is.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "O-of course I will! Leave it all to me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "(Hmm... These two... They're hard to deal with.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "One's naive... and the other, I can't read at all",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "what he's thinking. Hmmm...)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Damn, we finally got all this info...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "But I can't stop worrying about the surface... I wanna go back too...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Hey, Lenny, can our machines break through the atmosphere?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "...Hmm, I wonder. The Sky Demon might manage, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "I'd rather not burn up, Big Bro.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Oh, it seems you have a problem.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "If that's the case... I'm actually headed your way myself.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Once we meet up, I wouldn't mind sending you down with my warp beam.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "All right! Thanks, old man, you're a lifesaver!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "A warp beam...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "(That's it, the warp beam...!)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "You've done so much for us. ...Sorry to impose, but please do.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Now, now, it's no trouble. I'm a lover of justice too, after all!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Well then, see you later.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Dr. Tarsan!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Hm, what is it? Oh, Mia! Don't tell me you're coming back...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "...We want to go down to Earth too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Hm...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "...Please use the warp beam to send us too, along with Joe and the others,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "down to the surface!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Hey, lady, what do you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Joe! She must have something in mind, don't you think?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Wh-what did you say!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "No way...! What about stopping the colony drop?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Well said, Mia! Now that we know the Bunker's aim, I can't just sit still!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "...Earth has lots of special energy, like Photon Power and Getter Rays...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "If the space pirates the Bunker, no, if Gil Berg stole something like that...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Stopping the colony drop matters, but the Bunker",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "getting their hands on that would be a huge problem too. Hmm...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Losing Dangaioh would be rough in its own way, though...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "In the end, the ones who know the Bunker best",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "are the Dangaioh Team, right? Why not let them go?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Stopping the colony won't help if the Bunker gets some crazy power.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "I say let them go. To make up for losing Dangaioh,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "those of us who stay just have to work harder.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Besides... even if we stop the colony, if the Bunker",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "gets hold of some incredible power, it'll be hard to turn things around.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "True. They know more about the Bunker than anyone...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "...All right. Honestly, I'd like you to stay, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "the Dangaioh Team was never enlisted in the military to begin with.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Captain Bright, then...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Yes. Go after the Bunker and stop their plans.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Thank you very much!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "It seems nothing I say will change your minds... Well, I'll be waiting.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "If you run into old man Hazuki, tell him I said hi.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Sure thing. With you guys gone, he's probably got fewer gray hairs.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "I hope so. ...Though I kinda doubt it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "If that's settled, let's hurry up and get to that old man!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Hey, that old man's awfully nice, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Yeah, yeah, there's something fishy about him.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "...That type is totally scheming something behind the scenes...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Considering who we'll be up against from here on, a bit of calculation...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "will work in our favor.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "And thanks to Umon, he's been put on notice.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "??",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Is that red unit still showing up on the surface too?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Yes. And every time, Kyosuke says he can \"hear a voice.\"",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Raideen reacts to it, too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "What on earth are those things?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "The red one in particular seems to have a pilot aboard...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "...I don't know. Sorry, Akira.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "No... but... you should be careful. You and Kyosuke...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Could you have some deep connection with them?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "That's what I'd like to know.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "...If it's asking me on a date, I wish it'd just be upfront about it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "(Kyosuke... You, me, and that girl... Something feels wrong...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "It's finally time...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "It seems we... made it in time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Though we sure went through hell to get here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Anyway, we met up with Akira and the others, so I'll call it good.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "Yeah, and in the end we made it to the colony in time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Honestly, \"barely made it\" is more like it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "Sounds like Daisuke had a rough time of it, too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Well, we met up with Akira's group, so all's well that ends well, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Right. For now... things are going our way.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "By the way, where'd that shady doctor run off to?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "It sounds like he sent Joe and the others to Earth...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "With a warp beam, he said. Handy ray, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "He said he'd track the Bunker on his own, then vanished right away...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "He's definitely suspicious...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Nah, back when I was a junk dealer, there were shady old guys like him...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "but that one's not rotten to the core.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "At the very least, for now he's definitely cooperating with us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Right now, we need every ally we can get.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "Our forces are coming together... Things are starting to look up.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "And we successfully retrieved the Dendrobium.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "But... even if we stop the colony, we have a mountain of problems...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "The Gaizok, the Crossbone Vanguard... none of it's settled yet...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "Emma, let's save the complicated stuff for later, OK? Colony first.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "The colony comes first, right, Lieutenant? One thing at a time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "Exactly.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "Even if we were to fall to the Gaizok or the Bunker...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "there would still be the Gandor Team... Amuro and the others.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "But we're the only ones who can stop the colony now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "Hey, hey, Captain! Don't talk about losing, not even as a joke!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "We're gonna handle space ourselves!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "Yes, I can't have you talking like that, Captain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "...My apologies. ...Hm?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "Captain, it seems we're receiving a request for permission to land?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "What? ...This is... the Elshank's transport...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "Phew... What a pain. Why do we gotta go out there?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "So the treasure's real, but ain't Lady Diondra rushin' it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "Boss Gil Berg's already on it, so who cares?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "...Forget that, droppin' the colony on Earth'd be way more fun.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "I won't let you... Devil Saturn 6...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "Wh-what the!? I was finally gettin' in a good mood, so don't spoil it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "I won't let you pass... beyond this point.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "Rom Stol! How long are ya gonna keep gettin' in my way!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "Until you lot are gone from this universe.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "The people of Earth will take care of Earth! Stay out of the way!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "Exactly.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "What're ya yappin' about!? Let 'em have it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "And then we'll watch the colony drop from front-row seats!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "I said we won't let you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "I won't let you...! Heaven, earth, fire, water... grant me power...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "Oh, there it is. Is that the colony!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "It's huge... Obviously, but up close it's amazing. Can we stop it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "What good is getting cold feet now? We have no choice but to do it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "Daisuke's right, see? Where there's a will, there's a way!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "...It's closer than expected... We have almost no time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "Heh, no matter how many enemies there are, 30 minutes is plenty.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "Thirty or forty minutes will do. Scatter them and grab the colony.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "Captain?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "...? Hey, don't you have a bad feeling about this, Kappei?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "Bright's pretty easy to read, after all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "...No, it's nothing. Everyone, return to your stations.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "Understood! All right, let's do this...! This is why I came to space.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "But losing the Dangaioh Team at this point hurts.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "Lenny and them were a special case, but now these guys left too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "Things are moving on the surface too, so it can't be helped.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "Well, they were cheerful girls, so it's a little lonely.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "More like flashy than cheerful.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "...With them wandering around dressed like that, I couldn't relax.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "Oh my... Maybe I should strip down for the team? Like, whoosh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "...Don't even think about it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "Don't ask me to join in, 'cause I won't.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "I don't really mind, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "No good, huh? We're still one short.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "...Maybe the Nadesico's captain would say yes?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "Is this a time for jokes? The Captain's gonna correct you, you know.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "It's better than everyone being oddly tense. Besides, I'm used to it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "An ordinary army might not be enough for you anymore, Captain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "en": "Not that I could let Amuro or Kamille see this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "Really? ...The Gandor Team wasn't all that different.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "I agree.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "en": "Oh, there you are! Judau!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "en": "Ple!? You came out here!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "en": "Judau! I missed you so much! Judau!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "en": "Elpeo Ple!? How did you get here!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "en": "I woke up at Anaheim, so I asked this lady, Princess Romina,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "en": "to let me ride on the supply ship! Judau, I'll fight too!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 258,
+   "en": "I'm gonna beat up all the bad guys!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "en": "A welcome boost to our strength, just in the nick of time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 261,
+   "en": "Huh? ...This feeling... You're...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 262,
+   "en": "Oh, this is Ple Two.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 263,
+   "en": "But you two look so much alike, just like twins!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 264,
+   "en": "Stop it! I am who I am!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 265,
+   "en": "(Haman... Has she stooped to cloning Cyber-Newtypes...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 266,
+   "en": "No... that woman would be capable of it...)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 267,
+   "en": "...Yeah... Ple is Ple, and Ple Two is Ple Two, right...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 268,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 269,
+   "en": "I'm Elpeo Ple. Ple Two, you like Judau too, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 270,
+   "en": "...Y-yes...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 271,
+   "en": "Ahah, I knew it! Then we're friends!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 272,
+   "en": "Fr...ie...nds...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 273,
+   "en": "Yeah! Ple and Ple Two are friends! Let's help Judau together!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 274,
+   "en": "Big Bro Judau sure is popular with the girls.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 275,
+   "en": "Oh, Kappei, is Ple your type?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 276,
+   "en": "N-no way!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 277,
+   "en": "(...So children have the power to turn petty grudges into friendship...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 278,
+   "en": "Amuro, perhaps we really are old-fashioned Newtypes.)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 279,
+   "en": "Right... It's time. The Ra Cailum is now entering the combat zone!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 280,
+   "en": "All hands, stand by at your posts! Stay sharp!",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

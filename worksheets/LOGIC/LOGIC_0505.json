@@ -1,0 +1,1531 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1285,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "So this is the Star of La Mu I've been searching for... With this...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "So you've come... foolish demons...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "(Sooner than I expected...! Akira... I will protect the Star of La Mu.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "This power is surely... meant for you...)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Hah hah hah! Reiko Hibiki!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "...No, Lemuria, daughter of La Mu, king of the ancient Mu Empire!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "I won't let you have the Star of La Mu!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "...You are the younger Kyoretsu brother... Gekido.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Oho, so you remember me, whose name rang through the demon clan,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "even across twelve thousand years!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Hoho... How could I forget that dimwitted face?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Mngh!? Grrr! Enough! Kyoretsu Beasts! Seize that woman!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Kakaka... Princess Lemuria, you mean to anger us and exploit the opening...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "but we won't fall for it! Brother, seize her with the Ghostan!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Right, Big Brother! Now, come quietly! Princess Lemuria!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Ngh... Akira...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Raaaaaaai!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Mmh!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "That's... the legacy of our Mu Empire... Raideen! Akira!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Akira, I know how you feel, but... you ended up rushing out in the end.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Sorry, Mari. I thought I heard Mom's voice...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "and I just couldn't sit still.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Eh, what's the harm? Commander Hazuki and the rest will be here soon.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Gahahaha! You may be full of yourself after beating Sharkin,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "but we Kyoretsu brothers won't go down so easily! Raideen!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "The Kyoretsu brothers!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "That is my younger brother, Gekido! And I am Gorai!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Akira Hibiki, Demon Emperor Barao is most displeased!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "You shall atone for your sins with death!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Tch, saying whatever you please... Who do you think you are!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Akira, let's take 'em all out right here!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Right!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Kakaka! Look at this! Akira Hibiki!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Akira...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Wha... What's that!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "...Akira, could it be!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "M-Mom! Is that you, Mom!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Kukuku, as you can see, we have Reiko in our custody.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Tch, taking a hostage... What a coward.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "M-Mom! Let go of my mom!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Akira...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Big Brother! Leave Raideen to me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Do as you please, Brother.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Mom... I swear I'll get you back!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Don't do anything reckless until everyone gets here! Akira!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "...The Mutron ruins and the Demon Empire... This is heating up...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Wh... Whaaat... Me...? Akira Hibikiii!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "I'm taking my mom back! Gekido Kyoretsu...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Impossible... This is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "It's going down...! It took a direct hit to the power plant...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Hibiki! Hurry and get your mother...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Akira!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Mom!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Gekidooo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Nngh, guooooh... Raideen... Even if I fall... Lord Barao...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Do not underestimate the power of Lord Barao...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "What is that...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "What is that...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "It's one of our battleships!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Are you okay!? Akira?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "So these are the Mutron ruins?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "They're a lot like the Mykene ruins.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Are you ready to sortie?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Is everyone ready to sortie!? All hands, sortie!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Are you all right!? Hibiki!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "I'm fine, but my mom...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "What happened?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Everyone, don't go attacking all willy-nilly!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "What do you mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Akira's mother is being held hostage!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Ngh... How despicable...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Don't worry about me. Just go ahead and attack Gorai Kyoretsu's mecha...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "please...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "B-But then you'll...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Akira, there's no need to worry!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "I have a legacy of Mu... a barrier generator.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Shoot down Gekido Kyoretsu, and me with him!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Whaaat!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Believe in me... in the power of ancient Mu...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "All right, I believe you, Mom...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Are you sure, Akira?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Yes. I believe in my mother...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "It's decided, then. So no holding back... Well, not exactly...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Is she really going to be all right...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Show! Isn't there some way to get her back!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "...If I can get in close... maybe I can do something?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "If she says she'll be fine, then she'll be fine!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Insolent Lemuria!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Bah, no matter! Can we slink off with the Star of La Mu before us!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Gekido Kyoretsu... I'll beat you and save my mom!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Yes, Mom and I are both safe!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "I see... That's good to hear.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Mom, get to one of the battleships where it's safe.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Very well...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Now that we're here, you've got nothing to worry about.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Demons... How dare you take my mom hostage...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "All units, wipe out the Demon Empire's mecha!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Oh, oh... Gekido...! Curse you, Raideen! How dare you do this to my brother...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "You're next! Gorai Kyoretsu!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Gekido... I will... I will surely avenge him! Remember this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "That bastard ran off...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "What about Mom?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "We have just taken her aboard.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Oh, Akira, at last... At last we meet...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "M-Mom... It's really... you...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Tch, and right in the middle of a touching reunion...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "He launched them so we couldn't chase after him...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Akira... We'll talk later. For now, focus on the battle...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Yes, Mom!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Nuoooooh! How dare you... How dare you do thiiis!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Too shallow!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "It needs one more push!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "To think my Ghostan would take this much damage... Nuoh!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Now!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "She got out!? Akira's mother...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Escape, escaaape!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Blast it! Wait! Lemuriaaa!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "All right! Mom! Are you okay?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Don't worry about me! More importantly, Akira, finish him!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Nngggh! Don't think you've won...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Next time, I'll be sure to snuff you out for good!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Hold it! You running away!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Don't you worry, the Gyandlar'll be takin' that treasure.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "When that time comes, we'll simply take it back from you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Don't let them escape! Finish them here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Blast it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "What about Mom?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "We have just taken her aboard.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Oh, Akira, at last... At last we meet...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "M-Mom... It's really... you...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Tch, and right in the middle of a touching reunion...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "He launched them so we couldn't chase after him...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Akira... We'll talk later. For now, focus on the battle...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Yes, Mom!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Too dangerous, Big Brother. Leave the rest to me and go to Lord Barao.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Nngh... Remember this, Lemuria. Do not underestimate the Demon Empire!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "The Demon Empire's nothing special, is it? Better just behave yourselves.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "This is it, right here! I can smell the treasure from a mile away!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Commander Hazuki, what in the world is that enemy?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "The space crime syndicate... the Gyandlar!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "...They hadn't shown themselves in a while... Why now, of all times!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Tch! They were supposedly searching for the Mutron, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Then it makes sense they'd show up, but...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Yeah, they sure have lousy timing...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Besides the demons, there are other fools who covet Mutron's power...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Besides the demons, there are other fools who covet Mutron's power...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "What's all this!? You've been sayin' whatever you like!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "You lot just hand over the treasure nice and quiet!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Nnngh, I won't let you do that, cutting in ahead of the Demon Empire!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "The Bunker from Sharkin's report... No, the Gyandlar...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Of all the times to come waltzing in!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "We'll take on all of you at once!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "The enemy won't wait for us to be ready...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Forget about their numbers! For now, just keep attacking!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Shiro, don't be too reckless...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "There's no doubt the Hyper Libido's in this airspace. Get 'em!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "If we dawdle, the boss lady's gonna chew us out!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Heh! Try it if you think you can!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "What are you dawdling for!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Geez! There's still more coming!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "S-Sorry... These guys are puttin' up a fight.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "I don't want to hear excuses!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "At this rate, how can I show my face to Lord Gades!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "The Gyandlar will be taking the Mutron!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Dammit! I won't hand over my mom... or the Mutron... to the likes of you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Ku ku ku... All I need is to get my hands on this Mutron thing, you see.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Don't tell me... you're planning to kill Akira's mother!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Gah! If Akira's mom dies, the Mutron",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "might vanish with her!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "If the energy just vanishes because one lousy human is gone,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "then it never was the Hyper Libido after all!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "That'd actually clear things up nicely.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "...How could you...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "What a creep! Show, get her!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "Hahahaha! You've got some nerve... Now, men! Finish them!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Kenrou! Grant me power!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "I knew it! Rom! You little...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Why are you on the surface!? Gardy and Globine were in space...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Globine... I cut him down after a duel.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "You cut down Globine!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "That was a good match... huh, Sis?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "So that's what a fight between martial artists is like...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Jet's Tenku Shinken was really sharp that time, after all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "Don't be rude, Jim... My sword is always sharp.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "If it's me you're looking for, I'm right here! Diondra!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Wha-! You! Are you betraying Lord Gades... betraying us, the Gyandlar!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "I am a warrior... With them, I get to fight all sorts of opponents...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "Globine's blade will now be wielded for justice! Diondra!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Traitor! I'll teach you what it means to turn your back",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "on the Gyandlar!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "To betray one's own sword is a swordsman's shame...! I learned that!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "Grrrr... Get them all!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "Whoever defeats these fools and gets the Mutron",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "gets their Commander Ranking tripled!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Weren't you guys with Captain Bright?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "We heard the Gyandlar were after the Mutron, so we came down.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "You showed up at just the right time!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "Diondra... You'll pay here for deceiving my brother and me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "My sister and I are never gonna forgive you Gyandlar!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "Don't run your mouths, you brats!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "We can't let the Gyandlar have the Mutron! Intercept them!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "Whoa, this is bad! Retreat! You'll pay for this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "Gahahaha... All bark and no bite...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "Shouldn't we go after them? Master Rom?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "Right now, wiping out the enemies in this area comes first!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "Tch, seems today's just not my day. Don't think it'll go like this next time!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "You'd better be ready!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "It is we of the Demon Empire who shall claim the Mutron!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "Oh! Diondra's running away. Rom, should we chase her?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "No... Let's make ending this battle our priority.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "We can't just leave them be, after all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "I don't know what this Demon Empire is, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "the Gyandlar will be taking the Hyper Libido!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "Hyper Libido... You mean the Mutron? I won't allow it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "Lady Elle, it seems we've succeeded in wiping out the enemy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "So it would seem.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "Everyone... thank you for rescuing me from danger.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "I'm glad we were able to rescue you safely.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "How did you know I was here?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "Dad... Dad contacted us...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "He did? I see... So you were the ones who saved me from Sharkin...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "Once again, you have my deepest thanks.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "The tablet Dr. Hibiki found in Tibet",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "had a record of this place.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "I see...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "Still, how did the demons and the Gyandlar find this place?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "The Demon Empire seemed to have followed Mom here, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "They must have detected the energy of the Star of La Mu.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "The Star of La Mu?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "What exactly does that have to do with the Mutron?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "The Star of La Mu that I found here is the key that unlocks",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "the Mutron energy...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "So that is why I sense such strong energy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "The Hyper Libido, a mystic power passed down on planet Cronos...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "Gades is after the Mutron in its place...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "We can still make it, Big Bro! Let's go after Diondra!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "Knowing them, they'll just round up more of their buddies",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "and come after that Star of La Mu again.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "Should we strike before they can regroup...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "So, everyone... it's goodbye again.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "I see... Knowing you, I'm sure you'll be fine, but",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "please, be careful.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "Akira... I'll be heading straight to Mutropolis.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "To Dad?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "I must analyze this Star of La Mu and the tablet I found here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "But if they're after the Star of La Mu, won't that be dangerous?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "en": "The Big Shell... should be able to hold out against the enemy for a while...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "And I have the Star of La Mu as well... There's no need to worry so much.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "I see... Then at least, before heading to our next destination, let's stop by",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "en": "Mutropolis...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "en": "Thank you for everything...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "en": "All right, all units, return to your ships.",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

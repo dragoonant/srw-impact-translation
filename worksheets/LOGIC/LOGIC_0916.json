@@ -1,0 +1,553 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 2326,
+ "strings": [
+  {
+   "id": 0,
+   "en": "Hm... lost them. ...It seems I charged too far ahead alone.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "No choice. I'll regroup with Leina and the others...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "...Hold, Rom Stol! You can't escape me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Gardy... so you've appeared! I have questions for you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "About what Diondra said...? Fool, that was Diondra's scheme!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "I know nothing of your brother!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "...Is that true, Gardy!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Ugh... gh...! Even if I were your brother,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "I'm a Gyandlar commander! I won't let you stand in Lord Gades's way!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "It can't be helped...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Follow me, Rom! You and I... will settle this in a fitting place!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "What!? Wait! Gardy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Kenrou and Ryusei are fated to fight until one falls...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "I'll settle that fate once and for all!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "(Yes, his sword... its connection to Kenrou concerns me too...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Ooh, isn't this nice? The Nadesico's observation room.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "What's up? What did you want to talk about, Kyosuke?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "I just have a feeling... it's finally coming.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "...Yeah.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Alchemie... she's probably...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "...No doubt about it. What I feel from that girl...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "No, maybe I should say from that machine...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "...The reason they... the Einst took you...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "I feel like we'll see the result of it soon...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "...New life... that's the key, Kyosuke.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "...!? New life? How much do you know?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "When they took you away... what did they do to you?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "That girl, Alchemie, is your...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Sorry, Kyosuke... I only know it in tiny fragments...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "But... in that accident, the reason we survived was...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "...I have some idea. But I'm not certain...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "As I told everyone, it's only a guess.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "...When you shielded me, Kyosuke...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "I know the debris had already done me in...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "So you knew... Yes.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "But you didn't have a scratch... and I was fine too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "The ones who saved us were... the Einst...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "I'm almost sure of it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "...But what if the reason was to take you away?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Me!? Then why were you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "...I don't know. But you were returned. Why, I can't say...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "but couldn't it be because their goal had been achieved?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "And the red machine I'd destroyed once... why it reappeared too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "That was... just an offshoot, you know.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Hm...? What do you mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "I'm not really sure... but the Einst all come from a single source.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "...What? Then the ones we've seen until now...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "...Hmm, you could say... they're like bees.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "There's a queen bee, and she's what moves the rest... something like that?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "So unless we defeat the queen bee, they'll keep coming endlessly?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "I'm not confident that's right, though...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "...It wants to destroy humanity by its will alone?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "How do you know that much, Excellen?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "...How to put it... I was one of those bees, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Bees...? Th-then, Kyosuke, if she'd stayed that way,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "you'd have been eaten, wouldn't you...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "That's mantises.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Wow, eavesdropping? That's in poor taste, Captain Yurika.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "It's fine. ...That's why I came here in the first place.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Oh my, is that so?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Take what we just said... Omoikane, was it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Feed it into this ship's central computer and get a predicted answer.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "The more information we have, the better.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Roger.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Phew, good thing I didn't blurt out anything weird.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "If Captain Yurika heard, it might've wrecked things with Tenkawa.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "(I-is it really that racy...?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Oh, I didn't open the channel to eavesdrop or anything.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "...We've located the Gyandlar mothership.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Wow! So we know where Rom and co. went? Excellen is thrilled!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "...Isn't the way you're talking kind of weird?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Is it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "No time for idle chatter. Understood, returning to the ship.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "(More importantly, the Einst. Their movements are getting clearer...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "and they've been getting stronger... If the queen bee builds up power,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "it stands to reason her offspring grow stronger too... Tch.)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Lord Gades... Diondra and Gardy have failed to seize the treasure again.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Useless fools...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "...Perhaps I should pose as one of Londo Bell myself...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "...I can wait no longer! Advance this mobile fortress.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "...Lord Gades, Diondra and the others are being pursued by Rom's lot...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "To move now would be...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Isn't that all the more convenient? Heh heh heh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Don't tell me... you'll face Rom yourself, Lord Gades...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "I don't plan to stay in league with Garimos and the Bunker forever...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Isn't now the right time?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Besides, I've told Gardy to lure Rom and the others",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "over here... Heh heh heh heh...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "As expected of Lord Gades... so shrewd...",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

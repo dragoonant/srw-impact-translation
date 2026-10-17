@@ -1,0 +1,2359 @@
+{
+ "file": "BTL/BMCPACK.BIN",
+ "format": "BMC",
+ "pilot": 218,
+ "strings": [
+  {
+   "id": 0,
+   "en": "This'll finish it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Koji Kabuto's your opponent!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Quit struggling, it's useless!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "I'm the one you're fighting!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Strike first, win first!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Here goes! One, two...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Take this! Here's the finishing...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Eat this! My special...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Here's a little something for you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "I'm your opponent, Great General of Darkness!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Get ready, Great General of Darkness!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Marshal of Hell! This time I'm taking you down!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "I'll be the one to finish you, Marshal of Hell!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Today we settle this, Dr. Hell!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "You're not getting away, Dr. Hell!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Brocken, time to pay up!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "I'll blow that head clean off, Brocken!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Baron Ashura, don't you move an inch!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Baron Ashura, your act ends here!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Mazinger Z is your opponent!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Let's go, Mazinger Z!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "All right! Let's do this, Mazinger Z!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "I'll show you me and Mazinger are the strongest combo there is!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Mazinger and I fight to protect peace! Here we go!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Mazinger, full power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "You're up against Mazinger Z!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "I'll show you Great's power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Let's go, Great Mazinger!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "I'll show you me and Mazinger are the strongest combo there is!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Mazinger and I fight to protect peace! Here we go!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Mazinger, full power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "I can handle Great Mazinger, no sweat!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "A mass-produced Great, huh. Can't get used to it.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "With this Boss Borot...! Wait, is this thing gonna hold up?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "I can fight even in the Aphrodai!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "I'll take you on in Dianan A!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Don't look down on me just 'cause this is Venus A!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "This is payback!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Here ya go! Payback!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "You did it now! I'll pay you back a hundred, no, a thousand times over!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "So that's your move! Then here's mine!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Whoa, not yet! This fight's just getting started!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "I'm your opponent, Great General of Darkness!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Get ready, Great General of Darkness!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Marshal of Hell! This time I'm taking you down!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "I'll be the one to finish you, Marshal of Hell!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Today we settle this, Dr. Hell!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "You're not getting away, Dr. Hell!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Brocken, time to pay up!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "I'll blow that head clean off, Brocken!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Baron Ashura, don't you move an inch!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Baron Ashura, your act ends here!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Mazinger Z is your opponent!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Let's go, Mazinger Z!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "All right! Let's do this, Mazinger Z!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "I'll show you me and Mazinger are the strongest combo there is!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Mazinger and I fight to protect peace! Here we go!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Mazinger, full power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "You're up against Mazinger Z!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "I'll show you Great's power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Let's go, Great Mazinger!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "I'll show you me and Mazinger are the strongest combo there is!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Mazinger and I fight to protect peace! Here we go!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Mazinger, full power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "I can handle Great Mazinger, no sweat!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "A mass-produced Great, huh. Can't get used to it.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "With this Boss Borot...! Wait, is this thing gonna hold up?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "I can fight even in the Aphrodai!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "I'll take you on in Dianan A!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Don't look down on me just 'cause this is Venus A!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Waaaah!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Whoa! Wh-what the heck!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Damn it!! It's no good!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Damn it! They got me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Dammit! I can't believe Mazinger lost!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Dammit! I can't believe Great lost!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "It's a Great, but a mass-produced one just doesn't cut it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "It just doesn't feel right if it's not Mazinger! Dammit.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "It just doesn't feel right if it's not Mazinger! Dammit.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "It just doesn't feel right if it's not Mazinger! Dammit.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "It just doesn't feel right if it's not Mazinger! Dammit.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Damn! I can't hold out like this!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Dammit! This is bad!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Ngh! This might be a little dicey.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Damn it!! At this rate they'll take me down!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Ngh! I'm in trouble at this rate!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Th-this is no joke!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Ngh! But I haven't given up on this fight!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Heh, heh... Too bad. You almost had me...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Y-you bastard! You gotta be kidding me! Dammit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "If I go down here, I won't be able to face Grandpa!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Like I... Koji Kabuto... would go down that easy!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "B-Baron Ashura... You're the last one I'll lose to!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "I-I'm not beaten yet, Count Brocken!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Ngh, Dr. Hell... Pretty slick move!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "S-so this is the power of the Great General of Darkness...!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Dammit! Then I'll show you what Mazinger's really made of!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "No way! Mazinger's armor...!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "What's wrong, Mazinger!? Move, come on, move!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Wh-what a monster! It punched right through Super Alloy New Z!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "What's wrong, Mazinger!? Move, come on, move!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Whoaaa!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "You'll pay for that, you bastard!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Whoa! Why you...! You'll pay for that!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "You jerk! You did it now!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "You got me, you jerk!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "N-not bad...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Whoa! Nice hit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Ngh! I'm okay for now, but the next one could be trouble...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Looks like you really want to make Koji Kabuto mad!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Tch! Can't let my guard down with this one. Gotta get fired up.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "What's wrong, what's wrong!? Is that all you've got!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Crap! I can't believe I took a direct hit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Heh, Ashura... You're on a roll, huh!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Nice try with that one, Count Brocken!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Dr. Hell! You don't have the guts to take me on!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Don't think this is all I've got, Great General of Darkness!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Dammit! Like Mazinger would go down to something like this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Heh, not bad, going toe-to-toe with Mazinger!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Don't make me laugh! Like that'd finish me and Mazinger!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Your attacks won't work on my Mazinger!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "That's Great Mazinger for you! Still good to go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Your attacks won't work on my Mazinger!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "What, that's it?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "You think an attack like that's gonna work!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Not even close! Come back when you're ready!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Tch! It hit me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Heh! Didn't feel a thing!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Hah! That all you got!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Ow ow... I bumped my head on the canopy.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Bring it on, as much as you want! I'll bounce it all back!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Huh!? I thought I dodged that!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Even if you all gang up on me, you can't beat me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Take my advice: tuck your tail and go home!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Heh! Don't underestimate the great Koji Kabuto!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Huh!? You call that an attack!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Baron Ashura! You can't beat me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "What? That's it, Count Brocken?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "What's wrong? Don't hold back, Dr. Hell!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "No need to go easy on me, Great General of Darkness!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "You think that's gonna beat Mazinger!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "An attack like that won't even dent Super Alloy Z!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "You're no match for Mazinger!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Well? Get it now? Me and Mazinger are invincible!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Give it up! You're no match for Great!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Well? Get it now? Me and Mazinger are invincible!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Too bad, that won't work!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Whoa, close one, close one!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Over here, over here!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Where are you aiming!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Nyah nyah!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Lousy shot!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Whoa there.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "You don't want me as an enemy!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Hey, hey, I'm over here! Right here!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "What's up, were you looking the other way!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "I don't have time to mess with you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Whoa, safe by a hair!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Like the great Koji Kabuto would get hit by that!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Heh heh, too bad! Better luck next time!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Baron Ashura! Over here, over here!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Where're you aiming, Brocken!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Dr. Hell! With your skills, you'll never land a hit on me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "Get lost and stay lost, Great General of Darkness!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "You can't put a scratch on my Mazinger!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Well, Mazinger would've been fine even if it hit.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Phew... Even in the Borot, I managed to dodge...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Piloting Great's a piece of cake!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "That won't even graze Great!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Useless!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "I told you it's useless!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "I've got a barrier, pal!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Too bad, that won't work!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Tch! Can't counter!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "Uh-oh, I'm gonna overheat at this rate!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "I can't do a thing!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "No good! It won't reach!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Dammit! They're staying out of my range!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Tch, fight fair, why don't you!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Here, have a bonus!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Where're you looking!? It's my turn now!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Koji Kabuto's here to help!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "That wasn't the end! Here comes another!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "You're fighting me, Koji Kabuto!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Hold it! I'll take this one!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "Sorry, but I'm butting in!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "Whoa! This is a job for Mazinger!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Missile, fire!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "Dianan Missile!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "Scarlet Beam!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Borot Puuunch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Borot Puuunch!! ...Think it'll work?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "Special Deluxe Golden Delishu... Ow, ow, bit my tongue.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "Freeze Beam!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "Photon Beam!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "Missile!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Drill Missile!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "Rocket Puuunch!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "Rust Hurricane!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "Southern Cross Knife!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "Iron Cutter!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "Scrander Cutter!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "Breast Fire!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "Daisharin Rocket Puuunch!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "Backspin Kick!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "Knee Impulse Kick!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "Great Typhoon!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "Scramble Cutter!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "Navel Missile!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "Great Boomerang!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "Atomic Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "Drill Pressure Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "Breast Burn!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "Thunder Break!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "I'll show you Great's power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "Eat this! My special...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "Great Booster!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "Boss! Th-that thing, that thing! Let's do that thing!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "Leave it to me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "Double Burning Fire!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "Sayaka!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "Haaah!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "Double Burning Fire!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "Tetsuya! You ready!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "I'm a combat pro, remember? I won't miss!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "Double Burning Fire!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "Here we go, Jun!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "This finishes it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "Double Burning Fire!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "Let's go, Maria!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "Ready when you are, Koji!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "Double Burning Fire!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "Kabuto, butt out!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "Boss, you sure you're up for this!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "Double Burning Fire!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "Here I go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "You got it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "Double Burning Fire!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "Koji! Don't tell me you're not used to it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "Got it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "Take this! Double Burning Fire!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "Here we go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "Here goes! One, two...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "Double Burning Fire!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "I'm counting on you, Koji!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "Ready anytime!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "Double Burning Fire!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "en": "You sure you can keep up with me?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "Kabuto, butt out!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "Let's go, Koji!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "en": "Let's finish this in one go, Daisuke!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "en": "Understood!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "en": "Here I go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "en": "Duke! Tetsuya! Let's goooo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "en": "Koji! Don't rush it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 258,
+   "en": "All set!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "en": "Jun, sync up with me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 261,
+   "en": "How's this!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 262,
+   "en": "All right, now!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 263,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 264,
+   "en": "Maria, don't fall behind!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 265,
+   "en": "Leave it to me, Koji!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 266,
+   "en": "Don't push yourself, Maria. Let's go!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 267,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 268,
+   "en": "Maria, you okay piloting Grendizer!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 269,
+   "en": "OK, leave it to me, Koji!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 270,
+   "en": "Why you little...!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 271,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 272,
+   "en": "It's not the usual lineup, but don't miss!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 273,
+   "en": "Leave it to me, Koji!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 274,
+   "en": "Here I go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 275,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 276,
+   "en": "Maria! Keep up with Double Mazinger!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 277,
+   "en": "OK, leave it to me, Koji!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 278,
+   "en": "Take this!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 279,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 280,
+   "en": "Let's go, Maria!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 281,
+   "en": "Ready whenever you are!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 282,
+   "en": "Here we go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 283,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 284,
+   "en": "Ta-daaa! Here I gooo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 285,
+   "en": "Yes, yes, anytime you like.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 286,
+   "en": "Screw Crusher Punch, ready anytime!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 287,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 288,
+   "en": "Here I go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 289,
+   "en": "Screw Crusher Punch, ready anytime!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 290,
+   "en": "Take this! Here's the finishing...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 291,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 292,
+   "en": "Duke Fleed! Koji! Let's settle this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 293,
+   "en": "Leave it to me, Tetsuya!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 294,
+   "en": "Tetsuya, I'm counting on you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 295,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 296,
+   "en": "Here we go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 297,
+   "en": "Screw Crusher Punch, ready anytime!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 298,
+   "en": "Eat this! My special...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 299,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 300,
+   "en": "I'm counting on you, Koji!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 301,
+   "en": "I know! Who do you think I am!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 302,
+   "en": "Time to show you Triple Mazinger's power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 303,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 304,
+   "en": "Ta-daaa! Here I gooo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 305,
+   "en": "This ends it! Now, Boss!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 306,
+   "en": "This'll finish it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 307,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 308,
+   "en": "Here I go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 309,
+   "en": "I'm counting on you, Koji!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 310,
+   "en": "Here goes! One, two...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 311,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 312,
+   "en": "Koji, keep in step!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 313,
+   "en": "Koji, Tetsuya! Don't fall behind, okay!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 314,
+   "en": "I know! Who do you think I am!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 315,
+   "en": "Roar, Iron Fist! Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 316,
+   "en": "Here we go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 317,
+   "en": "Ready whenever you are!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 318,
+   "en": "Let's slam it home!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 319,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 320,
+   "en": "Boss, you sure you're up for this!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 321,
+   "en": "Kabuto, leave it to yours truly!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 322,
+   "en": "All right, now!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 323,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 324,
+   "en": "Let's go, Koji!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 325,
+   "en": "Sayaka, Mazinger Blade!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 326,
+   "en": "Here I go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 327,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 328,
+   "en": "Duke! Tetsuya! Let's goooo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 329,
+   "en": "Yeah, let's do it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 330,
+   "en": "Take this!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 331,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 332,
+   "en": "Jun, sync up with me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 333,
+   "en": "Here we go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 334,
+   "en": "All right, now!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 335,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 336,
+   "en": "Maria, don't fall behind!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 337,
+   "en": "Got it, Koji!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 338,
+   "en": "Let's go, everyone!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 339,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 340,
+   "en": "Maria! Keep up with Double Mazinger!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 341,
+   "en": "Ta-daaa! Here I gooo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 342,
+   "en": "Take this! I'm gonna slice you up!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 343,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 344,
+   "en": "It's not the usual lineup, but don't miss!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 345,
+   "en": "Got it, Koji!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 346,
+   "en": "Here I go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 347,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 348,
+   "en": "Tetsuya! You ready!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 349,
+   "en": "I'm a combat pro, remember? I won't miss!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 350,
+   "en": "Okaaay, here we gooo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 351,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 352,
+   "en": "Triple Mazinger's gonna carve you up!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 353,
+   "en": "Leave it to me, Koji!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 354,
+   "en": "Here we go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 355,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 356,
+   "en": "Ta-daaa! Here I gooo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 357,
+   "en": "Let's finish this in one go, Daisuke!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 358,
+   "en": "Yeah, let's do it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 359,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 360,
+   "en": "Triple Mazinger's gonna carve you up!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 361,
+   "en": "All right, now!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 362,
+   "en": "Haaah!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 363,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 364,
+   "en": "Koji, Tetsuya, follow me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 365,
+   "en": "Koji! Don't rush it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 366,
+   "en": "This'll finish it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 367,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 368,
+   "en": "Here we go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 369,
+   "en": "Let's finish this in one go, Daisuke!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 370,
+   "en": "Yeah, let's do it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 371,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 372,
+   "en": "We all strike together!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 373,
+   "en": "Let's finish this in one go, Daisuke!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 374,
+   "en": "Understood!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 375,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 376,
+   "en": "Maria, let's hit 'em with our swords together!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 377,
+   "en": "Got it, Koji!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 378,
+   "en": "Ta-daaa! Here I gooo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 379,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 380,
+   "en": "Maria! Draw the Harken!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 381,
+   "en": "OK, leave it to me, Koji!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 382,
+   "en": "Here I go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 383,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 384,
+   "en": "Koji! Tetsuya! I'm counting on you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 385,
+   "en": "Let's go, Tetsuya!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 386,
+   "en": "Koji! Don't fall behind!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 387,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 388,
+   "en": "Triple Mazinger's gonna carve you up!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 389,
+   "en": "I'm counting on you, Koji!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 390,
+   "en": "Here we go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 391,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  }
+ ]
+}

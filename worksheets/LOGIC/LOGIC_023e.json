@@ -1,0 +1,1189 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 574,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "and Blast Dragon destroyed",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Joe!? At this rate...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "I know! But we're almost there! Almost to Earth!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "But it's going to be close. We just took a hit near the engines!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Shaff! Is the Elshank gonna hold together!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "...I don't know... But as Joe said, Earth is right there.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "If we can just make it that far...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Tch, they caught up!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "It's a Sherman!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "They've been closing the distance. This is bad, Joe!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Dammit! Get ready to launch, Mike! Lenny!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Aw, gimme a break!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "I wanted to arrive in one piece, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Quit griping and intercept them!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Hey, Gameran! You can still make atmospheric entry to Earth, right!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Buy us some time! Engine output is dropping!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "...Tch, what a mess.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "At times like this... if only Ilbora were here...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Princess Romina! Forget about that traitor!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "We've got no choice but to do this ourselves now!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Joe, you bastard!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "You don't know how Lord Ilbora, our guard captain, felt leaving us...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Shut up!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "I don't wanna understand some guy who ditches his princess and runs!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Isn't there anything you can do!? Joe, Mike, Lenny.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "We're so close to landing on Earth... Joe! What are we gonna do!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "If we try to force a descent... we'll be sitting ducks! Big Bro!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Argh! Don't all talk at once! I know we're in trouble!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Joe, atmospheric entry in three minutes! Before then...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "If you can't handle it, we're leaving you behind!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "I said quit yappin'! ...Tch, so there's a time limit!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "No helping it... guess we gotta do it! Mike! Lenny!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "So we take down the Sherman in one go, then.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "So it's brute force in the end. Aw, man.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Quit whining, Mike!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "We can't let these guys get into Earth, can we!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "...Grrr... is this it? To think I'd miss my window to descend to Earth...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "It's taking evasive action...? Don't tell me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "He who fights and runs away... and all that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "You've done well... but remember this: once they're dealt with, you're next!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "What!? Another new model we've never seen!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "It hasn't reached Earth yet...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "That battleship!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "From Earth? Then isn't that a ship Hazard sent after us!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Bringing down the big ones is Grendizer's job. I'm launching!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Launching!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "This time we stop it for sure, Lieutenant!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Oh? They're fighting...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Are they opposing forces...? No, that red robot is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "...A mech of the Za Boom Army, the one attacking Mars.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Then they're descending to Earth too!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "What's up, Captain Bright?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "You're not yelling at us to launch like you always do.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "We can't exactly not go out, can we?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Right. We know the Za Boom Army is our enemy, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "What on earth is that paper-crane-like battleship...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "...We can't just sit on our hands like this. What about communications?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "They're jamming us. We've been trying for a while now, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "We'll have to go out. If they shoot, they're enemies, right, Captain?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Not a rational way to tell friend from foe, but it'll do... Let's go.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "They're sending out all kinds of stuff too! What do we do, Big Bro!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Hold your fire for now! I don't wanna hurt any Earthlings!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Joe! Don't be so soft! Anyone who shoots at us is an enemy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "No, Gameran... I don't want to harm the people of Earth if I can help it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Somehow, we must get through this.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Hmm, if only something would give us an opening.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "An energy reading...!? More of them!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "This reading...! Joe!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "What!? Where did that come from!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "This is... terrifying mobility... Can we even lock on to it...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "I knew it, that's...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Princess, could this be...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Yeah, looks like I can time the descent now... Tobikage!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Princess! We're entering the atmosphere! Please take your seat!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "That battleship... It's moving!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Oh no! We're still nowhere near close enough...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Joe, Mike, Lenny! Please return to the Elshank!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "We're out of time...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Leave them be, Princess! Your seat belt!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Don't leave us! ...All right! We're heading back, Mike, Lenny!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Whew! I thought we were done for!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Thanks, Tobikage!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Unbelievable... We failed to stop them again...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "But... neither they nor that small robot that showed up afterward...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "...ever attacked us, did they?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Seems like there's a story there, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "...Lieutenant, looks like this isn't the time to think about it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Excellen's right. It seems... we're the target this time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "I'll contact the Gandor unit on the ground!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "All pilots in the field, sweep this sector clean!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "We can't let any more of these unknown forces descend to Earth...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Hmm... So this is Mia Alice's homeland... Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "I see... A beautiful blue planet. ...But...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "What!? More robots we've never seen...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "What on earth is happening in the Earth Sphere!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "No, Daisuke, look closely!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Some of those are robots from that Gyandlar bunch we fought before!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Is that their new model!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Hoho... So this must be the planet's defense force.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Heh heh heh... Crushing them to get things rolling might be amusing...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Boss Gil Berg, word is you oughta be careful of those guys...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "...That's what Devil Saturn No. 1 said, anyway.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Hah! Don't lump me in with the likes of them. ...Right, begin the attack!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "I'll give them a good taste of the terror of the Bunker!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "The Bunker? Captain, did you record that transmission?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Yes... It's not a name I've heard.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "But... they're clearly working with that last organization.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Either way, it's creepy. Brother, what do we do?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "We have to fight... We can't let the surface fall into any more chaos...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Here they come!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Not bad, but... you're still powerless!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Did you think numbers that small could make any difference!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Ngh, there's so many...! They're overpowering us!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "At this rate, we'll be worn down...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "...Is this... kinda bad?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Heh heh heh...! At this rate, Earth's forces are nothing special!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Perhaps I'll descend at once and run wild until Mia Alice arrives...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Heh heh heh, haaah ha ha ha!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Doing as he pleases...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "I won't let you...! Not my... second home...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Home? Heh heh heh,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "savor your own powerlessness as you watch that home of yours perish...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Kenrou!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Wow! If it isn't our hero making another grand entrance!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Sticking your neck in again, Rom?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "...Well, I don't plan on leaving scum like this alone either.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "No kidding. This planet's got it rough, though. Things are getting crazy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Drill, save the chatter for later! Everyone!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Let's join forces and do our best!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "I'm grateful, certainly... but somehow...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "...The vibe, right? Still, they're reliable!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Rom... was it? Sorry, but please lend us your strength again!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "That is why I have come once more. ...Here I go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Insolent fool! I'll teach you a lesson!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "...Grrr... is this it? To think I'd miss my window to descend to Earth...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "It's taking evasive action...? Don't tell me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "He who fights and runs away... and all that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "You've done well... but remember this: once they're dealt with, you're next!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Brother! We have to go after him!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "That's right, Rom! If they're in cahoots with the Gyandlar...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "...No, we mustn't pursue too far.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "The Bunker... If they truly are those space pirates...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "...this won't be easy.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "...Yeah. This could get messier than we imagined...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "The Bunker...? Space pirates...? What are they talking about?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "...They seem to know something, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "For now, let's defeat the remaining enemies. Here we go...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Brother! We have to go after him!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "That's right, Rom! If they're in cahoots with the Gyandlar...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "...No, we mustn't pursue too far.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "The Bunker... If they truly are those space pirates...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "...this won't be easy.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "...Yeah. This could get messier than we imagined...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "The Bunker...? Space pirates...? What are they talking about?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "...They seem to know something, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "For now, let's defeat the remaining enemies. Here we go...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Battle Mastery increased by 1.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "That Za Boom battleship got away from us, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "...the rest seems taken care of. Now... what to do about them...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Looks like you've saved us again. ...Thank you, truly.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Not at all. Even without us... I'm sure you would have been fine.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "That's about right. This planet seems to be in some turmoil, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "if you can't win against this much, I fear for what lies ahead.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Hey, Jet! That's rude, isn't it!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "No, he may be right.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "We haven't even figured out who our many enemies truly are.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "The Captain is right.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "...What do you say? We want as much information as we can get.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "...I'm sorry... but we have a mission of our own. ...Besides...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Master Rom!? Kenrou is...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Hm...! Everyone... we must go.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Let us meet again... someday.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "I'd love to visit sometime, though. Such a pretty planet. ...See you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Later, then!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Jeeeeeeet!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "Here one second, gone the next. His sword was kinda glowing, though...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "Brother, those people really are...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Yes... Not just from what they said... They're definitely not Earthlings.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "I mean, that pointy-headed guy in shades, any way you look at it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "...doesn't look like there's a pilot inside.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Maybe he looks a little like Captain Quattro?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Just the sunglasses.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "That's enough.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "I'll contact Commander Hazuki of the Gandor unit about that battleship.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "We let two battleships descend to Earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "We need to decide our next move quickly. All units, return to base.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "...With these forces, there's little we can do... We must do something.",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

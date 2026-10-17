@@ -1,0 +1,1495 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 674,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. Akito's Aestivalis is destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Phew, we made it here safely, somehow.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "This place is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Hey, old man, you'd better start explaining.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Weren't we hired to save the people on Mars?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Yeah, yeah. This doesn't add up.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Even so, this is a perfectly fine evacuation facility.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "An evacuation facility, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "This has been a Nergal facility for decades.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Nergal's? You guys don't miss a trick.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Our company's laboratory is a kind of shelter,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "so it offers the best odds of survival...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Even though it's surrounded by Tulips on all sides?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Ugh, I'd really like to get out of here soon...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "I-is this really safe? They're right next to us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "There's been no recorded activity for decades.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "In other words, after they first fell here,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "they haven't done anything.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Hey, hey, if you've got business here, hurry up and finish it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Very well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "...Then, shall we begin the Scaparelli Project?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Um... excuse me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "...Yes?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Um, I... I'd like to borrow an Aestivalis.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Akito?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "What for?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "To go see Utopia Colony...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Your hometown...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "There's nothing left there now. It's within the Tulips' territory.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "The only intact colony on Mars is the Mars Frontier Base.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "The Mars Frontier Base... The former Meganoid base?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "We'd have to go a long way east from here to reach that base.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "I know. But... I just want to see it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Akito!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "What the hell!? Tenkawa! What do you think you're doing!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Utopia Colony... My...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Akito!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Oh, dear... Well, shall we head into the facility as well?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "I mean... it's no good. Feels like nobody's been here for months.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Didn't they just run off ages ago?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "And anyway, what were you researching way out in the sticks?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "The Nadesico.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Would you like to see it? The origin of the Nadesico...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "We're in this far already... I'll take a look.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "By all means. Right this way.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "In a run-down place like this?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "They say it was ten years after we settled Mars, so, let's see...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "It would be about thirty years ago that this was discovered...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Boson reaction increasing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "...Whaaat!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "These guys... the Jovian Lizards!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Ahh! Akito! Minato! Back Akito up!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Sorry, once we've landed, it takes a little while to take off.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Aestivalis team! Launch ahead of us!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Yamada, Ryoko, Izumi, Hikaru...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "In other words, all our Aestivalis pilots are inside the facility.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Get them back, quick! Akitooo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "I've got no choice...! My energy supply's bad, but... I can't die!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Dammit, I'm out of energy...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Isn't it ready yeeet!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "It'll take a few more minutes for the phase transition engine to stabilize!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "We're back!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "My, this has gotten quite serious.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Akito's in trouble!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "...Shouldn't you launch quickly?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "You're right!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "...Wait, who is this person?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Allow me to explain.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "I'm Inez Fressange. After this facility...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Tenkawa looks like he's about to die, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Eek! Please launch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "All right! Here I go... Huh, what's that!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Huh!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Unidentified flying object approaching. It's on visual.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Well, well, kicking up a fuss in a place like this, are we?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Wh-what's that!? It's huge!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "That's... Daitarn 3!? Why is it here!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "I've never heard of it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Allow me to explain. Daitarn 3...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "A super robot that fought in the Meganoid rebellion in the last war.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "It stands a full 120 meters tall and weighs 800 tons...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Its body of special Da steel is said to be a byproduct of Meganoid R&D...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Much obliged for the introduction. And you're the Federation...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Or should I say Nergal Heavy Industries' private army?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "No, no, we're with the Scaparelli Project...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Well, let's leave it at that for now. You there, can you move?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Huh? Oh, more or less...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Looks like he's on our side... Anyway, Aestivalis team, launch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Hey, wasn't Daitarn 3...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Yes, after the Meganoid rebellion ended.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "At any rate, Yamada, you'll miss your chance to shine.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "It's Daigoji! All right, here I go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "(Banjo Haran... and an invincible steel man that was meant to be scrapped...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "I wonder just how much he knows...)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Everyone!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Looks like the whole cast is here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Hey, hey, do the line! For the good of the world and its people!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Oh, am I a celebrity too?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "...Daitarn 3 shall crush the Jovian Lizards' ambitions!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "If you don't fear the brilliance of this rising sun...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Then come and get me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Whoo! That's the famous Banjo Haran!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Dancougar and Getter Robo on Earth, and now this! I'm on a roll!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "They seem... rather excited.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Hey, hey, what's going on?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Well... it's good for morale, I suppose...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "(The Federation's bigwigs I can handle somehow...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "But super robots, and Captain Bright Noa from the Federation...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "How long can I keep up this act...?)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "That was so cool! Right, Yamada? Come on, Akito, you too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Shouldn't we deal with this situation first!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "...Idiot.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Huh!? Ah! These guys!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "At Satsuki Midori 2...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Yeah. They're the little guys who suddenly attacked us!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Ho ho, a full house of guests, I see.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "This is no time to be so laid-back!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Huh!? Whaa!? An enemy attack!? Ruri!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "There was nothing on radar.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "...They may have approached from underground.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Most likely the Za Boom Army.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Kaboom?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Aliens from another star system that recently appeared on Mars.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "They've attacked Earth too... And of all people, it's us this time.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "I guess they won't stay quiet with us rampaging on their turf.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "...But that's no reason to back down. ...Besides...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "...There's no mistaking it...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "The Mars Frontier Base was built on an old Meganoid base.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "So either the Za Boom Army seized it, or...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Still, doesn't look like we have time to think about it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Fair enough. Then let's get going!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Is that all right with you, famous Banjo Haran!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Sure. There are things I need to confirm, after all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "More enemy signals.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "What the hell!? One after another!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "This reading...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Ruri?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "It's a Meganoid.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Huh!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "I knew it... It's you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "It's huge! What is this robot... no, a giant!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Th-the chest is huge too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Naturally... It's over 100 meters tall.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "About the same as Daitarn 3.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "It's been a while, Banjo Haran. ...Have you been well?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Spare me the words you don't mean, Koros.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "So... you're still alive.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Just like your Daitarn 3, Banjo.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "So we... were both thinking the same thing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Hey, what's going on?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Looks like they've got history.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "...If I remember right, Daitarn 3 is what smashed the Meganoids.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "No wonder they're both on edge...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Koros... Seeing you in good health, he must be too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "See for yourself, Banjo. ...If you can, that is.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Fine. I'll do just that...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "With numbers like that... you're doing well, Banjo.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Have you grown old since I last saw you, Koros?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "When I crushed your base, I had only Daitarn.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Now I have all this firepower. How could I possibly lose?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "...I see. But I've grown more thoughtful too. ...Like so.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Dammit! From over there!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "...The radar should be set to pick up enemies underground too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "We can hardly draft a proposal assuming absurd robots",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "that roam freely underground. Still...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "It'd be bad if the facility got destroyed now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "Aestivalis team, defend the Nergal facility!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Koros...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "What's wrong, Banjo? Surely you'll allow me this much.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "No... I was just wondering why Za Boom Army robots appeared",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "at your signal.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Who can say, Banjo? Why not ask the Martian wind?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Wh-what's that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Unidentified... An entirely new faction.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Mind if we cut in?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "All right!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Geez, Brother, what do you think we came to Mars for!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "Who are you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "For now, I can only say we're passersby.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Meeting here must be fate. Allow us to lend a hand.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "Whoa, whoa, what's this!? We're the ones who'll wrap this up in style!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "Gai, knock it off! They seem to be on our side.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "I don't know who you are... but if you oppose me, I'll face you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Then so be it... For justice means always opposing vile evil.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "Whoa! A real champion of justice! I'm fired up!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "Justice... Who is this guy...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "Impressive, Banjo... And you humans as well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "Koros...! I'll settle this with you once again!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Once again? ...Banjo, nothing was settled back then.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "Those words are hardly appropriate.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "That confidence... So Don Zauser is also...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "...You're free to think what you like, Banjo.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "Wait! Koros!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "The big lady has left radar range. Incredible speed.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "If she's still that lively... was she not even trying?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "Why did she attack us...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "I can tell, judging by your connection to her. ...Banjo Haran.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "Seems there's a story here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "Don't pry, Jet. ...Neither of us should intrude.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "Brother, the remaining enemies.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "Right. There may be more hiding besides the ones we can see.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "Sorry for the wait! Phase transition engine's good to go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "...Search complete. Looks like we're safe now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "Well, that was a surprise. In any case...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "Thank you so much! Banjo Haran, and also... um...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "Don't mind us. Let's go, everyone.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "Could you at least tell us your name?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "...My name is Rom Stol.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "(I thought he'd say \"I have no name to give!\" or something.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "This is my sister, Leina.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "Nice to meet you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "I'm Blue Jet. This pointy-headed clown here is Rod Drill.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "Who're you calling a clown!? Right, Jim?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "Now, now, Drill.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "...I am Jim. Triple Jim, Lady Leina's attendant.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "Why did you all come to Mars?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "I had something to look into.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "...Lately, something seems off about the Mars Frontier Base...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "That Meganoid... came from the Mars Frontier Base!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "Could be... After all, the Development Base...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "Yes, it's where Don Zauser, the Meganoid boss, once had his castle.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "Now, now, why not come in for some tea for now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "No, we feel we shouldn't get involved with the people of this",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "star system... But thank you for the kind thought.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "(This... star system?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "Man, so there's power suits like that! Let me try one on!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "You mean this Power Riser?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "No, no, the one with the pointy head over there.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "A power suit? Us?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "Sorry, but this is our real flesh and blood.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "(Flesh and blood...?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "We'll be going. ...May the Kenrou guide you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "Man, what's with that hero act!? Right, Tenkawa!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "Y-yeah...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "(...Was there really someone inside...?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "Banjo Haran, you are...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "I'd love some tea... but this business means I have to hurry.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "I'll have to decline.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "(I feared this... The Meganoids are back. Reika's team is in danger...!)",
+   "kind": "thought",
+   "keep": false
+  }
+ ]
+}

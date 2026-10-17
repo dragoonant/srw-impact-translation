@@ -1,0 +1,2167 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1726,
+ "strings": [
+  {
+   "id": 0,
+   "en": "...That's how things stand. Do you understand?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "...I understand.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Then we'll take your grandchildren into our care.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Take care of them. Kappei, Uchuta, Keiko, mind Commander Hazuki",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "and work together, you hear?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Leave it to me, Gramps!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "We'll kick Gaizok's butt, and Zeon's and the Mechanical Beasts' too!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Heh, just don't go spinning your wheels.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Cut it out, Uchuta!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "...Any way you look at it... they're just normal kids.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Well, yeah. Being told out of nowhere that your ancestors were aliens...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "is kinda hard to take in.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Maybe the old man has the wrong idea of what \"Spacenoid\" means?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "But he said they came from a star system 47 light-years away,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "hundreds of years ago, didn't he?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Well, the Muge Empire came from outer space too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "And with countless mysterious armies running loose on Earth these days,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "it's no surprise if some aliens got in.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Yeah, yeah. If we get along, what's the difference?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Aliens, huh... I wonder how he's doing, Tetsuya.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "He...? Oh, Daisuke. I hear he's with Londo Bell now...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Huh, there are other aliens besides us?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Is this Daisuke one of them?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Sounds like a Japanese name.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "His real name's Duke Fleed, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "He's the pilot of Grendizer, who came to Earth from planet Fleed.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "To me and Tetsuya, he's like a big brother.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Come to think of it, Daisuke was goin' on about some invasion from Vega.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "What happened with that?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Yeah, now that you mention it. Was it those clay-doll-lookin' things?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "But didn't they call those Gaizok?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "What concerns me are the bug mechs. Kappei, were those Gaizok too?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Hmm, never seen that type before... but I bet they're Gaizok.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Gaizok and the Vega Star Federation... We didn't run into Vega.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Maybe Londo Bell is keeping them in check.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Daisuke's with them, so that's probably it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Daisuke... I hope he's not having a hard time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Heh, no need to worry about space. We're the ones going!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "...I just hope that doesn't become a problem in itself.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Heh, no doubt. Space aside, we've got a mountain of problems on the ground.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "In the end, we spent the whole time fighting Zeon ground forces,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "the Mechanical Beast army, and... Gaizok, was it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "And the Nadesico, that mobile battleship...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "In the middle of this war, it seemed to act on its own, outside the military.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Their captain was pretty cute, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Whoa, that's your type? ...I'd go for someone more homey...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "You're missing the point.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "...We've lost track of them since then. What's going on?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Hmm, there's the Dinosaur Empire survivors too...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "None of our problems are solved.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "And if an alien invasion piles on top of that...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "And Dr. Hell, too. ...What's happening to Earth, seriously?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Hm? Lieutenant Amada...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Oh, no, it's nothing. ...What worries me most is what Zeon is up to.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "I see... That's fine, then.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "(...That custom Gouf that attacked the Cyber Beast Force base...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Was that... hers...?)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Guesswork won't get us anywhere.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Hey, Commander. Can't you confirm what's going on?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "I'm working on it. Yuiry, have you found anything?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "...Minovsky particle density... seems to have thinned considerably.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "We're clear. Opening the channel!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Ho ho ho ho! How utterly unpleasant!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "In space, someone got in my way when I was so close,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "and down here, those brats' robots made a fool of me... Infuriating!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "...tcher...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "And what were those bug-like robots?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "If they'd only shaped up, it would've been so much easier.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Mecha Boosts are the best after all, ho ho ho...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "...Butcher...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "!!!???",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "...Butcher, forget not thy contract...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Eeeyaaah! Th-This is... N-N-No, it can't be...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "...What is this, Butcher...? My command was... destruction...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "I-I-I-I know, sir! There was interference, yes. Interference, and...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "...One who defies my command... bears no light sin...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "F-Forgive me! At once! I'll see to it at once!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "...Because we in Londo Bell couldn't hold them back...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "we let Gaizok descend to Earth. I'm sorry...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "No, it couldn't be helped in this situation, Captain Bright.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "The Elshank, the ship that attacked the Mars Frontier Base,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "is also heading for the surface.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "The base was attacked? What is this Elshank...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Commander Hazard of the Mars Frontier Base said it was a scout",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "for new invaders, the Za Boom Army, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "But...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "It never attacked us,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "and it looked like it was being chased by the Za Boom Army.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Also, the base commander, Hazard Pasha...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "seems to be hiding something.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "I see... the Za Boom Army. We'll stay on guard here too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Still, it's worrying. Mars...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Even though the Jovian Lizards have appeared on Mars,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Commander Hazard said there was no need to worry about Mars...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "I see... Mars's forces can hardly be called sufficient, though...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Perhaps they're lucky that the unmanned Jovian Lizards",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "aren't all that powerful.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Or... is there some reason it'd be bad for us to come to Mars...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Yes. Either way, it needs investigating.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "By the way, how are things on the surface?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Those Jovian Lizards, in fact, appeared in Sasebo.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Sasebo!? Isn't that where...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Yes, where the Nadesico's hangar was.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "The Nadesico... Nergal's mobile battleship, built in secret...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "When we reached Sasebo, the Jovian Lizards were fighting the Nadesico.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "It's hard to believe the Jovian Lizards showed up in Sasebo by chance.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Yes... They were most likely after the Nadesico...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Though it does bother me that a Gaizok battleship appeared",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "after our Gandor Team arrived in Sasebo...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Are you saying the Jovian Lizards were Gaizok machines?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "...The Jin family said they probably were...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "but it's only a possibility. We can't be certain.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "I feel the Jovian Lizards belong to some other organization entirely.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "True, it's dangerous to simply link Gaizok and the Jovian Lizards.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Yes...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Where is the Nadesico now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "The Nadesico got away from us in Sasebo.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "I see... But I can guess where it's headed.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Yes... Most likely to Mars.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "So it's begun? ...The Scaparelli Project...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "And about the Nadesico's captain...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Hm? A transmission...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "So in the end, we don't know a thing about these Jovian Lizards.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Just \"mysterious unmanned weapons of unknown origin.\"",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "There's way too little information.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "What about the possibility it's a new Zeon weapon?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "That's no Zeonic design, any way you look at it, Lieutenant.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "How can you tell?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "...Long story. From way back.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Who cares if it's Zeon or not?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "The name's a joke, anyway.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Right? It says \"Jovian,\" but does that mean anything...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "...When they first appeared on Mars,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "I hear they came endlessly from the direction of Jupiter.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "So they're like a lizard's tail that keeps growing back?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "So that's why they're Jovian Lizards? Kinda simple, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "You know a lot, Nanbu.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "I checked the database here. I only just learned it myself.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Do they have something to do with Gaizok?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Who knows.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "If the Jovian Lizards are alien weapons, it's not out of the question.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "So all we know is the name.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "And we don't know their connection to that battleship, the Nadesico.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "One mystery leads to another, huh? Gimme a break.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "...over. This is Admiral Koichiro Misumaru of the Federation 3rd Fleet.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Please respond.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "A-Admiral Misumaru!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Ohh! Finally got through...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Well, I'm glad you're safe, Commander Hazuki of the Far East Branch.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Where are you now, Admiral?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "We're currently dealing with the enemy in the European theater.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Europe? Weren't you supposed to be at Jaburo?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Ah, I was indeed at Jaburo,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "but an urgent mission brought me here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "I see...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Then you don't know why Jaburo went silent either, Admiral?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "No. I sent a recon unit, but haven't heard back...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "So... some organization really has taken Jaburo?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Indeed. That's why I want the Gandor Team to go to Jaburo.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "...We were thinking of heading to Jaburo ourselves... However...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "with invaders appearing one after another, it's difficult right now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "I'm well aware!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Not right away, perhaps, but only the Gandor Team, our strongest unit,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "could possibly reach Jaburo!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Admiral... So Jaburo really has...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Yes. Not something I like to think about, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Understood. We'll investigate Jaburo.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Good. I'm counting on you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "By the way, Admiral, are you aware that the Nadesico...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Nergal's mobile battleship, has left Sasebo?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Yuuurikaaa! Why, oh why did you leave your daddy behind!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "Captain Bright... the Nadesico's captain is the Admiral's daughter.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "The Admiral's...!? I-I see... So she's the Nadesico's captain...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "That's right! Yurikaaa, please come home!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "A-Admiral...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Hm!? ...Ahem! ...When it comes to my daughter, I lose my composure.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "My apologies. Harrumph.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "N-No, that's just how fathers are...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Isn't it, though!? Bright, my boy, you must cherish your wife and kids...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Um... May we get back on topic? ...Admiral?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Oh, right you are.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "As you all know, the Scaparelli Project is underway.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "And my beloved Yurika is aboard the Nadesico as its captain.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "Nergal's manager said it was all settled with the Federation, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "...To tell the truth, I don't know the details either.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "It seems the heads of the Federation and Nergal",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "worked it out between themselves while I was away.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "I see...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "But what kind of deal with Nergal can't be shared with an admiral...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "Indeed. And with Jaburo as it is, there's no way to confirm it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "...But it's clear the Nadesico is no enemy.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "Meaning...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "Why, Yurika is its captain, after all! Wa ha ha ha ha!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Ugh... Y-Yes, your daughter can be trusted... The problem is Nergal.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "I can't believe the Scaparelli Project's goal",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "stops at simply retaking Mars.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "Hmm. That concerns me as well...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "But for now, the Nadesico is a valuable asset, military or not.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "Yes, that's true.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "What is your view, Admiral Misumaru?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "Should we really let the Nadesico go on to Mars like this?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "Mars's forces are especially thin.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "If the Nadesico goes there, it'll surely help Commander Hazard...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "Admiral. About this Commander Hazard...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "Hazard Pasha, the commander of the Mars Frontier Base...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "Hmm. I see... That is suspicious...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "But if the Nadesico heads to Mars, something is bound to happen.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "Please pass that along to Yurika as well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "Understood, Admiral.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "Then I wish you all the best of luck.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "So we still don't know what's going on at Jaburo...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "Still, it's a relief to hear that Admiral Misumaru and other Federation",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "forces are dealing with enemies around the world.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "Yes. If we can track down the Nadesico, we'll try to make contact.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "Please do. ...We'll arrive at the Space Science Laboratory shortly.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "I'll send either Kabuto or Tsurugi to you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "When things are so bad on the surface too...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "I don't know what to say, making you split your forces like this...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "No, we'll manage here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "In any case, with that many organizations on the move,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "the more strength the better...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "We can't rely on a helper who may or may not show up... Please.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "Still, how intriguing. A hero standing atop your bridge, you say?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "I almost wish we had one here, too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "Nothing makes any sense. ...It's enough to drive me mad.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "Tetsuya Tsurugi and Koji Kabuto, reporting.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "Commander Hazuki, what did you want to talk about?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "Yes. I'm sorry this is so sudden...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "but I need one of you two to go to space.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "Huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "What do you mean, Commander?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "I just spoke with Captain Bright of Londo Bell.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "It seems they're having a very hard fight.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "And we still can't reach Jaburo, Federation HQ.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "So basically, you want us to go back them up.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "And there's the Nadesico to think of. Are they headed for space?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "...Yes. The Federation doesn't have the strength to stop them right now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "...Apparently they broke through.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "That whatever-barrier of theirs looked pretty tough, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "It's a Distortion Field, Koji.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "There's also the matter of pursuing the Nadesico. ...From our next stop,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "the Space Science Laboratory, we'll launch an HLV carrying Dancougar.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "I want one of your teams to go along with them. Understand?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "You mean either me and Jun, Great Mazinger and Venus A, or",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "en": "the Mazinger Z and Dianan A team?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "Yes... And I want you to add Boss and the Boss Borot.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "Huh? Why Boss? The Borot isn't built for space!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "en": "I know. But it's also a valuable unit with a resupply device.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "en": "We can resupply at the various labs and bases...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "en": "but Londo Bell, alone and without support, can't.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "en": "...Got it. I'll tell Boss myself.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "en": "So... what'll it be, Tetsuya? You or me?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "en": "Send Koji to space / Send Tetsuya to space",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 258,
+   "en": "We somehow managed to depart Sasebo, didn't we, Captain?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "en": "Yes! A~ki~to! It's all thanks to you, Akito!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "en": "...I didn't... do anything...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 261,
+   "en": "Don't you forget my heroics, now!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 262,
+   "en": "Dead battery.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 263,
+   "en": "Ugh... That was, uh, me setting up a dramatic crisis!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 264,
+   "en": "You were still in a crisis when the Gandor Team had to rescue you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 265,
+   "en": "That Gandor Team...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 266,
+   "en": "We kinda dumped everything on them... Was that okay?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 267,
+   "en": "They'll be fine. In fact, they're better suited for it than we are.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 268,
+   "en": "They're combat experts who fought through the last war, after all.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 269,
+   "en": "(Hm...? ...Then why were we chosen...?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 270,
+   "en": "So where should the Nadesico head?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 271,
+   "en": "Just as I said before, the Nadesico is heading for Mars!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 272,
+   "en": "But Earth has six defense lines, from the 1st to the 6th,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 273,
+   "en": "and we'll have to break through them from the inside!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 274,
+   "en": "On top of that, invaders like the Vega Star Federation may block our way.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 275,
+   "en": "Fortunately, for now, everything from the 2nd to the final defense line",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 276,
+   "en": "has been neutralized by all the chaos.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 277,
+   "en": "The problem is the 1st defense line... the Big Barrier.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 278,
+   "en": "There are 24 Barrier Satellites in Earth orbit in total...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 279,
+   "en": "Four of them lie on the Nadesico's course.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 280,
+   "en": "If we destroy even one, we can break through there.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 281,
+   "en": "Er, personally, I'd prefer to get through the barrier peacefully,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 282,
+   "en": "without destroying anything, if possible...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 283,
+   "en": "If we break a Barrier Satellite... Nergal will have to pay for it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 284,
+   "en": "Can we get past the Big Barrier without destroying a satellite?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 285,
+   "en": "Hmm... If we enter the defense line's release code,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 286,
+   "en": "it should be fine, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 287,
+   "en": "Is there a problem?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 288,
+   "en": "That release code... I've forgotten which one it was...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 289,
+   "en": "Geez, you're hopeless.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 290,
+   "en": "Well, isn't that fine?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 291,
+   "en": "If we enter the wrong release code,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 292,
+   "en": "we can just destroy a satellite and break through!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 293,
+   "en": "Either way, we'll get through! Yep!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 294,
+   "en": "The Captain is all fired up.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 295,
+   "en": "What worries me is that her confidence",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 296,
+   "en": "doesn't factor in our company's losses at all...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 297,
+   "en": "So what's the release code for the defense line?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 298,
+   "en": "The defense line release code is... I believe...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 299,
+   "en": "Almost at the Space Science Lab, huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 300,
+   "en": "Space, huh.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 301,
+   "en": "If the world were at peace, I'd love to go for a little space walk.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 302,
+   "en": "But... with the surface in this state?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 303,
+   "en": "Leaving it behind to go to space... doesn't sit right with me.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 304,
+   "en": "What're you talking about? ...Space is probably in worse chaos than here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 305,
+   "en": "We'll just do our best down here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 306,
+   "en": "Space... I heard that Nadesico went into space...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 307,
+   "en": "Yeah, why'd we just let 'em go? Those guys were... kinda shady.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 308,
+   "en": "But they said they'll go to Mars. Isn't that good enough?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 309,
+   "en": "Right now, Londo Bell is the only unit in space that's still functioning.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 310,
+   "en": "Even if they're civilians, the more firepower the better...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 311,
+   "en": "Still, can we really trust 'em that easily?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 312,
+   "en": "Seems a little too simple-minded to me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 313,
+   "en": "...If she's really Admiral Misumaru's daughter...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 314,
+   "en": "maybe we can trust them?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 315,
+   "en": "Flashin' a V sign outta nowhere... I almost flew outta the Borot's mouth!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 316,
+   "en": "Hard to say. ...Types like that are tougher than they look.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 317,
+   "en": "...And since they don't read the room, they're hard to predict.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 318,
+   "en": "Oh? You seem to know a lot.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 319,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 320,
+   "en": "Yeah. I'd say that captain is quite the character.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 321,
+   "en": "And... the man the Commander was talking to, Nergal's manager...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 322,
+   "en": "he bothers me too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 323,
+   "en": "The fall of Jaburo, the Federation's stronghold...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 324,
+   "en": "and the Nadesico launching because they saw it coming... I'd say so.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 325,
+   "en": "What're they plotting... Something's going on where we can't see it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 326,
+   "en": "Agreed. ...But what?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 327,
+   "en": "Well, no use worryin'. Leave the surface to the great me and...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 328,
+   "en": "Oh, there you are.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 329,
+   "en": "Boss, they want you to go to space with the Cyber Beast Force.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 330,
+   "en": "Whaaa!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 331,
+   "en": "You're fighting with Londo Bell, along with me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 332,
+   "en": "Whoa, Kabuto, what's this about?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 333,
+   "en": "Commander Hazuki told me.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 334,
+   "en": "They're splitting the Mazinger team in two, sending half to help Londo Bell.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 335,
+   "en": "Good to have you with us, Fujiwara.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 336,
+   "en": "Heh heh, I get it, Koji.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 337,
+   "en": "They just can't do without the power of me and my Boss Borot!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 338,
+   "en": "...Uh, w-well, yeah, something like that, Boss.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 339,
+   "en": "Hey, Koji...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 340,
+   "en": "Shh, it's fine.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 341,
+   "en": "All righty, then! I'm gonna give it my all~!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 342,
+   "en": "Koji, we'd better get ready, then.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 343,
+   "en": "Right. Space, huh... Heh, I'm getting excited!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 344,
+   "en": "You're coming with us to Londo Bell.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 345,
+   "en": "Huh? What's that supposed to mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 346,
+   "en": "Orders from Commander Hazuki.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 347,
+   "en": "The Mazinger team splits in two, and half goes to back up Londo Bell.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 348,
+   "en": "After talking it over with Koji, Jun and I will go to space. And Boss...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 349,
+   "en": "you're coming too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 350,
+   "en": "Heh heh, I get it, Tetsuya.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 351,
+   "en": "They just can't do without the power of me and my Boss Borot!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 352,
+   "en": "Don't be so carefree.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 353,
+   "en": "Great's firepower, Venus's support, the Borot's resupply device...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 354,
+   "en": "Everyone has a role. Stay sharp!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 355,
+   "en": "What the heck!? The Borot ain't just a lump of resupply gear!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 356,
+   "en": "You're so harsh, Tetsuya. You could at least have told him he's right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 357,
+   "en": "Tetsuya's no good at that sort of thing. He's clumsy that way.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 358,
+   "en": "...Jun.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 359,
+   "en": "Okay, okay, I'm sorry. Come on, let's get ready, Tetsuya, Boss.",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

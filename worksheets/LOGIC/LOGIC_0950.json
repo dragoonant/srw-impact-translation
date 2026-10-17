@@ -1,0 +1,319 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 2384,
+ "strings": [
+  {
+   "id": 0,
+   "en": "",
+   "kind": "dialogue",
+   "keep": true
+  },
+  {
+   "id": 1,
+   "en": "Wh-What...!? What is this place...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "The scenery suddenly changed!? And these red, stone-like things...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "...A Stone Circle...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "You're right.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "It looks like... the one that surrounded the Saotome Laboratory...!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "...Yeah. If that thing had kept growing, it'd look like this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "They remade it...!? Turned the Muge universe... into their own!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Good grief...! We defeated Muge Zorbados, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "we need to find some way out of this space...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "...N-No... Captain...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Excellen!? What's wrong...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Excellen...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "...We have to... go now... Captain...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Or it'll be too late...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "What do you mean? What's in this universe!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "It looks like Excellen is sensing something.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Is there still more, even at this point...!? Hey, pull yourself together!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "The universe... will spread... And then...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "What are you talking about!? Hey, lady!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "They're... making their move, aren't they!? Excellen!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "...Let us go, Captain Bright.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Princess Romina, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "The Elshank is fine. Shaff, what about everyone's units?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "The maintenance crew reports our remaining supplies will be plenty.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "The work will be finished shortly.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "How about the Nadesico?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "This is the Nadesico. Mr. Uribatake?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Uribatake here, on deck.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Figured this might happen, so I saved enough gear for one more fight!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "But this is the last of it, got it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Erina,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "how many of the stones the Nadesico uses to move through space remain?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "You mean CCs. ...We're out.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "If at all possible, we should travel normally...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "...Erina, how many remain?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "F-Fine, I get it! Enough for one more jump! Ahh, my precious CCs...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Scary. ...She's really fired up.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "What's gotten into Princess Romina?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "...I think it's the right choice, Princess Romina. I have a really bad feeling...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "You think so?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Geez! Koji, you're so dense!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "If we miss this chance... it might be too late!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Captain Bright... what will you do?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "It doesn't look like we have time to deliberate, Captain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "...All right. Londo Bell will now",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "enter the other dimension, likely created by the Einst.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "...There's no telling what will happen. Stay sharp.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "...I pray this will be the last battle to protect the galaxy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "...Alchemie...",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

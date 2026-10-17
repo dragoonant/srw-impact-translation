@@ -1,0 +1,1063 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 816,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "What the heck? We came inside, but there's nobody here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Was this place really attacked?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "What are you talking about? We barged right in,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "and the garrison hasn't come out, has it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Then the garrison troops are...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "There might be survivors. We have to find them, fast...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Wait, Akito! Ruri's scanning for readings inside right now...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Should've checked before we went in.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "It may not be active now, but the Gate of Zedan is a space fortress.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Jammers were blocking scans from the outside.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "A jammer... to jam us up?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "No, that's not it... \"Jam\" is English for radio interference.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Captain, the anti-scan systems seem to be active inside, too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "It'll take a little more time.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "What a drag. Wouldn't it be faster to check it out in the Aestivalis?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Yeah, yeah! Whoever attacked this place ran off when we showed up!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "That's rather optimistic... We should make sure the area is secure first.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "If we're surrounded inside the fortress, we're in for a hard fight.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Sure, but... isn't finding survivors more important?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Yurika, give me permission to sortie!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Akito... All right. Aestivalis team, launch and search for survivors!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Captain, the area scan is complete. We're completely surrounded.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Oh? Really? Then Akito's team should hurry and... Wait, what!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Many unregistered robot weapons. They seem to be in attack formation.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Wh-What the!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "What's going on!? Yurika!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Bah! I figured anyone careless enough to wander right inside",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "would be easy prey...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "but deploying your forces at once like that... You're quite cautious!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "...Ahaha. O-Of course we are!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "But this is perfect. The ones guarding this place",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "were far too weak to satisfy me! Here I come!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "I'll show you the power of Dangel!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Hey, hey... He's getting all worked up by himself.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Just like Yamada!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "No way!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "I'd never spout cheesy villain lines like that!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "True, you don't say villain lines...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Listen, scum... You've had your fun, but now that Gai Daigoji is here,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "you won't get your way! Prepare yourself!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Yep, they're two of a kind...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Fwahahaha! How long can you keep running your mouth?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Bow down before the Great Magma!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "All forces, attack!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Still... they look pretty strong.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "But with such a brutish type in command...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "I'm afraid we can't expect to find any survivors...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Dammit... We came to help... Were we too late!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Retake the Gate of Zedan! Aestivalis team and Nadesico, battle stations!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Even so...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "they seem unlike any of the forces Londo Bell has been fighting...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Though they do seem similar to the Vega Star Federation...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Let's do it first and think later.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Whoa!? My Great Magma!? Impossible... This must be a mistake!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Blast it, curses!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Dammit, you're running away!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "So these are the Earthlings Garuda has been struggling with!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Remember this! Next time, I'll finish off every last one of you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Hah! Don't bother coming back!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Tch... He ran off.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Multiple new readings appearing inside the Gate of Zedan.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "What!? There were more hiding?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "What the hell are those...? They're nothing like the ones that attacked.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "I don't know... They're creepy...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "They don't really feel like robots...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "A different type from the ones we're fighting now...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Actually, I can't even tell if they're machines or living things.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "I don't think we can count on things like that being friendly...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Of course not! Anything shaped like that can't be a hero of justice!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Yeah... For once, I agree with Yamada...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Hm!? ...I see. The Oleana-linked ones Lady Janera spoke of.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Creepy bunch... But if I'm told not to touch them, there's nothing for it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Hmph, how dull.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Enemy reinforcements identified. They're in Londo Bell's battle logs.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Identity unknown. But they will definitely attack.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Akito, did you hear!? Looks like more enemies showed up. Hang in there!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "We'd just about cleared out these robots... and now more unknowns!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Captain, another reading. A ship's broken in from outside the Gate.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Geez, what is it now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "My, my, visitors galore... Oh? What's that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Seems we made it in time... Nadesico, Captain Misumaru! Are you all right!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Captain Bright! ...But how did you get here so fast?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "This operation might turn into a fortress assault.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Captain Bright decided we should back up your ship early on.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "As expected, Londo Bell's commander is very considerate.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "That type is a hit with women his age.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Is that so... I'd better learn from him...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Then again, being too uptight is a turnoff.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "That's a harsh opinion. ...Hm, that enemy...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "...Not... yet...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "(Ugh... I can hear it again... Doesn't sound like a whisper of love, though...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Those guys again? I'm sick of them... Huh, Mia?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "That enemy's different from the others... It feels dangerous...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Get a grip! Danger comes with fighting!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "The ones the Nadesico is fighting seem different from them, though...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Just blow 'em all away! We can think later!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Those things got in here, too!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "I really can't figure that bunch out!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Anyway, let's go back up everyone on the Nadesico!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "All pilots, prepare to launch, on the double!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "All right, hang on! I'll scatter 'em in one go...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Right, you monsters... Now that I'm here, you're done running wild!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Captain, another reading. A ship's broken in from outside the Gate.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Geez, what is it now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "My, my, visitors galore... Oh? What's that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Hm... We're a bit late, but it seems we still made it in time.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Nadesico, Captain Misumaru! Are you all right!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Captain Bright! You came for us!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "We were delayed dealing with another incident first...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "You've done well. We'll back you up at once.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Hmm... He never forgets a kind word, does he?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "That type is a hit with women his age.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Is that so... I'd better learn from him...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Then again, being too uptight is a turnoff.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "That's a harsh opinion. ...Hm, that enemy...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "...Not... yet...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "(Ugh... I can hear it again... Doesn't sound like a whisper of love, though...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Those guys again? I'm sick of them... Huh, Mia?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "I knew it... That enemy's different from the others... It feels dangerous...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Get a grip! Danger comes with fighting!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "They said the ones that attacked here were a type not on record, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Either way, just blow 'em all away! We can think later!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Those things got in here, too!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "I really can't figure that bunch out!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Anyway, let's go back up everyone on the Nadesico!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "All pilots, prepare to launch, on the double!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "All right, hang on! I'll scatter 'em in one go...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Right, you monsters... Now that I'm here, you're done running wild!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "All enemy readings gone.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Looks like we've driven off the enemy occupying the Gate of Zedan.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Finally drove 'em off... Geez... When we got surrounded, I was worried...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "...But the garrison troops...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Don't worry. They evacuated early on in escape pods.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Huh? So they'd already run for it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "So we didn't need to come rushing over at all?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Don't say that... Avoiding a hopeless battle is part of a commander's job.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "I see... Thank goodness... So the damage was light, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Judging from the state of the Gate of Zedan, the ones who attacked",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "weren't after destruction.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "It's safe to say the damage to facilities and personnel was minimal.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "So the operation was a huge success!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "V for victory!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Ahem... Well, yes. You did well, crew of the Nadesico.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Thank you once again.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Not at all. We owe it all to Londo Bell's support.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Still, those weird enemies... You just can't get a handle on 'em, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Yeah... Unlike the ones that attacked here, they don't occupy places,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "and it's not clear they're after Earth, either...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "But it bothers me... I can't read the intent of those later arrivals at all...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "We can't figure out any clear goal at all...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Like Ruri said, their very composition",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "makes them hard to identify...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Not being able to explain them at all... This is a grave matter...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "If the ones occupying the Gate of Zedan weren't out to destroy it,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "they probably meant to use it as a base.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "So they're like the Vega Star Federation... out to invade Earth?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Geez, they just keep coming one after another...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "Is Earth really that interesting a place!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Few civilizations have this much variety in robot tech and energy,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "I'd think.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Still, the enemies just keep multiplying.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "And the Gaizok don't seem to have learned their lesson either.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Tons of enemy forces, all with different aims... What a pain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Hm? What's wrong?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Huh? Oh, it's nothing. Just grown-up stuff.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "(I heard it again... What is it...?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "All right, we head for our next destination.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Roger! Please hurry and recover the Aestivalis team.",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

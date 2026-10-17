@@ -1,0 +1,40 @@
+# Game data never goes in the repo
+*.iso
+*.ISO
+*.7z
+*.bin
+*.BIN
+*.elf
+*.ELF
+*.PSS
+*.pss
+*.IRX
+*.IMG
+*.SEQ
+*.MTI
+*.CNF
+SLPS_*
+DUMMY
+*.tm2
+*.TM2
+*.url
+/Super Robot Taisen*/
+/bios/
+work/
+build/
+extracted/
+
+# Scratch
+__pycache__/
+*.pyc
+.venv/
+
+# Patches and emulator states (release xdelta goes to GitHub Releases, not git)
+*.xdelta
+*.ppf
+*.p2s
+screenshots/
+
+# API keys
+anthropic_key.txt
+*_key.txt

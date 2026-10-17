@@ -1,0 +1,649 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 410,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Hmm... this is the spot. Where we joined Kamille and Captain Amuro...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Around here? Where that Federation transport went missing?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "No doubt about it. ...Hm! What's that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "When we joined up with Captain Amuro and Kamille before,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "there wasn't anything like that here...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "What's going on?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "...Kukuku, waltzing right in...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Isn't that way too obviously suspicious...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "It's awfully blatant, isn't it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "...Don't tell me, a secret ninja base!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Nah, no way.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Why don't you give it up already?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Knock it off, Lenny. You're not Princess Romina.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Well, let's head out for now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Looks like there's a chance we'll find that transport.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "No response on comms!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "All right, we don't know what's in there.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Everyone, be careful as you investigate that mountain base!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "No reaction, it seems.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "...I've got a bad feeling, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Hmm, I wonder.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Wh-What is this...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "A Meganoid machine...! So the one behind these disappearances is...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Ufufu... Hyaahahaha! Another state-of-the-art mech for me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "My collection must grow richer by the day!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "A Megaborg, just as I thought...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Now this is a big catch,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "the Gandor Team that Mylene was talking about!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "So he wasn't lying in wait for us...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Kukuku, oh, that dragon-shaped battleship is nice too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "And there's more, so many more... Fufufu, beautiful.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "How lowly humans can build such things is a total mystery.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "...And who was it that built you...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "What's that? I see, so you're...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "You scoundrel, hoarding the latest mechs just to sate your greed,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "If you don't fear the brilliance of the sun... come and get me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Daitarn 3... b-beautiful...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Hey, Banjo! I don't think he's listening!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "B-Beautifuuul! This is the pinnacle of mechanical beauty!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "I want it! I must have it! Come on, Soldiers, get him!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Capture it without a scratch!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "What a joke! Then feast your eyes on Mazinger Z's beauty too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Heh, interesting...! Let's show him Great's beauty and strength!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Bah! Useless Soldiers! Then from my collection...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "That's... a Zeon mobile suit!? But why!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "And a Gaizok one too...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Behold my heavy-firepower series!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Go! My Benmel Collection!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "There's plenty more in my collection! Next up is this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Aura Battlers!? How did he get those...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "And those belong to the Titans!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "I nabbed those fellows who suddenly showed up the other day!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Such beautiful forms!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Heh, Aura Battlers ain't about looks, it's skill... Watch this...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Show yourself, Meganoid Commander!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "No need to rush, that was my plan! Banjo, prepare yourself!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Tobikage!? Now that's a welcome sight!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Tobikage!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Insolent! A single reinforcement won't... Wuooooh!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Huh!? Did Tobikage already attack?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Hey, hey... don't tell me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Wh-What is this! Incredible! Softness and strength, wabi and sabi,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "united in perfect Oriental magic!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "A Japanese ninja robot! It must join my collection, no matter what!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Tobikage!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Insolent! A single reinforcement won't... Wuooooh!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Huh!? Did Tobikage already attack?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Hey, hey... don't tell me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Wh-What is this! Incredible! Softness and strength, wabi and sabi,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "united in perfect Oriental magic!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "A Japanese ninja robot! It must join my collection, no matter what!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "That bastard... Tobikage! Get him!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Grr! Mmm, it's so rare I hated to bring it out... Bah!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "What's that!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "An old-model mobile suit...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "RX-78-3, the G-3 Gundam...! That's in his collection too... and",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "A Zaku S-type! I-I want to pilot it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Hyaahahaha! It's been heavily modified!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Taste the power of rare One Year War relics!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "That Gundam... I wonder if we could get our hands on it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "The Gundam, Colonel Char's Zaku... Wreck just the generators...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "I see! I like it. I don't know if it'll work, though...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Nuooh, I underestimated you...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "But Banjo Haran, don't think this is over...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "I don't intend to let it end either...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "You Meganoids... I'll crush every last one of you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Don't you forget it...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Silence! I'll have my revenge! For my collection, too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "What on earth was that Meganoid all about?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "That was quite a commotion.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Man, I'm beat.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "What a commotion that was, Tetsuya.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "He threw me off my game the whole time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "First the Teleport Machine incident, and now this Benmel...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "The Meganoids have grown quite active of late, Master Banjo.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "They never learn, still talking about making humanity Meganoids...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Banjo... are you okay?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Yeah. He was a clown... but that's not the point.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "The Meganoids... are definitely making a comeback...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Still no change in the situation... huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "No use worrying, Commander. Let's recover the stolen supplies.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "You're right. All right, everyone, enter the base",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "and get to work recovering the stolen supplies.",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

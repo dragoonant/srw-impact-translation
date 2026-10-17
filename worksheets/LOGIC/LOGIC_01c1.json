@@ -1,0 +1,601 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 449,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Who'd have thought I'd end up coming all this way.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Operation Stardust foiled, the Apsaras Project scrapped...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Perhaps it was unavoidable...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "So this is the Gandor Team? Surrounded, yet still holding out...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Neo Zeon's Earth descent force, huh... Yeah, they look tough.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Nothing but mobile suits I've never seen.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Neo Zeon's... new models?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "They've gathered this many Funnel-equipped units...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Looks like Zeon means business...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Heh, half-baked weapons won't work on this Combattler V!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Let's just smash 'em!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Yeah, yeah! Let 'em have it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Lots of these mobile suits can attack from long range...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "The enemy means to use the terrain and pound us one-sidedly.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "We'll have to get in close and overwhelm them with firepower.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Then that's perfect for the Shining Gundam.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Yeah, we've got no time to dawdle here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "...I'll finish this in one go.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Leave that kind of fight to me! I'll go out with a bang!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "More like that's the only way you know how to fight, Koji.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Heh, it's no different for us. That's the only way we can fight.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Same goes for us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "We can only cut in head-on, after all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "We can repel beams, so this might suit us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "That's right. Getting close is the key...! Let's go, everyone!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "All units, launch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Their mobile suits seem to be mostly old models.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "The question is... what to do about the types I've never seen...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "So, who's first?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "You look happy, Pai.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "You bet! Diving in close to settle it... gets me fired up!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Pai, so manly~!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Hey, you guys! Take this a little more seriously!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Their vibe is just... you know.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Now, now, Tetsuya, they're reliable, so don't be so hard on them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "They seem awfully relaxed... I don't like it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Right, signal the detachment deployed west of Jaburo.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Sir!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "What? No contact with Jerid Messa's group!? What's... could it be!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Huh? What? The enemy seems kinda rattled...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "What's going on? Can you tell, Cham?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "...Maybe they tried to contact the mixed Titans unit on the other side.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "This area is full of high-density Minovsky particles.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Communicating with each other should be difficult...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Good call, going around to that side first.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "They meant to send reinforcements... but we crushed them first.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Then now's our chance, while the enemy's rattled.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "It seems... the Titans remnants were not up to the task.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "But... no, very well. It's about time anyway...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Let's hit them!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "I'll return to Lady Haman. I leave the rest to you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Hey! Wait a minute!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "What a letdown.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "What? He ran!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Right after we got all fired up, too. How awful.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Be glad their forces are smaller... Stay sharp to the very end!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Ngh, they still had more allies...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Looks that way... Tch, what a pain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Mobile suits? But those are... Titans mobile suits...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Hambrabi...! Amuro, no doubt about it! From the Gryps Conflict...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Reinforcements from the Titans up north, huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Kukuku...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "This feeling... Yazan Gable!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "The Gandor Team... my first real challenge in a while.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Let's have some fun.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "You've come. With high-mobility units, our forces will be complete.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Now, we wipe out the Gandor Team, then go on to take Jaburo!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Sounds like he's talking pretty big, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Bring it on! I'll show you battle's about quality, not numbers...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Pai's right! Let's do this, everyone!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Yes!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Let's get 'em!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Plenty of spirit, at least... Commence the attack!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Damn... I can't fall in a place like this...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "I still have things I must do...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Here he comes! It's that guy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Tobikage... I'm counting on you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "However many times I see it, it reminds me of Gundam Spiegel.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Schwarz, huh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "...Where this robot comes from, and why it appears...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "we'll have to figure that out someday.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "No stiff talk right now, Kyosuke!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "All right, don't let a single unit past!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "We must keep them out of Jaburo, no matter what!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "All riiight! Now I'm getting into the groove.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Phew, finally over. They were pretty tough.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Yeah, always attacking from so far away. So annoying.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "They were a worthy opponent.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Just what you'd expect from Neo Zeon's main force.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "But for them to throw a force this big at us...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "means Zeon must be getting quite desperate.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Now if we can just retake Jaburo...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Yes, it'd give us a big advantage.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "All right, after recovering all units, we head to the next point!",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

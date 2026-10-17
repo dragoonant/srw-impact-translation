@@ -1,0 +1,1513 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1238,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "At last, we've caught up... the Gran Garan and the Goraon...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "The Wil Wiph...! Drake Luft!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Amuro... that's...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Yes... I've seen it before.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "When we were thrown into Byston Well... that's the battleship we fought!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "First time we've fought their battleship... Yurika, are you all right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "No problem! We've got Aura Battleships on our side too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Heh, I'm sick of guys who are nothing but big...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "I'll punch right through that huge body with my Gekigan Punch...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "...It won't go like last time, I'm afraid.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "What, what do you mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "It's rising... their Aura Power...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "You mean they've powered up!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Doesn't look like we can let our guard down...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Drake Luft...! Do you desire not only Byston Well,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "but this surface world as well?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "With no way back to Byston Well, of course I turn to the surface!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Besides... I wish to see. Just how far I can go.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Do you think such selfishness... will be permitted!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "I am in a position where it is permitted.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Oh my, seems he won't listen to a word, huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Tch.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Father!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Hm... Rimuru!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Father! Please, stop this!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "The surface... something terrible is about to happen on the surface!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "It's not for us people of Byston Well to meddle in! Drake!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "...But it was surely someone on the surface who led us to this land.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Someone on the surface...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "I know not their intent. ...But I'd be a fool not to seize this chance.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "...That someone... when we fought in Byston Well before...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "...you mean the mysterious enemy that attacked us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "...The Einst series...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "They made contact several times. It was a young girl, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "...I'm going out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "H-Hey! Kyosuke! All of a sudden... oh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Koji! A young girl... could it be...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "All units, launch! Hurry!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Drake...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Father!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "...Rimuru, perhaps I am a clown.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "But a clown ought to act the clown... and chase a dream.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "You could still withdraw your army, even now!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "That I cannot do...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Why!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "...The power of the Aura Machines... has bound the worlds too closely.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "That's true...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "...Here on the surface... we are beings that must be purged.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Father...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "You understand that much, and yet...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Then why not pull back your troops! We're not monsters!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Just lie low until the fighting on the surface is settled!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "...All units, launch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Tch, he's lost it...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Drake!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Drake Luft!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "I believe I too have eyes to see the world.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "...But a personal grudge... that, I will settle...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "You'd kill your own daughter too!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "That's... not what a father does!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "This is a battlefield. Spare us your petty sentimentality.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Shot Weapon...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Lord Drake resolved to rule the surface after a momentous decision.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "That's a lie! Father...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Wow... this has gotten pretty intense...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Looks like it runs deep...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "I don't care what's going on!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "I won't forgive a guy who'd use his own daughter as a stepping stone!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Shot Weapon... what are you scheming!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Nothing. I merely serve Lord Drake.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "...You're not the kind of man who'd be satisfied with just that...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Musie, those who won't listen must be made to. I'm counting on you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Yes, Lord Shot.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "(Drake, you fool... blabbing about things you needn't...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Forgive me, Rimuru... Commence the attack!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "We have no choice... Let's go...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Ooooh! I... came all this way... only to die here!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "This surge of aura...! Burn! You're...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Ooooooooooh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Show... Show Zama! If only... if only you didn't exist!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "That's got nothing to do with it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "You can't control your hateful aura... You'd be the same without me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "If not for you... I'd have no one to hate! You...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "So the Wil Wiph sinks...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Heh heh... so be it... This too must have been fate.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Drake Luft...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "I still believe there was no mistake in what I sought...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "My one regret... is never learning who it was that used us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Those who used... King Drake...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "...The Einst.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Father!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "...Rimuru, I was a foolish father... but I must tell you this.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "What opened the Aura Road and brought surface folk to Byston Well...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Black Knight...! Burn Bunnings! You've shown up again!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Reinforcements!? They sure keep at it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Hey, that robot... no, a fighter with arms! That's...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "No doubt about it! This aura is...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "You're late, Black Knight!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Yes, sir. Readjusting this Garaba took longer than expected. But...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "I'll hear your excuses later! Do it, Black Knight!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Show, this time my Aura Power will",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Burn Bunnings!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Hold on, Show! Hatred... power against power will destroy you both!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Going Hyper would...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Holy Warrior... I may not have the strength to suppress a Hyper again...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Show, Show!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "I know! But this fight...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Don't rush it, Show!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "That's right, Show! If you give in to anger...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Burn! What have you gained with that rancor!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Power... and cunning! With them, I will win...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "I won't kill a man!! I'll kill that rancor!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Eek! Show! It's happening again! Burn... Burn's machine is...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "I haven't lost yet...! No, I will win! Show Zama!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Burn Bunnings!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "I'll show you that power gained from hatred and rancor achieves nothing!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Holy Warrior!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Lady Elle, that power... I'll sever it here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Burn Bunnings...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "It's not... your fault, Show. He... brought it on himself...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "I know, Cham.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "But just from hating... only that, so much power... That's what scares me.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "The power... of hatred...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Human karma, eh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Big Bro, that Black Knight's obsession... it's just like...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "...Like Ilbora, you mean? Tch, gimme a break...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Hm? What's wrong, Kyosuke? Hey.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "The power of hatred... a power only humans can achieve... I see.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "...This aura is!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "...What is this? No, this aura is...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Ah... ahh... Show...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Cham!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "...They're coming!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Multiple unidentified craft nearby. No boson reaction.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Enemies that appear out of nowhere with no boson reaction... that means...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "That mysterious enemy!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Oh dear... we've only just left the dock,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "and it seems I'll have to budget for another resupply...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "...Excellen...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "There she is! ...But, but... there's a machine I've never seen...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "What!? What is this pressure!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "The enemy has a new model now too... no, wait... that's...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "...It's the Weissritter. No doubt about it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "The Weissritter? Did it look like that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "No way! The shape's way too different!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "(The original form... and an evolved form... The mysterious enemy is...!)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "But why show up in a situation like this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Probably... because it's a situation like this...! Excellen!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Kyosuke, you seem to have grasped something?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "(Most likely...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "...Power... most... terrifying... the root...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "The root...? The root of what!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "What're you doing! Save the thinking for later!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Oh, you'll think later, will you? ...Guess this is no time for jokes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "If it's like before... the enemy's only after us! Stay sharp!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "Honestly, one thing after another... Well, at least we won't get bored.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "...Kyosuke...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Excellen...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "The Tobikage...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "The Tobikage!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "That small machine... it appeared in Byston Well too...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Here it comes, here it comes! Appearing gallantly without a word...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "It's cool in a different way from Rom and the others!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "A little helper arrives. Lend us your strength, Ninja Warrior!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Tobikage! Over here, over here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Hm...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "...That... too... Power... of... Beginning...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Ugh... ah... I... what am I...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Excellen!? Could she... be back to normal!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Kyosuke! Take her back!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Excellen!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "...Kyosuke... I missed you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Excellen... At last, the real you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Thank goodness.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "No time for sappy stuff!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "Hey, no need to put it like that, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Yeah, Tetsuya.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "...I'm saying it's dangerous.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "The pilot may be sane, but the machine is still the enemy's!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Oh, r-right... Get her out, quick!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Ah! Ugh...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "What's wrong!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "...I guess... it's no good... I'm sorry... Kyosuke...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "...I have to... tell you this much... This planet... Earth is...! The beginning...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "No...! Excellen!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "How come? Didn't she come back to her senses?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "It glowed...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "Yeah. When that Weissritter knockoff flew off...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "that jewel-like thing on its chest was glowing.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "That's it. ...Looks like Tetsuya's hunch was right on the mark.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "After all we've been through... Dammit!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "Don't lose heart, Nanbu. ...Excellen seems to have come to her senses.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "Now we just need to deal with that machine. Our chance will come...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "Yes... Next time... Next time for sure...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "Father!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "...So he didn't make it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "Drake... What... What were you trying to say!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "\"The power that led us to Byston Well\"... is what I heard. Did you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "Rimuru... cheer up.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "Cham... Let's just... leave her be for now...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "Everyone... please return to mopping up the enemy. Rimuru... well done...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "Yes...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "Drake's ambitions have come to nothing.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "Once again... you have my deepest thanks, people of the surface...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "Please allow me to thank you as well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "Please raise your head, Queen Sheela.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "We merely fought to protect our own world.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "If anything, we're grateful for your cooperation.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "Quit being so stiff, Hazuki. Who cares? We won, didn't we?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "At times like this, you'd better keep your mouth shut, Shinobu.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "Shinobu can't read the room, you know.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "That's quite a problem, isn't it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "You're the last one who should say that!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "Eh, what's the harm?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "Commander Hazuki had the same sort of exchange with Princess Romina.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "Show?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "...The evil aura... is fading.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "Yes. It's as if it had been trapped inside the Wil Wiph.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "But... I sense another... something far more alien... an aura...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "So the fight... isn't over yet, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "Yeah... We still don't know what the Einst are after, either.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "Those things... keep throwing new ones at us...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "Data analysis complete.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "The machine Excellen was piloting very likely used the Weissritter",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "as its base frame.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "So much of this is hard to explain... How troublesome.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "Anyway... shouldn't we be moving on to our next step?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "Right. Commander Hazuki, have you chosen who's going up to space?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "Yes, that's settled. We need to announce our next moves...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "Queen Sheela, if you'd permit me?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "Yes. All units, return to the Gran Garan.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "...Father...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "Kyosuke.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "en": "Sir.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "I need to talk with you later. All right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "Understood.",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

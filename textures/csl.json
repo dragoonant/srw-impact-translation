@@ -1,0 +1,64 @@
+{
+ "file": "BTL/CSL_PACK.BIN",
+ "note": "Battle console atlas: 25 chunks of 0x40400 bytes (1 KB CSM1 palette + 1024x256 8-bit, linear; the game samples it as a 1024-wide PSMT8 texture). Chunk 0 holds the HP/EN panel; chunks 1-24 hold one series-name banner each in the same place. The badge row, the command labels and the skill/defense labels are repeated in every chunk. Label rects are the game's own sprite records (ELF 0x2C08EC-0x2C0C94). English terms as in the game text.",
+ "font": "ARIALNB.TTF",
+ "badges": {
+  "y": [48, 78],
+  "x": [[0, 28], [32, 62], [64, 93], [96, 126], [128, 158], [160, 190], [192, 222]],
+  "text": ["ATK", "CTR", "DEF", "EVA", "SUP", "DUO", "BTL"]
+ },
+ "plain": [
+  [[712, 72, 808, 96], "Sup. Attack"],
+  [[808, 72, 904, 96], "Sup. Defense"],
+  [[712, 96, 808, 120], "Dual Attack"],
+  [[808, 96, 904, 120], "Combo Attack"],
+  [[712, 120, 824, 144], "Counter"]
+ ],
+ "oval": [
+  [[824, 120, 1008, 144], "Open Get"],
+  [[256, 88, 432, 112], "Critical"],
+  [[256, 112, 368, 136], "Afterimage"],
+  [[256, 136, 408, 160], "Parry"],
+  [[256, 160, 472, 184], "Mach Special"],
+  [[256, 184, 472, 208], "Getter Vision"],
+  [[256, 208, 496, 232], "Shin Mach Special"],
+  [[256, 232, 448, 256], "Aura Barrier"],
+  [[432, 88, 712, 112], "Distortion Block"],
+  [[368, 112, 672, 136], "Distortion Field"],
+  [[408, 136, 688, 160], "God Hand Final"],
+  [[472, 160, 656, 184], "God Shadow"],
+  [[472, 184, 656, 208], "Beam Coat"],
+  [[496, 208, 680, 232], "Shield Defense"],
+  [[448, 232, 632, 256], "I-Field"]
+ ],
+ "banner": {
+  "rect": [262, 4, 858, 60],
+  "source_x": 266,
+  "titles": {
+   "1": "Super Beast Machine God Dancougar",
+   "2": "Machine Robo: Revenge of Cronos",
+   "3": "Dangaioh",
+   "4": "Martian Successor Nadesico",
+   "5": "Ninja Senshi Tobikage",
+   "6": "Mobile Suit Gundam: The 08th MS Team",
+   "7": "Mobile Suit Gundam 0080: War in the Pocket",
+   "8": "Mobile Suit Gundam 0083: Stardust Memory",
+   "9": "Mobile Suit Zeta Gundam",
+   "10": "Mobile Suit Gundam ZZ",
+   "11": "Mobile Suit Gundam: Char's Counterattack",
+   "12": "Mobile Suit Gundam F91",
+   "13": "Mobile Fighter G Gundam",
+   "14": "Aura Battler Dunbine",
+   "15": "Invincible Steel Man Daitarn 3",
+   "16": "Invincible Super Man Zambot 3",
+   "17": "Mazinger Z",
+   "18": "Great Mazinger",
+   "19": "UFO Robo Grendizer",
+   "20": "Getter Robo",
+   "21": "Getter Robo G",
+   "22": "Super Electromagnetic Robo Combattler V",
+   "23": "Brave Raideen",
+   "24": "Banpresto Original"
+  }
+ }
+}

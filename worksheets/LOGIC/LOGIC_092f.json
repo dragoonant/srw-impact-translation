@@ -1,0 +1,1891 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 2351,
+ "strings": [
+  {
+   "id": 0,
+   "en": "",
+   "kind": "dialogue",
+   "keep": true
+  },
+  {
+   "id": 1,
+   "en": "Hm, what's up, Tenkawa? Staring at that guy's robot?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Oh, uh, no reason...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "I'm just glad this thing didn't lose its pilot...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Yeah... But he still hasn't regained consciousness, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "There's no telling if he'll cooperate with us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "It's not about whether he cooperates with us or not...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "I'm just glad a guy who loves Gekiganger that much didn't die...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "I bet this robot feels the same way...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Tenkawa, you're a real poet today, huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Hikaru... you all came here too? How was the bridge?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Nothing much. Akatsuki and that Erina vanished somewhere,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "and Minato's glued to that Gekigan nut's bedside nursing him,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "so it was pretty empty.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Tender care... tenderloin... Heh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Don't worry, Tenkawa.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Shiratori's gonna join us for sure. I guarantee it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Yeah... this thing lost its pilot...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "I wonder what'll happen to it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Yeah... Well, it may have lost its pilot,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "but it's valuable research material. They won't throw it away.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "I see...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "But it had such a good guy as its pilot...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Maybe this thing was happy too...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "...Tenkawa, you're a real poet today, huh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Hikaru... you all came here too? How was the bridge?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Nothing much. Akatsuki and that Erina are still missing,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "and Minato's shut herself up in her room.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Dammit...! We didn't make it in time...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Just a few minutes... that's all it would've taken...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Tenkawa... You're right, man.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "This Gekigan knockoff must've been happy to have Shiratori as its pilot.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Yamada, you sure sound confident.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Damn straight! Him and me...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "...But is it really that simple...? Tenkawa, you were there, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "...Yeah... \"There's only one justice\"... Major Shiratori",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "and the Jovian commander both said the same thing...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "It means justice ain't just one thing. ...Not that I like it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Yeah... that's how it was. That there's as many kinds of justice as people...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "I'd never even thought about it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "...But listen! Anyone who'd shoot his own comrade has no justice!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "We're not the ones in the wrong!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Forget it... Just forget it... Justice and all that...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "No, I won't forget it! Come on, Tenkawa!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "There's something I gotta show you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "H-Hey, wait...! Okay, okay, quit pulling me...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "They're gone...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "What's Yamada planning to show him, anyway...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Isn't it obvious?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "There's only one thing that guy's that crazy about.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Our mission: peace in space and a future for humanity. Our dream!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "We do not seek conflict. Needless killing is truly meaningless.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "But the Earth Federation government, cowards that they are,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "answered us by killing our envoy, Colonel Tsukumo Shiratori!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "But everyone, we must not lose heart! There is only one justice!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "That's right. We will surely defeat the evil Earth!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "So watch over us, everyone! Like in episode 39 of",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "\"Hot-Blooded Robot Gekiganger 3,\" we will fight. Justice always wins!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Now, let us all shout it together! The watchword of justice!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": ".........",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Leeet's... GEKIGA-IIIN!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": ".........",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Captain Bright, we've wiped out the Meganoids,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "and Major Shiratori's treatment is done. How long are we staying here?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Captain Bright, we've wiped out the Meganoids.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Major Shiratori... it didn't end the way we'd hoped, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "how long are we staying here?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Tetsuya, choose your words more carefully...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "The people who went to the Meganoid base only just got back.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Tsurugi has a point... but there's still something here that concerns me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Here... Now that the Meganoids are beaten,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "the problems left on Mars are the ruins they'd occupied, and...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "The Za Boom Army.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "We beat Charm, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Yeah. Unless we take down that bastard Emperor Annex...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "the fight with the Za Boom Army won't be over.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "...You needn't worry about that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Ilbora!? You've woken up!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "...Thank goodness... Ilbora...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "...Princess... Joe, I...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Shut up. ...Around here, even a guy like you",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "won't get turned away. ...So start over, Ilbora.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "He could've said that a lot nicer.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Big Bro never was one for being straightforward.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "...Forgive me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Ilbora, raise your head.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "...What do you mean? What about Annex?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Yes... Annex was caught in the explosion of planet Dirad...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "He's already dead...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Huh!? You bastard, still spouting that garbage at a time like this!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "...If I meant to trap you, I'd tell a better lie than that.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Though I heard this from Hazard.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Why was Emperor Annex in such a place?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "The Emperor left the solar system invasion to me and another officer,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "and meant to return to the Schema system...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "I don't know why he was there... but the Terahertz, Annex's ship,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "was confirmed to have exploded.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Not that there's any way to check, with the Mars base blown sky-high.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "So the Za Boom Army won't attack anymore?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "That was kind of anticlimactic...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "No... The Za Boom Army hasn't been wiped out.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "This star system has merely escaped invasion.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "...Princess Romina, return to the Schema system and planet Radorio...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "No.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Princess Romina...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "We can't abandon Earth's people and go back to the Schema system alone.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Besides, the Elshank is Londo Bell's flagship.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "...This is no longer just our problem, Ilbora...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "...Understood.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Ilbora, we beat Charm, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Yeah. Unless we take down that bastard Emperor Annex...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "the fight with the Za Boom Army won't be over.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "About that... it looks like we don't need to worry.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Hm? Banjo, what do you mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "...What do you mean? What about Emperor Annex?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "...Emperor Annex was caught in the explosion of planet Dirad...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "He's already dead.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "What!? C'mon, Banjo, quit it with the weird jokes, will ya?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Maya, it's no joke...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "We found that information while we were searching the Meganoid base.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Then... why was Emperor Annex in such a place?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "We don't know the details, but it seems the Meganoids got",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "info on the Za Boom from that Ilbora guy. And in that info...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Not that there's any way to check now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "So the Za Boom Army won't attack anymore?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "That was kind of anticlimactic...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "No... The Za Boom Army has not been wiped out.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "This star system has merely escaped invasion.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "...Princess Romina, return to the Schema system and planet Radorio...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "No.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Princess...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "We can't abandon Earth's people and go back to the Schema system alone.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Besides, the Elshank is Londo Bell's flagship.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "...This is no longer just our problem...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "...Understood.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Princess Romina's changed, hasn't she?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Heh, she's gotten pretty radical.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Hard to believe... Can it really be that easy?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "...Believe it or not, we can't confirm it. ...But then our problems on Mars",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "are down to just one...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "The ruins the Meganoids had occupied, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "When the Nadesico went off on its own without us before,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "it was because Nergal wanted to secure those ruins, right, Captain?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "All right, Londo Bell will head for the Mars polar ruins at once.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Contact the Nadesico too!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Captain, emergency transmission from the Nadesico!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "What? Put it through.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Captain Bright! It's terrible. At the polar ruins...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "...Nergal's made its move, I take it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Huh...? Y-Yes, that's right!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Banjo...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "The ex-Nergal people on the Nadesico probably noticed, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "The two who vanished before the last battle...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "The pilot Akatsuki and... there was one more.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Vice-helmsman Erina.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Right, those two.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Those two aren't just ordinary Nergal employees, are they?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Huh...? R-Really?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Former champion skirt-chaser Nagare Akatsuki... Current position...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Huh? Isn't that the same name as Nergal's chairman?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "What're you talking about!? It's the same guy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Ho ho. He seemed to believe he had hidden it well,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "so I refrained from saying anything so tactless.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "R-Really!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "You hadn't noticed? ...Captain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Huh... But why would Mr. Long Hair do something like that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Personally auditing his company's troubled flagship, I suppose.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "I think he just came along for fun.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "A-Anyway, we got word that Nergal troops have deployed at the ruins!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Hey, Bright, those ruins are pretty damn suspicious, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "We ain't gonna just leave 'em alone, are we?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Right. All right, we'll make for the Mars ruins at once.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "All ships, alert stations!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "Why's Mars got so much trouble...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "It might be better than Earth... but I wish peace would come soon.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "Approaching the Mars polar ruins.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Akatsuki, did you really come here...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Transmission from the Kakitsubata... It's Akatsuki!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Hey there, everyone. Quick to arrive, as expected.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Akatsuki... no, Chairman Akatsuki. I'd like you to explain yourself.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Oh, you already figured it out...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "And here I wanted to reveal my true identity in grand style...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Spare us the speech and answer! What's the deal with those ruins?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "What are you after!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "Now, now, don't get so worked up. Nergal discovered those ruins.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "It'd be a waste just to guard them from the Jovian Lizards and the rest.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "...So you plan to keep whatever's inside all to yourself, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "What on earth is in those ruins...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "...It was a coincidence at first. Nergal opened a mine at the Martian pole.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Buried beneath it were enormous ruins.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Prospector? You knew?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "Well, I am a Nergal employee, after all.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "...The ruins have the same composition as the Tulip crystals,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "and what's more, parts of the ruins are still operating even now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "Question. Why does that matter? Is it some amazing weapon or...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "It is merely a system.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "Our research shows that when an object emerges from a Tulip,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "or when a so-called Boson Jump occurs, the system's reaction",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "becomes more active. In other words...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "Ugh... Hayato, I don't get any of this. Explain it simple for me later.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "Sure. For now, just shut up and listen.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "In other words, a Boson Jump control system?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "Exactly! If we unravel that system, we can monopolize",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "the use of biological Boson Jumps...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "If we monopolize the ruins before the Federation or Jupiter get them,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "we'll not only end the war, but in the coming",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "age of Boson Jump exploration, we'll hold humanity's greatest trump card.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "Company this, company that... Climbing the ladder, huh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "What!? You got a problem with that!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "Nah, nah, you're just so great...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "So great, so greeat.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "Get ahead, get ahead... and you might get your head handed to you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "So, I got a little bit of a head start.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "I'm the first one to the ruins, after all.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "No cheating now. Ha ha ha ha!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "...Prepare the Phase Transition Cannon for firing...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "What!? Captain Misumaru!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "Target: the center of the polar ruins!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "Roger.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "Hold it right there!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "Wh-What's the meaning of this, Yurika Misumaru!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "Meaning nothing! It's things like that that start wars!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "Well, that's taking it to extremes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "Wait, Captain Misumaru.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "Those ruins will be a crucial key in our war with the Jovian Alliance!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "We can't let Nergal alone monopolize them...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "Captain Bright, it can't be helped, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "...Very well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "All units, we'll subdue Nergal's forces. Prepare to launch!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "...I figured it'd come to this...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "Can't be helped. Aestivalis team, launch!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "I thought the fighting was finally winding down...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "and now Earthlings are fighting each other again...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "No kidding! I'm gonna tie up that long-haired creep and teach him!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "Their machines probably have Distortion Fields,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "so even if we shoot them down, they'll have a chance to escape...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "but we'll still need to be careful...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "Who cares about that!? Let's all just sortie already!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "Wh-What the!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "This is that thing we saw on the Nadesico...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "Why? What? Nadesico.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "Hello. I'm Inez Fressange.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "Everyone's favorite, Why? What? Nadesico, has reached its finale.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "This time, we'll take an in-depth look at the Boson Jump.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "It's definitely... the show from back then, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "Kyosuke, you've seen it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "Inez...? Why!? From where!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "en": "I've pinpointed the source of the signal.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "Where!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "The lowest level of the ruins, about 14 km down.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "en": "Inside the ruins...? Since when... And how!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "en": "According to John Wheeler and Richard Feynman,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "en": "when we generate a single radio wave, two waves are emitted.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "en": "These are the retarded wave and the advanced wave!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "en": "...Hey, do you get any of this...??",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "en": "Nope... not really... How about you, Mia?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "en": "I don't really get it, but it seems important... What about you, Pai?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 258,
+   "en": "W-Well, my memory's still kinda fuzzy... Ha ha ha!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "en": "A retarded wave travels forward in time. Like the ones TV uses.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "en": "And an advanced wave is one that travels backward in time...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 261,
+   "en": "a wave that goes into the past.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 262,
+   "en": "Normally, the advanced wave is canceled out by the retarded wave.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 263,
+   "en": "Ugh... I-I don't get it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 264,
+   "en": "K-Kosuke...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 265,
+   "en": "Hyoma, be quiet!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 266,
+   "en": "But what if an unknown particle didn't interfere with the retarded wave?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 267,
+   "en": "A particle that doesn't interfere with retarded waves... Incredible...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 268,
+   "en": "But if such a thing existed...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 269,
+   "en": "No way... Matter turned into those particles would go to the past!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 270,
+   "en": "Correct. ...I named that particle the Retrospect.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 271,
+   "en": "If we think it through this way,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 272,
+   "en": "the Boson Jump, which we thought was spatial transport,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 273,
+   "en": "is in fact time travel. Or so we can infer.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 274,
+   "en": "Keiko, I'm kinda getting sleepy...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 275,
+   "en": "I don't really get it either...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 276,
+   "en": "I'm done trying to understand...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 277,
+   "en": "And if that inference is correct,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 278,
+   "en": "then what adjusts the time lag of that brief trip into the past",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 279,
+   "en": "may well be these very ruins.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 280,
+   "en": "If so... like the Nadesico tried to do just now,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 281,
+   "en": "if we destroy these ruins...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 282,
+   "en": "Brother?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 283,
+   "en": "From the present into the past, and then",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 284,
+   "en": "back to the present again: spacetime transfer by Retrospect particles.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 285,
+   "en": "Silently running those calculations... this place is a giant computer...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 286,
+   "en": "If it were gone, Boson Jumps would never be possible again.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 287,
+   "en": "Show, I'm sleepy......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 288,
+   "en": "No, don't sleep, Cham. There might be a battle coming. Stay awake!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 289,
+   "en": "Boson Jump... that's",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 290,
+   "en": "the teleporting the Nadesico and Jovian Lizards do, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 291,
+   "en": "...Point is,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 292,
+   "en": "these ruins are a huge computer for that teleporting, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 293,
+   "en": "Yes. It's the final Why? What? Nadesico, so I went long. But that's it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 294,
+   "en": "Well, proving that theory is one thing,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 295,
+   "en": "but there's one more reason I came here... Akito!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 296,
+   "en": "Huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 297,
+   "en": "Come to the ruins... I have to welcome someone...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 298,
+   "en": "With these ruins, I could call you here even without a CC...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 299,
+   "en": "but that would activate the ruins... So come here, Akito.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 300,
+   "en": "Y-Yes. ...Captain Bright...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 301,
+   "en": "...It can't be helped.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 302,
+   "en": "...It seems Ms. Fressange knows more about the ruins than any of us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 303,
+   "en": "Go, Tenkawa.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 304,
+   "en": "...Understood.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 305,
+   "en": "Inez... she looked... so terribly sad...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 306,
+   "en": "...Utopia Colony, Rainbow Elementary. Grade 1, Class 5, No. 12.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 307,
+   "en": "Favorite person... Mommy... Favorite food, spaghetti...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 308,
+   "en": "Favorite story, Cinderella...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 309,
+   "en": ".........",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 310,
+   "en": "He'll be here soon. ...I've already met him...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 311,
+   "en": "but \"you\" haven't met him yet, have you...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 312,
+   "en": "I... you know, I...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 313,
+   "en": ".........It's all right... ...It's all right, you don't have to cry... ...Welcome home...",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

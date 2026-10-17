@@ -1,0 +1,1039 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1853,
+ "strings": [
+  {
+   "id": 0,
+   "en": "Mia. Where is Garuda...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Yes. To send that hated Combattler V and the Gandor Team to hell,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "he appears to be upgrading his own robot...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "I see. When he returns, then... tell him he's dismissed...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "He is relieved of his post. Garuda is no longer Grand General...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Lady Oleana!? Why would you do that!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Lord Garuda has worked so hard for planet Campbell! And yet...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Failure after failure... It is clear that remaking the Earth",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "is a plan beyond Garuda's abilities.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Besides... look at the monitor.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "The monitor...? Th-This is! Combattler V!? How did they find this place!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "That fool Garuda was followed. The surface remains unconquered...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "and he even revealed my castle's location to the enemy. Unforgivable.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Th-Then Lord Garuda...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "A new commander will soon arrive from planet Campbell.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "That one shall become Grand General.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "(Lord Garuda driven from his post as general... If that happens...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "proud Lord Garuda will surely not go on living...)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Is that understood...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "I have a request, Lady Oleana!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "The Elshank's launch went off safely, too. What a relief.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "After everything that happened, can we really call it safe?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Hey, Show, what are we gonna do now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "The Commander's in contact with Admiral Misumaru right now,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "and depending on that, we may end up storming Jaburo again.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Jaburo's one thing, but I'm worried about Operation Stardust too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "It'll be fine. That's why the Gandor sent some of its forces to space.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Captain Bright... Londo Bell will stop the colony drop.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Hey, hey, come to think of it, what's that Nadesico ship up to now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "I hear it's been operating in space ever since it came out of the Tulip...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Then didn't we not even need to launch the Elshank?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "The military and Nergal may have formed a united front,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "but the Nadesico is Nergal Heavy Industries' private battleship.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "It doesn't really move the way we'd like.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "In an emergency like this, the military lets them do as they please?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "I'd say it's precisely because it's an emergency.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Admiral Misumaru has formed a provisional HQ and leads the military,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "but without Nergal Heavy Industries' help, keeping it going is hard...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "and that includes us in the Gandor Team.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Nergal... What on earth are they thinking?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Admiral, what did you wish to discuss?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Yes. There's something I'd like you in the Gandor Team to do.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Are you aware that a Tulip fell in Russia the other day?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "The Gandor Team has confirmed it as well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "A giant Jovian Lizard weapon emerged from that Tulip...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "A giant weapon...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "We've sent units several times, but every one was wiped out",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "by the enemy's anti-air interception system.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "So Yurika, ahem... the Nadesico headed there, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "we've lost contact with the Nadesico...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "So the Nadesico got shot down by that interception system too?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Ugh, that's just it, we don't know, Hazukiii...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "C-Can't you do something...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Admiral, please pull yourself together.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "I'm just so worried about Yurika, so worried...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "A-Admiral...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Ahem... Sorry. You had to see me in such a sorry state...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "N-Not at all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "The Nadesico has a Distortion Field,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "so I don't believe it would sink so easily, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "So the Gandor Team should go search for the Nadesico, then?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Don't take me for just a doting parent, Hazuki.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Your objective is, first and foremost, to destroy the \"Nanafushi.\"",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Nanafushi?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "That's what we at HQ are calling that giant weapon.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "We can't leave the threat of the Nanafushi's Railgun unchecked.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Understood. The Gandor will now head to Russia",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "to destroy the Nanafushi.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Yes, and while you're at it, please look after Yurika and the others, Hazuki.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Just while you're at it, of course. But do it, no matter what, Hazuki!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Whew... Understood.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "What is this place...? Mother never told me there was a place like this",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "in the underground factory... Wha...! Wh-What is this!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "...Garuda Unit 1... Memory circuit abnormal... Failure. Discard.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Wh... What is this? There are... rows of me...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "...Garuda Unit 2... Personality model distorted... Failure. Discard.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "What is this!? Where on earth have I come!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "...Garuda Unit 3... Emotion circuit, high amplitude... Failure. Discard.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Stop it, STOP IT! Please, stop!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "...Garuda Unit 4... Fusion with them attempted... Failure. Discard.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "This is too cruel, Mother...! Was I... was I a robot you built too!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Given memories and emotions, so that I fully believed",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "I was a Campbellian... a ridiculous mechanical puppet...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "That's what I am! Grand General Garuda!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "...Garuda Unit 5... Fusion successful but short-lived... Failure.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Discard the entire project.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "So destroying that new weapon is our mission this time!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "HQ is calling that new weapon the \"Nanafushi.\"",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Nanafushi...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "It has seven segments, so \"Nanafushi.\"",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "...I can't make sense of the military's naming sense lately.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "With Jaburo gone silent and everything in chaos,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "they go and deploy a huge weapon like that...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "The Federation tried to destroy it three times... All three wiped out...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "How uneconomical...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "So here comes the Nadesico! One Gravity Blast and it's over!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "I see... long-range fire, huh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "What, so there's no chance for me to shine this time!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "If that's how it is, I'll study to become a cook.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Let's watch a Gekiganger disc, Akito!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Geez! Don't slack off just because you're not needed!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "...Well, I guess it's the safe option.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "I approve from an economic standpoint as well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "We won't have to put the Aestivalis in danger, after all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "So roundabout, Megu. What you mean is \"Akito,\" right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Y-Yes, that's right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Ooh, how bold of you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "W-We'll begin the operation at once!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "I've heard the story from Commander Hazard.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "You are Ilbora Saro, yes?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Yes. Then let's be brief. That device... I'd like to borrow it again.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Whether lending it to you would be meaningful for us...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "that is what the Don asks.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "And you already failed once, did you not? When you transferred to Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "This time, it won't just be me going...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "The Gandor Team, whom you find as troublesome as Londo Bell...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "I'll throw them somewhere they'll be easy to dispose of.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "You mean... easy for you to dispose of, do you not?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "...No.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Very well... so says the Don.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "The Commander who used this was indeed defeated in the last war,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "and no one uses it anymore. Very well, we shall lend it to you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Thank you. ...I will surely bring the Gandor Team to ruin.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Such reassuring words, unheard for so long... The Don is most pleased.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Yes...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "(Damn Hazard, why is he tied up with people like these?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "8 minutes 30 seconds until the operation begins.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Energy bypass circuit connected to the Gravity Blast.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Charge up, come out from behind the mountain, and fire the Gravity Blast!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Let's finish it with a bang!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "17,000 to the planned operation point.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Phase transition engine, all systems normal.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Distortion Field output down 13%.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Final safety released.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "1,500 to the planned operation point...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "800 to the planned operation point...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Enemy shot fired.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "???... Did something hit us?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Distortion Field lost.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Damage extends across 18 blocks.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Phase transition engine has stopped!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Huh!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "The Nanafushi must be a gravity wave railgun...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "We've lost steering. We're going down.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Auxiliary engines, full power!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "It's powerful, but generating the micro black hole",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "should take time, so I think we're safe for a while.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Thanks for the valuable input... But what do we do now...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Looks like it's the Aestivalis's turn after all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "That's all. The enemy, code-named Nanafushi, is apparently a weapon",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "with anti-air capability pushed to the limit. In other words...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "This mission will be carried out by ground units only.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "So that's why they called us. Can't be helped.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Don't \"can't be helped\" me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Ground units only means Lenny's Houraiou is on standby, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Bernie and I are sortieing too, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "I heard the Nadesico went ahead to take out the Nanafushi?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "We've lost contact... Most likely they were hit by the enemy's railgun...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Searching for them is also part of your mission.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "So we destroy the Nanafushi and find the Nadesico, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "That's right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Lieutenant Amada will command the operation.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Yes, sir.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "The Gandor will stand by outside the Nanafushi's range.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Contact us as soon as the Nanafushi is destroyed.",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

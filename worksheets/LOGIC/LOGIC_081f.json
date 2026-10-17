@@ -1,0 +1,1699 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 2079,
+ "strings": [
+  {
+   "id": 0,
+   "en": "",
+   "kind": "dialogue",
+   "keep": true
+  },
+  {
+   "id": 1,
+   "en": "I heard from the Dangaioh Team... PLS Black Point...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "It seems a mysterious asteroid has settled there. What's more...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "it clearly intends to attack...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Oops... Looks like he already found out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "And Captain Bright told us not to worry Commander Hazuki, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "I bet Pai let it slip.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Don't blame her... He'd have found out eventually.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "About this plant planet...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "I truly apologize... Commander.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "It's not that I was deliberately hiding it. It's just...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "I understand, Captain Bright. For now, what matters more",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "is figuring out what that plant planet really is... and our countermeasures.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Quite right. I'll transfer the data to you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "There are no major problems so far, but it has certainly",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "attacked our survey team... with humanoid weapons.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "What about the other enemy forces?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Most factions have quieted down, but we can't let our guard down yet.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "We've also confirmed reports of new forces, like the Crossbone Vanguard,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "who champion Cosmo Aristocratism.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "A new enemy force in space, and on the ground, Hyakki and Mykene",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "machines we thought we'd beaten are at Jaburo... It'll stay rough a while.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "No doubt. It's a troublesome situation. Commander Hazuki...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "We'll have to leave the Neo Zeon forces that descended to you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "We're counting on you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Leave it to us. And I pray for your success too, Captain Bright...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Likewise to you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Captain, I've brought them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Thank you, Lieutenant Emma. So you're... Rom Stol...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "I'm surprised. Are you a robot?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "...By your understanding... I suppose so. Call me whatever you like.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "A mechanical body... Doesn't seem like a cyborg, either.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Speaking of cyborgs... those Megaborg guys",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "were originally cyborgs built to colonize Mars, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "But their abilities led them to believe they were a chosen people...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Or rather, perhaps they were given that power to instill that very belief.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "...Only the late Dr. Haran would know.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "...It seems Earth has its own circumstances...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "but we don't concern ourselves with what a body is made of.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Hey, he's on the bridge! Yo, you're Rom Stol, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "And you are?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Huh... You really do have a mechanical body.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Shinobu! What's gotten into you! Sorry, Rom... He's got no manners.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "What, Sara!? I'm just telling the truth!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "You're quite popular, Rom.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "I'm just rare in this star system. Cronos even has Rock Superhumans...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "people with bodies made of stone.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "It doesn't bother me.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "...More importantly, as a martial artist, I'd like a match with you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "...I'm Ryo Shiba. Our leader's a bit unreliable, but",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "I'm a member of the Cyber Beast Force. Good to meet you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "I'm Masato Shikibu. Nice to meet you! ...Another alien, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Don't tease him too much, you lot.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Now... Rom, I'd like to get down to business...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "You said you'd learned Gyandlar's objective?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Yes. They are...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "He really is... a machine.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "I figured he was a human wearing some kind of armored mech.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "There sure are all kinds of people... out in space.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "A mechanical body... Sure, there must be all sorts of life out there, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "It's kind of... amazing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Hey, hey, we're not some kind of sideshow, you know?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "For us, bodies made of organic matter are the unusual ones.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "So we're even, Drill.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "That's right, Koji, Sayaka.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Our bodies are just built similarly, but Maria and I are aliens too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "It's not something to be so surprised by.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "I know, Daisuke.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Yeah, they're reliable allies, and I'm glad they're all good guys.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Though Jet seems to have a bit of a mouth on him.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Hey, hey, don't build me up just to knock me down.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "That's right, Tetsuya, Jun.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Our bodies are just built similarly, but Maria and I are aliens too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "It's not something to be so surprised by.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "I know, Daisuke.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "They've saved us plenty of times. I don't mean to badmouth them.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "But it seems some of them have a mouth on them, just like Tetsuya.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Hey, hey, you mean me?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "That just makes him more relatable, doesn't it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Sounds like everyone's having fun. Hey, what's planet Cronos like?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "If I remember... it was attacked by Gyandlar before...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Yeah. We'd better tell you about that.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "We chased Gyandlar here after they retreated from planet Cronos...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Gyandlar was after a mystical treasure called Hyper Libido.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Hyper... Libido? Hey, didn't that shady old man say that too?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "You mean Dr. Tarsan.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Yes. If I recall, the Doctor said...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Something like it... seems to exist on the third planet... that is, Earth.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "On Earth!? Hey, so it's just like that old man said...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "On Earth!? ...I see, it's just as Dr. Tarsan said...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Hm? You guys already knew what Gyandlar's after?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "...Huh? Where'd Leina go?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Mr. Tenkawa...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Mm... It's OK... I'll protect you, I promise...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Hm? Having a nice dream, are we?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "I hate to be a killjoy, but... hey, Akito. Akito Tenkawa!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "...Ai... I'll protect you... I promise... Huh...! Wh-where am I...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Ah, you're awake? Looks like you slept well on the moon, Tenkawa.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "B-Banjo!? You're OK!? ...And what do you mean, the moon...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "I mean the moon. Humans built cities here instead of the rabbits.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "...Too hard to follow for someone raised on Mars, Tenkawa...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Anyway, this is Von Braun, on the moon.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "S-so then... we went from Kawasaki to the moon... That's right!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "What about that Gekiganger-like robot!? It was gonna self-destruct...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "That thing vanished. Getting flung off Earth so suddenly,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "maybe it lost any reason to self-destruct.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "In any case, I'm so glad you're safe too, Mr. Tenkawa.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Huh...? Who are you people...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Ah, you're inside the Elshank.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "I figured Nergal wouldn't be able to bother you here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "I see... Thank you so much... But wait!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Banjo, are you all right!? If you Boson Jump unprotected...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Huh? Oh, right... Well, I was in the Daitarn, after all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "But...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "I told you I'd be fine. The famous Banjo Haran can do anything...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Or is that laying it on too thick?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Huh? Dunno what you mean, but you're spouting nonsense again, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "(...Banjo... Who is this man...?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "...Mr. Tenkawa, I think you should let everyone on Earth know",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "that you're safe, quickly... I'm sure they're all worried.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "No kidding... We were inside the Elshank, but",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "when the Daitarn and another robot suddenly showed up,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "this city went into a bit of a panic, you know?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Right. I've already contacted Garrison on my end.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "You should let them know you're safe soon, too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Shall we, then? I'll show you to the communications room.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Ah, thanks...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "(But... after I contact the Nadesico... what do I do then...?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "He must have a lot on his plate... I wonder what he'll do...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Still, Boson Jump, was it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "A single robot doing something like micro-wormhole travel...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "That's some amazing technology.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Yes... Though it's sad that it's become a tool of war...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "(...A body that can survive a living Boson Jump with no protection...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "So Akito Tenkawa really is...)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "What do you think about those things, Excellen?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "...Hmm, I keep feeling like I hear a voice...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "And the Weiss acts up every time, too...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Kyosuke said something similar.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "...By the way, what's your relationship with him?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Wow. Wh-what a bold question, Akira.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "No, I don't mean it like that... I mean, something in common...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Oh, that's what you mean.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Hmm, back in our academy days... we were both in an accident.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "An accident?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "...A shuttle accident... There were only two survivors...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Me and Kyosuke.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "...What caused it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Well, that's...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Um... hello.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Hm? ...Oh, you're...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "I'm Leina Stol. We've met a few times!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "...Um, am I interrupting something?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Not at all. It was a talk that couldn't go anywhere anyway.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Right, Akira?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Y-yeah. What Raideen is trying to tell me...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "I haven't found a single clue yet...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Leina, what brings you here?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Well... Jet and the others got caught by everyone...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Ah, they're a curiosity? Their bodies are just made differently.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Seems so. To us, you're the unusual ones, though...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Hmm, but... there is one crucial difference...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "I'm so jealous that your figure never changes.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "...Lately, my clothes have been getting a bit tight...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Oh, that's what you meant. ...Don't worry about bodies being different.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "I have the blood of the ancient Mu. Apparently I'm not normal inside.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Huh, the Mu!? Then... does that have to do with something called Mutron...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "You know about the Mutron!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "...What Gyandlar is after... is the Mutron...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Meg?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Oh, yes! ...Stay still!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Aren't you going to the bridge? They're calling for you...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "That Jovian Lizard robot we recovered had a cockpit...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "and they say the pilot might have gotten into the ship!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "R-really?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Oh? You're awfully calm about this, Meg.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "There might have been a pilot in it! They said they were unmanned!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Huh? Oh, r-right!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "I can't believe someone like that was piloting a Jovian Lizard either!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Someone like that...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Uh... Oh, n-nothing! I'll go to the bridge after I tidy up... Oh?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Who are these people?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Oh, they're our guests. I ran into them on my way to the bridge...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "You must be the comms officer, Megumi Reinard?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "I'm Beautiful Tachibana. Call me Beauty.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "I'm Reika Sanjo. We were going the Nadesico's way, so we got a ride.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "They both work for the man who flew to the moon with Akito,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "the famous Banjo Haran. They're his assistants.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "\"Famous,\" huh? Honestly, Banjo says that everywhere he goes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Well, that's just how he is, Beauty. ...Still, I never thought Nergal",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "would actually let us come aboard.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "Oh, this ship's pretty loose about that kind of thing...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "But it's awful, isn't it? We'd already set off for the moon,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "and now they say an enemy might have slipped aboard...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "And they say someone might've been piloting it!? Give me a break...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "Oh? Behind you... is that a person?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "Ah! No!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "Huh!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "Don't move!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "Eek!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "...Who are you...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "Th-three women...!? ...Forgive me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "I am of the \"Jupiter, Ganymede, Callisto, Europa, and Other Moons",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "and Asteroids Anti-Earth Union,\" Assault Superior Human Corps Major",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "Tsukumo Shiratori!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "...Japanese?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "For the past century, our nation has built its prosperity on Jupiter...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "Hey, haven't you ever read a textbook?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "Earth people have never built colonies past Mars.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "That is merely your version of history!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "Um... he showed up while I was watching Gekiganger...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "He says he's a Gekiganger fan. He doesn't seem like a bad person...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "Right... Turning in someone who's hurt isn't really my style.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "Besides... I'd like to hear what he has to say.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "(...That's... kind of surprising.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "Anyway, let's get him somewhere safe. I'm counting on you two.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "I don't mind, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "...Seems we might hear something interesting... Fine, we'll help.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "(No doubt about it... This man is that robot's pilot...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "The Jovian Lizards are... humans...!? Seems Banjo was right after all.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "I'd better get in touch with Garrison...)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "Yes... Hm... I see. That young lady has quite sharp judgment.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "Banjo, you wanted to talk...? Oh, he's on a call...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "Understood, Captain. We'll be waiting here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "...Yes, he's with me. Until the Nadesico arrives... Yes. Well then...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "(The Nadesico? It's coming straight here...!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "What's Yurika thinking...?)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "The Elshank's repairs are done, so we can give you all the help you need!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "Then, Captain Bright... we'll be waiting for you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "Ah, Tenkawa. Sorry for calling you over and keeping you waiting.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "It seems things have gotten more complicated than I thought.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "The Nadesico's coming, you said...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "Yes. According to Captain Bright, an unidentified asteroid",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "is approaching Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "...The Nadesico is coming up to space to deal with it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "I see...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "Londo Bell has also just stopped a colony from falling to Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "They'll meet up here, and resupply while they're at it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "Geez, that unit never seems to get a break.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "The ones who worry the most always end up the busiest.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "You mean... the Ra Cailum's captain?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "Who knows? ...Anyway, Tenkawa.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "What is it? Why so serious all of a sudden...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "Hm? From Garrison...? ...Sorry, Tenkawa.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "I've got an incoming call. Hang on.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "en": "(...An emergency call. That's unusual for Garrison...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "What...!? Tsukumo!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "Yes, he hasn't been confirmed back aboard. Most likely...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "en": "Impossible! Sure, the Tetsujin may have been shot down!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "en": "But we confirmed that Tsukumo survived!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "en": "Yes, which means... there's only one possibility.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "en": "...Tsukumo... Don't tell me he's been taken prisoner by the forces of evil!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "en": "...And that's how it is. I sort of suspected... but reality is cruel.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "en": "The Jovian Lizards are... human...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "en": "Yes. My butler contacted me just now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 258,
+   "en": "The Lizard robot we beat in Kawasaki... seems it had a pilot.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "en": "Then the one that tried to self-destruct, too...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "en": "Most likely.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 261,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 262,
+   "en": "I overheard a bit of what happened in Kawasaki... Now it all fits together.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 263,
+   "en": "Now, let's get to the real reason I called you here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 264,
+   "en": "When the Nadesico gets here... what will you do?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 265,
+   "en": "I... I'm...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 266,
+   "en": "...Well, there's no rush.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 267,
+   "en": "You can decide before the Nadesico arrives.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 268,
+   "en": "But... let me tell you just this one thing.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 269,
+   "en": "Everyone has a place where they belong.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 270,
+   "en": "But that place... isn't always a peaceful one.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 271,
+   "en": "Banjo...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 272,
+   "en": "The big military facility on the moon is Anaheim Electronics,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 273,
+   "en": "but Nergal Heavy Industries has a dock here too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 274,
+   "en": "I arranged for them to send over a new model... but we're short on pilots.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 275,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 276,
+   "en": "This war... will end someday, one way or another.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 277,
+   "en": "I don't think it'd be all that hard to keep running until then.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 278,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 279,
+   "en": "But if you're unsure... maybe you should wait there for the Nadesico",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 280,
+   "en": "for the time being, don't you think?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 281,
+   "en": "I...",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

@@ -1,0 +1,2161 @@
+{
+ "file": "BTL/BMCPACK.BIN",
+ "format": "BMC",
+ "pilot": 238,
+ "strings": [
+  {
+   "id": 0,
+   "en": "Come on, come on, here I go!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Haaah!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Get ready!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "There!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "All right!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "This one's gonna hit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Gotcha!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Try dodging this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Payback time!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "I won't forgive you!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Now I'm mad!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Don't scare me like that! Hyah!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "On my royal pride, I'll beat you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "This is a knockout!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Kyaaaah!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Waaah! I got beaten!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "You did it now!! I won't forget this!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Kyaaah!! I can't take any more!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "N-not yet! I'm not going down yet!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "M-Maria's... in big trouble!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Kojiii, help me!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "How dare youuu!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Eek! Hey, that hurt!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "What if you scar a maiden's delicate skin!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Owww!! What's your problem!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Hey! That's no way to treat a lady!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Huh? Did it hit me!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Didn't work, nyah!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Hmph, some attack!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Hmm-hmm, is that all?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Hmph, some attack!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Bleh! You can't hit me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Too baaad!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Aah, it's gonna hit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Yay! Koji, did you see that!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "That was dangerous!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "I saw that coming a mile away!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Pfft, this?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Hmph! Like that would work!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "No way!? I can't counter!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "What do you mean I can't counter!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Hey! Where are you attacking from!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Out of range!? You coward!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "I'll finish this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Me too!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Have this one too!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Are you okay?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "I won't let you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Look out!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Launch missiles!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Dianan Missile!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Scarlet Beam!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Here I go! ...Wait, the arms won't fall off or anything, will they?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Miracle Borot Puuunch!! Huh? That's not it!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Miracle Borot Puuunch!! Huh? That's not it!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Freeze Beam!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Photon Beam!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Launch missiles!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Drill Missile!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Rocket Puuunch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Rust Hurricane!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Southern Cross Knife!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Iron Cutter!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Scrander Cutter!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Breast Fire!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Daisharin Rocket Puuunch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Backspin Kick!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Knee Impulse Kick!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Great Typhoon!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Scramble Cutter!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Navel Missile!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Great Boomerang!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Atomic Puuunch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Drill Pressure Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Breast Burn!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Thunder Break!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Gotcha!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Get ready!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Great Booster!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Hand Beam!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Double Harken!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Shoulder Boomerang!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Screw Crusher Puuunch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Antigravity Storm!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Space Thunder!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Melt Shower!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Spin Saucer!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Spin Drill!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "I'm counting on you, Koji!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Ready anytime!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Double Burning Fire!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Try dodging this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Uryaa, uryaaa!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Double Burning Fire!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "This one's gonna hit!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Haaah!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Double Burning Fire!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Okaaay, here we gooo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Take this!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Double Burning Fire!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Come on, come on, here I go!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "This finishes it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Double Burning Fire!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Let's go, Maria!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Ready when you are, Koji!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Double Burning Fire!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Ta-daaa! Here I gooo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "This ends it! Now, Boss!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Double Burning Fire!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Here I go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Okaaay, here we gooo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Double Burning Fire!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Maria! Stay right with me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "OK, leave it to me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Take this! Double Burning Fire!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "How's this!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Gotcha!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Double Burning Fire!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "I'm counting on you, Koji!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "I know! Who do you think I am!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Time to show you Triple Mazinger's power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Come on, come on, here I go!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Why you little...!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Take this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Try dodging this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Here I go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "All right, now!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Gotcha!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "I play a little rough!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Let's go, everyone!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Okaaay, here we gooo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "I won't let you defile this green earth!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "This finishes it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Maria, don't fall behind!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Leave it to me, Koji!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Don't push yourself, Maria. Let's go!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Ta-daaa! Here I gooo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Maria! Ready!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Leave it to me, Brother!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Here I go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Ready anytime, Sayaka!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Time to show you Triple Mazinger's power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "The time has come to burn my life! Here I go!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Maria! Ready!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Ready whenever you are!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Roar, Iron Fist! Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Here we go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Time to show you Triple Mazinger's power!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Okaaay, here we gooo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Maria, you okay piloting Grendizer!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "OK, leave it to me, Koji!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Why you little...!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "It's not the usual lineup, but don't miss!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Leave it to me, Koji!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Here I go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Maria! Keep up with Double Mazinger!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "OK, leave it to me, Koji!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Take this!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Let's go, Maria!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Ready whenever you are!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Here we go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Ta-daaa! Here I gooo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "This ends it! Now, Boss!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "This'll finish it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Ta-daaa! Here I gooo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Ready whenever you are!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Haaah!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Triple Mazinger Puuunch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Ta-daaa! Here I gooo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Maria, can you handle Grendizer!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "OK, leave it to me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Ta-daaa! Here I gooo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "There!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "Okaaay, here we gooo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Triple Mazinger Puuunch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Here I go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "I'm counting on you, Koji!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "Here goes! One, two...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "Here I go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Ready anytime, Sayaka!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "Uryaa, uryaaa!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "Triple Mazinger Puuunch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "Here I go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "All right!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "Unfamiliar team, but... let's go!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "Here I go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "How's this!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "Gotcha!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "Triple Mazinger Puuunch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "Koji, keep in step!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "Koji, Tetsuya! Don't fall behind, okay!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "I know! Who do you think I am!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "Roar, Iron Fist! Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "Unfamiliar team, but... let's go!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "Leave it to me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "Okaaay, here we gooo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "Sayaka!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "Here I go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "Try dodging this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "Jun, don't miss the timing!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "How's this!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "Okaaay, here we gooo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "Here we go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "Ready whenever you are!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "Let's slam it home!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "Here we go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "Leave it to me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "There!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "Triple Mazinger Puuunch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "Here we go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "Get ready!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "Haaah!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "Triple Mazinger Puuunch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "Here we go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "Ready whenever you are!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "How's this!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "Triple Mazinger Punch!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "We all strike together!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "Let's finish this in one go, Daisuke!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "Understood!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "We all strike together!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "Ta-daaa! Here I gooo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "All right, now!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "We all strike together!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "en": "Yeah, let's do it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "Haaah!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "en": "We all strike together!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "en": "Duke Fleed! Use the Harken!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "en": "Let's go, everyone!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "en": "We all strike together!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "en": "Grendizer here, ready anytime!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "en": "Here we go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 258,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "en": "Maria, don't fall behind!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "en": "Got it, Koji!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 261,
+   "en": "Let's go, everyone!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 262,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 263,
+   "en": "Ta-daaa! Here I gooo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 264,
+   "en": "Maria! Ready!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 265,
+   "en": "Leave it to me, Brother!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 266,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 267,
+   "en": "Here I go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 268,
+   "en": "Maria! Ready!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 269,
+   "en": "We all strike together!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 270,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 271,
+   "en": "Duke Fleed! Sync up with me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 272,
+   "en": "Grendizer here, ready anytime!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 273,
+   "en": "Take this! I'm gonna slice you up!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 274,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 275,
+   "en": "Here we go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 276,
+   "en": "Maria! Ready!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 277,
+   "en": "OK, leave it to me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 278,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 279,
+   "en": "Maria! Keep up with Double Mazinger!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 280,
+   "en": "Ta-daaa! Here I gooo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 281,
+   "en": "Take this! I'm gonna slice you up!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 282,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 283,
+   "en": "It's not the usual lineup, but don't miss!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 284,
+   "en": "Got it, Koji!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 285,
+   "en": "Here I go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 286,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 287,
+   "en": "Tetsuya! You ready!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 288,
+   "en": "I'm a combat pro, remember? I won't miss!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 289,
+   "en": "Okaaay, here we gooo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 290,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 291,
+   "en": "Triple Mazinger's gonna carve you up!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 292,
+   "en": "Leave it to me, Koji!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 293,
+   "en": "Here we go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 294,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 295,
+   "en": "Maria, let's hit 'em with our swords together!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 296,
+   "en": "Got it, Koji!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 297,
+   "en": "Ta-daaa! Here I gooo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 298,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 299,
+   "en": "We all strike together!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 300,
+   "en": "Leave it to me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 301,
+   "en": "Haaah!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 302,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 303,
+   "en": "Ta-daaa! Here I gooo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 304,
+   "en": "Maria! Double Harken!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 305,
+   "en": "Take this! I'm gonna slice you up!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 306,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 307,
+   "en": "Ta-daaa! Here I gooo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 308,
+   "en": "Take this! I'm gonna slice you up!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 309,
+   "en": "This finishes it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 310,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 311,
+   "en": "Maria! Draw the Harken!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 312,
+   "en": "OK, leave it to me, Koji!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 313,
+   "en": "Here I go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 314,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 315,
+   "en": "Here I go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 316,
+   "en": "This ends it! Now, Boss!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 317,
+   "en": "Leave it to me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 318,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 319,
+   "en": "Here I go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 320,
+   "en": "Maria, use the Blade!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 321,
+   "en": "Take this! I'm gonna slice you up!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 322,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 323,
+   "en": "Here I go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 324,
+   "en": "Take this! I'm gonna slice you up!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 325,
+   "en": "This finishes it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 326,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 327,
+   "en": "Koji! Tetsuya! I'm counting on you!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 328,
+   "en": "Let's go, Tetsuya!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 329,
+   "en": "Koji! Don't fall behind!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 330,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 331,
+   "en": "Maria, can you handle Grendizer!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 332,
+   "en": "OK, leave it to me!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 333,
+   "en": "Ta-daaa! Here I gooo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 334,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 335,
+   "en": "Unfamiliar team, but... let's go!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 336,
+   "en": "Take this! I'm gonna slice you up!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 337,
+   "en": "Haaah!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 338,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 339,
+   "en": "We all strike together!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 340,
+   "en": "Let's go, Jun!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 341,
+   "en": "This finishes it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 342,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 343,
+   "en": "Triple Mazinger's gonna carve you up!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 344,
+   "en": "I'm counting on you, Koji!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 345,
+   "en": "Here we go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 346,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 347,
+   "en": "Here we go!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 348,
+   "en": "Take this! I'm gonna slice you up!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 349,
+   "en": "Ta-daaa! Here I gooo!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 350,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 351,
+   "en": "We all strike together!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 352,
+   "en": "This finishes it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 353,
+   "en": "Haaah!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 354,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 355,
+   "en": "We all strike together!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 356,
+   "en": "As long as our timing's right, no problem!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 357,
+   "en": "This finishes it!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 358,
+   "en": "Triple Mazinger Blade!!",
+   "kind": "quote",
+   "keep": false
+  }
+ ]
+}

@@ -1,0 +1,1117 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1254,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Sh-Shinobu!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Tch! What the hell is this!? The Cyber Beast Force base!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Commander Hazuki... what is this!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "I-I don't know... but...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "It didn't look like this when I attacked it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "I sense the presence of an aura full of malice...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Is this really... the Cyber Beast Force base?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Looks like something rose up from deep under the base...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Like that... our Far East Branch is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "It's not going to function as a base... not anymore.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "According to the report right after things went wrong, everyone inside",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "managed to evacuate somehow, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "What on earth caused this?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "We have to investigate...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "No need for that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "What do you mean, Fujiwara...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "He means we can guess without looking into it, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Only one guy could pull off a stunt like this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Him... Surely not... Surely he's not really...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "That's right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Here he comes already!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Is everyone ready to sortie!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Ready anytime, Amuro!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Just let us launch already!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "We just settled things with Mykene, and Tetsuya's already...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "All hands, sortie!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "It's been a while... Fools who falsely claim the name of god!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "...No doubt about it. It's you...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Muge...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Zorbados...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "I knew you were still alive! Muge, you bastard!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "What the hell are you after!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "I am the universe itself... I shall guide you foolish humans into my world!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "The universe itself? Don't make me laugh! You're just an invader!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "An invader...? Heh heh heh, ha ha ha ha ha!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "What's so funny!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Do you truly... believe I am a mere invader...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Foolish... Utterly foolish, you humans...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "What an infuriating bastard!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "What's going on!? Why are the Einst here?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Are you saying the Muge Empire and the Einst series are connected?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Come to think of it, weren't they together on the Dirad planet too?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "What are you scheming!? Answer me, Muge, you bastard!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Heh heh heh... Think on it... Why the Einst would aid me...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "and seek to destroy you all...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "That's what we're asking you! Answer us!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Enough talk... You who disturb the silence of the universe...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Don't come stomping into our home and then act all high and mighty!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Let's do it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Heh heh heh heh heh... So you're still alive... all of you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "...What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "You!? Weren't you defeated in the battle on the plant planet?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "I didn't figure it'd be... that easy, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "I knew it... I knew you were still alive... Shapirooooo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "...Heh heh. You stopped the Dirad landing... I'll say that was well done.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Like we'd ever let something like that crash into us!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "But... it seems you don't understand what is about to happen...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "to this Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "What's that supposed to mean!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Sara, looking at that base, can you tell what is about to happen?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Who knows? Not a clue. Nothing you do ever makes any sense!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "That... is the shadow of Emperor Muge.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Shadow?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "You mean it's not Emperor Muge himself?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Flaunting his presence, even if only as a shadow? How simple.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Heh... Otherwise you would have died without ever laying eyes",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "on the form of Lord Muge...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "You're awfully cocky. Is it 'cause you've got the Einst backing you up?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Heh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "What's with that smirk!? What's that supposed to mean!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "You'll find out in time... if you live that long...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "\"If we live\"!? Quit messing with us!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "We've still got a mountain of stuff left to do!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "We can't die in a place like this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Struggle all you like... But in the end, I'm the one who will laugh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Sara... Even after seeing the form of Emperor Muge,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "do you still intend to side with these Earthlings?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Showing me that thing's no reason to go over to your side, Shapiro.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Heh... In the end, you're a lowly Earthling too... You can't see it, Sara.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Shut up!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "She's a hell of a lot better than a guy who brags he's gonna become a god!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Ngh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "No! Fujiwara!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Heh heh heh... How pathetic, Fujiwara...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Grrgh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Shinobu!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Shinobu, answer me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Hey! Shinobu!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Shinobu!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Ngh... Sara...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Shinobu... are you okay...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Yeah, more or less... Everyone... all right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Yeah.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Damn, my eyes... are getting blurry.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Don't just space out on me! ...I... I...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "I'll finish this... Dancougar! And Sara!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "You betrayed me time and again... I will not forgive you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Shapiro... I...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "At last... the hated Dancougar... Heh heh heh... Ha ha ha ha ha ha ha!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Screw you! Shapiro! Muge, you bastard!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "What!? What's this surge of aura!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "I feel it too! Show!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "What's happening!? Are Fujiwara and the others all right!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Dancougar's... glowing!? Hey! Fujiwara!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Dancougar's power!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "...The Danku Sword... is burning...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Raaaaagh!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "This is... the Danku Koga Sword...! Formation D-3...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "without the Gandoll Cannon!? Fujiwara... you're really something!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Sara! Ryo! Masato! Let's go!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Shinobu! Don't screw this up!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Let's go!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Gooooo!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "We'll be reborn as warriors of the gods!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Danku Koga Sword now available.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "This power...! I see... Beyond machine, man, even beast... to become a god...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Is that the power of Dancougar!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Shinobu... you really are something...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Reason... has surpassed the wild...? I cannot win this battle...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "He ran, huh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "But it's still...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "No way... Even after an attack like that... it's still in one piece...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "What a monster...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "There's no need to worry... That is now... nothing more than a lump.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "What's that s'posed to mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Its presence... is gone...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Huh!? Hey, you're right!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Cham, what is it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "It's like it turned into... an empty shell?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "The aura of malice... has vanished.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Queen Sheela, then...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "That object... has become nothing but lifeless matter...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "So it wasn't the real thing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Could it have been something like a terminal...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "What Fujiwara cut down was the shadow of Muge Zorbados...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "So Muge himself is somewhere, waiting for the time of his revival...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Heh heh... Strong, as expected. I'll be withdrawing for now!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "The bastard's making a run for it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Get back here! Quit scurrying around!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Shapiro... Why do you always...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "The chance... for me to become a god has come around again, Sara...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "There's no need to rush... This is just the start. It all begins now!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Heh heh heh heh, hah ha ha ha ha ha ha...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Ngh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "What a guy...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "At running away, he is FIRST-CLASS!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Is something wrong, Queen Sheela?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Well... Lady Elle, didn't you sense it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "I did.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Just now, the malicious aura from that so-called shadow of Muge vanished...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Yeah, it vanished right when that Shapiro guy disappeared.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "That is now nothing more than a lump...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "So he got away...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "And he left this junk behind!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "If you're gonna vanish, at least put things back the way they were first!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Still, why would he need to do something like this...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Maybe he wanted to make his presence known...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "To show that Emperor Muge is as strong as ever...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "So Muge Zorbados's revival is near... is that it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Is it over!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "What about the Muge shadow fused with the Cyber Beast Force base!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "It's the same as before.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "...It's just a heap of rock and steel... what looks like the base's materials.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Is the scary thing all gone now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "To think Muge Zorbados would return at a time like this...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "And... the Einst worry me, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Muge and Shapiro... They were saying some meaningful things...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Shapiro...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "Sara...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "We really know so very little, don't we?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "Whatever they're after... they're still the enemy...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Anyway, for now we'll just have to deal with the enemies we know about.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "A positive outlook. Yes, we can only advance one step at a time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Tetsuya and the others may be pulling something reckless. Let's hurry!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "I'm not Koji, but... I'm a little worried too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "That's right. We've still gotta search for Akira's mom, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "If I may, Commander Hazuki?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "The Gran Garan and Goraon will be heading to the next point.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Please do.",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

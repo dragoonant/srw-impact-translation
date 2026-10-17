@@ -1,0 +1,1945 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1632,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Our universe's winds have stirred... So, they have come. Living things",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "survive only when they know the space in which they belong.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "...Fools who know not their place...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Heh... Hasn't changed since last time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Yeah... And here I thought we'd never come back...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Fujiwara... Are you certain this is the place?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Think there's more than one place like this? It's Muge's... red universe.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Another world... Is it really this creepy...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "If it were more romantic, we could have a date with no one in the way...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Suit yourself.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "I'd advise against it. Other dimensions rarely bring anything good.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "I agree. I saw the same among Gades's men...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "It's a mad world, born of twisted hearts.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "I see. Now that you mention it, this place reeks",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "of evil.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "...That's how it is. Ryo, Sara, Masato! Let's go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Cyber Beast Force! Don't just...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Easy, Captain Bright. We know this place better than you, y'know.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "What shall we do... Bright?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "...We'll have to stand by. They're the only ones who know this place.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "A red... universe? What the hell is this place?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Getting dragged somewhere like this all of a sudden...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Fujiwara and the others... were here before?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "What a...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Sure, it looks red, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "...What is this place? It's creepy...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "And there are weird rocks floating around...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "No enemies...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "If there's nothing here... can we leave? It gives me the creeps...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "...No... This place is filled with a presence... a deeply evil one.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Eek... D-Don't say scary stuff like that!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "But... I've got a bad feeling.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "You feel it too...? Roll.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "If you ask me, it'd be weirder if nothing was here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "...Meaning...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "So... you've tracked this place down after all...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "That's... the fake Dancougar...! ...Shapiro... We meet again...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Heh... Are you glad, Sara...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "...Yeah. Because here... I can finally settle things",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "with you...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Sara...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "You've grown strong, Sara. But... that strength will soon be",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "meaningless...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Go ahead and try! I won't... hesitate anymore.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Indeed... Hesitation must be cut away.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Bright, I'm heading out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Hey, Kyosuke?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "...Yeah. This feeling... It could be...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "One enemy, the Fake Dancougar... Stay sharp! All hands, launch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Aestivalis squad, prepare to launch too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Don't get careless, everyone!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "We've gotta get back to Earth...! We can't dawdle in a place like this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "We're heading out too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Okey-dokey!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "You bastard, I've been listening, and you sure have a lot to say!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Your time is up... Prepare yourself!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Heheheh... I'll return those very words to you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Tch, now what're you pulling ou-- Ugh!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "That's...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "The space monster Gilgilgan...! What's it doing here!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Wait... We saw that thing on the plant planet before...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Shapiro Keats! What is the meaning of this!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Heheh... Space monster Gilgilgan... They're flocking to this universe...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Do you understand what that means? Heheheh...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "What...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "They are the remnants. The dregs.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "The dregs...? Of what!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "...Of the Einst, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Most likely.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "The Einst!? But they look nothing alike...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Perhaps it's their essence that's the same.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "?? You mean... on the inside?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "...Could it be...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Brother?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "I'm not certain... But we may be the same",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "as those space monsters.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Whoa, whoa, don't lump us in with something that vicious!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Rom, you don't mean...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "It's only a possibility, Jet.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Hm? Oh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Huh!? What's that supposed to mean!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Excellen! You mean...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "...What's your connection to the Einst series?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "It is beyond anything you could imagine... truly the realm of the gods.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Mere mortals cannot understand.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "You've got the face of someone who knows it all, Shapiro!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Naturally. I am not like you. ...Heh, but still... Woman, if I recall, you were",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "with this Einst series...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "So what if I was? ...Geez, that's a sore spot for me, you know.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "...Of all humans... you understand them the best... You are a dangerous",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "woman...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "A dangerous... woman!? ...That actually sounds kinda cool...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Weren't you just saying it was a sore spot?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Oops, so I was.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "No matter... This is where you all end. Leave the rest to me... Heheheh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "The rest?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Shapiro Keats... He seems to have plans of his own...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "but we won't be finished off so easily.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "No... You are finished. ...Attack!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "All units, commence attack! We cannot lose this battle...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Ohhhhhh! Let's do this!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "This time we must have finished him...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "...Wait for me in hell... Shapiro.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "...Heheheh... Sara... Either way... you too will fall into hell...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "I've had enough of your sore-loser talk, Shapiro!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Sore loser...? Me...? Heh... No... All who live in this universe...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "all of them... every one...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "What're you trying to say!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Your role... is over.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Impossible... Not once, but twice! I mastered ultimate evolution, so...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "I...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "They say the ultimate evolution is extinction... Then it suits you well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Is it... over!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "The aura of malice... is fading...! It's over!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "The ultimate... Wasn't that why... I was chosen...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "No... You were never the one chosen...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "What... You are...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Everything... is for... the new... you see...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Oh... Ohhhhhhh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Ah...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "You idiot... You really are an idiot, Shapiro...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "It's over for now, at least.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Sara... Don't be too hard on yourself.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Quit tiptoeing around me.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Things between him and me... ended a long time ago.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Right, Shinobu?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Huh? Oh... Yeah, I guess.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "A woman's gotta be strong. Right, Kyosuke?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Shapiro Keats should have had Emperor Muge backing him...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "He's not even listening...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Yes... If the Muge universe hasn't collapsed...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "then he's lurking nearby...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Where... will he come from!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "...We're being watched... I can feel it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Hm... Something's here...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Huh, what? Kamille?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "The Inspector...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Excellen, calm down. You should be all right now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "...Okay.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Damn, that thing again...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Einst Regisseur... was it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "...Isn't it showing up more and more often?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "I figured that thing was the mystery enemy... the boss",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "of the Einst series...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Yeah, that's what the tablet Hibiki's father found said.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "But that was ages ago, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "There's something... above this thing...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Here they come!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Everyone! Intercept them!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Fujiwara!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Can't you see something nasty's coming!? Save it for later!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Just listen! Muge Zorbados...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "is most likely nearby...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "...A reading from data you brought back before has appeared nearby.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Enjoying the show, huh? What a jerk.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Commander, where is he!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "...This space is far more distorted than normal space...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Pinpointing him is difficult, but be careful!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Can't you find him from there either!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "No. Omoikane says it hasn't got a clue either.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Hiding and watching, huh? What a creep...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "But for now, our enemy is right in front of us!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Right, losing to this thing would make it all meaningless! Stay focused!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "...Muge, you bastard...! Just wait. Once I smash this thing,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "I'm dragging you out of hiding!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Role...!? What role!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "His own? Or...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "Could it be... me?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "...My gut says... no.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "Fwahahaha... I had thought to watch you all",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "a while longer...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "...It has been a while... you fools who take the name of God in vain...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "So that's... Muge... Muge Zorbados!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Fujiwara!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "No doubt about it... It's him... that Muge bastard...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "One we destroyed has returned... What is going on...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Do you not see? The universe has need of me",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "once again...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "Enough of your delusions, you lowly invader!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "Cut the gibberish! First Shapiro, now you...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "What're you getting at!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "I told you before, on Earth. I am the universe itself... and I would lead",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "you foolish humans into my world...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Unfortunately... I'd rather pass on such a remote little world...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Quite so. It hardly seems a pleasant place for a stroll.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "Emperor Muge, we've never met... but back to darkness you go...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "With the Danku Sword... once again...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "Fools... Such utter fools, Earthlings! In that sense... Shapiro Keats...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "may have been the only Earthling who ever realized it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Shapiro... him!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "The universe desires evolution... It can't expect that of Earthlings.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "Ugh... Ungh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "Excellen!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "Don't give me that! There are people like Dr. Saotome, who",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "researching Getter Rays to open new paths of evolution for humanity--",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "people like that...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "...If you mock that... I won't forgive you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "Heh... Hahahahahahaha! Flesh, perish!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "Huh? What's he saying all of a sudden!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "...Because... they're bound... by the flesh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "H-Hey, Excellen...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "...Beyond the beast, beyond human wisdom, to become a god...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "That is the best evolution you could manage...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "Super Beast... Machine God...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "Commander Hazuki... no, the answer Dr. Hazuki",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "arrived at...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "If that is the wish you entrusted to Dancougar...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "then that is the bottomless ignorance of Earthlings...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "Because...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "Because...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "Don't... listen... Captain...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "Hey!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "...Because the ultimate form of your ideal evolution, Earthlings...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "is I...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "Wha...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "The ultimate evolution? ...Of Earthlings!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "That is exactly right...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "...Alchemie...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "Long time no see, little girl.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "...Muge Zorbados is one form that human evolution can take...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "It is what we have been seeking, Kyosuke.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "...Do you really believe that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "...What... do you mean...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "He means, are those really your own words?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "......??",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "Hey, what's going on!? Did you figure something out!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "Her own... words...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "If you're the one seeking the form of human evolution...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "you should give it up.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "Why... Why would you say such a thing? Kyosuke, I...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "...If you want the ultimate that badly... then basing it on humans",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "is a mistake, you know... my other... self.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "I see...! So that girl is really...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "Excellen's...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "...Why you're so fixated on me... I had a hunch.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "Heheheh... Ultimate evolution, and basing it on humans",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "is a mistake, you say?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "Wrong. All the weak, unfinished parts of humanity...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "stripped away... That is what I am.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "en": "Like I care.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "Shinobu...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "Muge, you bastard, I dunno if what you're saying is true or not.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "en": "And I couldn't care less who or what the Einst brat is, or what she wants.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "en": "...But you lot aren't just enemies of us Earthlings...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "en": "you're enemies of this whole universe...! That's why I fight...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "en": "Why can't you understand that this very thinking is what throws",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "en": "this universe into chaos...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "en": "Because the universe wills it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "en": "The universe...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 258,
+   "en": "Every living thing in this universe... the righteous and the wicked alike...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "en": "is permitted to live. To live, and to pass on to the children who follow",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "en": "the way they lived... that is why the fighting goes on.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 261,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 262,
+   "en": "That's right...! That's why Raideen lends me its power",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 263,
+   "en": "for that very purpose...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 264,
+   "en": "The brave Raideen... Yes, of course...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 265,
+   "en": "Long ago, so its dangerous power would not pass on, the Mu Empire was",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 266,
+   "en": "to vanish from the earth... yet it could only be sunk beneath the sea,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 267,
+   "en": "and that was because...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 268,
+   "en": "And what was recorded back then... was the tablet in those ruins.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 269,
+   "en": "Heheheh... Enough. With the power of the Einst now mine...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 270,
+   "en": "you fools have trespassed upon my sanctuary in the universe,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 271,
+   "en": "and angered me. I'll make you regret it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 272,
+   "en": "Ultimate evolution!? Who decided what's ultimate!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 273,
+   "en": "Any guy who can shamelessly call himself the ultimate, I sure as hell",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 274,
+   "en": "won't accept...! Let's do this!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 275,
+   "en": "Let's settle this...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 276,
+   "en": "...At last... the time has come...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 277,
+   "en": "I don't know what you were testing, but no such time will come.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 278,
+   "en": "...Consider it mercy. I'll bury you in one blow, Alchemie.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 279,
+   "en": "Now do you see? Ultimate evolution... Before everyone's feelings,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 280,
+   "en": "a thing like that means nothing at all, you know...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 281,
+   "en": "I don't understand... I don't understand at all...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 282,
+   "en": "No way! It escaped... with that much damage!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 283,
+   "en": "Ruri!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 284,
+   "en": "...Lost it. Or rather, in this space, radar and the like",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 285,
+   "en": "are completely useless.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 286,
+   "en": "...Alchemie...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 287,
+   "en": "...You know, Excellen. Given what she was \"created\" for...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 288,
+   "en": "there's no way in the world we can save her...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 289,
+   "en": "...Yeah...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 290,
+   "en": "We did it... This time... we really did it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 291,
+   "en": "Yeah, though none of it made any sense.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 292,
+   "en": "No time to relax! Now it's...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 293,
+   "en": "...At last... the time has come...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 294,
+   "en": "I don't know what you were testing, but no such time will come.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 295,
+   "en": "...You're next, Alchemie.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 296,
+   "en": "Now do you see? Ultimate evolution... a thing like that,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 297,
+   "en": "before everyone's feelings, means nothing at all, you know...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 298,
+   "en": "I don't understand... I don't understand at all...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 299,
+   "en": "It escaped!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 300,
+   "en": "Ruri!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 301,
+   "en": "...Lost it. Or rather, in this space, radar and the like",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 302,
+   "en": "are completely useless.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 303,
+   "en": "...Alchemie...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 304,
+   "en": "...You know, Excellen. Given what she was \"created\" for...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 305,
+   "en": "there's no saving her...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 306,
+   "en": "...Yeah...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 307,
+   "en": "That red machine's gone too... So that means it's over?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 308,
+   "en": "Yeah... Ultimate evolution? Gimme a break.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 309,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 310,
+   "en": "Hazuki, what is the matter...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 311,
+   "en": "Ultimate evolution... If Emperor Muge truly is that...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 312,
+   "en": "then perhaps the direction we scientists aimed for was wrong.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 313,
+   "en": "Commander...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 314,
+   "en": "...The evolution of man. The innovation of man, is it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 315,
+   "en": "...Alchemie... that girl...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 316,
+   "en": "...Excellen, don't think about it now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 317,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 318,
+   "en": "Hey, what've you two been whispering about this whole time?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 319,
+   "en": "Hm? Oh, come on, Judau. That talk's a little too grown-up for you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 320,
+   "en": "What's that supposed to mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 321,
+   "en": "Whaaat? Kyosuke did? Really?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 322,
+   "en": "...Let's just leave it at that.",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

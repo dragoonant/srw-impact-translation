@@ -1,0 +1,235 @@
+{
+ "file": "BTL/BMCPACK.BIN",
+ "format": "BMC",
+ "pilot": 277,
+ "strings": [
+  {
+   "id": 0,
+   "en": "...COMMENCE ATTACK...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "...THERE...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "...SHOOT DOWN...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "...FOUND YOU...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "...DESTROY...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "...KYO...SUKE...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "...UNFORGIVABLE...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "...NO ESCAPE...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "...THE END...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "...FALL...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "...KEEP THE CHANGE...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "...THIS FAR...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "...KYOSUKE...I...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "...BAD...BAD...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "...DIRECT HIT...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "...CHEATING...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "...WON'T FALL...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "...BOLD...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "...STINGS...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "...HURTS...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "...NOT BAD...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "...THIS MUCH...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "...FINE...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "...NO EFFECT...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "...JUST A GRAZE...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "...THIS MUCH...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "...BUTTERFLY...FLOAT...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "...GOODBYE...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "...WON'T LET YOU...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "...NAIVE...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "...EVADE...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "...BARRIER...BRIGHT...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "...TIGHT...RIGHT...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "...CANNOT COUNTER...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "...CANNOT...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "...WHERE ARE YOU...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "...LIKE THIS...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "...PROTECT...",
+   "kind": "quote",
+   "keep": false
+  }
+ ]
+}

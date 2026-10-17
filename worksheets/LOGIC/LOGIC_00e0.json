@@ -1,0 +1,643 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 224,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed 2. Wil Wiph reaches the southern edge",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "At this rate...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Lord Drake, the rebels are all but routed... There's no problem.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Once we cross the Karakara Mountains... Castle Tartara, eh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "There's still a pesky fly buzzing about... What shall we do?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Leave it. A single Bochun can't accomplish anything.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Unless they come in numbers, this Wil Wiph won't fall.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "I'm the only one left...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "But I have to slow down the Wil Wiph, even a little!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "But Lord Drake, however powerful the Wil Wiph may be,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "as I said, it's not yet complete. Attacking the castle is premature.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "...We can't afford to wait.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "With the Holy Warrior gone, now is our perfect chance.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "But Todd's unit, a key part of our forces, has gone missing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Yes... Something is happening.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "We must secure our footing in case of the unexpected.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "...Even if it means rushing a little.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "So a mere Bochun isn't even worth his attention. ...Drake!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "(Where on earth did you go... Show?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "...Ugh, so bright... That light...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Dammit, what the hell just happened!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Ugh... I've never seen this scenery before...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Huh? Where are we!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "(Hm!? This scenery... I know this place...?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Where's the Gandor?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Hey, Show! Could this be...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Yeah, no doubt about it. This is Byston Well!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "The world said to lie between the sea and the land...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "The homeland of souls... Byston Well...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "What? What has happened?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "(That's a Gundam... Which means...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Look, Show! It's a Bochun!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "The Dunbine! Show! Is that you, Show!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Marvel! Is that you, Marvel!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Show... I'm so glad you're safe...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Marvel... Sorry to worry you. I've come back from the surface world.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "The surface world?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "That's right~. Even I went to the surface world.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Those machines behind you are Federation units, aren't they?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Yeah, they're comrades I met on the surface.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Sorry to interrupt the big reunion,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "but this doesn't look like the time for a long chat, does it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Seems that way. No idea where we are... but it doesn't look good.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Right. ...Show, we have to stop the Wil Wiph!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Tell me the situation, Marvel. What is he... What is Drake planning!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Drake intends to cross the Karakara!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "He's going to attack Castle Tartara!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "We have to slow him down somehow...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "What's going on?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Drake is about to invade Castle Tartara, our base.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Drake... You mean that army that showed up in New York and places?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Yes. I'll explain later!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "For now, please stop that aura ship's advance!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "If they get past there, we'll have let them invade Tartara.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Don't worry, everyone's really strong!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "With that aura barrier, it'll be tough for our mobile suits...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Amuro! And here I was praising you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Then leave it to me. I'll take them on with my Nobel Gundam!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "We won't stop it unless we surround the battleship!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "I don't really get it, but we just gotta aim for that big one, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "If we shoot it down, there's no need to worry about an invasion...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Though that logic's a bit too simple.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "I never imagined a summoning would take place!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Forces from the surface, it seems. What shall we do, Lord Drake?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "...We hold our course.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Aside from minimal return fire, the Wil Wiph keeps advancing.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Send out the Aura Battler squad to intercept.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Lord Drake... I shall go out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Hm? You yourself?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "...Yes. They'd make ideal opponents to test the Spriggan's condition.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Very well. ...I'm counting on you, Shot.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Sir.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Here they come in droves!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "This aura... Shot Weapon!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Looks like they scrambled out because our numbers grew. ...Captain!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Yes, I know. I'd rather not get dragged into a fight like this...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "but it can't be helped. We stop that giant battleship!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "...Hehehe... A mass summoning from the surface...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "I don't know what's happening, but it's quite intriguing. ...Here I come...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Ngh, to think the Wil Wiph would take this much damage...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "If only the surface machines hadn't appeared...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Grr, we withdraw.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "So close~. We really had 'em cornered, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Hey, is it okay to let them get away?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Yeah, really.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Driving them off is good enough.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Right, we shouldn't pursue too far. The situation's far too unclear...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "It's frustrating... but I guess it can't be helped.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Doesn't make it any more fun, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Remaining enemy forces?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "...Should we take down the ones still left?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "We can't have the enemy knowing everything we do from here on.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Yeah, looks like that's all we can do.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "...Nothing on radar...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Looks like we've wiped out Drake's forces.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Thanks to you all coming, we were saved. Thank you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Not like we came here because we wanted to, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Getting zapped straight into a battlefield? Gimme a break.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Right. Feels like we never get a break.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "What...do we do now, Captain?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "We ended up in battle without knowing what's going on...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Anyway, why don't we sort out what we know somewhere safe?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Right... Miss Frozen, could you guide us somewhere suitable?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Understood. Please follow me.",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

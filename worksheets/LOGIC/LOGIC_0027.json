@@ -1,0 +1,643 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 39,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Ta-da-daaan!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "The Mazinger Corps makes its dashing entrance, I tell ya!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Hey, Boss, knock off the racket. It's embarrassing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Hmph! Koji,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "just 'cause you went to America, quit actin' all goody-goody, I tell ya!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Honestly... Boss could stand to change a little.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "So that's the deal, Dr. Hazuki. Mazinger Z is here to help!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Yes, Kabuto. Sorry, but please lend us your strength.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "...So \"maintenance\" really meant keeping it ready for combat...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Heh, Prof. Yumi is a shrewd one.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Hey, Koji, he ain't Dr. Hazuki, he's the Commander now, y'know?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Huh, is that so? You look well too, Fujiwara.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "I'm always in top shape. So's Dancougar!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "...I wouldn't mind if you were a little quieter, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Koji!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Ryoma and the guys are here too? Now nothing can stop us!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "So this is Mazinger Z. Heh, never thought I'd fight alongside it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Oh, a robot I've never seen before...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Zambot 3... We're the Jin Family. Nice to meet you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Heh, Keiko, we haven't even seen what they can do yet.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "No need to bow and scrape like that, is there?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Oh, you said it! I'll show you the power of Mazinger!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "As long as Koji doesn't drag us down.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Tetsuya!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Geez, Tetsuya! Why can't you ever say it any other way!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "It's fine! \"Koji, let's do our best together!\"",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "...If he said that, I'd figure he was running a fever!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Hmph, fine by me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "They really look like they don't get along...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "I hear they once had a huge fight.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Don't bring that up, come on.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Tetsuya was actin' like a little kid, I tell ya.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "...Knock it off, Boss.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Now that we've regrouped...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Heh heh heh.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "I knew if I kept watch here, this Gandor unit would surely show up!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "I'll dispose of you all at once!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Commander! Enemy attack!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "No way... an ambush!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Using cheap tricks!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Baron Ashura!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "You! Weren't you supposed to have died in the last battle!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Koji Kabuto!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "How could I die before taking my revenge on you!? Prepare yourself!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Ugh, they just never quit, I tell ya! What do we do, Kojiii!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "What else is there to do, Boss! Right, Koji?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "That's right! I'll remind 'em what Mazinger can do!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Ryo, this pattern... isn't it the same as with the Dinosaur Empire?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Yeah. Something's going on. I've got a bad feeling about this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Repeated coincidences are no longer coincidence. They're inevitable.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "If space is like this too, it'll be rough going.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "We can't afford to be held up here. All hands, battle stations!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Heh heh heh heh... Good to see you're doing well, Koji Kabuto.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Huh!? I don't know anybody like you... Ugh!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Is that really so? Heh heh... Hahahahaha.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "That voice... it can't be...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Heh heh heh... True to my name, I've returned from Hell, Koji Kabuto!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "What... what is this...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "When Baron Ashura turned up alive, I figured it'd be something like this!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Is Brocken alive and kicking too!? Dr. Hell!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "He is already at work on another operation.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "...Well, whaddya know.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Looks like you stirred up trouble... Koji.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Was it the Great General of Darkness who revived you!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Fuhahahaha, with the power of ancient Mykene,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "I shall achieve my ambition of world conquest once more!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "As if we'd let you do that so easily!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Baron Ashura, I leave this to you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Not just Mazinger... paint the ground with all their blood!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "As you command.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Sounds like there's history here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Guys we thought we beat are coming back!? Tch, what a pain!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "...Let's hope Muge Zorbados doesn't do the same.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "D-Don't say such ominous things.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "You never know, though. At this point.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "What are you dawdling for!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Don't get hasty, Baron Ashura! Mazinger Z and Koji Kabuto",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "won't run or hide!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Nuohhh, I underestimated you! But Koji Kabuto, this is only the beginning.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "We shall meet again!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Quit talking big!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "And tell Brocken he can come at me anytime!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Nnnngh! Events are already in motion!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Don't think you can stay cocky forever!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Heh, come up with a better parting line than that!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "And don't come back!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "...That one's pretty cliche too, Koji.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Yeah. Dr. Hell and a mysterious army... This is getting troublesome.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "What's up, Tetsuya? Getting cold feet?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Simple-minded as ever, Koji.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Now, now, that's what's good about Koji.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Zeon ground forces, Dr. Hell, and a mysterious invading army...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "All this on the ground alone. What on earth is going on?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "There was that Hyakki Empire too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "It's harder than the last war, since the situation's so much murkier.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "You said it, I tell ya.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Hm? What's up, handsome?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "He said events are already in motion...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "This invasion... there's more to it. ...And don't call me handsome.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Hmph!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "If we just smash 'em one by one, we'll hit whoever's hiding in the end.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Either way, Commander Hazuki, the Mazinger Team's joining the fight!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Kabuto, I'm counting on you. All right, on to our next destination.",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

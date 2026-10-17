@@ -1,0 +1,1249 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1040,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed. 2. Victory conditions not met within 12 turns.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "What? Everything around us just went weird!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "We were just cruising normally...? What happened?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Unable to determine current coordinates.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Impossible. And this is where Beauty's bringing supplies from Anaheim...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "it's our rendezvous point.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "We don't know where we are? You mean we're lost!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "But it all looks strange too. This is more than just getting lost.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Could it be... Beauty too!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "We don't know where we are? But this situation...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Right... this view isn't normal. Could Beauty have ended up here too!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Feels like we've wandered into some kind of other dimension.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Rom, this is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Yes, it's like our battle at Tenku Majo on Planet Cronos.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Ten-ku-ma-jo? What an ominous name. A demon castle in the sky?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "That's right. In other words... an artificial other dimension.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "But this time seems different.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "I doubt it's a vacation invite to thank us for all our hard work,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "No, this doesn't look like any vacation. This method...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Hoshino, what are the magnetic fields like?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Yes... the surrounding magnetic field is heavily distorted.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "A magnetic field big enough to surround all of us...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Banjo, do you know something about this!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Yes... Warping the magnetic field in normal space to make a special one...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "if it's not the Gyandlar Rom mentioned... it's their method.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "\"Their\"... You mean the Meganoids.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Meganoids... Those guys who showed up on Mars!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "All hands, prepare to launch! Hurry!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "That evil giant cyborg army!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Let's take 'em out with the power of justice!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Agreed. ...They went to the trouble of inviting us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "It'd be rude not to come out now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Banjo...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Brother, what's wrong? Why the face?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Banjo... He seemed different from usual.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Huh? Isn't he just his usual self?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "There's no telling what will happen! All hands, stay alert! Sortie!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Okaaay! Aestivalis team, you're up toooo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "(She'll be here... With a scheme this big, she'll come in person...!)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Hm? While I was testing my collection in this space,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "they've already deployed their forces?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Commander Benmel, is it? You didn't make this space on your own!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "And you're going to tell me where you've hidden my assistant!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Heh heh heh, whatever do you mean!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Shouldn't you worry about yourself instead?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Today I'll finally add that Daitarn to my collection!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "What's with him? He's definitely a Meganoid, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Some kind of otaku?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Fool! I am no otaku! Call me a collector!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "...Ooh, Londo Bell has plenty of beautiful machines",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "that the Gandor's unit doesn't have...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Looks like the type who drifts off into his own little world...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Ah! Mustn't, mustn't... Right! Even if it takes my entire collection,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "I'll make every last one of you part of my new collection!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "I won't let things go the way you want...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Right. If you're collecting, I'd recommend a beauty like me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Ho ho ho, in that case, I'd prefer a younger girl.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Excuse me!? I'm only 21!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Omoikane, data search. ...She's shaving off two years.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "......Could we have a little chat later, Ruri-Ruri?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Depends on the terms. Anyway, we have a bigger problem.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "How long this space will last, maybe?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Correct. In ten... twelve minutes, to be exact, we return to normal space.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Then if we just hold out, won't we get back to where we were?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Is it really that simple?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Then it seems we can't just leave it alone and wait to return...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Right. There's no telling what the shock of the distortion ending will do.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "What are you all muttering about!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Nothing at all, Commander Benmel. Now, let's begin!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Where you took my assistant... and more importantly, I want the boss",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "behind you... to come out within twelve minutes...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "What was that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "I... I've been defeated...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Too bad. Your collection won't be growing after all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Nooooo... My... my precious collectiooon...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "He was kind of hard to hate, though...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Yes. But that's what becomes of someone",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "who can no longer control his own desires.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Th-that's...! The super-busty Meganoid!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "The Meganoid woman commander... we met on Mars.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "That's Diondra of the Meganoids, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "A trap this elaborate... I see, so a big fish does come out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "What!? So there were reinforcements after all!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Heh... So there were reinforcements!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "...I've been waiting to see you, Koros.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "What's that supposed to mean! ...Lady Koros, no need to come yourself...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "As I thought, Londo Bell has gathered its strength...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "It seems too much for Benmel alone.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Banjo... Why won't you understand the Don... no, the Meganoids?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "You are...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Enough! I will never forgive the Meganoids... or Don Zauser!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Banjo seems kind of different from usual...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "He was like that before too, when we fought the Meganoids on Mars...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "It seems there's nothing more to say... Prepare yourself, Banjo.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Too bad, Koros. I'm the stubborn type who never gives up!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "I haven't come without a plan, either...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "We'll see. Whatever your plan, you can't stop us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "...Oh, right, let me ask you one thing. Seen my assistant anywhere?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Whatever do you mean? Heh heh heh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "(If my hunch is right... Koros's plan is probably...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Ngh! ...If you insist on getting in the Don's way... then look at this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Noooo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Beauty! Koros... I knew it, you...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "That's... Banjo's...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "As I suspected... it seems this was all arranged.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Getting swallowed into another dimension here was no accident...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "That's dirty! A hostage!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Banjo! This woman's life is in my hands! Stop resisting!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Kyaaaah!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Killing one woman won't change anything!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "...I think it's a fine way to get Banjo's life.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Banjo! Run!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Banjo! Stop resisting! Or I'll crush this woman's head!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Banjo! Don't worry about me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Be quiet!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "I-I don't want to see Banjo taking orders from a woman like her!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "...Beauty... I'm sorry...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Huh!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Banjo!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "I'm not cool enough to save Beauty and beat Koros at the same time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "You don't mean... Banjo?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "I can't let this one chance slip away. I can't afford to.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Hey! Isn't there some way to save her!? Come on, Banjo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Beauty, when you die, I'll make it quick. You won't suffer.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Please do...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Koros... If anything, now that you've stopped moving is my chance...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "...Banjo's killing intent... It's real...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Banjo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "This isn't a game, Koros.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Kill her if you're going to kill her!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Stop it! Banjo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Beauty!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "...Ngh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Banjo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "......Very well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Huh? Eek!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "What!? She let the hostage go!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "...Banjo, I understand your resolve. But... is it truly resolve?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "What...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Isn't it just your self-righteousness, wanting to destroy the Don,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "me, and us Meganoids by any means necessary?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "What is she getting at...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Banjo?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "If that's so... then you are...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Get out of my sight, Koros.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "...Very well. That was a meaningful time, Banjo.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Next time we meet... I swear!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "...You can't kill me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Looks like that's all of them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Yeah. But how do we get out of this space...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "No need to worry. It's gradually returning to normal...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "It seems some force is correcting the space properly.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Huh!? So it'll return to normal soon?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Yes. In under ten minutes, we'll be back in normal space.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "The spatial distortion seems to be getting corrected as it reverts.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "What? Then there was no need to hurry at all!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "Feels like we rushed for nothing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "No, I suspect... Banjo?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "...Yes, it seems Koros arranged it that way.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Seems she doesn't want to owe us anything. That's just like her.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "I'm relieved to hear that. But Banjo, that was quite a performance.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Yeah! And Big Bro Rom played along with the act too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "You totally fooled me.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "You knew doing that would make the enemy let the hostage go, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Right, Brother?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Rom?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "No, I was serious.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Whaaat? Th-then that was...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "Yes. ...I was serious.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Th-then, if that Koros hadn't backed off...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Stop. You shouldn't ask any more than that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "It's fine. Like I said before,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "I'd hate to see Banjo do whatever someone like her tells him.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Heh, I'll never understand grown-ups.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Banjo... so, you know.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Yes, I'm glad you're safe... Beauty.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "(Such decisiveness... Impressive.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "Even if she is his own assistant, to build that much trust...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "...Still, something doesn't quite add up.)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "All right, everyone return to the ship.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "There's no telling what'll happen when the space reverts. Hurry!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Oh, right. The transport ship I came on",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "made an emergency landing at that base.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "I think the cargo's fine, so pick it up on your way.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "That's a help. ...Still, that was quite a holdup,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "just to pick up some supplies.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "Speaking of supplies... I got some from Nergal.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "New frames for the Aestivalis, ammo, that kind of thing.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "New frames!? Nice! I was just itching for a power-up!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "Speaking of supplies... I got some from Anaheim.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "New mobile suits, ammo, that kind of thing.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "Aw, man, mobile suits?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "You should've gotten something cool, like a Gekigan Frame!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "Well, we beat that collector creep. Wasn't a total waste, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "Still, the Meganoids... they're a frightening enemy...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "Nah... I'll crush their ambitions, no matter what.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "In the end... they're just Meganoids. They can't even rein in their egos...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "Failures, that's all. Right, Koros...?",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

@@ -1,0 +1,3766 @@
+{
+ "file": "MAP/TEST.MTI",
+ "format": "STRTAB",
+ "strings": [
+  {
+   "id": 0,
+   "va": "0x8",
+   "off": 8,
+   "en": "Outside",
+   "budget": 7,
+   "refs": 1,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "va": "0x8c",
+   "off": 140,
+   "en": "Green",
+   "budget": 7,
+   "refs": 2,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "va": "0x110",
+   "off": 272,
+   "en": "Green",
+   "budget": 7,
+   "refs": 2,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "va": "0x194",
+   "off": 404,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "va": "0x218",
+   "off": 536,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "va": "0x29c",
+   "off": 668,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "va": "0x320",
+   "off": 800,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "va": "0x3a4",
+   "off": 932,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "va": "0x428",
+   "off": 1064,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "va": "0x4ac",
+   "off": 1196,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "va": "0x530",
+   "off": 1328,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "va": "0x5b4",
+   "off": 1460,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "va": "0x638",
+   "off": 1592,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "va": "0x6bc",
+   "off": 1724,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "va": "0x740",
+   "off": 1856,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "va": "0x7c4",
+   "off": 1988,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "va": "0x848",
+   "off": 2120,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "va": "0x8cc",
+   "off": 2252,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "va": "0x950",
+   "off": 2384,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "va": "0x9d4",
+   "off": 2516,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "va": "0xa58",
+   "off": 2648,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "va": "0xadc",
+   "off": 2780,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "va": "0xb60",
+   "off": 2912,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "va": "0xbe4",
+   "off": 3044,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "va": "0xc68",
+   "off": 3176,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "va": "0xcec",
+   "off": 3308,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "va": "0xd70",
+   "off": 3440,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "va": "0xdf4",
+   "off": 3572,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "va": "0xe78",
+   "off": 3704,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "va": "0xefc",
+   "off": 3836,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "va": "0xf80",
+   "off": 3968,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "va": "0x1004",
+   "off": 4100,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "va": "0x19d0",
+   "off": 6608,
+   "en": "Plains",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "va": "0x1a54",
+   "off": 6740,
+   "en": "Plains",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "va": "0x1ad8",
+   "off": 6872,
+   "en": "Plains",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "va": "0x1b5c",
+   "off": 7004,
+   "en": "Plains",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "va": "0x1be0",
+   "off": 7136,
+   "en": "Plains",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "va": "0x2bdc",
+   "off": 11228,
+   "en": "Pasture",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "va": "0x2ef4",
+   "off": 12020,
+   "en": "Crag",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "va": "0x2f78",
+   "off": 12152,
+   "en": "Rocks",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "va": "0x2ffc",
+   "off": 12284,
+   "en": "Rocks",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "va": "0x3080",
+   "off": 12416,
+   "en": "Rocks",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "va": "0x3104",
+   "off": 12548,
+   "en": "Rocks",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "va": "0x3188",
+   "off": 12680,
+   "en": "Rocks",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "va": "0x320c",
+   "off": 12812,
+   "en": "Rocks",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "va": "0x3290",
+   "off": 12944,
+   "en": "Rocks",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "va": "0x3314",
+   "off": 13076,
+   "en": "Rocks",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "va": "0x3398",
+   "off": 13208,
+   "en": "Rocks",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "va": "0x341c",
+   "off": 13340,
+   "en": "Rocks",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "va": "0x34a0",
+   "off": 13472,
+   "en": "Rocks",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "va": "0x3524",
+   "off": 13604,
+   "en": "Rocks",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "va": "0x35a8",
+   "off": 13736,
+   "en": "Rocks",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "va": "0x362c",
+   "off": 13868,
+   "en": "Rocks",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "va": "0x36b0",
+   "off": 14000,
+   "en": "Rocks",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "va": "0x3734",
+   "off": 14132,
+   "en": "Rocks",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "va": "0x37b8",
+   "off": 14264,
+   "en": "Rocks",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "va": "0x383c",
+   "off": 14396,
+   "en": "Rocks",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "va": "0x38c0",
+   "off": 14528,
+   "en": "Rocks",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "va": "0x3944",
+   "off": 14660,
+   "en": "Wastes",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "va": "0x39c8",
+   "off": 14792,
+   "en": "Rough",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "va": "0x3a4c",
+   "off": 14924,
+   "en": "Rough",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "va": "0x3ad0",
+   "off": 15056,
+   "en": "Wastes",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "va": "0x3b54",
+   "off": 15188,
+   "en": "Rough",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "va": "0x3bd8",
+   "off": 15320,
+   "en": "Rough",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "va": "0x3c5c",
+   "off": 15452,
+   "en": "Rough",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "va": "0x3ce0",
+   "off": 15584,
+   "en": "Rough",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "va": "0x3d64",
+   "off": 15716,
+   "en": "Rough",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "va": "0x3de8",
+   "off": 15848,
+   "en": "Rough",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "va": "0x3e6c",
+   "off": 15980,
+   "en": "Wastes",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "va": "0x3ef0",
+   "off": 16112,
+   "en": "Dock",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "va": "0x3f74",
+   "off": 16244,
+   "en": "Dock",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "va": "0x3ff8",
+   "off": 16376,
+   "en": "Desert",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "va": "0x407c",
+   "off": 16508,
+   "en": "Desert",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "va": "0x4100",
+   "off": 16640,
+   "en": "Sand",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "va": "0x4184",
+   "off": 16772,
+   "en": "Beach",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "va": "0x4208",
+   "off": 16904,
+   "en": "Beach",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "va": "0x428c",
+   "off": 17036,
+   "en": "Concrete",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "va": "0x4310",
+   "off": 17168,
+   "en": "Concrete",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "va": "0x4394",
+   "off": 17300,
+   "en": "Base Area",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "va": "0x4418",
+   "off": 17432,
+   "en": "Base Area",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "va": "0x449c",
+   "off": 17564,
+   "en": "Base Area",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "va": "0x4520",
+   "off": 17696,
+   "en": "Base Area",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "va": "0x45a4",
+   "off": 17828,
+   "en": "Plant Area",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "va": "0x4628",
+   "off": 17960,
+   "en": "Overpass",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "va": "0x46ac",
+   "off": 18092,
+   "en": "Road",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "va": "0x4730",
+   "off": 18224,
+   "en": "Road",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "va": "0x47b4",
+   "off": 18356,
+   "en": "Road",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "va": "0x4838",
+   "off": 18488,
+   "en": "Road",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "va": "0x48bc",
+   "off": 18620,
+   "en": "Road",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "va": "0x4940",
+   "off": 18752,
+   "en": "Road",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "va": "0x49c4",
+   "off": 18884,
+   "en": "Road",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "va": "0x4a48",
+   "off": 19016,
+   "en": "Road",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "va": "0x4acc",
+   "off": 19148,
+   "en": "Road",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "va": "0x4b50",
+   "off": 19280,
+   "en": "Road",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "va": "0x4bd4",
+   "off": 19412,
+   "en": "Road",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "va": "0x4c58",
+   "off": 19544,
+   "en": "Road",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "va": "0x4cdc",
+   "off": 19676,
+   "en": "Road",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "va": "0x4d60",
+   "off": 19808,
+   "en": "Cobbles",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "va": "0x4de4",
+   "off": 19940,
+   "en": "Road",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "va": "0x5288",
+   "off": 21128,
+   "en": "Bldg",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "va": "0x530c",
+   "off": 21260,
+   "en": "Bldg",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "va": "0x5390",
+   "off": 21392,
+   "en": "Bldg",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "va": "0x5414",
+   "off": 21524,
+   "en": "Bldg",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "va": "0x5498",
+   "off": 21656,
+   "en": "Bldg",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "va": "0x551c",
+   "off": 21788,
+   "en": "Bldg",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "va": "0x55a0",
+   "off": 21920,
+   "en": "Bldg",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "va": "0x5624",
+   "off": 22052,
+   "en": "Bldg",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "va": "0x56a8",
+   "off": 22184,
+   "en": "Skyscraper",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "va": "0x572c",
+   "off": 22316,
+   "en": "Ruined Bldg",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "va": "0x57b0",
+   "off": 22448,
+   "en": "House",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "va": "0x5834",
+   "off": 22580,
+   "en": "House",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "va": "0x58b8",
+   "off": 22712,
+   "en": "Dam",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "va": "0x593c",
+   "off": 22844,
+   "en": "Dam",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "va": "0x59c0",
+   "off": 22976,
+   "en": "Dam",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "va": "0x5a44",
+   "off": 23108,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "va": "0x5ac8",
+   "off": 23240,
+   "en": "Base Facility",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "va": "0x5b4c",
+   "off": 23372,
+   "en": "Base Bldg.",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "va": "0x5bd0",
+   "off": 23504,
+   "en": "Base Facility",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "va": "0x5c54",
+   "off": 23636,
+   "en": "Base Bldg.",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "va": "0x5cd8",
+   "off": 23768,
+   "en": "Base Facility",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "va": "0x5d5c",
+   "off": 23900,
+   "en": "Base Bldg.",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "va": "0x5de0",
+   "off": 24032,
+   "en": "Base Facility",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "va": "0x5e64",
+   "off": 24164,
+   "en": "Complex",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "va": "0x5ee8",
+   "off": 24296,
+   "en": "Complex",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "va": "0x5f6c",
+   "off": 24428,
+   "en": "Complex",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "va": "0x5ff0",
+   "off": 24560,
+   "en": "Complex",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "va": "0x6074",
+   "off": 24692,
+   "en": "Factory",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "va": "0x60f8",
+   "off": 24824,
+   "en": "Factory",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "va": "0x617c",
+   "off": 24956,
+   "en": "Factory",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "va": "0x6200",
+   "off": 25088,
+   "en": "Military Base",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "va": "0x6284",
+   "off": 25220,
+   "en": "House",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "va": "0x6308",
+   "off": 25352,
+   "en": "Base Wall",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "va": "0x638c",
+   "off": 25484,
+   "en": "Base Wall",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "va": "0x6410",
+   "off": 25616,
+   "en": "Base Floor",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "va": "0x6494",
+   "off": 25748,
+   "en": "DmgWall",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "va": "0x6518",
+   "off": 25880,
+   "en": "BrkWall",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "va": "0x659c",
+   "off": 26012,
+   "en": "BrkFlr",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "va": "0x6620",
+   "off": 26144,
+   "en": "Abyss",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "va": "0x66a4",
+   "off": 26276,
+   "en": "Base Bldg.",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "va": "0x6728",
+   "off": 26408,
+   "en": "Base Wall",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "va": "0x67ac",
+   "off": 26540,
+   "en": "Base Wall",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "va": "0x6830",
+   "off": 26672,
+   "en": "Base Wall",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "va": "0x68b4",
+   "off": 26804,
+   "en": "Base Wall",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "va": "0x6938",
+   "off": 26936,
+   "en": "Energy Tank",
+   "budget": 23,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "va": "0x69bc",
+   "off": 27068,
+   "en": "Base Wall",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "va": "0x6a40",
+   "off": 27200,
+   "en": "Base Wall",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "va": "0x6ac4",
+   "off": 27332,
+   "en": "Base Floor",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "va": "0x6b48",
+   "off": 27464,
+   "en": "BrkWall",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "va": "0x6bcc",
+   "off": 27596,
+   "en": "DmgFlr",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "va": "0x6c50",
+   "off": 27728,
+   "en": "Base Facility",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "va": "0x6cd4",
+   "off": 27860,
+   "en": "Abyss",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "va": "0x6d58",
+   "off": 27992,
+   "en": "Energy Tank",
+   "budget": 23,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "va": "0x6ddc",
+   "off": 28124,
+   "en": "Base Floor",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "va": "0x6e60",
+   "off": 28256,
+   "en": "Base Floor",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "va": "0x6ee4",
+   "off": 28388,
+   "en": "Base Wall",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "va": "0x6f68",
+   "off": 28520,
+   "en": "Base Wall",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "va": "0x6fec",
+   "off": 28652,
+   "en": "Base Wall",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "va": "0x7070",
+   "off": 28784,
+   "en": "BrkWall",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "va": "0x70f4",
+   "off": 28916,
+   "en": "Base Floor",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "va": "0x7178",
+   "off": 29048,
+   "en": "Base Facility",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "va": "0x71fc",
+   "off": 29180,
+   "en": "Energy Tank",
+   "budget": 19,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "va": "0x7280",
+   "off": 29312,
+   "en": "Base Wall",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "va": "0x7304",
+   "off": 29444,
+   "en": "Base Wall",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "va": "0x7388",
+   "off": 29576,
+   "en": "Base Wall",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "va": "0x740c",
+   "off": 29708,
+   "en": "Base Floor",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "va": "0x7490",
+   "off": 29840,
+   "en": "BrkWall",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "va": "0x7514",
+   "off": 29972,
+   "en": "Base Bldg.",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "va": "0x7598",
+   "off": 30104,
+   "en": "Abyss",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "va": "0x761c",
+   "off": 30236,
+   "en": "Energy Tank",
+   "budget": 19,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "va": "0x76a0",
+   "off": 30368,
+   "en": "Base Wall",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "va": "0x7724",
+   "off": 30500,
+   "en": "Base Wall",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "va": "0x77a8",
+   "off": 30632,
+   "en": "Base Wall",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "va": "0x782c",
+   "off": 30764,
+   "en": "Base Floor",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "va": "0x78b0",
+   "off": 30896,
+   "en": "Abyss",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "va": "0x7934",
+   "off": 31028,
+   "en": "Base Bldg.",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "va": "0x79b8",
+   "off": 31160,
+   "en": "BrkWall",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "va": "0x7a3c",
+   "off": 31292,
+   "en": "Energy Tank",
+   "budget": 19,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "va": "0x7ac0",
+   "off": 31424,
+   "en": "Abyss",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "va": "0x8384",
+   "off": 33668,
+   "en": "Lake",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "va": "0x8408",
+   "off": 33800,
+   "en": "Frozen Lake",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "va": "0x848c",
+   "off": 33932,
+   "en": "Frozen Lake",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "va": "0x8594",
+   "off": 34196,
+   "en": "Cyber Beast HQ",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "va": "0x8618",
+   "off": 34328,
+   "en": "Cyber Beast HQ",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "va": "0x869c",
+   "off": 34460,
+   "en": "Saotome Lab",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "va": "0x8720",
+   "off": 34592,
+   "en": "Saotome Lab",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "va": "0x87a4",
+   "off": 34724,
+   "en": "Saotome Lab",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "va": "0x8828",
+   "off": 34856,
+   "en": "Photon Lab",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "va": "0x88ac",
+   "off": 34988,
+   "en": "Photon Lab",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "va": "0x8930",
+   "off": 35120,
+   "en": "Sci. Fortress",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "va": "0x89b4",
+   "off": 35252,
+   "en": "Space Sci. Lab",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "va": "0x8a38",
+   "off": 35384,
+   "en": "Space Sci. Lab",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "va": "0x8abc",
+   "off": 35516,
+   "en": "Nanbara Connection",
+   "budget": 19,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "va": "0x8b40",
+   "off": 35648,
+   "en": "Nanbara Connection",
+   "budget": 23,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "va": "0x8c48",
+   "off": 35912,
+   "en": "Shinmen",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "va": "0x8ccc",
+   "off": 36044,
+   "en": "Mutron Lab",
+   "budget": 19,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "va": "0x8d50",
+   "off": 36176,
+   "en": "Big Shell",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "va": "0x8dd4",
+   "off": 36308,
+   "en": "Shrine",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "va": "0x8e58",
+   "off": 36440,
+   "en": "Stairs",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "va": "0x8edc",
+   "off": 36572,
+   "en": "Tower",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "va": "0x8f60",
+   "off": 36704,
+   "en": "Teleporter",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "va": "0x8fe4",
+   "off": 36836,
+   "en": "Excavation",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "va": "0x9068",
+   "off": 36968,
+   "en": "Excavation",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "va": "0x90ec",
+   "off": 37100,
+   "en": "Lady Liberty",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "va": "0x9170",
+   "off": 37232,
+   "en": "Castle Uroporos",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "va": "0x91f4",
+   "off": 37364,
+   "en": "Drydock",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "va": "0x9278",
+   "off": 37496,
+   "en": "Castle Drake",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "va": "0x92fc",
+   "off": 37628,
+   "en": "Turret",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "va": "0x9380",
+   "off": 37760,
+   "en": "Teleporter",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "va": "0x9404",
+   "off": 37892,
+   "en": "Arena",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "va": "0x9488",
+   "off": 38024,
+   "en": "Moai Statue",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "va": "0x950c",
+   "off": 38156,
+   "en": "Moai Statue",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "va": "0x9590",
+   "off": 38288,
+   "en": "Moai Statue",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "va": "0x9614",
+   "off": 38420,
+   "en": "Marsh",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "va": "0x9698",
+   "off": 38552,
+   "en": "Mushroom Forest",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "va": "0x971c",
+   "off": 38684,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "va": "0x97a0",
+   "off": 38816,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "va": "0x992c",
+   "off": 39212,
+   "en": "Fort. Tower",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "va": "0x99b0",
+   "off": 39344,
+   "en": "Abyss",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "va": "0x9a34",
+   "off": 39476,
+   "en": "Pyramid",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "va": "0x9ab8",
+   "off": 39608,
+   "en": "Pyramid",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "va": "0x9b3c",
+   "off": 39740,
+   "en": "Pyramid",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "va": "0x9bc0",
+   "off": 39872,
+   "en": "Ruined Pyramid",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "va": "0x9c44",
+   "off": 40004,
+   "en": "Block",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "va": "0x9cc8",
+   "off": 40136,
+   "en": "Mind Controller",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "va": "0x9d4c",
+   "off": 40268,
+   "en": "Castle",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "va": "0x9dd0",
+   "off": 40400,
+   "en": "3-Face Oni Rock",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "va": "0x9e54",
+   "off": 40532,
+   "en": "Diore's Hall",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "va": "0x9ed8",
+   "off": 40664,
+   "en": "Ruins",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "va": "0x9f5c",
+   "off": 40796,
+   "en": "Pillar",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "va": "0x9fe0",
+   "off": 40928,
+   "en": "Pillar",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "va": "0xa064",
+   "off": 41060,
+   "en": "Throne",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "va": "0xa0e8",
+   "off": 41192,
+   "en": "Diore's Hall",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "va": "0xa16c",
+   "off": 41324,
+   "en": "Ruins",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "va": "0xa1f0",
+   "off": 41456,
+   "en": "Plants",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "va": "0xa274",
+   "off": 41588,
+   "en": "Plants",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "va": "0xa2f8",
+   "off": 41720,
+   "en": "Plants",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "va": "0xa37c",
+   "off": 41852,
+   "en": "Plants",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "va": "0xa400",
+   "off": 41984,
+   "en": "Atmo Shrine",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "va": "0xa484",
+   "off": 42116,
+   "en": "Nanafushi",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "va": "0xa508",
+   "off": 42248,
+   "en": "Gundam Head",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "va": "0xa58c",
+   "off": 42380,
+   "en": "Gundam Head",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "va": "0xa610",
+   "off": 42512,
+   "en": "Muge",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "va": "0xa694",
+   "off": 42644,
+   "en": "Devil Colony Floor",
+   "budget": 19,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "va": "0xa718",
+   "off": 42776,
+   "en": "DG Cells",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "va": "0xa79c",
+   "off": 42908,
+   "en": "Meganoid Base",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "va": "0xa820",
+   "off": 43040,
+   "en": "SkyFort",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "va": "0xa8a4",
+   "off": 43172,
+   "en": "Mars Settlement",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "va": "0xa928",
+   "off": 43304,
+   "en": "Polar Cap Ruins",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "va": "0xa9ac",
+   "off": 43436,
+   "en": "Mars Ground",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "va": "0xaa30",
+   "off": 43568,
+   "en": "Mars Ground",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "va": "0xaab4",
+   "off": 43700,
+   "en": "Mars Ground",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "va": "0xab38",
+   "off": 43832,
+   "en": "Mars Ground",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "va": "0xabbc",
+   "off": 43964,
+   "en": "Mars Ground",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "va": "0xac40",
+   "off": 44096,
+   "en": "Base Facility",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "va": "0xacc4",
+   "off": 44228,
+   "en": "Snow",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "va": "0xad48",
+   "off": 44360,
+   "en": "Snow",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "va": "0xadcc",
+   "off": 44492,
+   "en": "Snow",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "va": "0xae50",
+   "off": 44624,
+   "en": "Snow",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 258,
+   "va": "0xaed4",
+   "off": 44756,
+   "en": "Snow Mt",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "va": "0xaf58",
+   "off": 44888,
+   "en": "Near Ruins",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "va": "0xafdc",
+   "off": 45020,
+   "en": "Tulip",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 261,
+   "va": "0xb060",
+   "off": 45152,
+   "en": "Outer Space",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 262,
+   "va": "0xb0e4",
+   "off": 45284,
+   "en": "Outer Space",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 263,
+   "va": "0xb168",
+   "off": 45416,
+   "en": "Outer Space",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 264,
+   "va": "0xb1ec",
+   "off": 45548,
+   "en": "Debris Zone",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 265,
+   "va": "0xb270",
+   "off": 45680,
+   "en": "Outer Space",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 266,
+   "va": "0xb2f4",
+   "off": 45812,
+   "en": "Outer Space",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 267,
+   "va": "0xb378",
+   "off": 45944,
+   "en": "Outer Space",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 268,
+   "va": "0xb3fc",
+   "off": 46076,
+   "en": "Outer Space",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 269,
+   "va": "0xb480",
+   "off": 46208,
+   "en": "Outer Space",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 270,
+   "va": "0xb504",
+   "off": 46340,
+   "en": "Outer Space",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 271,
+   "va": "0xb588",
+   "off": 46472,
+   "en": "Outer Space",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 272,
+   "va": "0xb60c",
+   "off": 46604,
+   "en": "Outer Space",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 273,
+   "va": "0xb690",
+   "off": 46736,
+   "en": "Outer Space",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 274,
+   "va": "0xb714",
+   "off": 46868,
+   "en": "Outer Space",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 275,
+   "va": "0xb798",
+   "off": 47000,
+   "en": "Outer Space",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 276,
+   "va": "0xb81c",
+   "off": 47132,
+   "en": "Outer Space",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 277,
+   "va": "0xb8a0",
+   "off": 47264,
+   "en": "Outer Space",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 278,
+   "va": "0xb924",
+   "off": 47396,
+   "en": "Outer Space",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 279,
+   "va": "0xb9a8",
+   "off": 47528,
+   "en": "Outer Space",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 280,
+   "va": "0xba2c",
+   "off": 47660,
+   "en": "Outer Space",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 281,
+   "va": "0xbab0",
+   "off": 47792,
+   "en": "Outer Space",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 282,
+   "va": "0xbb34",
+   "off": 47924,
+   "en": "Outer Space",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 283,
+   "va": "0xbbb8",
+   "off": 48056,
+   "en": "Outer Space",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 284,
+   "va": "0xbc3c",
+   "off": 48188,
+   "en": "Outer Space",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 285,
+   "va": "0xbcc0",
+   "off": 48320,
+   "en": "Outer Space",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 286,
+   "va": "0xbd44",
+   "off": 48452,
+   "en": "Outer Space",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 287,
+   "va": "0xbdc8",
+   "off": 48584,
+   "en": "Outer Space",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 288,
+   "va": "0xbe4c",
+   "off": 48716,
+   "en": "Outer Space",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 289,
+   "va": "0xbed0",
+   "off": 48848,
+   "en": "Outer Space",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 290,
+   "va": "0xbf54",
+   "off": 48980,
+   "en": "Outer Space",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 291,
+   "va": "0xbfd8",
+   "off": 49112,
+   "en": "Outer Space",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 292,
+   "va": "0xc05c",
+   "off": 49244,
+   "en": "Outer Space",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 293,
+   "va": "0xc0e0",
+   "off": 49376,
+   "en": "Outer Space",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 294,
+   "va": "0xc164",
+   "off": 49508,
+   "en": "Debris Zone",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 295,
+   "va": "0xc1e8",
+   "off": 49640,
+   "en": "Einst Space",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 296,
+   "va": "0xc26c",
+   "off": 49772,
+   "en": "Tulip",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 297,
+   "va": "0xc2f0",
+   "off": 49904,
+   "en": "Stone Circle",
+   "budget": 23,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 298,
+   "va": "0xc374",
+   "off": 50036,
+   "en": "Stone Circle",
+   "budget": 19,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 299,
+   "va": "0xc3f8",
+   "off": 50168,
+   "en": "Stone Circle",
+   "budget": 23,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 300,
+   "va": "0xc47c",
+   "off": 50300,
+   "en": "Stone Circle",
+   "budget": 19,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 301,
+   "va": "0xc500",
+   "off": 50432,
+   "en": "Beam Pot",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 302,
+   "va": "0xc584",
+   "off": 50564,
+   "en": "Barrier Sat",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 303,
+   "va": "0xc608",
+   "off": 50696,
+   "en": "Barrier",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 304,
+   "va": "0xc68c",
+   "off": 50828,
+   "en": "Barrier",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 305,
+   "va": "0xc710",
+   "off": 50960,
+   "en": "Barrier",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 306,
+   "va": "0xc794",
+   "off": 51092,
+   "en": "Barrier",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 307,
+   "va": "0xc818",
+   "off": 51224,
+   "en": "Debris",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 308,
+   "va": "0xc89c",
+   "off": 51356,
+   "en": "Outer Space",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 309,
+   "va": "0xc9a4",
+   "off": 51620,
+   "en": "Supply Pod",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 310,
+   "va": "0xca28",
+   "off": 51752,
+   "en": "Derelict Colony",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 311,
+   "va": "0xcaac",
+   "off": 51884,
+   "en": "Axis",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 312,
+   "va": "0xcb30",
+   "off": 52016,
+   "en": "Solomon",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 313,
+   "va": "0xcbb4",
+   "off": 52148,
+   "en": "Tulip",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 314,
+   "va": "0xcc38",
+   "off": 52280,
+   "en": "Moon",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 315,
+   "va": "0xccbc",
+   "off": 52412,
+   "en": "Moon",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 316,
+   "va": "0xcd40",
+   "off": 52544,
+   "en": "Moon",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 317,
+   "va": "0xcdc4",
+   "off": 52676,
+   "en": "Moon",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 318,
+   "va": "0xce48",
+   "off": 52808,
+   "en": "Moon",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 319,
+   "va": "0xcf50",
+   "off": 53072,
+   "en": "Anaheim",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 320,
+   "va": "0xcfd4",
+   "off": 53204,
+   "en": "Skull Moon Base",
+   "budget": 19,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 321,
+   "va": "0xd058",
+   "off": 53336,
+   "en": "Complex",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 322,
+   "va": "0xd0dc",
+   "off": 53468,
+   "en": "Base Area",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 323,
+   "va": "0xd160",
+   "off": 53600,
+   "en": "Complex",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 324,
+   "va": "0xd1e4",
+   "off": 53732,
+   "en": "Base Area",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 325,
+   "va": "0xd268",
+   "off": 53864,
+   "en": "Abyss",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 326,
+   "va": "0xd2ec",
+   "off": 53996,
+   "en": "House",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 327,
+   "va": "0xd370",
+   "off": 54128,
+   "en": "Nergal Facility",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 328,
+   "va": "0xd3f4",
+   "off": 54260,
+   "en": "Nergal Facility",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 329,
+   "va": "0xd478",
+   "off": 54392,
+   "en": "Lunar Dock",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 330,
+   "va": "0xd4fc",
+   "off": 54524,
+   "en": "Base Bldg.",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 331,
+   "va": "0xd580",
+   "off": 54656,
+   "en": "Base Area",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 332,
+   "va": "0xd604",
+   "off": 54788,
+   "en": "Base Area",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 333,
+   "va": "0xd70c",
+   "off": 55052,
+   "en": "Cylinder",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 334,
+   "va": "0xd790",
+   "off": 55184,
+   "en": "Cylinder (Damaged)",
+   "budget": 23,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 335,
+   "va": "0xd814",
+   "off": 55316,
+   "en": "Dock",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 336,
+   "va": "0xd898",
+   "off": 55448,
+   "en": "Dock",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 337,
+   "va": "0xd9a0",
+   "off": 55712,
+   "en": "Mirror",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 338,
+   "va": "0xdb2c",
+   "off": 56108,
+   "en": "Grass",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 339,
+   "va": "0xdcb8",
+   "off": 56504,
+   "en": "Bldg",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 340,
+   "va": "0xdd3c",
+   "off": 56636,
+   "en": "Base Area",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 341,
+   "va": "0xddc0",
+   "off": 56768,
+   "en": "Road",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 342,
+   "va": "0xde44",
+   "off": 56900,
+   "en": "Road",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 343,
+   "va": "0xdfd0",
+   "off": 57296,
+   "en": "DmnIsle",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 344,
+   "va": "0xe054",
+   "off": 57428,
+   "en": "DmnIsle",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 345,
+   "va": "0xe0d8",
+   "off": 57560,
+   "en": "DmnIsle",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 346,
+   "va": "0xe15c",
+   "off": 57692,
+   "en": "DmnIsle",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 347,
+   "va": "0xe1e0",
+   "off": 57824,
+   "en": "DmnIsle",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 348,
+   "va": "0xe36c",
+   "off": 58220,
+   "en": "Ruined Grnd",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 349,
+   "va": "0xe3f0",
+   "off": 58352,
+   "en": "Road",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 350,
+   "va": "0xe474",
+   "off": 58484,
+   "en": "Ruined Grnd",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 351,
+   "va": "0xe57c",
+   "off": 58748,
+   "en": "Cave",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 352,
+   "va": "0xe600",
+   "off": 58880,
+   "en": "Volcano",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 353,
+   "va": "0xe684",
+   "off": 59012,
+   "en": "Volcano",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 354,
+   "va": "0xe708",
+   "off": 59144,
+   "en": "Lava",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 355,
+   "va": "0xe78c",
+   "off": 59276,
+   "en": "Crater",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 356,
+   "va": "0xe810",
+   "off": 59408,
+   "en": "Nanafushi",
+   "budget": 15,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 357,
+   "va": "0xe99c",
+   "off": 59804,
+   "en": "Passage",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 358,
+   "va": "0xeaa4",
+   "off": 60068,
+   "en": "BigTree",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 359,
+   "va": "0xeb28",
+   "off": 60200,
+   "en": "Library",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 360,
+   "va": "0xebac",
+   "off": 60332,
+   "en": "Shelves",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 361,
+   "va": "0xecb4",
+   "off": 60596,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 362,
+   "va": "0xedbc",
+   "off": 60860,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 363,
+   "va": "0xf0d4",
+   "off": 61652,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 364,
+   "va": "0xf1dc",
+   "off": 61916,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 365,
+   "va": "0xf2e4",
+   "off": 62180,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 366,
+   "va": "0xf3ec",
+   "off": 62444,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 367,
+   "va": "0xf578",
+   "off": 62840,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 368,
+   "va": "0xf5fc",
+   "off": 62972,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 369,
+   "va": "0xf704",
+   "off": 63236,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 370,
+   "va": "0xf80c",
+   "off": 63500,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 371,
+   "va": "0xf914",
+   "off": 63764,
+   "en": "Green",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 372,
+   "va": "0xfa1c",
+   "off": 64028,
+   "en": "Trail",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 373,
+   "va": "0xfb24",
+   "off": 64292,
+   "en": "Rocks",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 374,
+   "va": "0xfec0",
+   "off": 65216,
+   "en": "Bldg",
+   "budget": 7,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  },
+  {
+   "id": 375,
+   "va": "0xff44",
+   "off": 65348,
+   "en": "Ruined Road",
+   "budget": 11,
+   "refs": 0,
+   "kind": "terrain",
+   "keep": false
+  }
+ ]
+}

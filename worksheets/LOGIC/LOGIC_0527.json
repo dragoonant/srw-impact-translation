@@ -1,0 +1,1045 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1319,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Around here? The place where there were all those Meganoid readings...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Nothing looks weird around here... Hey, Big Bro! Look at that!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Hm... What!? There's a base built there!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "I never imagined you would act this quickly.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "But this is as far as you go...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "With this base as their foundation, the Meganoids will take Mars...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "and then the entire Earth Sphere.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Koros, that's quite a bold claim. It's not like you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": ".........The time has come. Banjo, if only you would...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Enough! I'll never forgive you Meganoids!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Or anyone who gave up fighting themselves, as the Meganoids did!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "...I see... By becoming cyborgs, they ran from their own weakness...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Still... Banjo's a little scary...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "(So there is something to it after all...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "...So that's how it is... If you die here, Don will surely grieve...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "But it can't be helped.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Isn't that one of those giant cyborgs, a Megaborg!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Before, it was a cyborg that grew giant... but there are several of them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "What the heck? Do these Meganoids have a ton of brothers or something!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "No. As Chizuru said, a Megaborg is a Meganoid",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Commander that has grown giant...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Those are probably just robots built from Megaborg data.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Though their abilities are likely equal to or greater than the originals'.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "They were built later, after all.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Oho, what a generous welcome...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "But Koros, I don't see any of the other Commanders.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Rather thin defenses for the Meganoids' main base.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "...Each of them has a mission. Besides... you underestimate me...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Aww, it got bigger again! I want one of those...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "What part of that is there to envy!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "I think you'll stay calmer if you don't listen to her.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "In any case, it seems a battle can't be avoided after all...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "The ruins worry me, but if we don't hit this, the colony base is in danger.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "That one's growing giant too!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Do you think there is any stronger defense than my presence here?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "True... It seems worthy of being their main base...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Looks like this is the moment of truth...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Now, I shall face you personally. Are you prepared?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "...Heh... Ha ha ha, ha ha ha ha!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "B-Banjo!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Banjo, what is so funny!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Koros... You really are quite the schemer.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "The defenses here certainly seem airtight...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Princess Romina, it seems we've been tricked.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "What...? But weren't we going to attack the Meganoid base...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Yeah, what do you mean we've been tricked?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "...This base is a decoy. To lure us in.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "A decoy...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Yes. The defenses here against us are more than enough.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "It's as if this place was built for that purpose alone...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "And Koros, the biggest bait of all, is guarding it personally...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "But...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "The other Commanders aren't here... And most of all...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Right... Koros, if this is your main base...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "then where is Don... Where is Don Zauser!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Don Zauser... That brain bastard! Yeah, he's nowhere to be seen.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "So we fell right into their trap...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "...It seems I'm not much of an actor...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "But Banjo, that doesn't change the fact that you've fallen into my trap.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "At least die in peace.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Heh, like things are gonna go your way that easily!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "We're busy here. We can't afford to waste time getting held up by you...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Let's go, everyone!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Leave it to me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Everyone, prepare to launch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Aestivalis team, please prepare to launch as well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Let's wrap this up fast and get to the polar cap.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Yeah, yeah, aren't you the hard worker.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Aestivalis team, ready to launch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Bait or not, a force this large...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "must matter a lot to the Meganoids, now that they're moving in earnest.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Koros, that was far too big a force to use as a decoy.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "What do you mean, Banjo...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Simple... because it's all getting wiped out here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "That's right. Banjo, give us the usual!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "For the world, for its people, Daitarn 3 smashes the Meganoids' ambitions!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "If you don't fear the brilliance of the sun... then come and get me!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "What's wrong, Koros?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "You're not foolish enough to think this is enough to stop us!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Whoa, whoa, so that means...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "There's more enemies still...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Heh heh... As expected of Banjo. It seems you know",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "our Meganoid tactics well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "...But did you foresee this...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Sending out a second wave so confidently... Hm, what's that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "There's a Daitarn among the enemy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "...E-Even a fake would do. I want one...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Yamada, what are you saying at a time like this!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "...Where would you even park it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "But hey, isn't it kinda small!? It's gotta be full scale, y'know!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "That's not the point...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "How about it, Banjo...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "With the Meganoids' abilities, building your precious Daitarn is easy...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "And of course, it has enhancements your Daitarn doesn't.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Making a fake copy of your opponent... What bad taste!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Lenny's right... Koros, that's the very symbol of Meganoid folly!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "What did you say...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "...What does he mean...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "No matter how closely you imitate and improve on the original...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "a copy can never surpass the original!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "In the end, they only see the surface of things, Princess Romina.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "You certainly say what you like, Banjo.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "That you Meganoids are no match for humans...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "I'll prove it by defeating that Daitarn!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "...All of you, go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Oho, you really were lying in wait for us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "This is no time to be impressed, Banjo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "...Hyoma! I've picked up new enemy signals!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Tch... The Meganoids were still hiding more forces!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "No... These... seem to be Gaizok forces.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Confirmed here too. It's a Mecha Boost unit.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Oh, that tacky mothership isn't with them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Anyway, get ready to deal with the Gaizok too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "The Gaizok...? Hey, Kappei!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Those guys, coming all the way out here to stir up trouble...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "They're gonna pay for this!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Could they have teamed up with the Meganoids...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "I don't think so.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "As you know, the Gaizok's goal seems to be wiping out all living things.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "That's at odds with the Meganoids, who want to rule humanity.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "That said, it seems the Meganoids intend to ignore the Gaizok",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "in order to inflict damage on us...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Either way, the fact remains that there are more enemies now...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Everyone, please be careful...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Even the Gaizok are showing up... Big Bro, are we gonna be okay?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Quit your whining! We've just gotta do it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "That's right, Mike, don't lose heart! Have faith!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "If only... there were something I could do to help...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Princess...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": ".........Hm? ...Princess! Looks like your wish got through!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "What...? That's...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Tobikage...! Its mobility is amazing every time I see it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "You came for us!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Seriously, what a lifesaver...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "All right! Listen up, small fry, the real fight starts now!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Th... This can't be...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "This is the end, Koros! I told you from the start.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "A force this size can't stop us!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Banjo... With this much ability, why...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "It's not just my power.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "This is the power of the humans you're trying to rule!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "It seems I've lost this round. ...But I will surely make Don's dream real.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Is that okay? We let 'em get away, you know?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "In war, one must not pursue too far.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Rather than chase them rashly, it's best to quickly settle things here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "All right, let's clean up the remaining enemies!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "It seems... it's over.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Yeah. We beat their forces, but... they played us perfectly.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Luring us out... What were the Meganoids after?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "There's only one reason to use a decoy. Most likely...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "There must be something they don't want us to find.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Something they don't want us to find? Like what?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Those ruins... no doubt about it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Then why don't we just head there now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "We cannot... First we must ensure the safety of the people of Mars...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "That's right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Either way, Mars is like the Meganoids' backyard.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "We can't let our guard down from here on...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "No way! Mars is like our hometown!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Like I'd let the Meganoids do whatever they want with it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Joe...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "That's right, we have to protect Mars.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Right... Mars is Yurika's and my hometown... I won't hand it over...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Akito...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "...But what the Gaizok are up to is creepy too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "The Gaizok earlier seemed to be a raiding party... but it's unsettling.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Whatever the case, we'd better get moving to the next spot.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Indeed. Everyone, please return to the Elshank.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Gotcha. ...Hm, Banjo?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "(...Koros... Can't you see the folly of going blind to all else for love...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Or that this is the limit of the Meganoids. That's why... I...)",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

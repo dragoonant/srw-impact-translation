@@ -1,0 +1,823 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1777,
+ "strings": [
+  {
+   "id": 0,
+   "en": "Is that true!? Kamille?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Y-yes. That big Zaku-headed mobile armor...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "I think they called it the Apsaras Project,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "and the name of the Zeon official in charge was...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Ginias Sahalin...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Huh, what's wrong?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Well, when I escaped the Jaburo facility, I intercepted Zeon comms...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "and apparently a name I happened to hear belongs to",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "someone Lieutenant Amada knows.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Someone he knows? Who?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "...Kamille, report this to Commander Hazuki.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "We might be able to find the base of Zeon's ground forces...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Understood.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Oh, Kamille, I'll come too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Lieutenant Amada...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "...Ginias Sahalin... the same surname as Aina...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "This is it. The spot Garrison mentioned...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "A string of disappearances around here...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "But in the middle of a war, what are we even doing here?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Who knows. But they said this mission came from Banjo.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "As his assistants, we have to do what the boss says.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Why doesn't Banjo go himself?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Honestly, he just couldn't be bothered, I bet.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Huh? But Big Bro Banjo said something about the Daitarn...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "...After the last battle on Mars, under pressure from the Federation,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "the Daitarn was scrapped. You were there, weren't you?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "He blew it up in style, didn't he. Ah...! Reika, Toppo!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "I see it, a suspicious building!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Where, where... Whoa!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Toppo!? ...Ahh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "So, here you were...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Hahaha... Magnificent! Truly, truly magnificent...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "With your power, this Earth will...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Now I must do something about the one inside.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "This old body of mine cannot take his place...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "That one is needed after all...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Glad you've all gathered. I want to explain our next moves.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "How's the war going?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Well, I made contact with Captain Bright.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "In space... the fight against the Vega Star Federation and Gaizok goes on.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Hey, for all that, they never come down to Earth.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Yeah, true, Big Bro. Never seen 'em.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Partly because Londo Bell is holding an absolute defense line,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "but we can't see what they're after.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Anyway, they don't seem intent on descending to Earth to do anything.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Seems like they're probing for something. For what, I don't know...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Hold on. But Za Boom and the Bunker, was it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "They came down, didn't they?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Because those groups have warp drive. Even we can't stop that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Warp drive, huh. Wish we had something that handy.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Straight to the enemy's base in one jump.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "True, however great the Gandor is, there's nothing it can do about that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "A different level of civilization, then.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "For now we're holding our own, but who knows how it'll go...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Warp, huh. Doesn't really click for me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Hey, Princess Romina? The Elshank has one, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Oh, yes. You mean wormhole navigation.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Short-range warps we call micro-worm navigation.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Princess. This is hard to say at such a time, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "What is it, Gameran? Is something troubling you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Yes. The Elshank's fuel is about to run dry...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Then the Elshank won't be able to move?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Not right away... but eventually.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Hold on. Can't we just get resupplied somewhere?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "This is why barbarians are such trouble.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "What'd you say!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "The Elshank runs on a special substance",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "called Kirhasium.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Resupply? As if such a thing exists on Earth!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Grr...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Kirhasium does exist on Earth.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "However, with Earth's current science, Kirhasium",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "can't be fully refined...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Is there nothing that can be done? Commander Hazuki?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "We do have Photon Power energy, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Couldn't that do the trick?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "We've got Photon Power energy, if that'd work...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "I doubt it can substitute.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "How long will the fuel last?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "For a while, it'll be fine.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "I have an idea. We may be able to obtain some.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Is that true!? Commander Hazuki.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Yes. However, the Gandor Team is mid-operation.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "We'll put our current mission first for now... Is that acceptable?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "You sure? It's not gonna run out of gas and stall on us, is it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "\"Out of gas\" sounds kinda weird somehow...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Geez, who cares about that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Thank you... Commander Hazuki. We cause you nothing but trouble...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "No need to be so formal. Please raise your head, Princess Romina.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Kyahaha! Kotaro's flustered, he's flustered!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Cham! Don't tease! And don't call the Commander by his first name.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "...Honestly, who knows what Fujiwara or Yuki would say if they saw this...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Also, bad news. ...That mystery enemy has turned up in space too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "So it's not just a ground force? Then where are they coming from?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "...I honestly have no idea what's going on.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "For now, all we can do is crush what we can see, one at a time.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Commander... about Zeon's secret base...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "There's that too... Kamille's info let us roughly pinpoint it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "The mountains of Southeast Asia look suspicious.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Commander Hazuki! Emergency transmission!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "What is it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Over New York...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "a force thought to be those Aura Battlers has appeared...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Did Drake open the Aura Road!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "And also... in the desert of the Central Asia region...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "a direct military SOS went out... and vanished at once!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Another full plate... Gimme a break.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Right, Gandor, launch. Everyone, return to your stations!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "See? It was a girl's voice, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Yeah, but others besides me heard her voice too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Huh? Really? What's that mean? I thought only we could hear?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "No idea... That may be true of the Einst voices,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "but that girl's voice, others seem to hear it sometimes too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "So maybe she's talking so we'll hear on purpose...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Not that I get it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "And why does she know about me?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "I'd like to know that myself! Nothing makes any sense.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Right... We'll run into her again eventually... but it bugs me...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "You've got me, and you're worried about that girl!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "That's not it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Kidding...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Anyway, Alchemie... I feel like I know her somehow.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Yeah... I had that feeling too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Oh, I need to get ready to sortie soon...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Got it... I'll call if I learn anything... Later.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Hey...! Geez! I'm about to sortie, and he can't even say",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "something a little sweet...",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

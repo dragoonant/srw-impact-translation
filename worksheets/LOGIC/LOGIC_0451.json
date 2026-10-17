@@ -1,0 +1,1441 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1105,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Oh my, the enemy's come to greet us in person... How very hospitable.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Heh, we'll beat you guys into the ground with the Zambot 3!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Trying to slam a whole planet into Earth... What a crazy idea!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Enemies are still after La Mu's star, and others won't show themselves...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "We can't get held up in a place like this...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Heh... Hahahaha...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "What's so funny!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "I don't like that guy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "This planet Dirad... Nothing can stop it now...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Dirad... So this planet is called Dirad...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Whatever you foolish Earthlings do, it is futile.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Oh...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Banjo?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Shapiro Keats coming to greet us himself? I'm honored.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "\"Foolish Earthlings\"... Wouldn't that describe you, the man who defected",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "to the Muge Zorbados Empire?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Heh... Are you trying to provoke me? Banjo Haran, was it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "I gave up on an Earth that only raises fools and casts them into space.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "\"Casts fools into space\"...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "If that's true, then that would make you one of them.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Not quite.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "There was also a fool who tried to create a new humanity on Mars,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "and only ended up giving Earth more enemies.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Big words. They're going to cost you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "This creep gets on my nerves every time he talks! Kappei! Let him have it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Before I take you down, I want an answer! What are you after!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Earth and this planet are both gonna get smashed!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Heh... I have no need to answer... You'll all die here anyway.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "We'll see about that...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "For the world and its people, Daitarn 3 smashes the ambitions of evil!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "If you don't fear the brilliance of the sun... come and get me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "...I needn't trouble myself with you... Do your best... Hahahaha.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "What the heck!? Dang it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Sitting back and watching from up there, like he's so cool!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "If that's how he wants it, we'll just drag him out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Gwaaaah!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Ilbora... This is the end...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Damn... you... Uoooooh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Huh? Where the heck did these guys come from?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "...Those are from the Za Boom Army...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Damn it! You show up outta nowhere and then just run around!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Ah! Joe, look!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Big Bro! It's Londo Bell!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Hm! If the Ninja Team's shown up, then...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "So most of the heat sources are... here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "That's...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "The Gandor! You saved us!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Shazara!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Princess...! I'm so glad you're safe!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "We don't go down that easily.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Let's go out, Roll.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "All right, time to cut loose!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Zambot 3... It's been a while.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Heh, Kyosuke, Big Bro, you're as unfriendly as ever.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Mind your own business.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Where's Raideen!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Akira!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Enjoy your space trip? Akira!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Guys! ...I've been busy. The fun part's still ahead, Mister.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Master Banjo, how are things proceeding?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Just as you see, Garrison.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "We're aware of the operation! Sorry we're late.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "No, we've held on with a small elite team. ...Still, we're grateful.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Where are the others!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "What happened to the group that went into the planet's core!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "With the Nadesico's capabilities, the worst case seems unlikely, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "The Mazinger team and Duke's group are with them, so they're okay!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "We... only saw Umon and the others pushing deeper inside.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Can't you get through to the Nadesico ladies either!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Sadly, no... I hoped the magnetic field would weaken a little once inside.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Anyway, if they headed for the core, things are going to plan for now!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "...Heh... Fools. Half-baked optimism is meaningless.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Sara...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Looks like he's real pleased with himself, leading all those Muge mechs.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "He's just king of a very small hill.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "...That bastard. I'm gonna settle this, Shapiroooo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "There's no time! ...If you stand in our way, I'll show no mercy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "If we don't stop this planet... it'll all be over.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Shapiro! What's the meaning of this,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "using those Muge creeps' mechs lately!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Don't tell me Muge made that fake Dancougar outside too!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Heh... Heheheheh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "No, more importantly... how'd you come back from hell!? Say something!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Sara... Why do you fight for the sake of Earth?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "...Back when I predicted the coming of the aliens,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "surely you remember what those Federation fools said.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "...That's no answer!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Shapiro Keats... No, let me call you Major Keats.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "...Your recommendation back then did reach the Federation's top brass.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "...Oh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "However... the Federation government took the wrong path.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Meaning... the Titans.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "The Titans were meant to counter offworld threats like Zeon remnants,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "such as the Zeon remnants, but they lost their way...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Captain Bright and... Kamille would know better how that ended.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Heh, that no longer has anything to do with me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Shapiro, you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "It seems he never meant to talk to us as equals...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Equals? ...Heheheh...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "No one in this universe can speak with me as an equal!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Such arrogance...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Sara... I am now moving to take this universe into my hands once more...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Come back to me.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "It's over, Shapiro. Between me... and you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "And your ambitions too...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Sara...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Dunno what happened, but this seems like a messy breakup.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "But... we have to smash the enemy and push through...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "That's right... Shapiro, we're coming through!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "In the end, Sara... you're just another foolish Earthling.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Hmm...? Heheh... Bark all you like while you still can.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "You bastard! You think you can get away!? Shapiroooo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "There's no way he can get away like this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Heheheh... Sara, you are my enemy now. Don't forget it...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "I've thought so... ever since this fight began... Shapiro...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Reinforcements!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "That's...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Long time no see, Joe!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "You... Ilboraaa!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Showing up at a time like this! Nobody asked for you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "No, Hyoma! He was waiting for the right moment!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "What a dirty coward!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "I've had a bad feeling ever since I saw those Za Boom Army mechs.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Showing up at the worst possible time!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Your timing sucks as much as ever, Ilbora!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "When it comes to beating you, time and place don't matter!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "All I care about is defeating you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Nobody likes a guy who won't let go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "...No, Allenby, this is... obsession. The obsession of the one giving chase.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Ilbora! The reason Princess Romina relied on Joe... the reason...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "was that we were the only ones who could operate the three machines!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "That's no reason to join the Za Boom Army just to get in Big Bro's way!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Silence! ...There's no turning back for me now. Joe, face me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "...If you've the strength to choose to keep fighting, you can turn back too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Making someone see what's right... is never an easy thing, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Why does there have to be a fight like this...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "The enemy won't wait for us!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "In that sense, maybe the Campbellians and their kind are simpler.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Maybe war is nothing more than a pile of things like this...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "...I'll settle this... Ilbora!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Ilbora! Knock it off already!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Joe...! You're the one who brought me this low!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "I won't be lectured by the likes of you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Don't blame others for your own selfishness, Ilbora!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "...Even if you beat us here...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "that doesn't mean you can go back to Princess Romina!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Ngh, wh-what are you... Joe!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "...You're nothing but an enemy now!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Rushing out to fight isn't the only way to protect someone!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "After you left, what the Princess felt while she kept fighting...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Do you even understand that!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "And then you defect to the enemy! What're you even after, Ilbora!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "...Silence... Silence! Joe!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Joe...! You're the one who brought me this low!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "I won't be lectured by the likes of you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Don't blame others for your own selfishness, Ilbora!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "...Even if you beat us here...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "that doesn't mean you can go back to Princess Romina!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Ngh, wh-what are you... Joe!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "...You're nothing but an enemy now!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Rushing out to fight isn't the only way to protect someone!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "After you left, what the Princess felt while she kept fighting...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Do you even understand that!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "And then you defect to the enemy! What're you even after, Ilbora!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "...Silence... Silence! Joe!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "It's over, Big Bro.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "...Ilbora... You idiot...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "...Huh...!? Joe, Mike! Something... something's coming!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "...Ugh... Ngh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "What!? That unit's not in the Za Boom Army data!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "...Similar...? Doesn't that machine look similar!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Tobikage!? The one that always comes to help...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Uoooooooh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "A black... Tobikage!? No, wait! Ilbora, is that you!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Hm? Careful! There's more coming!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Just as His Majesty the Emperor said, Zerokage chose Ilbora...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Good, let's finish them in one push! Follow me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "Yes, sir!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "They just keep coming, one after another!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Tobikage!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "What the!? Now a white one's showing up!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "Commander Hazuki, what is that!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Still... it does look like that new black model.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "They're probably connected.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "Who cares!? If it's an enemy, we just smash it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "Simple, but yeah, that's how it goes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "...Hm...? Tobikage is... calling me...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "He ran!? Get back here! Ilbora!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "Maya, don't pursue too far! It may be a trap!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "Like I care! I've gotta settle things with him!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "No, Joe! Everyone's fighting here, you know!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "If you charge off on your own, you're no different from Ilbora!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "She's right, Big Bro!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "Ngh... Ilbora... What happened to you...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "What the hell is that black machine...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "Tch! I've lost Zerokage in this strong magnetic field...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "What'll you do now? At this point, we'll take you all together...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "The fake Tobikage's gone too. Maybe you should run along with it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "What...!? Don't mock me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "D-damn it! I can't be defeated in a place like this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "Oh, come on! He got away.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "Good work, everyone.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "But there's no time to rest... Return to the Gandor at once.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "We have to head for the next point.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "Can't be helped, but... this is a forced march.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "That's not all... It seems this fight won't end just by beating the enemy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "What do you mean, Ryo?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "...Shapiro Keats is alive...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "...and he's tied to Muge Zorbados, who was also supposedly beaten?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "Exactly. But it seems they know more about it than us ground troops.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "You mean Fujiwara and the others.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "The Cyber Beast Force... the ones who destroyed the Muge Empire.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "...We don't really get it either. Damn it...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "You mean that Shapiro guy?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "No, the problem is the robots Shapiro had with him...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "What do you mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "Come to think of it, some of those we didn't see when we fought in space.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "It's been bugging me.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "...We keep seeing mechs of the Muge Zorbados Empire we beat last war...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "I figured they were just survivors, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "There were new models too. No way...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "We can't afford to waste time worrying. Let's hurry on for now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "Right! We have to go after the Nadesico team!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "With all our communications cut off like this, it's unsettling.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "Are we still all right on time?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "Dirad's approach is within projections, but... the dragon...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "...Commander, it seems we'd better hurry.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "? What are you talking about, Captain?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "Nothing... Hurry and get aboard. We're heading deeper in.",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

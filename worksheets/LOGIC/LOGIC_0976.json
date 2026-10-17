@@ -1,0 +1,955 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 2422,
+ "strings": [
+  {
+   "id": 0,
+   "en": "Suspending the game?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Hmph, a shame, just when my Tenku Shinken was about to roar.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Well, fine. I'll cut loose next time you play.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Those stained by greed, blind to the truth... I'll cut them down! Jeeeeet!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Brother! Hey, Brother Rom~!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Geez, where'd he go?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Fine, I'll do it then!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Every beginning has an end... Every save has a continue...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "People call this... suspending.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Be sure to play the rest! That's Leina's wish!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Every beginning has an end...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Every save has a continue...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "People call this... suspending.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Fight hard in your next battle too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "May Kenrou guide you as well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "I-Is it... over already?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Come on, Mia. It's not like this is goodbye.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Quit moping, Mia. C'mon, Roll. Wrap it up like a man.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "O-Okay. Um, please play again next time...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "That's not manly!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Next time! Into this Super Robot Wars... Cross Fight!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "No in-between with him, huh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Ending...? Heh... heh heh heh... Afraid of the space pirates, the Bunker?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "...What? I'm the one who won't shut up about Mia Alice?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Tenacity is exactly what a space pirate needs.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "You'd do well to play with tenacity too... heh heh heh...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Hello, Inez Fressange here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Suspending the game...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Shall I explain what you're thinking right now?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "First, it's late at night... so you came to see this ending message, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Good kids, off to bed. Bad kids... suit yourselves.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "See you next time, let's all play Super Robot Wars!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Guts!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Now's when the great Gai Daigoji's dazzling exploits begin...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Hey, hey, you're quitting!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "These are super robots! Super robots! Play without sleeping!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "...Well, I'll let you off for today, but next time for sure!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Now, for the next session... Let's Gekigain!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Okay, it's over. Bye. Huh? Too short? Say more? ...A catchphrase?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "I'm the real robot type, so a catchphrase... Hmm... Well then...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "\"Bunch of idiots...\"",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "...That'll do, once in a while.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Haah, I'm beat. Being captain isn't easy either, you know, Akito?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Don't ask me. I may be a pilot, but I want to be a cook.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Oh, you! You're worried about me, aren't you!? Akito!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "No, I mean... listen to me, Yurika!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Yurika's gonna give it everything she's got!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "So everyone, be sure to play next time! That's a captain's order!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "...Please do.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Um... My name is Romina Radorio... I have come",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "from the Shema system, 60,000 light-years from your solar system,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "seeking the legendary ninja... Huh? This isn't a greeting?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "...Yes, a farewell... for ending the game? ...My apologies.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Then please be sure to play next time.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Oh, and if you find the ninja... please let me know.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Whew, I'm tired, Aina.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Yes. ...But... as long as I'm with you, Shiro... I...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Aina...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Lady Aina, we must give our farewell for ending the game...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Shiro...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "...Ahem. We shall await your next session.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "What, we're done?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "I thought we'd just push straight through.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Oh, who cares? Let's take it easy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Yeah, guess so. Then Tobikage's entrance will be next session...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Whoa!? Tobikage!? It's too early!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Wow, finished already? Kids these days have no stamina.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "It's a long game. Besides, games are one hour a day.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "So stiff, Kyosuke. ...Then again, isn't one hour a day kind of short?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Who knows.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Geez, own up to what you say. Well then, until next time...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Oh, wait a sec!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "What is it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "...What are you doing?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Huh? Oh, I figured for some folks, I'd look like this... Hee hee!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Good grief.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Good work. Looks like you tried hard. Go on and get some rest.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "But I'd like you to resume as soon as you can.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Don't forget that our fate rests in your hands.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Now, for the next session... Come ooon heeere!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Koji, looks like that's it for today.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Whew, thank goodness...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Then let's take a breather ourselves.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Yeah. Same time tomorrow, then... Mazin!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Go!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Getting tired? Then you'd better get some good rest.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Long gaming sessions aren't good for you. Pick it up again next time.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Until then, come back here and... Switch on!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Hey, hey, quitting already? Guess you're not as tough as I thought.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "A real man goes all in, no saves till the end, full blast.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "...Is what I'd like to say, but",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "if I push it too far, Sara'll chew me out again,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "so I'll let it slide this time. See ya, play with us again.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "The watchword is... Super Robot Wars, let's do this!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "I-Is it... over already?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Come on, Mia. It's not like this is goodbye.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Quit moping, Mia. C'mon, Roll. Wrap it up like a man.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "O-Okay. Um, please play again next time...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "That's not manly!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Next time! Into this Super Robot Wars... Cross Fight!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "No in-between with him, huh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Haah, I'm beat. Being captain isn't easy either, you know, Akito?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Don't ask me. I may be a pilot, but I want to be a cook.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Oh, you! You're worried about me, aren't you!? Akito!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "No, I mean... listen to me, Yurika!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Yurika's gonna give it everything she's got!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "So everyone, be sure to play next time! That's a captain's order!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "...Please do.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "What, we're done?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "I thought we'd just push straight through.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Oh, who cares? Let's take it easy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Yeah, guess so. Then Tobikage's entrance will be next session...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Whoa!? Tobikage!? It's too early!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Wow, finished already? Kids these days have no stamina.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "It's a long game. Besides, games are one hour a day.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "So stiff, Kyosuke. ...Then again, isn't one hour a day kind of short?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Who knows.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Geez, own up to what you say. Well then, until next time...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Oh, wait a sec!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "What is it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "...What are you doing?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Huh? Oh, I figured for some folks, I'd look like this... Hee hee!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Good grief.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "I-Is it... over already?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Come on, Mia. It's not like this is goodbye.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Quit moping, Mia. C'mon, Roll. Wrap it up like a man.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "O-Okay. Um, please play again next time...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "That's not manly!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Next time! Into this Super Robot Wars... Cross Fight!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "No in-between with him, huh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Haah, I'm beat. Being captain isn't easy either, you know, Akito?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Don't ask me. I may be a pilot, but I want to be a cook.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Oh, you! You're worried about me, aren't you!? Akito!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "No, I mean... listen to me, Yurika!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Yurika's gonna give it everything she's got!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "So everyone, be sure to play next time! That's a captain's order!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "...Please do.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "What, we're done?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "I thought we'd just push straight through.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Oh, who cares? Let's take it easy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Yeah, guess so. Then Tobikage's entrance will be next session...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Whoa!? Tobikage!? It's too early!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Wow, finished already? Kids these days have no stamina.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "It's a long game. Besides, games are one hour a day.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "So stiff, Kyosuke. ...Then again, isn't one hour a day kind of short?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Who knows.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Geez, own up to what you say. Well then, until next time...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Oh, wait a sec!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "What is it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "...What are you doing?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Huh? Oh, I figured for some folks, I'd look like this... Hee hee!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Good grief.",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

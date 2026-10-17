@@ -1,0 +1,1045 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1968,
+ "strings": [
+  {
+   "id": 0,
+   "en": "",
+   "kind": "dialogue",
+   "keep": true
+  },
+  {
+   "id": 1,
+   "en": "What now... Captain?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "...Let's see. In any case, let's contact Commander Hazuki.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "If Commander Hazard is right... that battleship, the Elshank, was it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "It'll be a threat.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "And it was carrying robots, too. Plus... a small, strong one.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Yet those robots didn't attack us...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "And Commander Hazard seems to be hiding something.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "There's just too much we don't understand.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Gundam Fighters popping up, and I hear there's a mystery helper too?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "That's right. He was pretty cool, though~.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Not that it matters, since we don't know who he is.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Sigh... I feel awful. We keep troubling the Gandor Team down there.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "True... Anyway, Captain, let's try to contact them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Right. The Mazinger team and Cyber Beast Force should be",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "on their way here, as planned.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "...Zeon is getting more active too... Assuming they weren't shot down.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "I'm worried about Kyosuke too. Wonder if he's doing okay?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "At this rate... it's gonna be rough.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Lieutenant! Why the gloomy face?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Huh? Oh, was I making that face?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "You're always just collecting Gundam data,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "and you're kinda plain. So that's how you look.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "(Plain... Nina's told me that too.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Oh yeah, Nina at Anaheim said to say hi to you, Lieutenant.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "What? Is she your girlfriend?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "I-it's nothing like that. Nina's... just in charge of the Gundam project.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Uh-huh~",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "You two get along well. What are you talking about?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Oh, Umon. Doing maintenance on Grendizer?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Yes. Since the Mazinger team is coming,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "I need to make space in the hangar while I'm at it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Super robots coming to help is great news.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Yes. At the moment, the only unit that can be",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "everyone's shield on the front line is Grendizer.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "For the battles ahead... we need their strength.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "The HLV carrying the Mazinger team and Cyber Beast Force is missing!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "...Yes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "The Gaizok went that far...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "How awful...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "It's because back then... we couldn't stop the Gaizok's descent...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Lieutenant... What's done is done...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "...You seem awfully calm... Commander Hazuki.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Fujiwara's lot won't just quietly get shot down... I believe that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "...Then the Gaizok...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "The people who long foresaw the Gaizok's coming...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "The Jin family's super robot, Zambot 3,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "has gone after the Gaizok.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Zambot 3...? Never heard of it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "The Gandor Team currently has no robot capable of",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "chasing the HLV directly... All we can do is bet on them...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "...Damn.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "All we can do is... believe in them.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Captain, the enemy might pick it up, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "shouldn't we broadcast our position regularly?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "...You're right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Commander, now it's my turn... I have bad news...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "My, my, I'm truly impressed! To think you had technology like that...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Still... I'd like a little gratitude for us humble folk.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "After all, the ones who found you and hooked up your energy supply line...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "were us, you see.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "...That is understood... So says Don.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Ah, splendid! I'm deeply moved, truly. To think...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "to think that you had survived!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "...State your wish... So says Don.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Oh, my, my... You see right through me, it seems...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Don't you speak that way precisely so we'll understand?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Well, hahahahahaha! You've got me there!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "No, for now, I've only come to thank you for the teleport machine.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "(I can't believe it was that easy to send that pest Ilbora to Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Iga village or whatever, I don't care. I hope that young punk",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "goes and croaks down there... Guhuhu.)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Hazard Pasha...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Ah, yes, yes! What might it be?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Don appears quite weary... If your business is done,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "we would like to end this here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Oh my, my! Forgive me for being so inconsiderate!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Then I'll take my leave...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "...Ban...jo...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "...You... a second chance has come... This time... this time for sure...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "I see... So the Nadesico has gone...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Yes. It seems to have headed for Mars, just as we expected.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "And those three Gundams that appeared",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "chasing a mysterious enemy... What are they planning?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "They said they were under Major Ulube's orders...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Major Ulube... of Neo Japan?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Yes. They descended to Earth chasing that mysterious enemy,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "so I couldn't learn more... Will the forces on the surface be all right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "We've had some unexpected reinforcements, so don't worry.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Could you mean that crane we heard about?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Yes. I plan to hear the details from them later,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "but it seems they're not enemies.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "In that case, the suspicions about Hazard at the base only grow deeper.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "The Bunker pirates in space, the Dinosaur Empire back on Earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "We already have more than enough trouble as it is...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "For now, all we can do is fight defensively.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "The Bunker and the Gyandlar seem to be harassing Zeon too,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "so they're stuck on the defensive as well. That's some consolation.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "I'll contact you later with more on the Elshank.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Whaaat!? Gil did!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Dr. Tarsan... Then...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Yes... Gil's after Earth... or rather, Mia, it seems he's after you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Mia, you're so popular.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Lamba, this ain't the time for that. What're you gonna do, Mia?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "...I... I'm going to Earth...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Mia...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "No! Just leave that backwater planet be!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Gil's aim is obvious! Don't fall for his bait!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Backwater or not doesn't matter! It's my... my home...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "...Let's go, Mia. Let's go save your planet.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "We can't be scared of the likes of Gil and the Bunker!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "When I say no, I mean nooo!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "The space pirates of the Bunker have their eye on you lot!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "If you defy them any further...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Let's go, Mia. I can't just leave it alone.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Roll...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "It's settled! Let's gooo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Hey, wait, you lot! Hey!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Captain!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "What is it, Lieutenant Emma?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "We've picked up a distress signal from the HLV... the Mazinger team!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "They're safe!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Wow! So the Cyber Beast Force is with them!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Right, we should move at once. ...Captain?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "This is... a Gaizok ID signal...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Captain, what did you say!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "I hope this is good news... The Gaizok mothership has appeared near Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "It seems... it came up from Earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Which means... Oh! Right, that whatsit-3 robot too!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Zambot 3.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "And... a strange gravity field...? If it's nearby... or in our path,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "we should probably investigate it, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "One problem after another.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Maybe we should get an exorcism.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "If that would settle it, I'd go as many times as it took.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Well then, Roux... take care.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Thanks for everything. I'll get this unit to Londo Bell, no matter what.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Something's... strange around the Moon.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Elle Vianno, who took Prototype Unit 4... I mean, the Gerbera Tetra",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "for us before... got surrounded by the enemy, I heard.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Isn't that just because Elle was dawdling?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "...I hope that's all it is.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "...I just feel like something's about to happen on the Moon.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "With the Earth Sphere in such turmoil, it wouldn't be strange",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "if anything happened on the Moon.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "If you don't stay positive, you'll age fast, Nina.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Oh, right, what about Judau? Can't he come along?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "...The ZZ Gundam... Its energy transfer system is acting up.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "That's that Gundam's lifeline, so it has to be checked properly.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "It'll take a little more time...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "...Roger. Well then... Roux Louka, launching!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Take care.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "A distress signal!? From near the Moon!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Huh, isn't that just like me? Maybe...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Its course... is from Anaheim.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Elle, it seems someone's in the same spot you were.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Getting surrounded by enemies in space is rough, y'know.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "Oh my, spoken like someone who's been there.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Anaheim... Did Nina pull some strings again?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "I'd be grateful if so... Captain, if it's an SOS, who's the enemy?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "...It looks like the Vega Star Federation.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Near the Moon again...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Brother?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "...I knew it... Something bugs me about this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Brooding won't get us anywhere. ...Captain, I say we act.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Yes. But... we must decide on a route.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Joining the Mazinger team, the Gaizok signal... and the Moon, huh.",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

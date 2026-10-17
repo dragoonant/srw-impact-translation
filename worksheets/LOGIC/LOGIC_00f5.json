@@ -1,0 +1,787 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 245,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed 2. Enemy enters Castle Uroporos 3. Gran Garan destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Dammit, it's down to just us...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Nie... What do we do!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Nothing to do but fight! How's the castle's anti-air fire?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "No good. Without Aura Battlers, it's a drop in the bucket.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Lady Elle, wouldn't it be wise to withdraw for now and regroup?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "No. Just a little longer, just a little more...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "My, my, finished already!? Haha, what a letdown.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Jeryl. Underestimate your opponent too much and you'll get burned.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Hah! Who do you think you're talking to? Save that line for Fei.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "He's at the Storm Sphere. If he screws up, I'll just laugh at him.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "...But Jeryl, we could end up getting laughed at too, you know?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Don't lump me in with him. Or are you scared?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "They say Byston Well's gotten awfully restless lately.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Geez... You never listen. Fine. Jeryl, do your job right, okay?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "I take the castle, you sink that battleship... Got it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "I know. I'll make short work of it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Marvel sent word that Show is back...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "We hold them off somehow until then. Got it, Keen!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "We've got no choice, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "I won't let them near the castle or the battleship!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "(Lady Sheela is still missing... Morale just keeps falling.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "...Show, hurry... Hurry back to us!)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Nie! Keen! Are you all right!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Don't scare me like that! Is that you, Show? How'd you get to the castle!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "A castle always has a secret passage.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "We came in by following it in reverse.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Show! The battleship's in danger too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Show Zama, that battleship must not be destroyed. ...Please protect it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Got it. I'll test the power of this new Aura Battler...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "...Holy Warrior... I'm counting on you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Nie! Keen! Are you all right!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "That's...Show!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Show! You really are safe!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Sorry! I made you worry.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "So let's make up for it big time!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "That's right! We're going all out, so don't fall behind!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Show, that squad of Aura Battlers I've never seen,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "are they your comrades from the surface!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "They're allies! I've filled them in, so work with them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "They're not Aura Battlers, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "What's going on? Those are surface robots... mobile suits, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "And there are some unfamiliar ones mixed in.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Tch, so others besides us got summoned here too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Who cares what they are!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Besides, looks like Show Zama's here too,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "so glory just fell right into our laps.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Show! Did you rescue Queen Sheela!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Not yet, we couldn't pin down the Storm Sphere's location.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "We came here first! We'll head there after this!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Got it! Let's clean things up here first!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Amuro! We'll guard the castle! You guard the ship, the Gran Garan!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Understood.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "All right, spread out, push them back, and protect both castle and ship. Go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Marvel! What about the Wil Wiph at Karakara!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "We drove it off for now. With these people's help, that is.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Then we can do this. We'll push them back here too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Jeryl and Allen's squad were taking a while... So this is why!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Reinforcements!? No way!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Dammit, after we pushed them back this far...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Stop buzzing around, you're so annoying!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Don't panic. Just think of it as more enemies from the start!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "This feeling... You're here! Show Zama!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "You're... Burn Bunnings!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "I heard you'd gone missing, but you're alive after all!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Good... I'm the one who will defeat you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Heh, looks like he's a celebrity with the locals.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "The locals...huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "He's raring to go. Show, what'd you do to make him hate you so much?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "I don't know! He just holds a grudge on his own!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Maybe he just hasn't noticed.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Show's kinda dense, after all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "You're awfully relaxed... Show Zama! But!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "This is no time to be joking around! Here they come!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Impossible!? Me!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Can we take him down!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Whoa, not so fast! I never forget a humiliation!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Ngh, surface dweller... I wanted to finish him here...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Why you...! Don't you underestimate me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Jeryl Kuchibi! Your Aura Power... it's stronger than before...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Hah! Lately I've got power to spare!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "That Aura Power of yours!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Quit your yapping! Next time for sure... Remember that!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Jeryl...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Show, it's wrong... That woman's Aura Power is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "I know, Cham. Jeryl's Aura Power... it's a dangerous power.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Looks like we...managed to hold them off.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Seriously. At first I didn't know what we'd do.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Thank you, everyone.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Don't mention it. We all help each other in tough times.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Lady Sheela, I'm so glad you're safe.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "I've caused you trouble as well, Lady Elle.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Trouble? Not at all...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "The Kingdom of Na must finish the Gran Garan as soon as possible",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "and crush Drake's ambitions.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Yes, Lady Sheela.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Show Zama.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Lady Sheela... I've received the Aura Battler Billbine.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "I'll use it to defeat Drake.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "The battle with Drake... If we're in time, I'll join it with the Gran Garan.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "I pray for your fortune in battle, Holy Warrior.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "...Yes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "She's so dignified. A real queen.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "...If only that princess of ours were a bit more like that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "What...do we do next, Amuro?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Anyway... it all comes down to this Drake's castle.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Though I don't know if we can really get home...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "What're you talking so gutless for!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "We've got a mountain of stuff to do back on the surface.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Exactly. Let's go, Show.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Before that... we have to go to the Storm Sphere. Lady Sheela is there.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "To stand against Drake, we need her power.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Right. Above all, the Gran Garan can't move without her.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "The Storm Sphere? What the heck's that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "It seems to be something unique to this world, at least.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "I'll explain later. Right now we need to move, and fast.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Let's go. Something's wrong with Byston Well right now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "If it's connected to the surface world...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "then as someone from the surface, I can't just leave it be.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Yeah. Like me and Todd, suddenly thrown out onto the surface,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "or getting pulled in, like this time... Something's going on...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "We have to figure out what.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "All riiight! Let's gooo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Easy, Cham. What about you guys, Nie?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Keen and I will stay to defend this castle.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "We've beaten their main force, and the Gran Garan's almost finished.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "We can handle it on our own.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "...Got it. I'm counting on you, Nie.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "You're the one who needs to...do your best, Show.",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

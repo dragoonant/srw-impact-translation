@@ -1,0 +1,103 @@
+{
+ "file": "BTL/BMCPACK.BIN",
+ "format": "BMC",
+ "pilot": 155,
+ "strings": [
+  {
+   "id": 0,
+   "en": "...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "...!!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "...!?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "...?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "...??...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "!!",
+   "kind": "quote",
+   "keep": false
+  }
+ ]
+}

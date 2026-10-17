@@ -1,0 +1,14 @@
+{
+ "file": "BTL/TITLPACK.BIN",
+ "note": "Title logo: the katakana wordmark is replaced by our own English lettering (gold face, dark edge, light rim, slanted). IMPACT art is kept; where the wordmark covered it, it is restored from the standalone IMPACT in texture 3. Boxes are texture pixel rects (x0, y0, x1, y1).",
+ "font": "impact.ttf",
+ "text": ["SUPER ROBOT", "WARS"],
+ "shear": 0.18,
+ "impact_alone": [0, 0, 470, 316],
+ "logos": [
+  {"texture": 3, "box": [505, 62, 845, 198]},
+  {"texture": 3, "box": [38, 374, 384, 518], "impact_at": [0, 316]},
+  {"texture": 5, "box": [38, 394, 384, 533], "impact_at": [0, 336]},
+  {"texture": 5, "box": [492, 387, 856, 544], "impact_at": [463, 337], "threshold": 120, "glow": [70, 130, 255]}
+ ]
+}

@@ -1,0 +1,1093 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 385,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "So this is... Getter Robo G...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Well, now... this thing is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Looks tough. I like it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Almost done... it's in final tuning. Shame it can't go to space.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Abnormal energy readings from the lab...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "So these are Getter Rays...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "So that Getter Robo is getting even more powerful.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "That sounds promising.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Yes.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "And the Teleport Machine sent Joe's group off somewhere...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "And with Raideen and Grendizer gone, too. We're grateful for it, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Amuro?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Is something... worrying you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Yes. With this much energy here...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "why has the enemy never once come after it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Ever since we went to retrieve the Getter Robo,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "the Saotome Lab hasn't been attacked once... Could it be?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "You're overthinking it, Captain Amuro.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Maybe they're just scared of the Getter, y'know?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "...Are they?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "I see what Captain Amuro's getting at. In that case...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "I see. That would certainly explain the timing...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "What? What? What're you talking about?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Let's see... Cham,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "say there's something you want, and you have the materials for it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "And say you know someone who can make it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "...Would you take the materials and make it yourself?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Huh? I dunno what it is, but if it's hard, I'd have them make it... Oh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Exactly. If they're coming... it'll be now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "An enemy attack? I see. The enemy's no fool, either.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Ngh...! I had a bad feeling about this...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Right on the money! These guys are easy to read.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Heh, saves us the trouble of going to them!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "...Maybe they're getting desperate.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Kosuke... whaddaya mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "The Demon Empire, the Campbellians...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "The forces on Earth are gradually dwindling.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "With their rivals gone, it's a chance for them, but at the same time,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "they have less strength left to beat us with.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "So it's do-or-die. For both sides...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Fwahahaha! By Emperor Burai's order, that new Getter is ours!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "You think we'd just roll over and say \"Sure, go ahead\"!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Do you really think we'd just let you do that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Then we'll simply take it by force.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Try it, if you can.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "In the name of the Hyakki Hundred, I'll take it no matter what!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Showing up right when we're short on strength!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Dr. Saotome, how's Getter G's launch coming along!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Just a few more minutes! Ryo, Hayato, Benkei,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "get on board and stand by!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "This waiting's killing me! Hurry it up, Doc!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "I'd hate to get crushed just sitting here, y'know?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "...Everyone, we're counting on you...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "What's that? It looks like a cowboy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Hey! Hold it right there!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Who are you!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Professor Saotome! Me is Jack King!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Gandor Team's in a pinch, so me flew all the way from America!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "I am Mary King. Hyakki Empire! Texas Mack shall be your opponent!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "I see, the super robot Dr. King built...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Please! Lend us your strength!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Leave it to us! Let's go, Mary!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "All right, Brother!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "What? Some weird guys just showed up. Are they on our side?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Looks like it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "No time to dawdle! We're heading out too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Nngh, this is terrible... The Getter Dragon...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Hmm... impressive, for something built by mere humans.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "A transmission!? Who's there!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Fwaha... I'll grant a dying man's request.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "I am Burai. Ruler of the great Hyakki Empire, Emperor Burai...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Burai...!? Even if you steal Getter G,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "no one but its pilots... the ones I chose... can handle it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Even if I fall, those who carry on my will shall surely destroy you...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Admirable, not begging for your life. But... that alone won't win a war.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Fear not,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "I shall put your efforts to good use... for the Hyakki Empire!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Ryo, Hayato, Benkei... Gandor Team... you didn't make it in time...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Emperor Burai... leave the rest to me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Very well. I will not tolerate failure, Marshal Hidler.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Yes, sire! I'll bring Getter G back safely, even if it costs my life.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Are we too late!? What about the lab?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Doctor, are you all safe!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "We're safe, somehow. But... the Getter Dragon...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Dragon!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "That's the new Getter you've been developing, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Yes, but...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Don't tell me, that new Getter is...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Fwahahaha, it's too late to come waltzing in now!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Go! Getter Dragon!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Tch, the enemy's pretty good, I'll give 'em that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "We can't let them take the Getter Dragon...! Destroy it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "What did you say!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "There's no other choice! As long as the lab's intact, we can repair it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "This is no time for second thoughts!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Tch, things never go the way you want!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "To think we have to destroy the very thing we came to get...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Better than letting the enemy use it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Destroy the stolen Getter first, and wipe out the Hyakki Empire!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "All units, launch!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "...Looks like we've got no choice. Ryo, Benkei...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "...All right, let's do it! We'll show you that a Getter's strength",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "depends on its pilots, Hyakki Empire!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Curses, I'm withdrawing. Emperor Burai... forgive meee!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "You know what this means, Marshal Hidler...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Yes, sire! I'll begin preparing the next move the moment I return.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "You know what this means, Marshal Hidler...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Yes, sire! I'll begin preparing the next move the moment I return.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "...Final check... good! Get Machines, launch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Here we gooo! Hayato! Benkei!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Ready when you are.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Let's go out with a bang...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Chaaaange Dragon!! Switch on!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Nngh... they launched it before we could seize it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "But I must bring it back, no matter what!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "The Getter Dragon...! All right! Ryoma, let's finish this in one go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "That's the plan, Koji! Let's show them what we can do!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "The Getter Dragon, huh... I trust you can handle it, Ryo.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Heh, Tetsuya, just watch and see!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "I wasn't worried in the first place...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Damn, he got away...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "That talk about preparing the next move bothers me, though...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Whatever. If we take out Emperor Burai here, it's all the same.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Reinforcements...? Tch, they just keep coming!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Gwahahaha! You're better than I thought, Gandor Team!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "It seems... I have no choice but to set that in motion!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Wh-What!? That giant four-legged thing...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "It's different from the Hyakki mechs so far...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "My name is Burai... Emperor Burai of the Hyakki Empire!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "I have come to teach you lowly humans the depth of your folly.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Bigger isn't always better, you know!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Still... something that big...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Oh, come on. Show! Get it together!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Shorty's right.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Big or small, superior or lowly, none of that matters.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Geez, \"lowly,\" huh. Ain't your mouth the only big thing about you?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "...Let's get this over with...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Damn right! Don't talk big, you lousy invader!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Then learn the Combined Hyakki Robot's power... through death!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Burai! I'll throw those words... right back at you...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "To inflict such damage on this Combined Hyakki Robot...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "You're not to be taken lightly! But even so, you'll never win.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Big talk after that beating! Come back when hell freezes over!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "...Do underground demons even get that expression?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Sore loser... What a pathetic oaf, for all that size!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "That's all he amounts to.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Squawk all you like... soon enough you'll be crying and wailing...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Wahahahaha!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "It still just sounds like sour grapes to me...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "...You think so...? It actually bothers me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Right, we'll head to the next point while readjusting Getter Robo G!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Commander Hazuki... we're counting on you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Yes, we'll do everything we can...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Phew, I wasn't sure how that'd turn out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "That ogre sure caused a fuss, honestly.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Jack, Mary, you saved our hides. Thanks a bunch.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "No problem! Professor Hazuki, Texas Mack will fight with you too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "We look forward to working with you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Yes, I just received word from Dr. King.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "In an emergency like this, we'd be glad to have you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "The Yoma, the Campbell gang, now the Hyakki... they've learned.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "Things are going great!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Ain't that the truth. Bring 'em on, I say!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Hey, hey, Hyoma, Juzo! Don't get careless, okay?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Hm...? Something on your mind?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "No, it's just... this whole thing feels like an omen of something.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "An omen? Well, sure, that big one was a threat...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "A parting shot like that... there's something behind it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Norris...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "When a man rages and swears revenge, his backing is usually thin.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "But... that composure.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "Besides that giant robot... there's still something else?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "No, it's merely conjecture. My own, mind you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "Worrying won't get us anywhere. We've retrieved Getter Robo G.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "I don't know what'll happen with the colony...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "but we have to do our job.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "The Captain is right. If the colony were to fall to Earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "chaos would ruin our defense here. We act now. Gandor, launch.",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

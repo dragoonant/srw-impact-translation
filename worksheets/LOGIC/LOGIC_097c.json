@@ -1,0 +1,73 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 2428,
+ "strings": [
+  {
+   "id": 0,
+   "en": "Blast it, who are they!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "If they hadn't appeared, we'd have crossed Karakara into Tartara!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "It seems the Aura Road opened and surface machines came through.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "That many at once...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "What is happening to this Byston Well?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "I don't know... But it does seem the Aura Road opens more easily now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "First the Holy Warrior Show Zama, then Todd's unit gone missing,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Are these recent disappearances due to the Aura Road opening?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Todd's unit lost contact right after encountering",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "those bone-like enemies that suddenly appeared.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "You mean they opened the Aura Road...",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

@@ -1,0 +1,2323 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 503,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. Gandor destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Took long enough to get here...! Heh heh, there they are.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Just as I thought... the Einst have taken over Jaburo.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "So the base is an Einst nest.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "I saw it coming, but with this many of them, it's going to be trouble.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "But if we can just win here... we'll take Jaburo back.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "...Show me... what you really are...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Domon! The God Gundam's tuned to perfection!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "All right! Come fooorth, Gundaaam!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Whoa, no idea what's up, but he's sure fired up.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "We're going too!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "All units, launch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "The Devil Gundam... where is Master Asia!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Th-the Devil Gundam? It's going to show up here!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Schwarz says the Devil Gundam is here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "That's... it's a tough enough opponent as it is.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "It'll be fine!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "We already beat it once, didn't we? We'll send it packing again!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "...Everyone, listen. It seems the Gandor has come as far as it can.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Commander? What do you mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Come to think of it, you started to say something earlier. What's going on?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Don't tell me you've lost your nerve, Commander.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "No... before long... the Gandor won't be able to move.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Whoa, whoa, what's that supposed to mean? Nobody told us that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "The dragon's life is 180 days and three.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "The Gandor's Achilles' heel... its fusion reactor has reached its limit.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Commander... you never said a word about this to us...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "After this battle, we'll send you up into space... By my math, it'll be close.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Fine if this were the last battle. But space is still full of enemies...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Geez... I can't tell if this planet's science level is high or low.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Storming Emperor Burai's Science Fortress Island took its toll, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Oh well, never mind.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "So, Commander, we protect the Gandor and beat the enemy, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Ya make it sound real easy, missy, but it ain't no joke!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "But we have to do it anyway, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Juzo! Impossible or not, we're doing it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "All riiight! Let's wrap this up before some nasty customer shows up!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Looks like there's no time to dawdle... We'll finish them in one go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Not yet... we still can't beat it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Dammit! How are we supposed to beat something like this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Today's the day! I'll surpass you!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "...Very well...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Now... you are truly... the King of Hearts...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "D-did I do it!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Ugh... magnificent... Domon... You've grown strong... truly strong...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "H-he just won't stay down!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Hyoma! Wait!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Master Asia is already...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "...Why... why did you have to change...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Domon...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "My...! My master was never a man who'd want humanity wiped out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Heh... heh heh... Domon... Long ago, for the path I believed in...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "...I fought the enemies of Earth... for the sake of this beautiful Earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "...I've never heard of such a thing. Could it really...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "...As those who inherit the name King of Hearts...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "...we have no wish to step into history's spotlight...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "So long as this Earth never loses its radiance... that... that is enough...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "That's right... the Master Asia I knew was that kind of man! So why!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "...One day... I realized... the more I fought...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "...the more the Earth was wounded...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "The Earth was wounded!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "I see... once a battle starts, the damage spreads all around...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Even so... we can't just leave the enemy alone, can we!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Dummy... Not everyone's as simple as you, Koji...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "How naive... Is anything more important than wiping out the enemy?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "His goal... isn't wiping out the enemy, Tetsuya...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Y-you... that's how you saw it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "I regretted what I had done... I grieved... and then...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "...it seems I arrived at the wrong answer...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "N-no! You're... you're not wrong!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "That's right... nobody holds the right answer.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Master Asia... was just too pure.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "...Domon... do not... repeat... my mistake...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Hmm! I still need more training.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "So you've made it this far... Gandor team!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "There you are! Undefeated of the East, Master Asia!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Just as Schwarz said... he came to Jaburo.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Heh heh heh... Kyoji wanted to come here, you see.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Look, Domon! Behold your brother, no better than a corpse!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "There it is! The Devil Gundam!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Wh-what...? Has it almost fully recovered!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "This is the price of defeating the Devil Gundam in the Guiana Highlands!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "The price!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Even the Devil Gundam, with its pilot, its living unit, in this state,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "...is no better than scrap metal!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Living unit?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "The pilot is infected by DG Cells and becomes the Devil Gundam's core...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "In that state, Kyoji's consciousness is already...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "And so, Domon, you shall become its new pilot",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "...and bring the Devil Gundam fully back to life!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "How could you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "I've waited for this moment! Myself! The revived Devil Gundam!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "And you, Domon! All of us gathered in one place!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "You mean you used the Einst!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Yes! Birthing the perfect Devil Gundam is my wish!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "No matter how many times it revives, I'll destroy the Devil Gundam!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "And Master Asia! I'll settle things with you here and now!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Big talk, Domon!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "As if the likes of you could defeat the revived Devil Gundam!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Captain!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "All units, spread out and stop the Devil Gundam in its tracks!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Grr... as I thought, their power is...! ...Hm!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "More robots run by AI!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Heh, I didn't expect they'd let us off that easy...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "The Einst, is it...? Meddling fools!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Mechanical Beasts, Hyakki Mechs, and...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "The Demon Empire's combining mechs. They never get tired of this, huh...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Mister, gripe later!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Tch, that thing... why won't it show up at a time like this!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "The Bloody I!? Where did they get those...! Something's wrong...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Hardly any of those should have come down to Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Unless the Bunker group is helping them... their design was stolen...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "It's possible. But...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "We'll show 'em it's the pilot who breathes life into a machine!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Now you're talkin'! Let's go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "You fools!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "You don't even understand what that great power of yours means!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "What!? What do you mean!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "A man who inherited the title King of Hearts, of all people,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "can't even grasp that...! What did you learn from me!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "...What's he talking about?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "...Domon.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "What I... what I learned from Master Asia, the last King of Hearts...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "...was strictness and kindness... And from that, I reached only one answer!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Master Asia! It's to defeat you!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "You fool! As you are now, you cannot defeat me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Give up and become the Devil Gundam's living unit!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "No! Well said, Domon!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "I won't let the likes of you have my little brother!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Domon's brother!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "B-but... then...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Who's inside the Devil Gundam...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "No! It-it was definitely",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "...Kyoji, my brother, inside the Devil Gundam!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "...Domon! We can't let the Devil Gundam fall into his hands!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Destroy it here!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "B-but... who are you!? Are you really my brother?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Hmph! Schwarz... your true identity! It's just as I thought!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Hm... this is bad!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "All units, stay alert! The Master Gundam could appear at any moment!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Kasshu, for now, focus on destroying the Devil Gundam!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "If the Master Gundam shows up now... we can't protect the Gandor!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "R-right...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Don't give up! There's still a way!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Schwarz!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "What are you going to do!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Domon! Strike down Kyoji!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Schwarz is in the Devil Gundam's cockpit!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Th-that's crazy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Unless you strike down Kyoji, its living unit, it can't be beaten.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "Aim for the cockpit!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "B-but then... you'll also...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Stay out of my way! Kyoji!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "H-here it comes! The Master Gundam!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "What... what's going on here!? Why are there two of my brother!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "...Domon... Now I'll tell you everything.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "I am Kyoji, and yet not Kyoji... a body and mind split in two...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Kyoji's shadow, you might say!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "His shadow!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Yes... because I was created with the power of DG Cells,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "...I am nothing more than a copy of Kyoji...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "DG Cells... can they really do that...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "It was all to destroy the Devil Gundam.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "But... it was supposed to be you who tried to conquer the universe with it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "That's not true!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "The Devil Gundam was originally built to regenerate the Earth!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Regenerate the Earth!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Yes. Father's Ultimate Gundam and its Three Great Theories...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Self-Regeneration, Self-Multiplication, Self-Evolution, all meant",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "...to restore the Earth's nature... But!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "...someone had their eye on that astonishing power...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "...N-no way!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "I boarded the Ultimate Gundam and fled to Earth,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "...but the impact of the fall corrupted its program... and then,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "...it became that terrifying Devil Gundam...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "Then the story that you stole the Devil Gundam was...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "A fabrication by Dr. Mikamura and Ulube!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Ulube...!? Then this was all Neo Japan's doing?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "So it was my father... but... he couldn't have done such a thing!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "...Dr. Mikamura wanted the Ultimate Gundam's Three Great Theories...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "Ulube took advantage of that, and it seems he lent him a hand...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "B-but... for that, Domon, Kyoji, the whole Kasshu family...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "...were put through such cruelty... I... I...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "...Rain...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "It's not your fault, Rain...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "I-I'm sure your father was tricked by Ulube too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "No... we didn't know any of that... and we chased the Devil Gundam...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "...and chased my brother...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "...Domon... I'm sorry...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "R-Rain... B-but, brother!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "Then why didn't you tell me from the start!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "Heh... hot-blooded as you were, no matter how much I explained,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "...you wouldn't have understood.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "...Brother... I...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "Besides, destroying the Devil Gundam came first... And I feared for you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "Knowing you... you'd do something reckless to defeat the Devil Gundam...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "So even as the Devil Gundam absorbed him, Kyoji created me,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "...to protect you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "How... harrowing...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "B-brother... you really are my brother...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "Domon... it was hard for me too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "Tch! To me, how we got here doesn't matter!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "Ah!? Look out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "DG Cells in Schwarz's body!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "No, it means to absorb me too! Domon, fire!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "Hit the Devil Gundam, along with me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "Wha-!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "Hurry! Blow away the cockpit, with me in it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "No... I don't want to! I can't do it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "Don't be so soft!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "A man who'd inherit the King of Hearts mustn't be swayed by emotion",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "...and lose sight of your goal!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "Or are you fine with tragedies like Kyoji's happening again!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "And just when the misunderstanding was cleared up...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "Isn't there... isn't there some other way!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "Do it! To free us from the Devil Gundam's curse!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "B-brother...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "Domon! Don't let your brother's feelings go to waste!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "Big Bro! Isn't there anything we can do!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "Even if you say that... dammit.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "...But that's the only way to save Kyoji...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "Domon...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "...Domon!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "Brother... I... I...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "Stop, Domon. Would you slay your own brother with your own hands!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "Please, Domon... the final blow to the Devil Gundam!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "...All right...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "Stop, Domooon! Without the Devil Gundam, humanity's future is...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "...Brother!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "Stooop!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "Domon!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "Dammit, isn't there anything we can do!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "en": "...Brother...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "...Thank you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "Domon...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "en": "Brotheeer!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "en": "Tobikage!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "en": "What!? Don't tell me!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "en": "...Ugh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "en": "B-brother!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "en": "Huh...!? No way... in that one instant...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 258,
+   "en": "Im-impossible! It saved only the living unit!? Curse you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "en": "It seems things aren't going the way you wanted...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "en": "Brother!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 261,
+   "en": "A shinobi dies leaving no corpse... but don't die until your mission's done, eh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 262,
+   "en": "The Devil Gundam!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 263,
+   "en": "No... readings.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 264,
+   "en": "But Schwarz's body is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 265,
+   "en": "...A life saved by a fellow ninja... I'll let it burn once more!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 266,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 267,
+   "en": "My... my Devil Gundam... I'll never forgive you, Domooon!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 268,
+   "en": "Do you fools even know what you've done!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 269,
+   "en": "Silence! Master Asia!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 270,
+   "en": "What?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 271,
+   "en": "You villain, plotting to take the world for yourself with the Devil Gundam!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 272,
+   "en": "Fool! When did I ever say I wanted such a thing!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 273,
+   "en": "Then why are you working with the Einst to destroy things?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 274,
+   "en": "The Einst? Those women wanted to study the Devil Gundam!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 275,
+   "en": "As long as the Devil Gundam could be revived, that was enough for me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 276,
+   "en": "We used each other, nothing more!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 277,
+   "en": "Then why do you need the Devil Gundam!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 278,
+   "en": "...You wish to know? Then I'll teach you the only way I know: a duel!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 279,
+   "en": "You fools haven't even realized who it is",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 280,
+   "en": "...that has done this to the Earth!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 281,
+   "en": "...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 282,
+   "en": "Domon! What have you seen on your way to Jaburo!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 283,
+   "en": "Kyoto! New York!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 284,
+   "en": "Have you not seen with your own eyes what's become of the world!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 285,
+   "en": "That's... no, that's exactly why we...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 286,
+   "en": "No, what Master Asia's trying to say is... something else...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 287,
+   "en": "When I realized it, I could no longer",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 288,
+   "en": "...stand by and watch the Earth like this. And I swore then...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 289,
+   "en": "...that whatever it took, I'd return this Earth to its natural form!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 290,
+   "en": "Say what?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 291,
+   "en": "Isn't that a good thing?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 292,
+   "en": "You mean regenerating the Earth?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 293,
+   "en": "Fools! Regenerate the Earth? Nothing so half-hearted!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 294,
+   "en": "My goal is the extermination of humanity!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 295,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 296,
+   "en": "Regenerating Earth and wiping out humanity... how do they connect?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 297,
+   "en": "He's saying the ones polluting the Earth... are us humans.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 298,
+   "en": "Get rid of humanity, then use the Devil Gundam's Three Great Theories",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 299,
+   "en": "...to regenerate the Earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 300,
+   "en": "Exactly! What good are colonies! What good is developing Mars!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 301,
+   "en": "They're nothing but artificial worlds! And even with those worlds in hand!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 302,
+   "en": "In the end, humanity is still destroying this Earth!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 303,
+   "en": "Gwah... Hack, hack...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 304,
+   "en": "Master Asia!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 305,
+   "en": "Blast! If only this body were sound, it would have been no trouble at all!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 306,
+   "en": "I could have become part of the Devil Gundam myself... How it galls me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 307,
+   "en": "Why! Your fists right now are overflowing with sorrow!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 308,
+   "en": "...Domon!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 309,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 310,
+   "en": "The fist expresses one's soul... You're the one who told me that...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 311,
+   "en": "...Silence! Domon!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 312,
+   "en": "Why can't you see that humanity must atone to the Earth with death!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 313,
+   "en": "You're wrong!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 314,
+   "en": "Master Asia! You are mistaken!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 315,
+   "en": "What?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 316,
+   "en": "Because the humanity you seek to wipe out",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 317,
+   "en": "...was also born from nature itself... part of the Earth, you could say!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 318,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 319,
+   "en": "Forgetting that, how can you call it regenerating nature, the Earth!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 320,
+   "en": "Yes! A paradise built by wiping out the humans who share it is utter folly!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 321,
+   "en": "...Hmph. Then whether I am right or you are,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 322,
+   "en": "...we shall settle it here!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 323,
+   "en": "I'll win this fight! On my name as the King of Hearts!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 324,
+   "en": "Maaasteeer!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 325,
+   "en": "Domon...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 326,
+   "en": "Not yet! There may still be enemy forces left!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 327,
+   "en": "That's right, Domon! Don't let your guard down yet!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 328,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 329,
+   "en": "...Domon...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 330,
+   "en": "Ugh...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 331,
+   "en": "Wh-what is this...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 332,
+   "en": "Captain!? Kamille!? What's wrong!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 333,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 334,
+   "en": "This is...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 335,
+   "en": "Ah... ahh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 336,
+   "en": "Cham? Show! Something's wrong with Cham!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 337,
+   "en": "What's wrong, Cham! Hey!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 338,
+   "en": "Wh-what is this feeling...!? It's so intense... like nothing before...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 339,
+   "en": "It's huge... what the heck is this thing...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 340,
+   "en": "Don't underestimate us! We've fought plenty of things that were just big...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 341,
+   "en": "We won't lose!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 342,
+   "en": "Showing up now, of all times...! The Devil Gundam is... already...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 343,
+   "en": "Hey, this is bad! Isn't the Gandor stuck?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 344,
+   "en": "This dragon still has work left to do... We can't fall here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 345,
+   "en": "Everyone, hurry back to the Gandor!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 346,
+   "en": "Devil... Added... Body... Experiment...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 347,
+   "en": "What...!? Again! What... did it just say!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 348,
+   "en": "Kyosuke!? What's wrong with ya!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 349,
+   "en": "Tch, what's this, you scared!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 350,
+   "en": "We've made up our minds to smash whatever shows up!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 351,
+   "en": "Some of you are acting weird, huh? Hey, hey, what's wrong!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 352,
+   "en": "We can't exactly say we're scared and go home now!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 353,
+   "en": "We've never seen this one before. Koji, you need to be a little careful...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 354,
+   "en": "What? Morale's falling apart! What's so special about this thing!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 355,
+   "en": "I don't know. But... when these things first appeared...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 356,
+   "en": "...some people fell into the same state.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 357,
+   "en": "It's certainly intimidating... but... the ones affected are",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 358,
+   "en": "...our two finest Newtypes... the psychics Alice and Asuka,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 359,
+   "en": "...Cham... and Nanbu!? What on earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 360,
+   "en": "Th-this is...!? Everyone!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 361,
+   "en": "This Einst is giving off the same pattern as DG Cells!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 362,
+   "en": "Good grief... these guys'll use anything...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 363,
+   "en": "Looks like that's the Einst ringleader!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 364,
+   "en": "There's no turning back now! Everyone, all-out attack!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 365,
+   "en": "...This... could become... a new...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 366,
+   "en": "Did we... win?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 367,
+   "en": "...No readings nearby. No enemies... in sight!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 368,
+   "en": "We won... but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 369,
+   "en": "Master...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 370,
+   "en": "Domon... if Master Asia hadn't been stopped, humanity might be gone...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 371,
+   "en": "You two traded that many blows...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 372,
+   "en": "I'm sure your master understood how you felt, Domon...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 373,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 374,
+   "en": "...What on earth... are the Einst after...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 375,
+   "en": "...Kyosuke?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 376,
+   "en": "No... it's nothing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 377,
+   "en": "All units, return to the Gandor... We head for space at once!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 378,
+   "en": "What, already!? Commander, you're rushin' it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 379,
+   "en": "Yeah! We only just got to catch our breath.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 380,
+   "en": "We still haven't been able to reach Londo Bell...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 381,
+   "en": "They've probably already begun their assault on the plant planet.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 382,
+   "en": "Knowing Bright and the others, I hope they're not doing anything reckless...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 383,
+   "en": "Battle Mastery increased by 1.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 384,
+   "en": "Acquired skill \"Lucky\".",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 385,
+   "en": "Acquired skill \"Command\".",
+   "kind": "system",
+   "keep": false
+  }
+ ]
+}

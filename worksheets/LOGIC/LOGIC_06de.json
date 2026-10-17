@@ -1,0 +1,1957 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1758,
+ "strings": [
+  {
+   "id": 0,
+   "en": "All right, let's sort this out... Show Zama, hard as it is to believe...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "you're saying you came from an entirely different world?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "To be precise... I was pulled in from this world,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "so that's how it really is.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "I was born in Byston Well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Then... Nyamhee is from a world other than ours...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "I just can't see it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Byston Well, was it? A world between the sea and the land...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "It's a hard concept to grasp.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "It's true! Show and I aren't lying, you know!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "...Cham Huau, your very existence",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "proves that he's telling the truth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Huh? What? What does that mean, Show?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "...He means you're a rare sight.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "A fairy... That's a first for me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Fairy? I'm a Mi Ferario!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Whew. Such an unclear situation, with aliens and fairies...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "And the kids on the Dangaioh team were psychics, was it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "...It's enough to drive me mad.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Commander Hazuki, there are Gundam Fighters too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Whew... So there are.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "...Oh. Commander Hazuki, a transmission.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "From the Neo Japan Colony... Major Ulube Ishikawa.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Oh, good timing. Put him through.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Gil...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "What's this, what's this? Mia, you're looking pretty down.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Is it about Gil Berg, Mia?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "...Yes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "He sure is persistent. I heard he went after Dr. Tarsan too?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Never mind that, we gotta figure out what to do next.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Just playing defense forever ain't any fun, y'know?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Even if you say that...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Hey, what are you all talking about?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "You're... from the Getter Team...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Yeah, I'm Ryoma Nagare. This is Hayato Jin, and Benkei Kuruma. Hi.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Still... those outfits of yours... You look like race queens.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Race queens? What's that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "You don't know...? Oh, wait, you're aliens, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Yes. Mia's from Earth, though... I'm from planet Ratesia.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "I'm from a planet called Lilith.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "I still haven't got my memories back. Well, I'm not from Earth, at least.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Still... you sure don't look like aliens.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "P-Please don't stare at us like that...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "I'm surprised too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Before our memories came back, Dr. Tarsan told us we'd been created,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "so I thought we were all the same...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Dr. Tarsan? Is he your boss?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "The geezer who tried to sell us to space pirates as weapons.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "...He built Dangaioh too, so I guess that makes him our boss.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Space pirates... and Dangaioh. Mind telling us more?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "I'd like a handle on what we know about friend and foe.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Not at all. Where should I begin?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "I'm interested in Getter Robo too. Please tell us about it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "For now, what I want to know is...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "are all the people of planet Ratesia split personalities?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Yeah, everyone thinks that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Domon and the others joined the Gandor Team?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "They said they were chasing something on your orders, Major?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "I did order them to track down \"that thing,\" but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "I see. So they've joined up with the Gandor Team...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "What should we do with them?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Let's see... It may be dangerous for them on their own...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "If you don't mind, could you put Domon and the others to use there?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Personally, I'd welcome the extra strength, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "\"That thing\"... You mean the \"DG,\" don't you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Let me explain that...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Dr. Mikamura!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "It seems Rain is in your care over there.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "The daughter I knew was just a child. She's grown up so much.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Time certainly flies... Anyway, it was about the DG.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Yes... What exactly is this DG?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Dr. Hazuki, are you familiar with the term \"autonomous metal cells\"?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "If I recall... Dr. Kasshu was researching them...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "That's right.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "The ultimate Gundam, built with those autonomous metal cells: DG Cells.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "That is... the Devil Gundam.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "The Devil Gundam...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Though its original name was the Ultimate Gundam,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "it was stolen by a certain man and became the Devil Gundam.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "And the man who stole it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Kyoji Kasshu, Domon's brother and Dr. Kasshu's son.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "What did you say!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "And Neo Japan's government named Dr. Kasshu, who secretly built this",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "dangerous Gundam, an accomplice, and sentenced him to cryo-freezing.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Cryo-freezing...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "We tried our best... but sparing him from death was all we could do...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Neo Japan told Domon that if he recovered the Devil Gundam,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "they would release Dr. Kasshu.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "So I gave Domon the Shining Gundam, prepared for the Gundam Fight,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "and ordered him to recover the Devil Gundam.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "...I had no idea Domon was in such a situation...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "It's truly unfortunate...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "I hear the fighting on the surface is even fiercer than in space.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Perhaps Domon and the rest could officially join the Gandor Team,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "and the Gandor Team helped track the Devil Gundam as well...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Understood. We'll see what we can do here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "I see... Then I'll leave it to you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Please take care of Rain and the others.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "(The Devil Gundam... It certainly can't be left alone...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "but something about Major Ulube's story bothers me...)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Hm...? Is that...? Hey, what's up, Princess? Staring out the window?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "...You are... Sir Kabuto?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Heh, you can tell she was raised right.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Drop the \"sir,\" though. Just Koji is fine.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "...All right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Oh yeah, too bad the ninja didn't pan out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "...Yes. At this rate, we cannot save the Shema system...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Don't look like that. It spoils that pretty face, y'know?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Point is, we just gotta smash this Za Boom Army or whatever, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "...But it will not be so simple.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Sure it is. Getting greedy and coming after Earth too was their big mistake.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Beat 'em back, and we protect both Earth and your planet, Princess.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Sir Koji...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Mind you, for some reason Earth's",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "got a ton of folks besides Za Boom gunning for it too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "...Even seeing it like this... it truly is a beautiful planet.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Perhaps that is why they wish to make it their own.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Yeah. \"How green was my land.\"",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Did I tell you this before?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "A friend of mine fighting up in space right now... no, a guy I respect, said it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "That this planet's ours to protect, and we can't ever forget that feeling.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "\"How green was my land\"... And here I was, moping all alone.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Love for one's home world... that is something one must never forget.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Exactly.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "No ninja, but we've got that helper robot Tobikage on our side,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "so it's not over yet, Princess.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Koji! So this is where you were!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Hey, you're not done servicing the Mazinger yet!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Whoops. Later, Princess.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Yes, thank you so much... Sir Koji.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Princess Romina, so this is where you were.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Shaff...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Hey, Princess Romina, feeling better?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Too bad... no ninja after all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "...What is not there cannot be helped. More importantly, Joe, this is Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Your home... You need not stay with us any longer, you know...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Heh, can't do that now. Look at the state Earth's in.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "It's my planet. I figure I'll fight with the Gandor Team for a while.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "...\"How green was my land\"... isn't it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Huh? What's that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Oh, no, it's nothing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Damn, if only there were a machine I could pilot too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "But Joe, we can't just keep borrowing",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "the Kurojishi and Houraiou forever, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Yeah, Big Brooo.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "No, that is quite all right.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "It was our fault the Za Boom Army came all the way to Earth,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "so I intend to see this battle through to the end with you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Then I guess I get to stick with you a while longer, Princess.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Why not leave the ship, Joe? I shall protect the princess.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "You sure? I'm the only one who can pilot the Kurojishi, y'know.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Grr, we have no need of your strength...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Stop it, both of you! You are in the princess's presence!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Whew, it's like watching kids squabble...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Hmm, so this is the Shining Gundam... that one's beloved fighting Gundam.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Oh? Kyosuke? Interested in the Shining Gundam?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Yeah. I hear it has some special system...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "The Emotion Energy System.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "A system that turns feelings like anger or joy into energy...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "That's right. Only the Shining uses it so far, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "So the Gundam that looks like it's wearing a sailor uniform is different?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "My Nobel Gundam's different. Neo Sweden developed it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Why is someone from Neo Sweden helping Domon and the others?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "I heard you joined the Gandor Team",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "as a special participant from Neo Sweden?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Honestly, it's just me being selfish",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "'cause I wanna train with Domon~",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Training...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Domon and Allenby are taking part in this fight",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "partly as training.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Domon and me only got into these Gundams",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "for the Gundam Fight in the first place, y'know.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Yeah...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Training, huh. ...Oh yeah, I've been meaning to ask,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "what the heck is this Gundam Fight thing anyway?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "I wanna know too~",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Is it some kind of event?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Without all this recent chaos, the colonies would've vied for autonomy",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "in a scheduled bout using Mobile Fighters,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "a martial arts tournament.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "Wow, you know a lot. Are you into martial arts, Kyosuke?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "There's a fanatic close by.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Unlike mobile suits, Mobile Fighters relay the pilot's moves to the unit,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "and feed the unit's condition back to the pilot.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "They use what's called the Mobile Trace System.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "That's why maintenance is such a pain.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Whoa, so damage to the machine gets passed on to the pilot too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "That's why martial artists like us get picked as pilots.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "Oh, by the way, it surprised me when it came at a shout of \"Gundaaam!\"...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "How does that even work?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "Voice-activated autopilot?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "\"How,\" you ask... well...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "...I don't know the details.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "But Raideen, a legacy of ancient Mu, has never seen anything like",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "those bone-like foes... And above all, to the Great Demon Empire's goal,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "I feel they hold the key...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "Or perhaps their target is Raideen itself,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "built with the super technology of ancient Mu.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "So these mystery beings exist, but what they are, we haven't a clue.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "Well, whatever the case. Given how overwhelming the enemy is,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "it's easier for us to fight alongside the Gandor Team.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "How about it, Commander?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "Hey, Mister, that's no way to ask someone a favor.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "I don't mind at all, Sakurano.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "The subordinates I sent to space are far ruder.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "...Understood. I'd like your help in this fight.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "I'm the one asking you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "Yes. We look forward to working with you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "Now, next... Yuiry, would you call the Dangaioh Team?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "Yes. ...Oh, Commander, a transmission.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "From Captain Bright?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "Finally got through. Hello, hello! Is my crew behaving itself?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "You are... Dr. Tarsan?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "Indeed. Hazuki, was it? I'd like a word with the Dangaioh Team...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "Dangaioh Team, coming in.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "What did you wanna talk about~?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "Oh... Dr. Tarsan!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "What, you said you'd gotten into a fight,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "so I figured you'd kicked the bucket.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "How rude! I'm not about to kick the bucket that easily!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "Oh yes, you lot, isn't it about time you came back?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "What are you scheming, Doc?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "I'm not scheming anything! You don't grasp how serious this is.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "We've been put on the Bunker's wanted list!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "...!! Dr. Tarsan, this Bunker... space pirates, was it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "Just what kind of organization are they?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "You don't know!? ...Honestly, these planets out in the galactic sticks...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "Please don't say that. We want all the enemy intel we can get.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "We don't really know either. Doc, just tell us already.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "...Pai? You... still haven't got your memory back?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "...Then never mind. Ahem. Yes, the space pirates the Bunker are...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "Brother, you called for me?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "Ah, Aina. I told you I'd make you the test pilot...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "for that machine.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "Yes...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "The prototype will be finished shortly...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "So your dream will finally come true, Brother.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "No, it's a dream no longer. I'll throw it into the front lines",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "and turn this war, this whole situation, on its head.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "Not only the Federation...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "I hear aliens and unidentified forces are deployed as well...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "en": "It doesn't matter... whatever comes, before that machine...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "I... want to help you, Brother...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "Yes, it's reassuring to have you with me...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "en": "Oh no. ...Brother, isn't it about time for your medicine?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "en": "Yes...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "en": "Lord Ginias.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "en": "What is it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "en": "Word from Colonel Norris. Someone has stolen a mobile suit",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "en": "from a facility near Jaburo and is fleeing.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "en": "They're in pursuit now... What are your orders?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 258,
+   "en": "Hmm. Tell him I leave it to him. ...No, wait... Aina.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "en": "Yes, Brother...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "en": "...And so, they're an outrageous bunch.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 261,
+   "en": "I hear they've lately teamed up with a self-styled space crime syndicate...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 262,
+   "en": "The future's pitch-black, I tell you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 263,
+   "en": "A space crime syndicate...? Captain Bright mentioned...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 264,
+   "en": "Doctor, if they're after you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 265,
+   "en": "Are you gonna be okay, Doc~?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 266,
+   "en": "Don't talk like it's someone else's problem! You're targets too!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 267,
+   "en": "Just come back. Dangaioh's still not properly tuned.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 268,
+   "en": "You can't even use the Spiral Knuckle!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 269,
+   "en": "...Hey, can't you fix it so I don't go flying along with it...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 270,
+   "en": "...Let's go. The Bunker is after us...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 271,
+   "en": "If we stay, we'll only cause trouble for everyone on the Gandor Team...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 272,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 273,
+   "en": "Yeah. Doc, we're coming back.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 274,
+   "en": "Oh, splendid, splendid! Then, Hazuki, until we meet again.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 275,
+   "en": "Commander Hazuki. We're... going.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 276,
+   "en": "...I'm sorry. In this situation, I can't even lend you a hand.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 277,
+   "en": "The thought's enough. Mia, let's go.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 278,
+   "en": "Okay.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 279,
+   "en": "It was pretty fun. See ya.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 280,
+   "en": "Thank you so much!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 281,
+   "en": "...Mm.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 282,
+   "en": "Whaaat! For real!? THE Domon Kasshu is over there?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 283,
+   "en": "Yeah. He's apparently chasing the Ultimate Gundam...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 284,
+   "en": "the Gundam now called the Devil Gundam.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 285,
+   "en": "Hey, could you get me his autograph? Actually, let me talk to him.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 286,
+   "en": "If I get the chance. ...Anyway, what did you want to talk about?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 287,
+   "en": "Oops! That's not what I called about today...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 288,
+   "en": "Say, Kyosuke, those bone-like things, and the plant-like ones...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 289,
+   "en": "haven't they shown up down there?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 290,
+   "en": "They're appearing in space too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 291,
+   "en": "You too, huh... Somehow I'm the only one who hears their voices~",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 292,
+   "en": "You too... Excellen?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 293,
+   "en": "So you hear them too, Kyosuke! Phew, I'm not the only one...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 294,
+   "en": "Why can only we hear them?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 295,
+   "en": "The only thing we have in common is that one thing, so...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 296,
+   "en": "Yeah, true... but I don't see why.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 297,
+   "en": "Right... and that girl seemed to know you, Kyosuke...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 298,
+   "en": "Girl? What are you talking about?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 299,
+   "en": "A red machine that showed up with the bone things...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 300,
+   "en": "From the voice, she sounded like a little girl...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 301,
+   "en": "She hasn't gone your way?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 302,
+   "en": "No. The bone things appeared, but I haven't seen any red machine...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 303,
+   "en": "I see... She said, \"I'm going to see Kyosuke, I am.\"",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 304,
+   "en": "Me? What does that mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 305,
+   "en": "I don't get it... What do we do, Kyosuke?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 306,
+   "en": "I haven't told anyone in Londo Bell yet...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 307,
+   "en": "Better keep quiet for now... It'd only cause needless confusion.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 308,
+   "en": "Right. So that's that. We're sortieing soon, so I'm hanging up.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 309,
+   "en": "Yeah.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 310,
+   "en": "If you get lonely, call me anytime. I'll be waiting.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 311,
+   "en": "(Excellen and me... what do we have to do with that enemy...?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 312,
+   "en": "Hm? What's wrong?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 313,
+   "en": "...No, nothing. Maybe I imagined it. ...I'll tell you once I'm sure.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 314,
+   "en": "...Weird Kyosuke. Bye.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 315,
+   "en": "Yeah.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 316,
+   "en": "(...That voice... Maybe I imagined it... Hm? Lieutenant Amada?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 317,
+   "en": "Nanbu? Get ready to sortie. We're heading out now!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 318,
+   "en": "Enemy attack!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 319,
+   "en": "Yeah, a former Argama pilot who escaped a Jaburo facility",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 320,
+   "en": "is being chased by Zeon.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 321,
+   "en": "Roger. ...Hm? Dangaioh's mechs are gone?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 322,
+   "en": "Oh, the Dangaioh Team took off a little while ago.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 323,
+   "en": "...Amazing they can pilot in outfits that look like swimsuits.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 324,
+   "en": "I'd rather not think those are pilot suits.",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

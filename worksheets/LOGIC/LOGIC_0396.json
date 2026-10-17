@@ -1,0 +1,673 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 918,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. Raideen destroyed.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "What... what is this place? Raideen...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Answer me, Raideen! This empty space...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Weren't you trying to show me something!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "No good... Maybe I should've gone with Umon to join everyone...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Th-these things are... I knew it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "I see, that's it, isn't it, Raideen! This spot is...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "They keep pouring in...! Raideen, how long can we hold out...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Hm! An enemy I've never seen...! But... Raideen's reacting...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Is this one with them too!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "You can still go on, right, Raideen? ...Now let's see what you really are!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Raaaaai!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "It's around here. The spot Akira headed for...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "He said there was something he just had to check...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "I wonder if he found what he was looking for? Oh, look there!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Is it around here? The spot Raideen headed for?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "He said there was something he just had to confirm, so he split off",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "from Daisuke and the others... Ah!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "That robot over there! Isn't that it!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "A Federation battleship...! This is Akira Hibiki, in Raideen!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "You're with Londo Bell, right!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "That's right. We came to pick you up. ...Are you all right!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Raideen led me here,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "but then these things attacked me...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Understood. Captain, we're heading out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "But what is this place, anyway? And those enemies... it's that bunch again!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "...This area... Captain, launching.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Are you... all right...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Excellen...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "What's with that lady? Her face was white as a sheet.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Yeah... She doesn't seem to be feeling well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "It's always when those bony guys or plant guys show up, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "What are you all doing!? Launch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "...What are you...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "...This... place...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "...!! I knew it...! Why do you talk so only I can hear you!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Whoa, whoa, Excellen! What are you even talking about!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "...What's gotten into her?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "What's wrong!? Jun, did you hear anything?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Nothing at all. What is she talking about?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "A voice!? Same as Kyosuke...!? Who are you!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Excellen, Hibiki, focus on the battle for now. We'll talk later!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Y-yes, sir!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Hm!? Enemy reinforcements!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Ugh... What is this feeling...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "What... is this unpleasant sensation...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "How do I put it... it feels nasty...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Ugh... I feel kinda sick.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "...This is different from before...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "That one... Brother, that one's dangerous...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Maria!? Everyone else too... What is that enemy?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "This pressure... No, should I even call it pressure?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "This alien sensation...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Hey, hey, you guys okay? We're about to fight here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "That one that just appeared... is it the source of this feeling...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Everyone, are you okay?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Something like... a sickening... atmosphere?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Y-yeah... it's not so bad I can't move my mobile suit...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "I just feel a little sick.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Then we're fine. Let's hurry up and take care of these guys!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "If there's no problem, fine... but either way, stay sharp!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "There's no telling what might happen!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "What is this place? And weird guys we've never seen showing up...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Well, it all worked out. We met up with Hibiki, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Exactly. You're Akira Hibiki, right? I've heard about you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "I'm Bright Noa of Londo Bell.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Pleased to meet you. Oh, and Umon...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "I'm sorry for running off on my own like that...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Don't worry about it. The Elshank is safe, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Pleased to meet you. Oh, what about Umon and the others...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "The Elshank ran aground, apparently. They'll join us later.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Yo, Akira. You look well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Akira, it's been a while.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "We haven't seen Raideen since we split up on Earth.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Good to have you with us again.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "But why'd you go wandering off alone the moment we got to space?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Yeah. Coming out here all alone, you must've had a good reason, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "...Raideen... told me to come here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Huh? What do you mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Um... Akira Hibiki, do you have a minute?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Ah, you're... Right, I wanted to talk to you too. About that mystery enemy...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Kyosuke said something about voices, too. You're Excellen, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "What's your relationship with him?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Relationship? Come on, don't ask something so obvious, Akira.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Koji! Be quiet!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Aren't they dating?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "I don't think that's what Akira's getting at, is it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "He's...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "(So it is... that accident during the One Year War...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Captain... Captain, what's wrong?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "...Ah, no, it's nothing, Captain.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Hibiki, there seems to be a lot going on, but we're in mid-operation.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Understood. Excellen, we'll talk later.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "...Sure.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "For now, we'll have to be happy that we've beefed up our forces.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Right. ...This should improve our chances of stopping the colony.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Not chances. We WILL stop this colony drop, Operation Stardust!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "All units, return to the ship.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Battle Mastery increased by 1.",
+   "kind": "system",
+   "keep": false
+  }
+ ]
+}

@@ -1,0 +1,631 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 471,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "This much strength on the west side too!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Where'd they all come crawlin' out from!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Looks like a lot of them came down during the colony drop chaos.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Yes, but... with numbers like this, they must have prepared in advance.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "You mean it was a setup?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Not a setup, so much as... insurance taken out on the colony drop...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "would be more accurate. Probably... Haman Karn...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "A different unit from the Titans earlier, huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "You're here. Gandor.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "So many mobile suits still left...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Ghosts of the Titans...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Why's Zeon usin' Federation robots?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Come to think of it... I remember fighting them a few times.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "In the Gryps Conflict... Scirocco was tied up with Haman...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "I heard they secretly traded tech and units back then...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Even after the Titans were gone, their cursed legacy",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "stayed in Zeon's hands...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Norris, is that true?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "...It is as you see, Lady Aina. And... its pilot as well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Its pilot? What do you mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "The pilot!? A Titans pilot!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Who cares how things used to be?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "What matters is that the enemy's right in front of us now!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "I get what you're saying, Hyoma, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Save the debate for later. All units, launch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Here! So this is where you were... Kamille Bidan!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "You're late, Jerid!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "What...! Jerid? Jerid Messa!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "This time... this time I'll kill you! Kamille!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "What's with this guy? Real charmer. Kamille! You know him?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Hm...? Does he have some issue with Kamille Bidan?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "That mobile suit...! Don't tell me it's Scirocco's!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Kamille, isn't he... a former Titans man!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Yes. ...Jerid Messa. He used to be with the Titans...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "...a man who sided with Paptimus Scirocco...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Until I beat you... I can't take a single step forward!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "You're the wall standing in my way!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Don't give me that!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "You can only judge things by who wins or loses a war...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "That's right! That's why I threw everything away to be here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "...Shamelessly piloting a mobile suit like that!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Calm down, Kamille! That war... it's already over!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Kamille, don't get emotional. You'll lose sight of what's in front of you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Maybe Ilbora felt... the same way, huh, Joe.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Now die! Kamille Bidan!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Jeriiid!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Gaaah! Why! Why can't I win...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Kamille! Don't you forget... I'll get you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Ah! He's running away! Show, we have to go after him!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "No, Jaburo's surrounded by enemies. Chasing him too far is dangerous.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Besides, that machine was about to blow. Even if he got away...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Besides, with that much damage... I doubt he'll get very far.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "If things go badly for him, he may just...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "That's right. And we can't spare the forces to chase him, either.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Jerid...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "I'd have liked to finish him off for good.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Guys like that always come back for more.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Kamille, on the battlefield...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "...I know, Amuro. But...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Kamille... poor thing...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Bernie... we turned out all right, didn't we?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Huh? Oh, yeah.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Jerid... why did you have to go as far as joining Zeon just to kill me...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Bidan... perhaps that man gave himself over",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "...to an aura of hatred...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Hm, reinforcements?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Just how many of them are down here on Earth!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Th-that's...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "...I see. The east side got wiped out, so they came around this way.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Heh, looks like my luck's holding.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Whaaat? It's a Gundam?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Benkei, is that all you've got? ...The scale on that thing is way off.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "About twice the size of a Gundam type... Kamille!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Is that... a Gundam!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "That's... the Psycho Gundam...! The Titans' Newtype-only machine!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "One giant Gundam, the Devil Gundam, is more than enough!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Ya keep sayin' big, but Combattler's still bigger!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Plus ours has five pilots. Heh, we won't lose!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "What's that supposed to mean? More pilots doesn't make you better!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "...Dangaioh has four pilots too, you know.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "You're both as bad as each other.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Yes...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "It was wrecked in the last war, and we restored it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "And for you especially... it must bring back memories, Kamille!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Jerid... you bastard!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "...Goodbye, Four...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "A direct hit only on the generator...? A gentle way to destroy, Kamille.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Destroying... killing... whether it's gentle or not...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "...it doesn't matter, Amuro.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Looks like every enemy in this area has been dealt with.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Though they held us up longer than I expected...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "And this right after the colony drop...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "...They committed these forces anticipating Stardust would fail.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "They probably still have a trump card.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "I thought Earth was finally settling down... and now a Zeon onslaught.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "But we can't hand Jaburo HQ over to Haman.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Indeed... that's exactly why we came here.",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

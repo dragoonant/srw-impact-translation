@@ -1,0 +1,937 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 325,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Whoa, wh-what!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "The Shining Gundam... activated? Is Domon calling it!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Eeek! Who's attacking? Huh!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Death Army...!? And also...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "What is this!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "I can handle a few Death Army too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Did we get it!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Looks like it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "The Devil Gundam has the Three Great Theories.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "It's too early to relax!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Domon...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "...Brother.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Raaaain!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Domon!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Hurry and get into the Shining, Domon!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "I know!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Rain! Leave the rest to me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "All right. The rest is up to you, Domon!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Yeah, I'll drag out the Devil Gundam and Master Asia!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Isn't it about time you showed yourself!? Master Asiaaa!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Domon... It seems today, at last, we must settle this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "I will never call you Master again!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Undefeated of the East... Master Asia!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Here in the training grounds where I raised you, I'll bury you in style!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "He shares your blood, yet his power is worlds beyond yours.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Realize how green you are, and bow down before him!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Kyoji...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Fuhahahaha... Fuhahahaha...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "What's so funny...? What's so funny!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Listen! Because of you, Mother died and Father was frozen...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "And chasing you landed me in this mess! You've no right to laugh!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "I'll never forgive you... I'll smash you to pieces!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Heh heh... Hehehe...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "(Just as I thought, my eye does not fail me.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Consumed by anger, he's merely wasting his energy.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Now is the time to strike...)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "You're mine!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Ngh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "G-Gundam... Spiegel!? ...Schwarz!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "You fool... After all my warnings, why did you trigger Super Mode...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "I'm sorry... I'm hopeless. My training wasn't enough...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Hopeless, truly hopeless, Domon!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Gundam Spiegel saved your life, and your anger has subsided, yet",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "you're wide open and look at you! Now, I'll snap your neck!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Domon, remember! That moment...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "That instant in the cave... The instant of Meikyo Shisui!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Meikyo... Shisui...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "(...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "(...Huh!? Father... Mother... I... I'm!)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "(Domon, die with a quiet heart!)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "(Die...? Me? That's right, it's the same as that time... just like then...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "(Hang in there, Domon! Don't you lose!)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "(Rain!!)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "I see it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "I see it! The single drop of water!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Wuoooh! What is this... this spirit!? It's different from before... Could it be!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Domon, you've done it... That is the true Super Mode.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "With the Meikyo Shisui mind, you can defeat the Devil Gundam...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "The Gandor!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Are you all right? Mikamura, Kasshu?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Ah, yes... But why are you here?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "We picked up abnormal vibration waves near here. So we came.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Well, no wonder, with that thing around.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "What on earth is that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "That's an offshoot of the Devil Gundam!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Ngh, I can't afford to lose the Devil Gundam in a place like this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "I knew it, there are still more of them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Looks like it's not just the Death series...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "That enemy...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "The Einst, which have been appearing in space too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Are you saying the Einst and the Devil Gundam are connected?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Leave that for later. For now, let's just launch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "The rest can wait. Let's launch, Jun.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "All Gandor units, cover Kasshu and the others and take out the enemy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "I have a bad feeling about this... Let's go.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Domon... Do you really think you can defeat me with skills like those?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Yeah. I won't hold back anymore! I'll defeat you, no matter what!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "What!? Even after all the damage we did!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "What on earth is happening?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "I don't know, Princess.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Looks like it recovers once it takes a certain amount of damage...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "The Devil Gundam has a self-evolution function.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "So it's evolved since it appeared at Jaburo...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "DG Cells aren't all-powerful!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Do something while its regeneration is weakened!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Got it. We just go all out and take it down, right!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Tobikage!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "So you've shown up, Ninja Warrior.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Right now only my Blast Dragon can combine, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Mike, please don't say such timid things.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "With Joe and the others gone, you've gotta step up.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Kyoji... no, Brother. I'll end this now...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Nnngh... that I... I, Master Asia of the Undefeated of the East school...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "But, however!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "It can still move, in that state...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Of course! Have you forgotten my name!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "I've never known defeat! I am Master Asia, Undefeated of the East!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Master...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Domon. I shall leave this place, but your future will not change...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "no matter how you struggle...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "It's fading... My anger, my sorrow, my revenge... all fading away...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Ahh, my Devil Gundam...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "This is unseemly, Master Asia. You were beaten by your former pupil...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "It's not gonna come back to life again, is it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "N-No...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "The Devil Gundam's reading... It's gone...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "We did it! Wait, hey...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Something's coming!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Alchemie...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "That light just now, wasn't it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "The light of the Aura Road...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Which means those guys came from Byston Well?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "I guess that's what it means...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Time... already...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Time... already...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "I see... I didn't make it in time...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Didn't make it? Don't tell me... the Devil Gundam!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "So you've returned... But...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "the ones you left behind couldn't protect the Devil Gundam!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "I see... They were failures after all...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Ngh... That light again?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Kurojishi? Big Bro!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Hold on... So does that mean...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Joe! Look over there! It's the Elshank!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Joe...!? Is that you, Joe!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Princess Romina!? So we really made it back to the surface?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Captain! You're safe!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "More or less.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Captain Amuro! That red machine we were just fighting...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "You mean it came up with us...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "I brought along some things I didn't need...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "So bringing the Captain and the others along was",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "not part of Alchemie's plan...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "It can't be helped... I have no more business here...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "W-Wait! What are you...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Kyosuke... I wanted to know more... about you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Tch...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Master...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Looks like we've driven off every enemy in this airspace.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Anyway, I'm glad. Everyone made it back safely.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Yeah. Welcome back, Chris.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "All right, everyone return to the Gandor. We'll talk details after that.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "All units, return to the ship.",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

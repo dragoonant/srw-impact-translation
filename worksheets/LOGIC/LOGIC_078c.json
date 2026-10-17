@@ -1,0 +1,1399 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1932,
+ "strings": [
+  {
+   "id": 0,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Problem... detected.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "...Space...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "It must be... silent...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "...Hating one another...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Not wanted.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Not wanted... this world.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Not wanted... this world... correction...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Completion...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "...A new... life...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "...Failure.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "...Awakening... the time to wait...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Captain, no enemies remain nearby. ...We've driven them off for now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "The Vega Star Federation... They're so persistent with their attacks...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "...Understood. Sorry, Captain, but we have to set out right away.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Return to the deck. ...Lieutenant Emma, give me a status report.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Yes, sir. To be honest... the situation is tough.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "The Vega Star Federation seems to be attacking every colony like that,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "and every facility, too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "...Right after the Gryps Conflict ended, huh.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "That's the worst possible result of reckless disarmament.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Now, now, Captain, we've got my brother here, so it'll be fine.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Maria, you shouldn't say things you can't back up.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Oh, Brother, welcome back.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Captain, I've returned. We've driven them back for now, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "I'd say our defensive battle is nearing its limit, wouldn't you?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "It's rough. There don't seem to be any working mobile suits left in Luna II,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "and with more than half the interception systems down...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Yes... In effect, all that's holding Luna II up is the Captain's Hyaku Shiki,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "the Lieutenant's Prototype Unit 1...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "It's under maintenance, but next time I can sortie in the Rick Dias.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "And Umon's Grendizer. That's all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "And there's the Aphrodite A they forced over here for us...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "It's totally not made for space... but beggars can't be choosers.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "...Oh, Bright, in this case it's not Umon's,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "it's Brother Duke's Grendizer, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "It's all right, Maria. Earth is my home now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "...So my name is Daisuke Umon.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Then I'm Maria Umon. Hard to say, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "If all aliens were like you two,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "we wouldn't have to fight a war like this.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "...Humans went to war just from living apart, on Earth and in colonies...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Perhaps the situation is no different.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Honestly! Captain!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Heh, my apologies. ...Captain, as for our next move...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Right. We, Londo Bell... the Ra Cailum, will now depart Luna II,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "follow the lunar orbit, and track the Vega Star Federation's movements.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Don't we know where the Vegans' home base is?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "...Probably... near the Moon. Their final goal is the Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "They'll want the Moon as a forward base at any cost.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "But Umon, that's where Von Braun City",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "and Anaheim Electronics are, you know?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "True, I doubt they could build a base there without anyone noticing...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Brother?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "They just might... pull it off.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Captain Bright, it seems we do need to search the area around the Moon.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "...We were just attacked, so we can't move right away, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "on the other hand, we may be able to catch the enemy off guard.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Ummm~",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Hm, you're... I see, the one assigned here...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Excellen Browning. Sorry I'm late.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Excellen... Browning. I see, so you're...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "? Is that some new pickup line?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "No, it's obviously not.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "In any case, reinforcements are welcome. But... are you alone?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Yes. My unit's a modified prototype that isn't very versatile,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "so I went alone to Anaheim for adjustments...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "and came straight here from there.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "I've confirmed it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "...PTX-007-03C, Gespenst Mk-II Custom...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "I don't love that its output's kind of low, though.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "By the way, what about the other reinforcements?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Just you. ...We were expecting reinforcements from Konpeito",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "and the Satsuki Midori colony, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "\"Were\"...? Captain?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "...We can't reach Konpeito. And the Satsuki Midori colony...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "has gone silent.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Wow, so I'm a lucky girl?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "So it would seem. ...We're boxed in on every side.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "What about contact with Jaburo, Captain?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "We keep trying at regular intervals... but nothing changes.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "For now, only the Far East Branch is functioning... the Cyber Beast Force.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "The Cyber Beast Force! Captain, let's try contacting them.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "We're stuck anyway, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Yes... They may have information on Jaburo. All right, open a channel.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "(Kyosuke... looks like we both have it rough.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Hohohohoho! I see it, I see it! How delightful!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "How shall I slaughter every creature on this planet... I can hardly wait!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Hoh~ hohohoho.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "...And that's the situation, Commander Hazuki.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "How awful... But with your current forces...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "won't it be difficult to hold back the Vega Star Federation?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "I know. But... we have to do it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "What about those Jovian Lizards that appeared on Mars",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "after the Meganoid Rebellion?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "They've made no notable moves lately.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "I see... Mysterious unmanned weapons of unknown origin...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Whose machines could they be...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "There are rumors they might be Meganoid survivors...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Mars... Just when it had recovered from the Meganoid Rebellion...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "What's still functioning properly there now?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "The Mars Frontier Base... It's ironic that the city was built",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "on the ruins of a Meganoid base.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Captain, the person Captain Bright's talking to is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Commander Hazuki of the Federation Forces' Far East Branch.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Hazuki... I've heard that name before...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "In the last war, as the Muge Zorbados Empire neared the Earth Sphere...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "he led the Cyber Beast Force, who stormed their base alone and",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "succeeded in defeating Emperor Muge. He's their commander.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "The Cyber Beast Force! The ones famous for disobeying orders!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Still, it's the only super robot the military owns.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Though it's not operational now...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "That's right. The robots that became famous overnight in the last war,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "like Getter Robo and Mazinger Z, have all been mothballed...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "What about reinforcements from Konpeito or Satsuki Midori Colony?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Same as Jaburo... We can't get through to them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Strange... I've heard nothing about that... Then in terms of strength...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Frankly, we're in a tough spot.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Grendizer is somehow keeping us afloat, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "We simply don't have enough pilots. We were told they'd send us",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "a new model, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "all we got was a prototype passed over for production due to cost,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "and a single pilot for it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Same as us. One prototype and its pilot, nothing more...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "And that machine is a Gespenst Type 3.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Type 3... I've rarely heard of a Mk-III.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Strictly, it's from the ATX Project, the Personal Trooper upgrade plan.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "It was developed using the preserved Unit 3 as its base.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "But only one prototype exists. It has power, but it's far too specialized.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Ours is a custom Gespenst Mk-II, the mass-production prototype.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Even with the military cutbacks...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "The ATX Project...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Yet to send a canceled machine to the front lines...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "What is the top brass thinking...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "I understand. ...Even so,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "we intend to hold the line against any descent to Earth at all costs...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "I have a proposal.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Add Dancougar... the Cyber Beast Force to Londo Bell.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "We've had no proper supplies, and its tuning isn't complete, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "its combat ability should be more than enough.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Dancougar...!? That'd be welcome, but it's another jurisdiction.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "With Jaburo out of contact now...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "I can't just move forces around on my own...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Captain. Forgive me for cutting in, but what Commander Hazuki says",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "may well be right.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Who among our current forces can down a saucer beast in one hit?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "is Grendizer.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Dancougar's combat ability was proven in the last war.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "...Hmm, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "...What if they disobeyed orders and went to Londo Bell on their own?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Whoa, Hazuki, so you're telling us to disobey orders?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "...Fujiwara.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Hell yeah, let's do it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Stuck on ground duty like this, I'm gonna go nuts from boredom!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Besides, it's not the first time we've disobeyed orders. Right, Shinobu?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "What's that supposed to mean, Sara? Like I'm always...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "And there you have it, Captain Bright.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "I expect they'll cause you all sorts of trouble... Is that all right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "...Understood. We'd be glad to have them.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Oh, that's right, Commander Hazuki.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Is there something else?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "...Commander, there's one thing I should tell you. The pilots assigned",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "to the Gandor Team and to Londo Bell... both of them are probably...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "survivors of that accident.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "...Not that it means anything in particular...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "In fact, the girl who came to us is a skilled pilot.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "...Though her personality seems a bit problematic.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "But... why, amid these cutbacks, were they assigned now of all times...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "...I understand.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "...Though as long as we can't reach Jaburo, there's no way to confirm it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "(That accident... Its only two survivors, Kyosuke Nanbu and",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "Excellen Browning...)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Huh, so this is Grendizer... These horns are pretty cool. The horns.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "Look out! Don't get any closer!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Wh-wh-what!? I didn't do anything!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Whew... It didn't react... Sorry about that.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "If anyone besides me gets near Grendizer,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "its automatic defense system kicks in.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "S-something that dangerous!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Yes. Grendizer was the guardian deity of planet Fleed.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "It's not quite \"let sleeping gods lie,\" but it's protected from misuse.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Brother, what's all the fuss?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "Oh my, Excellen, don't tell me you're into my brother...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "Maria! How'd you get that idea!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "I only came to do maintenance on the Weiss!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "I'm kidding. No need to get so flustered.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "Don't tell me... things aren't going well with your boyfriend?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Ugh... W-well, I'll admit he's not exactly friendly, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Oops... Hit a nerve...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "That's enough, Maria. ...By the way, what's the matter?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "Oh, right... I've got a bad feeling about something.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "My sister Maria has a weak power of precognition. So that means, Maria...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "All pilots! Report to the bridge! I repeat, pilots to the bridge!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "An announcement! She was really right!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "Everyone's here. Listen up. The Vega Star Federation...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "has begun moving in earnest.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "Don't tell me they're after Luna II again!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "No, it seems their attack here was just a preliminary step",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "to strike every sector.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "Could it be... the Satsuki Midori colony too...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "Quite possibly. Captain, about Jaburo...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "...Still no word. And so we can't send units from Luna II either...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "Geez, the military is so roundabout.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "I agree. But right now, only we can move, as an independent unit...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "We depart at once.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "...Have other points already been hit?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "Yes. A colony cluster... not far from the Moon.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "That's where the Vega Star Federation seems to be heading.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "Also, this is unconfirmed, but on the far side of the Moon...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "a recon probe was destroyed in the shoal zone.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "It's hard to believe it just hit an asteroid...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "So we're heading there?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "Yes. All hands, stand by at your posts. This ship will now...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "Captain Bright!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "Hm, what is it, Lieutenant?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "A ship with an unknown ID signal is moving toward Earth!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "...This... It's not Zeon or the Vega Star Federation...!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "Who is it!? ...Damn, there's no force on the ground to resist invaders.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "Are we the only ones who can stop it...!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "So they've begun to move.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "Even to a remote planet like this... Those guys! I'll teach 'em a lesson!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "That's right! ...Huh, Brother...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "Yes, but... this star system's battle... I can't shake a bad feeling.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "I hope it'll be over once we defeat them.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "I hear those dreadful space pirates are moving too... Miss, I'm worried...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "Honestly, what good will worrying do!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "...We must go. Wherever Kenrou leads us.",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

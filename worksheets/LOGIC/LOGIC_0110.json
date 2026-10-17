@@ -1,0 +1,1465 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 272,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. Elshank destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Ez-8, launching.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "I'm heading out too, to cover the Elshank.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Hey, wait for me, everyone!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Don't get too worked up and hurt yourself, okay? Joe!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Leave it to me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Ronin, thank you for carrying the dangerous Kirhasium all this way...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Joe and I are close friends. It's the least I can do.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Princess, the Elshank is ready",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "for micro-worm navigation!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Commander Hazuki.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "All right, all units launch and keep watch on the surrounding area.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Domon... I wonder if everyone's okay?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "No telling. It's been a long time since we came down to Earth.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "We might...have to go back up someday too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "First time since we launched the HLV. That was rough...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Commander, don't let your guard down.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "The things you least want to happen are the ones that happen again.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Captain Amuro, please don't scare me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Back in the Argama days, that always happened to Bright.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "That's right, Elpeo Ple's aboard the Elshank too, isn't she?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Yes. She hasn't woken from her coma. She keeps murmuring Judau's name...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "So I figured sending her to Judau would be best.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Shaff, how long until launch?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "About...five more minutes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Damian! You're riding with that naive princess, so guard her",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "and do it right!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Akira! If it comes to it, stop that colony with the God Bird!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Space, huh... Daisuke, say hi to Tetsuya and Boss for me.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Dammit... I wanna help out too...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Koji...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Daisuke, once the fighting on Earth is over, I'll head to space too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Tell Koji that for me.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Tetsuya...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Sure, I'll pass on everyone's regards.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "More than anything... I'll pull this off, even if it costs my life...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Daisuke, your radiation wounds may have healed, but don't overdo it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "And Maria, please look after Daisuke.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Leave it to me.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "If it comes to it, my brother and I will blast the enemy away together!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "I don't think that's what he meant.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "That spirit's just right, Hayato. ...Considering what's ahead.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Yes, I'll fight with all I've got. ...Well, Father, see you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "...Daisuke, everyone... I'm counting on you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "It doesn't really feel real, you know? A colony falling on us...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "True... But...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "We can't afford to have it feel real.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Lieutenant Amada.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "You two are way too relaxed. It's at times like this the enemy...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "They're here! Geez, Shiro! Why'd you have to say that!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "It's my fault!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "When they come, they come!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "So they intend to send that ship into space.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "At this timing, they can't reach the colony before its point of no return...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "I can't see their aim, but that ship is mine...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "They still had this many forces hidden away!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "That Gouf... It's here again!? I hate it, it's so strong.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Yeah, the 07 Custom, Type B3...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Anyone piloting that has to be a real oddball, or...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "...an ace. Troublesome...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "But if that Gouf's here... maybe Aina is too...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Three more minutes! Keep the enemy out of the lab at all costs!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Last time it was when the Elshank came down.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Now we get attacked on the way up...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "We have to deal with the ones in the water...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Guess I'll go wild with Getter-3!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Dammit, Raideen!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Wait, Akira! Leave this to me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Don't be shaken by a petty ambush like this.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "...Numbers like these... I'll smash them all at once!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "I must settle this...before Lady Aina arrives.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "She is someone who...should no longer be riding in such a thing.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Heh... Splendid... Lady Aina, this is farewell.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "...The path you chose, the war you chose...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "I pray with all my heart...that your spirit never breaks, to the very end...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Norris! Norriiis! Eject! There's still time!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "...With all my heart... ...I pray......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Hmph! You do well with such a patchwork of old models...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Ngh, I can't lose...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "I'll win this fight... and spend my life with Aina...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "What! So you're the one...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "We're in the middle of a battle!? What are you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Lieutenant Amada! Don't lose yourself in battle!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Don't end up like me...and him...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Heh... Fuhahaha! Lady Aina... I have found...a place to die...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "What! Sherman... and Bancs! At a time like this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "It's like they were waiting for this!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Princess!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "...They likely detected the energy from our micro-worm navigation.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Joe...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Leave it to me! ...Is what I'd like to say... but we're badly outnumbered.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Those are...the aliens' unmanned robots. Good timing or bad... Blast it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "You're not getting in our way now...! You stupid puppets!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "With them this spread out... this is bad, Koji!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Dammit, they just keep coming! I'd love to crush them all at once, but...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Looks like we'll have to take them out one by one.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Mike! Can't you back us up!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Easy for you to say, Lenny!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Banjo! At this rate, we're gonna get wiped out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Relax, Beauty. If we'd go down to something like this...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "...then that's all we were ever worth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Banjo, you can't just say that...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "That said! Finding a way through is our job! Let's go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Hey, Show!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "You heard Banjo. ...We just have to find a way. Let's go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "I won't make it! Ngh... Tobikage...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Hm, that robot is...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "...Tobikage!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Tobikage!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Here it comes, here it comes! It's a ninja!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "What's a ninja?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Hmm, I don't know.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Maybe on the surface, machines that appear out of nowhere are \"ninjas\"...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Heh, true. Just like Schwarz, it appears out of nowhere,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "and vanishes before you know it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Now that you mention it, that's true.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Anyway, it's on our side!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Ah, that ninja robot...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "See? When things work out, they work out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "I see, so that's why you were so calm, Banjo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Geez! You could've told us first!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Banjo, you knew!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "...W-Well, sort of.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Don't fall for it, Big Bro Akira. He was totally just making it up.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Well, never mind that. Thanks for the help, Ninja Warrior!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Good timing! I'm counting on you...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "All right, we'll beat them with mobility!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Don't you lose, Show! Marvel!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Princess Romina, the Elshank is ready to launch...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "...Emergency launch...! Commander Hazuki, we're off.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Princess Romina, we're counting on you...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "They're off... It's up to you, Daisuke...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "The colony drop... Stop it, whatever it takes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Battle Mastery increased by 1.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Norris...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "That's... a Zaku head...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "That mobile armor... the one Lieutenant Amada...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "The Apsaras. Lady Aina, this is earlier than planned...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Nngh, this is all because I failed you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Norris... You're safe!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Yes, Lady Aina.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "...If I'd had my way, you would never have boarded that again...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Screw it! Bring on as many as you want!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "A few more machines won't make a difference. I'll crush every last one...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "...I can only conclude Zeon has a base somewhere else.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "But...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Is Aina really in that machine...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Aina!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Shiro... Shiro Amada!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Aina... I hate Zeon...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "But... since the day we met in space... I haven't been able to forget you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "...Shiro.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Lieutenant Amada!? What on earth are you...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Commander Hazuki, let's leave this to him. This isn't our place.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Aina! If this is war... is there really nothing we can do!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "No! There must be something we, of all people, can change!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "This is no time for us people of Earth to be fighting each other! Aina!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Shiro... I'll fight too. Alongside you. ...Norris... I'm sorry.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Aina...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Ainaaa!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Ugh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Aina...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Shiro...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Aina, come with me...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Yes...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Commander Hazuki. She's from Zeon, but she can be trusted.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "I vouch for her! Please, take her aboard...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Commander, I'm asking too. ...A chance like this doesn't come often.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "Captain...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Hmm. Very well... I'll allow it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Thank you... Shiro.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Lady Aina...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Norris... I'm sorry. I...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "...No, you chose well. You are no longer Lord Ginias's puppet...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Follow the path you believe in. But... I am a soldier!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Norris...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Not for my own sake... nor for the Sahalin family...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "I am a soldier of Zeon to the very end. Please stand back, Lady Aina.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "Next time, I will have to fire...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "...Norris... Norris!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "Heh heh... To meet the one Lady Aina loves... It has been an interesting life.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Norriiis!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "...For the sake of those doomed to perish. My role, too, ends here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "Colonel Norris!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "Hmm... You're... I see, from the Cyclops Team...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "For the sake of those doomed to perish...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Our leader Steiner said the same thing... and died...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "But you've still got something you have to do, don't you!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "You know what you have to protect,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "so is throwing it away to die what makes a soldier cool!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "That's just wrong!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "Bernie...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "Just as I thought... You're the Cyclops Team's washout.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "Ngh...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "But... it seems Steiner's eye for people was not mistaken.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "Heh... To think I'd be talked down by such a youngster.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "Norris...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "Acquired skill \"Lucky\".",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "...Norris.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "Colonel... you were a soldier of Zeon... to the very end...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "But... this... this is just...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "Good, that settles it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "Princess Romina, the Elshank is ready to launch...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "...Emergency launch...! Commander Hazuki, we're off.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "Princess Romina, we're counting on you...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "They're off... It's up to you, Daisuke...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "The colony drop... Stop it, whatever it takes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "Battle Mastery increased by 1.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "For a while there, I didn't know what would happen...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "We've confirmed the Elshank's warp in the stratosphere.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "Now... all we can do is watch over them...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "Man, so much happened, my head's spinning.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "Princess Romina... I hope she's all right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "Princess Romina's tougher than she looks, so she'll be fine.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "That's right. All we can do now is watch...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "That's right. Whatever happens, happens.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "It might sound irresponsible... but that's all we can do.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "We'll just have to trust them. And just like them...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "we've got plenty of things we need to do ourselves.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "Right. Commander Hazuki, let's head to the next point.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "Indeed. Also, the Combattler team just contacted us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "Oh, so they're okay. What did they say?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "It seems they've found the Campbellians' hideout.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "So they did have a secret base on the surface.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "No way they could've moved so fast otherwise.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "Looks that way. Seems we're not out of the woods yet.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "But I'm sick of always being a step behind in this fight.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "...This time, it looks like we can make the first move.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "Yeah! Let's show 'em what we've got!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "Stormy weather, any way you look at it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "...But it looks like we'll just have to keep pushing on like this to the end.",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

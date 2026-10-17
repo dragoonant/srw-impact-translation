@@ -1,0 +1,355 @@
+{
+ "file": "BTL/BMCPACK.BIN",
+ "format": "BMC",
+ "pilot": 286,
+ "strings": [
+  {
+   "id": 0,
+   "en": "The universe... is beginning to stagnate.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "...You have spread too far, without order... O seeds of life...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Now... a new... evolution begins...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "An unwanted world... must be corrected...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "...Welcome... you who come... from the land of beginnings.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "The spirit... evolution of the mind... has nothing to do with the flesh...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "For my new universe...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "To those who deny this universe... destruction.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "You share the same body as us, and yet... a pity.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Was it you who led astray... the entire... plan?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "To think... you never understood...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "...Fools... who can do nothing... but destroy their own universe...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Why... can you not await the birth of a new universe...?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "I shall end it... this meaningless strife.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "The land of beginnings... its very seed... was flawed.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "This... is the will of the new universe...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Retribution... yes, this is retribution.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Now... it is my turn to call upon my sovereign...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Earth... Why can you not grasp what the land of beginnings desires...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "You share the same body as us, and yet... a pity.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Was it you who led astray... the entire... plan?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "To think... you never understood...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Why... could you not become... a perfect... new... life...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "In this new universe... you would defy me...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "I cannot... accept it... I cannot...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Why can you not see... that this power... is unwanted...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Consider well... what it is you are doing...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "The end of the world... cannot be stopped.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Cease your struggling... you who were not chosen.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Become the foundation of a new universe...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Power to this degree... Interesting...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "That much... does not even count as a wound...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Struggle and flail as you may...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Why will you not accept it...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Accept the facts... the truth.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "It will not work...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Futile.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "This is the truth.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Naive... all of it is naive...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "So this is the limit of those from the land of beginnings.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "It will not work...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Is that all?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Impossible...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "My power... is waning...?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "My power... falls short...?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "You intrude... from beyond my power's reach...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "If you interfere... you must be eliminated...!",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Is that the end of you... Then vanish.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "I cannot allow anything... in this universe to be harmed...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Is that all... you from the land of beginnings?",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Crumble away with one sweep of my arm.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "I bring destruction and chaos...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Receive it... this... is your karma.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Vanish... for the sake of the new universe.",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "The time has come to begin everything anew...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "All for rebirth and evolution...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "The time has come to begin everything anew...",
+   "kind": "quote",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "All for rebirth and evolution...",
+   "kind": "quote",
+   "keep": false
+  }
+ ]
+}

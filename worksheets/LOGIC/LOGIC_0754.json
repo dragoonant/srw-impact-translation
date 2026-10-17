@@ -1,0 +1,853 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1876,
+ "strings": [
+  {
+   "id": 0,
+   "en": "Phew, the Campbellians have settled down... Case closed!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Huh? What's with the gloomy faces, everyone?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Not every problem's been solved yet, you know, Hyoma.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "That's right. Thanks to your work, I think we can say the Campbellians",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "have been defeated, at least for now. But...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "In the end, we never learned their connection to the Einst.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "And Joe and the others are still missing, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "You have no idea at all where they went?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Joe Maya and the rest",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "of the Elshank crew... what's become of them?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Still no contact with them?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "I have a rough idea.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Garrison, old man, is that for real!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "They're safe!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "There is interference from Minovsky particles.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "And that device was meant to send entire cities to a base on Mars.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "That being the case...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "...Space... You mean Mars?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Very perceptive, Kyosuke. Though it may not be Mars, mind you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "That's one heck of a big-scale story.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "A whole district of Kyoto, sent into space... Bold of the Meganoids.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "If you ask me, they're just sloppy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Commander Hazuki?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Yes, it's about time.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "By our math, the colony will soon reach its point of no return.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Tokita, what's the colony's status?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Its orbit is still unchanged. At this rate... it will fall on South America.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Smack onto Jaburo... is that it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "It's so frustrating... All we can do is watch...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Perhaps it's time we discussed how we'll move after it falls...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "I guess so. I want to believe in Londo Bell to the very end, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "C-Commander!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Hm? What is it, Yuiry!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "The monitor...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Wh-What is this...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Wiseman, got a second...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "What is it, Rain?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Look at this...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Whoa! A Zaku and a Gundam, lined up side by side!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "So the repairs are finished!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "...!! The MS-06S... the repairs are finished!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "...!! The G-3 Gundam... the repairs are finished!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Yes, though it took a while.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Hmph. I doubt such outdated machines will be of any use.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "The Red Comet and the White Devil... Wow, what a sight...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "This Zaku only has about 30% more output than a regular one,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "but I hear it moved at three times the speed of a normal Zaku.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "The point is, it's the pilot that matters, not the MS's specs.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "The Gundam is the very symbol of the Federation!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Just having one here like this is worth something!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "W-Well, I suppose I can see your point...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Now it's just a matter of who'll pilot them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Chris in the G-3, and me in the Zaku... That settles it, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "When it comes to Zaku pilots, it's gotta be me, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "The G-3... Chris might want to pilot it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Sigh... Do as you like. Talk it over with the Commander...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Commander Hazuki! What's going o... Ah!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "This is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "That's way too big. What the heck is it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "...Jesus...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "This... is not a magnified image?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "What's this island that looks like it's made of iron!? Is it flying!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Amazing... It's easily the size of a small island...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "An island made of steel...!? Is this yet another new enemy!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Where is it headed!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "At present, it seems to be over the Atlantic.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "It's coming straight for Japan... in other words, for us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Old man! This is no time to be calm! What're we gonna do!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Ho ho. Ah, the young.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Doing something about it is precisely why I have asked you all here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "...A crafty old man.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Sayin' that don't change nothin', we gotta do somethin'!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Where the heck was somethin' this huge hidin'!? It don't make sense!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "True... There's a limit to what you can hide.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Maybe... it was disguised as a small island or something?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Sheer size can make it hard to see what something really is.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "What a sight... Man.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "The surface world has weapons like that...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "I wonder how many times bigger than the Wil Wiph it is?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Huh!? Someone's cutting into the special channel!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "I trust you are well... you fools of the Gandor Team...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Eek!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "A-An oni...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "You're... Burai! Emperor Burai!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Indeed. Your battle with the Campbellians was splendid.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "They seemed to have some strange allies on their side,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "which made them rather hard to lay a hand on.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "So you're out to reap the spoils while we do the fighting...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Ugh, how dirty...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Precisely... It's the basis of war.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "The Campbellians are beaten, and your strength is depleted as well...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Now is the perfect opportunity.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Dammit! We sure as hell didn't fight for your sake!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Howl all you like.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "As your reward, I shall at least give you time to flee.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "With this fortress island I'll seize Japan first... Go wherever you please.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Hahahahaha!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "...The transmission's been cut.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Emperor Burai... He's underestimating us!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Commander Hazuki, let's intercept! We can't let them do as they please!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Damn right! If he thinks he can take it all the easy way, he's dreaming!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "We fight to the end. Saves us the trouble of searching for them...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Commander Hazuki, that's what they say, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "I think intercepting something that big with our forces is impossible.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "I think pulling back once is also an option.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Commander Hazuki, please make a decision.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "This will test your skill as a commander, Commander Hazuki.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "...Very well. The Gandor will now storm the enemy fortress island...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Commander Hazuki!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Yahoo! Charge! Charge!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "What's \"storm\"? What are we doing?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Aren't we supposed to intercept it!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "We don't have time to wait until it's over Japan.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "And if they make landfall, whether we win or lose,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "the cities will suffer heavy damage...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "But...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Now that's more like it! Commander Hazuki, you're a real man!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "...Let's do it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "W-Wait a moment, are we really going to board it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "That's right, Commander! Please, calm down...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "And we only just finished tuning up Getter Dragon...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Some debut. Straight onto the big stage.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "I believe I'm perfectly calm.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Besides... precisely because it's so big, diving into its heart",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "gives us a better chance of finding a way through.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "...What do you think, Captain Amuro?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "...I'll leave it to you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Captain Amuro, you're agreeing just like that...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Somehow, I had a feeling it'd come to this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Heh... It doesn't feel like we're fighting a war.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Hahahaha!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "I see, so this is the reckless lot I've been up against all this time!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "...No wonder I couldn't win!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Colonel... You don't have to laugh that hard...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "No, it's amusing! It's been a long time since a battle stirred my heart...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Forgive me, everyone.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "It seems I'm the Cyber Beast Force's commander through and through...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Heh... I happen to like this kind of all-or-nothing gamble.",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

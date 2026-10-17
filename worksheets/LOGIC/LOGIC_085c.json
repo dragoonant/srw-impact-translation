@@ -1,0 +1,2623 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 2140,
+ "strings": [
+  {
+   "id": 0,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Brother...? Are you looking at that asteroid?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "The more I look at it, the more hopeless it seems.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Hey! We're about to go in, so don't say such ominous stuff!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Even so, it's the truth.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Jet! Drill! ...Geez, Brother, quit staying quiet and say something.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Master Rom... what is it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "...I can't see their aim.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Their aim? Crushing Earth, right!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "If that thing hits, it'll be way worse than any colony drop!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "...But doing that would wreck the asteroid too... That's what puzzles me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Oh, I get it. It's not like Zeon dropping something and moving on...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "if it hits, then their side's done for too...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "So I was considering the exception...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "If they don't mean to go down with Earth, there's only one option...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Exception...? Rom, what is it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "...I thought the idea absurd... but they likely intend to land.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "L-Land!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "But, but, it's as big as the moon! They'll get squished like dumplings!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Truly absurd.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Hey now, Rom, that's a bit much...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Right, people will say, \"What are the Cronosians thinking?\"",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "...Actually, it's been bugging me too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "What, Roux?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "A planet that size... if something like that",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "got between Earth and the moon, the gravity would devastate Earth!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Indeed... There seems to be radio interference,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "but normally it wouldn't stop at just that.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "I don't get the hard stuff... but I remember reading about it in sci-fi...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Um, something's limit or whatever?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "What, what? Hard stuff!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "The Roche limit. ...Indeed.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "If that isn't happening... then that asteroid can approach",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "without causing that problem... Troublesome.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Like hell I'll let them do that...! Leina's on Earth...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Oh, right! Speaking of which, how's Leina doing, Judau?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Who's this Leina?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Judau's little sister, the apple of his eye.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "I haven't been able to reach her since the war started...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Dammit, now I'm suddenly worried...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "and we're about to go in...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "It'll be okay, Judau. We just have to stop that thing!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "You've got to do your best, for your sister too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Yeah. ...Leina, please be safe...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "So you've finally come this far, Earthlings.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "...And at a time like this, he's...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Keim.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "L-Lady Diore!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "My apologies, I was lost in thought.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "It's fine. Keim... it seems you've grown too attached to Shapiro.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Ah, no, I...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "But why is Lord Shapiro so fixated on mere Earthlings...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "...It is his blood.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "His blood...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Shapiro's blood calls him to Earth, his mother planet...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Just as the Dirad, our world...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "never once forgot that it lay in Earth's orbit 200 million years ago...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "What!? The Dirad... was once at that planet...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Not even Abel knows this... The rooting we failed to achieve then...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "now is the time for it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Lady Diore, please give me one more chance to defeat the Earthlings.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "There is no need for you to leave the Dirad.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "But then they'll invade the sacred Dirad!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Any who try to invade will be eliminated by them...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "You will stand by inside, in case something happens.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Them? The ones who appeared recently, the ones called the Einst?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "They too wish for the Dirad to take root.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "They will lend us their strength...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "You summoned me, Lady Diore...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "You've come, Abel.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "The Earthlings are attempting to invade the Dirad.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "...I know. The Dirad will not stop...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Dispose of the Earthlings before it takes root.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "I shall finish them without fail.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "(200 million years ago... when Lady Diore went to sleep...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "why wasn't the rooting achieved then...?)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "This is... Emperor... the robot you spoke of?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Yes. This is the Za Boom Army's final trump card... Zerokage.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "That form, that name... Is it related to Tobikage?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Yes. ...With this, we can fight that Tobikage as equals.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "...But until now, no one has been found who can freely control it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Then it's like those three machines Joe Maya and the others pilot...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Indeed... But it seems the time has finally come to put Zerokage to work.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Someone who can move this robot!? Who could...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "...When Ilbora first came here... Zerokage showed a faint reaction.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Ilbora...!? Then Ilbora is Zerokage's...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Well, just watch. Fuhahaha...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "First colonies, now a whole planet. ...But the scale is just too great.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Honestly... I don't think our going in will change anything...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "And there's still so much we need to do...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Why're you two getting cold feet all of a sudden?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "We've been out of options but charging in loads of times before!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Koji, this time we're up against a planet. It won't be that easy...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Losing your nerve, Captain?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Charging in and forcing a way through is what we've always done.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "But Tetsuya, it's a planet this time. It won't be that easy...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Geez, all you ever think about is charging in head-on!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "...But no getting cold feet, Captain Bright, okay?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "...Mm...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "That's right.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "No getting cold feet! If we don't stop that plant planet,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "retaking Mars will be out of the question!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Yurika...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Besides, with the colony laser unable to fire, there's no option but this.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "...It seems we must steel ourselves, Captain.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Easy for you to say. Since when were you such an optimist, Captain?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "...Do I seem like one?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Hey, you've got us! It'll be fine!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Where does that confidence come from, I wonder... Honestly.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "So, what do you plan to do, Captain?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "We have no choice but to destroy it from within,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "but the problem is that every option lacks certainty...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Can't the Nadesico's Phase Transition Cannon do something?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "The area the Phase Transition Cannon can affect is limited.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "It won't conveniently take out a whole plant planet.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "If we go inside and destroy the core, that should do it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "It started as a cluster of small rocks, after all.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Maybe the bonds will come undone and it'll fall apart...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "I wonder...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "In an atmosphere, the phase transition engines lose output...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "so whether we can muster enough power to destroy the core...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Not so easy, huh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Let's give it a try!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "It'll be fine. Worst case, I'll overload the Nadesico's engines.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Overload all four of the Nadesico's engines, and kaboom goes the planet.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Yep, that'll do it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Overload...? You mean to self-destruct?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Ahem, speaking for Nergal, I can't exactly recommend it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "But given the circumstances...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "weighing the loss of the Nadesico against the loss of Earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Ah, um, if possible... I'd like the Nadesico to come through safely too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "We're sacrificing the Nadesico...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Are you really okay with this, Akatsuki?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Well, can't be helped, can it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "If Earth gets swallowed by that thing, I'll have all sorts of problems.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Overloading phase transition engines... What an outrageous idea.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "That plan seems the most certain, Captain Misumaru.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Yes, let's go with a two-stage plan.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "...Though sacrificing my own ship hardly makes me a good captain.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Yurika...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "In any case, the center of that plant planet... that's where we strike.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "The problem is how to find that center...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "What will you do, Captain?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Everyone will enter the plant planet aboard the Nadesico.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "We're not going on the Ra Cailum?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "As Dr. Inez said earlier, this planet has an atmosphere...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Its environment apparently isn't much different from Earth's. That means...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Ra Cailum-class ships are space battleships...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "so they can't descend directly to the surface.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Even if you say the core... can we tell where it is?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Back when the asteroid was a small rock, as Umon said...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "the energy readings observed there remain on record...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "So all we can do is follow that. Quite a primitive approach.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "But it's all we can bet on, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Once inside the planet, split up and take them out one by one.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Do we really need to split up?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Yes. If the enemy concentrates in one spot, the Nadesico",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "won't be able to reach the core... We can't take too long.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "So the Nadesico can head straight for the core,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "we just have to raise hell, huh?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "While we rampage around it, the Nadesico heads for the core, then.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Correct. The Nadesico reaching the core is top priority.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "That about settles it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Once we're inside, I'll leave command to Captain Misumaru...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Whatever it takes, guide the Nadesico to the core.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Leave it to me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "A captain who lost her ship... That's kinda cool, don't you think!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Geez, even at a time like this, you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Well, without that kind of composure, I don't think",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "we'd get through the situation we're in. That's my take.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Composure, huh? Had we joined the Gandor, we might have some...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "Space... huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "What's wrong, Captain Amuro?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "It's our first time in space... but if anything,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "isn't this more your home turf?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "...Space doesn't let people's wills escape... That's what scares me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Can't say I follow. Or why you call space \"the sky,\" either.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "People's wills... Amuro, are you still...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "(Are you all right with it... Char?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Man, this is boring.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "If we could just warp like the Elshank,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "we'd be at that plant planet in no time.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "The Gandor's pushing itself as it is, Mister.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "If it gets there in time, I don't care if it catches fire a bit... Hm?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Ngh... What's this... my head...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "Something wrong?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "(Come... this way... Excellen...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "(Excellen...!?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "(I need you, you see...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "Kyosuke, are you all right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "...Y-Yeah.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "Pull yourself together. We've got a big job ahead.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "(...What was that...? Could something have happened to Excellen...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Hm? The little one's... acting weird too?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "There you are! Cham, what's wrong? Cham!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "This happened before too... Hey, Cham! And... Kyosuke too!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "S-Someone's calling...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "What's wrong? Are you okay?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "Uuugh, Show, Marvel...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "You two as well!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "What, what is this feeling?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "A-An awful feeling...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "...Ngh... Is it them...? If so... this is bad... Excellen...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "Ugh, Weiss! Why are you like this!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "Hm? What's up? Excellen's throwing a tantrum.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "All women are hysterical to some degree, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "Heh, ain't that the truth.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "But Excellen sure likes doing maintenance.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "She wasn't like that before.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "It's just lately. She's like that after every battle.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "There was that time she sortied on her own, remember?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "Maybe it started around then...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "Oh yeah, that happened.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "Hey, Kappei, Uchuta! You're not done with the Zambot either!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "Come on, we're swapping the data, so get back to your cockpits!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "Come on, you lot too! Shinobu, Ryo, Masato! And Ryo!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "Don't go spouting nonsense about all women being hysterical!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "Whoa, scary.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "What...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "What's wrong, Excellen?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "N-Nothing at all!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "Come to me...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "Excellen...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "Hey, you okay? Get a grip... Excellen.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "...I have to go to...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "Huh? What're you talking about?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "Excellen! What's wrong!? We haven't sortied yet...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "Huh? Ah! Hey, what are you doing!? There's no sortie order yet...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "What the?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "Hm? ...A sortie? Enemy attack!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "Bridge! Captain! The Weissritter's on the catapult!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "Excellen!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "Open a channel! Excellen! No sortie order's been given!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "What do you think you're doing!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "No good, she's not responding! Excellen! Come back!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "Who just launched?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "Ngh...! Again... and at a time like this, of all times!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "Excellen... what on earth is happening...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "...Understood?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "en": "Emperor... what does this mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "...Why return to planet Za Boom now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "My purpose in coming to Earth... confirming the ninja legend, is done.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "en": "...Next, I must fully conquer the Schema system and secure my hold.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "en": "...Then what do you intend to do about conquering the solar system?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "en": "I leave it to you two. I believe you have the ability.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "en": "Join forces, the two of you, and as soon as possible,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "en": "bring me word that you rule the solar system.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "en": "But...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "en": "Worry not... I will follow your lead.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 258,
+   "en": "What?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "en": "...I said I yield all command to you, Charm.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 261,
+   "en": "Well then, see that you two manage it. Fuhahaha...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 262,
+   "en": "Sire.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 263,
+   "en": "...As you wish.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 264,
+   "en": "(Heh... So Ilbora won't show his true colors before me... Very well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 265,
+   "en": "I'll take a look at things on my way back.)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 266,
+   "en": "We've left Earth's gravity... It won't be long now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 267,
+   "en": "Heh, from out here it's a tiny planet. In a universe this vast...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 268,
+   "en": "I don't get why Earth's the only one getting targeted.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 269,
+   "en": "Seeing it again, it's really beautiful.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 270,
+   "en": "Somehow... even though I wasn't born here, it feels so nostalgic...",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 271,
+   "en": "Huh...? Lenny, you're not from Earth?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 272,
+   "en": "I was born on Mars. ...Would that make me a Martian?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 273,
+   "en": "Really? I was sure you were from the same planet",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 274,
+   "en": "as that princess who's always in a tizzy.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 275,
+   "en": "A Martian... like an octopus thing?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 276,
+   "en": "That's an old-fashioned image, Tetsuya.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 277,
+   "en": "Nah, Martians are octopus things, so Lenny can't be one.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 278,
+   "en": "Your image is pretty old-fashioned too, Koji.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 279,
+   "en": "If you go there, these days, Spacenoids...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 280,
+   "en": "people born in space might outnumber the rest.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 281,
+   "en": "I'm one too, Shiro. If we'd both been born on Earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 282,
+   "en": "we might have met sooner...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 283,
+   "en": "Aina...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 284,
+   "en": "Ahh, yes, yes, spare us. That's not for the bridge.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 285,
+   "en": "It doesn't matter anymore who's from what planet.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 286,
+   "en": "I thought aliens would look way scarier.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 287,
+   "en": "They're no different from us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 288,
+   "en": "Well, the Dangaioh team looks scary in more ways than one.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 289,
+   "en": "Huh? What's that supposed to mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 290,
+   "en": "...Let's not go there.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 291,
+   "en": "Hmm... Perhaps there's something like common roots.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 292,
+   "en": "Roots?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 293,
+   "en": "Yes, a common ancestor.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 294,
+   "en": "For Earthlings and aliens to be this close... no, nearly the same...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 295,
+   "en": "their roots must be the same, or very closely related.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 296,
+   "en": "So Earth is...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 297,
+   "en": "No, that we don't know, Alice.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 298,
+   "en": "Perhaps Earthlings came later.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 299,
+   "en": "There are countless planets in the universe, after all.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 300,
+   "en": "Sounds like he's back to being Dr. Hazuki, the bio-hi-tech authority.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 301,
+   "en": "I can't believe he's the doctor who built Dancougar.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 302,
+   "en": "What kind of principle runs on wild instinct?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 303,
+   "en": "How logical. Just like the Commander. He'd get along with Father.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 304,
+   "en": "...And yet Dancougar runs on wild power. How's that logical?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 305,
+   "en": "Ahem... We'll soon enter the combat zone.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 306,
+   "en": "All pilots, stand by at your stations!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 307,
+   "en": "(Now it's whether the dragon's life holds out... I'm counting on you.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 308,
+   "en": "Do we know where Excellen went?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 309,
+   "en": "Only that she headed toward the Dark Zone.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 310,
+   "en": "It was a place where there was nothing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 311,
+   "en": "Nothing? That's hardly unusual in space.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 312,
+   "en": "I'll explain. It's where the asteroid belt should have been.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 313,
+   "en": "But there's nothing, as if everything vanished...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 314,
+   "en": "and communications malfunctioned as well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 315,
+   "en": "Which is why finding Hibiki and the others took so long.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 316,
+   "en": "And that's... where the Einst appear out of nowhere.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 317,
+   "en": "It was a creepy place... You wouldn't want to stay long.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 318,
+   "en": "Seriously. But what's it got to do with Excellen?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 319,
+   "en": "Still, I didn't want to stay there long.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 320,
+   "en": "...Other places don't bother me at all.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 321,
+   "en": "Seriously. But what's it got to do with Excellen?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 322,
+   "en": "Hard to say. But one thing's certain... that mysterious enemy.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 323,
+   "en": "Hibiki, you and her... and besides you two, Kyosuke too, I believe...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 324,
+   "en": "Yes. Not as much as Excellen,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 325,
+   "en": "but he did seem a little off whenever that enemy showed up.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 326,
+   "en": "Come to think of it, he's been kinda weird lately, I tell ya.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 327,
+   "en": "...Could it be...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 328,
+   "en": "Got something in mind, Rom?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 329,
+   "en": "No... I recall Diondra could use illusions that control minds... but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 330,
+   "en": "It's happened to me, Rom.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 331,
+   "en": "I was looking into her eyes... and suddenly I couldn't think for myself...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 332,
+   "en": "It only works if she sees you directly, right, Brother?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 333,
+   "en": "It's not as if an enemy got aboard, after all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 334,
+   "en": "Right. On the deck, Excellen looked like something had possessed her,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 335,
+   "en": "but... that was her own will.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 336,
+   "en": "That makes even less sense.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 337,
+   "en": "...It may seem cold, but Excellen will have to wait.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 338,
+   "en": "What!? Captain Bright!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 339,
+   "en": "Isn't that a bit much?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 340,
+   "en": "We have a job to do... We've no time, and no one to spare for a search.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 341,
+   "en": "That's right. It's the fault of whoever goes off on their own.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 342,
+   "en": "Odd coming from you, Fujiwara... but I guess it can't be helped...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 343,
+   "en": "Given the situation... Geez, that lady's got lousy timing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 344,
+   "en": "Of all times, it had to be now...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 345,
+   "en": "Captain!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 346,
+   "en": "Has something happened, Lieutenant Emma!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 347,
+   "en": "The asteroid's speed is... dropping!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 348,
+   "en": "What!? Then maybe we can avoid the collision!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 349,
+   "en": "...No... It just buys us a little time.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 350,
+   "en": "It might even... be bait.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 351,
+   "en": "Bait, huh... Sounds fun! I'll take on as many as they've got!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 352,
+   "en": "Bait, huh... Interesting...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 353,
+   "en": "...What's this...? And the radio jamming... seems slightly weaker.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 354,
+   "en": "Then we can contact the Gandor!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 355,
+   "en": "Not yet... but it's possible.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 356,
+   "en": "All right, even if it's bait... we have no choice...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 357,
+   "en": "All hands, prepare to sortie!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 358,
+   "en": "(Are you coming... Sara? Not once, but twice... against me...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 359,
+   "en": "Lord Shapiro...! So this is where you were?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 360,
+   "en": "The humans will soon land on our Dirad.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 361,
+   "en": "Please go further inside.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 362,
+   "en": "Never mind that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 363,
+   "en": "...The woman called Sara... seems to weigh on your mind, Lord Shapiro...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 364,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 365,
+   "en": "Sara is... the woman you loved when you were on that planet, Earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 366,
+   "en": "And for you, who chases endless ambition, the one thing...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 367,
+   "en": "that makes you care about something as small as Earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 368,
+   "en": "...How do you know that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 369,
+   "en": "...So I have heard from Lady Diore.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 370,
+   "en": "...Keim! You overstep...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 371,
+   "en": "L-Lord Shapiro...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 372,
+   "en": "I... will not forgive anyone who tries to peer inside me...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 373,
+   "en": "L-Lord Shapiro... I... I can't bear it,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 374,
+   "en": "Lord Shapiro, I... I don't want to lose you...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 375,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 376,
+   "en": "(So this is... Zerokage... I see, its basic structure does resemble Tobikage's...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 377,
+   "en": "If only I could move it...)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 378,
+   "en": "Ilbora.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 379,
+   "en": "...Charm.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 380,
+   "en": "Heh... You can't dawdle forever anymore either.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 381,
+   "en": "...Your impatience shows in your walk.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 382,
+   "en": "Hmph, nobody likes a pushy woman... Think up a strategy instead.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 383,
+   "en": "With the Emperor back in the Schema system, I gave you command,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 384,
+   "en": "but not so you could take it easy.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 385,
+   "en": "Heheheh... No need to worry about me.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 386,
+   "en": "More importantly, the Gandor... headed for that plant planet.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 387,
+   "en": "Shouldn't you go after it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 388,
+   "en": "That plant planet... It may be the perfect chance to get behind them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 389,
+   "en": "I hear Zerokage won't move... What a shame.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 390,
+   "en": "Hmph, an enhanced Skeleton will do.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 391,
+   "en": "Do try to earn some glory.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 392,
+   "en": "(Glory... I've no interest in that... For now, Joe...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 393,
+   "en": "Commander Hazuki, we're nearly at PLS Black Point!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 394,
+   "en": "Communications!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 395,
+   "en": "Still down... but the jamming's weakening. With luck...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 396,
+   "en": "If Bright and the others survived... we might be able to reach them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 397,
+   "en": "Don't say that, Amuro!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 398,
+   "en": "It's fine. Bright and the others are surely doing well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 399,
+   "en": "Ngh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 400,
+   "en": "Kyosuke!? What's wrong? I'd heard you weren't feeling well...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 401,
+   "en": "Commander... hurry... we have to get to... that one...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 402,
+   "en": "\"That one\"...? Who do you mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 403,
+   "en": "Who?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 404,
+   "en": "(It may already be too late...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 405,
+   "en": "Commander Hazuki! We've reached the Ra Cailum!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 406,
+   "en": "Captain Bright!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 407,
+   "en": "So you've come up to space, Commander Hazuki.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 408,
+   "en": "We succeeded in retaking Jaburo. ...The colony laser...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 409,
+   "en": "seems to have been a failure.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 410,
+   "en": "Yes. Shapiro Keats got the better of us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 411,
+   "en": "Shapiro Keats...!? Surely not... Major Shapiro!? Impossible...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 412,
+   "en": "It's the truth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 413,
+   "en": "...In any case, we're carrying out an operation to destroy the plant planet.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 414,
+   "en": "...An operation to destroy it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 415,
+   "en": "The Nadesico will go in and destroy the core,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 416,
+   "en": "triggering the collapse of the entire planet...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 417,
+   "en": "Inside, our units will draw off the enemy to aid the Nadesico.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 418,
+   "en": "Destroy the planet's core? Then what of the Nadesico and the units?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 419,
+   "en": "...After defeating the enemy forces, each will attempt to escape.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 420,
+   "en": "The Ra Cailum... to recover any units that make it out,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 421,
+   "en": "has no choice but to wait in orbit above the plant planet...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 422,
+   "en": "But doesn't that make the odds of survival far too low!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 423,
+   "en": "I wish there were a surer way... but there's no time.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 424,
+   "en": "We judged this method has the best chance of destroying it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 425,
+   "en": "...There is still another way. ...One that won't sacrifice the Nadesico,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 426,
+   "en": "and can likely destroy the planet's core...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 427,
+   "en": "Commander Hazuki...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 428,
+   "en": "In any case, we of the Gandor Team will follow the Nadesico.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 429,
+   "en": "...Where Captain Quattro's unit is deployed",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 430,
+   "en": "is the entry point, correct?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 431,
+   "en": "Yes. ...The fighting is far from over. Be sure to come back...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 432,
+   "en": "I'll do everything I can.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 433,
+   "en": "It would ease my mind a bit if you'd just say \"understood.\"",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 434,
+   "en": "Scientists, you see, never use the words \"without fail\"",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 435,
+   "en": "until the very, very end, Captain Bright.",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

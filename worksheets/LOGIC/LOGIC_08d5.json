@@ -1,0 +1,487 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 2261,
+ "strings": [
+  {
+   "id": 0,
+   "en": "We're heading out! Uchuta! Keiko!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Wh-What's going on, Kappei?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Bandock's body, the one that got away... I found out where it is!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "For real, Kappei!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Why would I lie!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "That bastard Butcher, saying whatever he likes...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "I'll never forgive him...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "But Kappei, is it okay for us to go out alone?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "If we don't go, who will!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Keiko, it's no use. Kappei's totally lost his head.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Kappei...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "I'll make him regret it...! Let's go! Zambot Combination!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "............",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "...I see... As expected... the Land of Beginning...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "All right, we finally caught up with Bandock from the neck down!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Mars... We chased the Gaizok all the way out here...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Bandock's body... Is the Gaizok boss inside it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "I went along with Kappei and charged out ahead, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Keiko, contact the Elshank!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "...It's no good, we're being jammed... I can't get through.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Everyone'll catch up soon anyway.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "All right, I can't wait around for them.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "I'll wrap this up with just Zambot 3!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Wait a minute, Kappei!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Bandock is... giving off a huge amount of energy...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Who cares!? I'm charging in!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Kappei, what are you so mad about!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "He says we... fight because we want somebody to thank us...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "A fight we wanted... a fight that makes somebody happy?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Screw that... Obviously it'd be better if there was no war at all.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "If not for guys like him, we wouldn't be fighting in the first place...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Who fights a war because they like it!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "People who can kill over profit and loss... I can't forgive them!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Kappei... you feel that strongly...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "It's hopeless.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Keiko, there's no stopping him. ...Besides, I feel the same way.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "All right... I hope everyone catches up soon...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Here we go, Gaizok! We'll bust through your gut and get inside!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Any word from the Zambot team?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Nothing so far.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "I see... Captain Misumaru, how are your preparations?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "All set! Clay figures, haniwa, whatever, bring 'em on!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Was it really okay to let Kappei and the others go on ahead?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Once we chose to pursue Bandock, ordering them to wait was pointless.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "The way they stormed out, they'd have gone even if we said no.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "The Jins as well... but Queen Sheela, Captain Bright, Commander Hazuki,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "and the others who went separately... are they safe...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "They'll be fine, Princess Romina. Every one of them can be trusted.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Plenty of hotheaded meatheads among 'em, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "That's not very convincing coming from you, Joe.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "You've got it wrong, Lenny. It's convincing BECAUSE Big Bro says it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Hahaha, Joe sure is trusted, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Shut up. ...So when do we catch up with that torso bastard?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "For such calculations, I'd like to rely on Miss Hoshino.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Relied upon. Zambot 3 will make contact shortly.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "We're close enough that we should get ready too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "That clay-figure mothership is Bandock's main body... This is it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "If we can settle it here... we can lessen the threat to Earth.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "For Earth's sake too, we can't lose!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "All right, we'll reach the combat zone soon. Everyone get ready.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Captain Misumaru, the Nadesico too, battle stations.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Roger! Megumi, please let everyone know!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "...Oh, I'll tell Akito myself, okay?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Hm!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "That is... no mistake, a Gaizok battleship...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Bandock, they called it? That's its body section!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Looks like we got close easy. Losing its head weaken its defenses?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Better not let our guard down... It's the Gaizok's fortress.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "But there seems to be no time to think. Can you see Zambot 3?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Can't see 'em... Don't tell me they got taken out...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "No! Kappei and the others wouldn't go down that easily...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Wait, there's a hole in the side of Bandock.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "A hole? Could it be... Zambot is inside there...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "They went in on their own? Geez, they've done it now...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Well, everyone, what the Gaizok boss looks like...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "let's see it with our own eyes!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "(Kappei... don't be rash...)",
+   "kind": "thought",
+   "keep": false
+  }
+ ]
+}

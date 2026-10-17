@@ -1,0 +1,1189 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 339,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "And so... you'll approach from the ground in your Aestivalis",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "and destroy the \"Nanafushi\"!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Use a formation of three Artillery and three Ground frames, please.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Why Artillery and Ground frames?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Can't we just zip over there in Aerial frames?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "From the air, the Nanafushi's anti-air defense system",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "will shoot us down. Didn't I tell you?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Guess we'll just have to slog it out by land...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Akatsuki will lead the operation.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Roger~",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "All riiight! With my Aestivalis, the Jovian Lizards' big weapon",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "is going down!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Being fired up is fine, but you won't get so fired up",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "you run out of energy, will you?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "The Nadesico can't move from this location,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "so if you leave its supply range, you won't receive any energy.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "No wasting it, then...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "You've got batteries on board, but they don't last forever.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "\"We ran out of energy and never made it to the Nanafushi.\"",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Don't you dare let it come to that.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "We kno-ow~",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Let's go! Tenkawa, quit dawdling!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "H-Hang on a sec.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "All riiight! Once we're near the Nanafushi, we just fire away, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Exactly.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Take the route that uses the least energy and go destroy the Nanafushi!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Did we get it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Ngh, still not enough?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "No way! We pumped a ton of shots into it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Then it's time for my Gai Super Napper!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "No, wait.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Daaah~!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "What's wrong!? Gai!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Marching through a place with no enemies just ain't my style!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Now, don't say that. This is a perfectly respectable mission too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "No stage for a star? Then it's a no-show... Heh heh heh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "...Geez.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "At this rate, we won't get to see Yamada in action~",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "If there's no call for us, isn't that fine?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "I want something more, like...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Shh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "What is it, Izumi!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "They're coming!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Geez, quit turning into Serious Izumi out of nowhere.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "There they are!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "All riiight~ My time to shine~!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Calm down!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Huh? Why are you stopping me?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Our objective is the \"Nanafushi,\" first and last.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Don't forget that.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "So don't waste energy or ammo on the drones, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Yep, just like Tenkawa says. So, keep that in mind!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Is this it!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Isn't that the Nadesico, Big Bro?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Oh? Could that be...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "This is Lieutenant Shiro Amada of the Gandor squad.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Nadesico, do you read me?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "The Gandor squad?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "If you can hear me, please respond!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "This is the Nadesico's captain, Yurika Misumaru.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "What are you from the Gandor squad doing in a place like this?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Admiral Misumaru was worried the Nadesico had been shot down.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "So we got orders to find the Nadesico and destroy the Nanafushi.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Oh, I see... Father did that...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "You're late! We already wrecked the Nanafushi a while ago!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Yep yep. More importantly, do something about the Gyandlar.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Pretty good timing, I'd say. We'll head out to destroy the Nanafushi!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "You take care of the Lizards around us!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Now that reinforcements from the Gandor are here, we might manage.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Still... if it had to be someone, I wish my super robots had come...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "That would've been great...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Now, now, don't say that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Real robots are pretty great too, right? Like this Zaku, especially.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "That's enough chatter.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Without the Mutron, there's no reason to stay here,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "but I think I'll play around a little longer.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "We came all this way. Let's give 'em a fight!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Everyone, whatever you do, don't get shot down by their anti-air fire!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "If we could go by air, it'd be faster.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Five more minutes...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Five more minutes until what?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "In five minutes, the Nanafushi's Micro Black Hole Cannon",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "will finish charging its energy.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Another direct hit from that Railgun... and it's over for the Nadesico.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "What!? You should've told us sooner!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "It can't be helped. I only just figured it out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Then we just destroy the Nanafushi within five minutes. No problem.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "You make it sound awfully easy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Reinforcements from the Gandor are here, so I'm sure it'll work out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Hope you're right!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "1. All allies destroyed 2. Nanafushi not destroyed by turn 8",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Huh...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Yaaay~! Mission complete~!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "The Nanafushi... has gone completely silent.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "With that, the Nanafushi's long-range cannon is no longer a threat.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "That's my Akito!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "What about my heroics?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "More of them!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "What the?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "What's that...? So that huge energy reading wasn't the Mutron...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Mu... tron?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Hey... those enemies, aren't they...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Enemy identified. It's the Gyandlar...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Geez! What on earth is Captain Bright doing!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Enemies from space keep pouring in!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Even Londo Bell can't stop every single enemy, you know.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Isn't this turning out kind of bad?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Yeah... it sure is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "You're wrong! The Nadesico's broken down, in a pinch! Enemies closing in!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Kaaaah! Now that's a situation that gets my blood boiling!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "...Idiot.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "The Nadesico isn't the only one that can't move!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Our Aestivalis are getting low on energy too, y'know?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "We used too much energy on the Nanafushi... We won't last like this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Ruri! How much longer until the Nadesico's repaired?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Not for a while. It's a wonder we're even alive...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Uuu...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "What are we supposed to do...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "I sent a distress signal to Commander Hazuki. They should be here soon.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "I hope we can hold out until then.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Oh, it's the Gandor!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Is everyone all right!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Of course we are.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "The Nadesico is... somehow all right too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Looks like we made it in time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Thank you for your help, Commander Hazuki!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Hey, you people! This is no time for a leisurely chat, is it!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Did you forget the Gyandlar are here?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "All right, let's launch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "We're already set to launch.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "I'm counting on you! My super robots!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "This is a great help, Captain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Yes, with everyone from the Gandor here, I feel totally safe.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Out you come in droves... Let me test just how strong you are.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Hmm... Not bad! You truly are strong...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Looks like you underestimated us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Hah hah hah, I hope we cross swords again... Gandor squad.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "That should do. Playtime is over... I have no more business here...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Geez! One after another, honestly!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Screw it, I'm going all out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Ryoko snapped!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "I leave the rest to you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Gadessa!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Kaaah! Did you hear that, Akito!? \"A burning soul cuts down evil!\"",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "I wanna make an entrance like that tooooo!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "S-Sure, it's cool no matter how many times I see it... but doing it myself...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Those are the people we met on Mars before.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Rom Stol!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "You're... the ones we met on Mars?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Yes... Thank you for your help back then.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "You know them, Yurika?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Rom and his friends helped us once before on Mars, too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Are they the mystery reinforcements Captain Bright told us about...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "This is no time for a leisurely talk.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "We must wipe out the enemy... We'll lend you our strength.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Thank you for your help. Captain Misumaru, are you ready?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Yes. Now that Rom and his friends are here, let's ride this momentum!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "So you've come, Blue Jet.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "We meet again. Shall we continue our fight from space?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "I'd love to... or so I'd like to say, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Running away!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "As an officer of the Gyandlar, I too have duties to fulfill...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Farewell, Blue Jet.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Good work, Akito!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Good work, Akito!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "It's finally over...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "They sure were persistent.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Well, that's how it goes when I'm on the job! Gwahahahaha!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "If you say so...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Who exactly are you...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "I don't want to drag the people of Earth into needless trouble...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "For now, let's just say we're the ones pursuing the Gyandlar...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Captain Bright told me a little about you, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Bright...? Oh, that Londo Bell captain?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "I hear you're a mysterious gentleman who comes and goes like the wind.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Lucky you, Leina. He called you a gentleman.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Geez, how rude. I'm a lady.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "He means you're a wild tomboy, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Driiill...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "Now, now, milady.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "Here on Earth, there are many enemy forces, the Gyandlar included,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "whose goals are unknown. Would you be willing to help us?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "Of course, as one who wishes for peace in space, I'll gladly help,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "but we also have our own mission to pursue the Gyandlar.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Brother, we should get going...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "It seems the Gyandlar's goal lies here on Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "I'm sure we'll meet again. Farewell.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "See ya. Jeeeet!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "Just as Captain Bright said... a man of many mysteries...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "He certainly doesn't seem like a bad person, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "He said they were pursuing the Gyandlar, but...",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

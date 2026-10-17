@@ -1,0 +1,919 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 184,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "This is Zeon's secret base...? Aina is... here...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Lieutenant Amada! I didn't give the order to launch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "That's not like Shiro, he's usually so easygoing. Huh, Show?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Cham, don't say unnecessary things.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "...Him too... with a Zeon pilot...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Kamille, we're going. ...You know how dangerous that is... right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "...It's quiet.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "The calm before the storm... as they say.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Going underground with Getter-2 might be best.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "I'm gettin' chills.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "(It sure looks like the kind of place he'd hide, but...)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "So, Hazuki, where's the enemy?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Hm, probably straight north, around halfway up the mountain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Huh? You don't know for sure?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Mike, quit being so demanding!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Let's just head north. We can't sit around like this...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Lieutenant Amada, rushing won't produce good results.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Ngh... the Apsaras...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Aina...? Aina really is in that mobile armor...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Lieutenant Amada...! We're in combat!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "...No... Captain Amuro, this is just... like with Four...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Ainaaa! It's you, Aina Sahalin, isn't it!? Don't you remember!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "It's me! Shiro Amada! If you're alive, answer me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "...Way too hot-blooded, Lieutenant...! Akira, can't you cover him!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "No way! That big thing's about to fall!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "...Shiro...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "It really... really is Shiro Amada...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "You remember... I'm glad you're safe. I never thought we'd meet again.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Me too... (He's worried about me...)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Ah...! The unit's stability...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Ngh... the Apsaras...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "A Federation local unit... all the way out here...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "With Jaburo taken by someone, I thought they'd be in total collapse...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "yet an army this strong still remains... But...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "That's...! Over there... Is that a Gundam!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "The Gundam Project... Prototype Unit 2...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "I thought that project had been canceled...!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Major Gato... Please withdraw from here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "You must bring that machine back to space.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Five minutes until the rendezvous... I felt like having a little fun.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Major, I apologize...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Not at all, Colonel. It's nothing for you to worry about.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "(The Apsaras Project, eh...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Using his own sister as a tool of war... I can't fathom Major General Ginias.)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "That's...a Gundam? It sure looks rugged.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Isn't it just a bluff?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "This is top secret, but... that unit carries nukes... Stay sharp!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "...You've gotta be kidding me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "That Zaku-headed mobile armor... Is Aina...in that? Dammit, the comm...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Lieutenant Amada! They'll intercept our comms! What are you doing...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Geez, I can't stand to watch this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "I do...understand how he feels, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Anyway, now we know this is Zeon's secret base,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "so let's raise some hell and worry about Aina after that!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "You're so easy to read. ...But I guess that's all we can do.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "That's naive. Is Lieutenant Amada really a soldier?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Tetsuya's totally clueless about that stuff. He doesn't get love.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "There's no need for that sort of thing in battle.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Lady Aina, if the situation turns against us... please retreat.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "If you die, everything will be for nothing.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "I have told Lord Ginias the same thing. ...I beg you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "...I'll do as you say, Norris.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Then...here I go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Aina... Ainaaa!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Lieutenant Amada!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "What the heck's gotten into that lieutenant!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "That all happened in a flash. What's goin' on!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Lieutenant! Lieutenant Amada! Respond! Get back here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Show, can't you go after him!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "We can't make it in time from here...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Lieutenant Amada! That's reckless...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "No way... Shiro. Where'd you go...? Shirooo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Hmph, this is as far as I go...! I didn't expect them to be this good...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "The Gandor Team, was it? They move well. We're pulling out!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "He's running!? Dammit, wait!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Gundam Unit 2 is mine!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "If we should meet again... it will be in space.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "And know that it will be your end!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "No doubt about it... The Nightmare of Solomon... Major Anavel Gato!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Wiseman, pursuing him too far is dangerous!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Problem after problem... Dammit, we're stretched too thin...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Grrr, my... my Apsaras...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "If only the finished model had been ready in time...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Lord Ginias, you must escape...! This place won't hold much longer...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "...It galls me to obey that masked man... but it can't be helped...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Just what I'd expect of the Gandor Team...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "They're trying to escape!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Like hell I'll let you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Lord Ginias, hurry!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Fuhahaha, that's what makes you worthy opponents for my Apsaras...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Hmph, this is as far as I go...! I didn't expect them to be this good...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "The Gandor Team, was it? They move well. We're pulling out!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "He's running!? Dammit, wait!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Gundam Unit 2 is mine!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "If we should meet again... it will be in space.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "And know that it will be your end!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "No doubt about it... The Nightmare of Solomon... Major Anavel Gato!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Wiseman, pursuing him too far is dangerous!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Problem after problem... Dammit, we're stretched too thin...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Huh? Reinforcements?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Hahahaha, well done finding this place, Gandor Team.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Brother!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Showing your face so carelessly... I'll knock you flat!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "I'll let no one stand in the way of my dream!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Lord Ginias...!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Weren't you to withdraw while we kept the Gandor busy?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "I wanted to feel the Gandor Team's power for myself.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "But if you should lose your life!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "I know when to pull back.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "That's why I have you and Aina, Colonel, isn't it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Is it...over?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "So it seems.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "It's practically the HQ of Zeon's ground forces.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Now... we can focus on the aliens and the mystery army...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Now we just gotta trash that bastard Dr. Hell and the Demon Empire,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "and we can breathe easy for now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "I don't think it's that simple, Koji.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "I don't think it'll be that easy, Commander.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Yes... Neo Zeon's main force is in space...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "We'll have no choice but to leave that showdown to Londo Bell...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "What about Lieutenant Amada!? Commander Hazuki, where is he...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "...We've lost his ID signal.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Residual Minovsky particles are dense... We're leaving here for now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "We're not searching for the lieutenant!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "...His actions were a breach of military regulations.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "We've dealt with Zeon's ground forces, but many enemies remain...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "So you're just abandoning him!? That's too harsh, Commander!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Right, not understanding a heart in love is just so tactless...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "That's enough, both of you. The one hurting most...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "is Commander Hazuki, who has to make that call.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Then... unless the lieutenant returns on his own, or makes contact...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "...the Gandor Team heads for Jaburo as planned. No objections.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Commander Hazuki...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "...I couldn't stop him...! It's just like with Four...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Kamille...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Aina... I thought I'd see you again, just once more...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Lieutenant Amada... in battle, those feelings are dangerous.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "And...they rarely lead anywhere good.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "...I know. But...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Lieutenant Amada. ...It's harsh, but you're confined to the study room.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "You understand why...don't you?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "...Yes, sir.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Hey, Show, why is that a bad thing?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "This is wrong. I mean...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Cham, stop. There are all kinds of problems. All kinds...",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

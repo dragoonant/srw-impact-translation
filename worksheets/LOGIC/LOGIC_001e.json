@@ -1,0 +1,493 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 30,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed 2. Base destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "...Then I'll take charge of the Getter Robo.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Please take good care of it, Commander Hazuki. Still...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "to think you'd be the successor to General Igor, who died in the last war.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "I'm keenly aware that I shouldn't do things I'm not used to.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "I'm better suited to tinkering with machines.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "No, no, there's room for a scientist like that.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "I'm sure Dr. Kabuto would say the same.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Seeing him like this, Commander Hazuki's just a regular old guy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "He can hear you, Fujiwara.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Long time no see, Ryo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Same to you, Koji. Not since the fight with Dr. Hell, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Yeah. After Mazinger went into a museum,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "I went over to America to research UFOs.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "While we were going back and forth to the lab,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "looks like you were keeping busy.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "UFOs, huh? I heard you built your own... Is that true?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Yeah, the TFO. But the Pilder's cockpit is still the best.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "But... why wasn't the Getter Robo sent to a museum?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "I'll tell you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Getter was kept at the lab as a device for researching Getter Rays.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Somehow that doesn't sit right with me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "No, that's why it couldn't be let outside the lab.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "It's the same as Mazinger in that respect.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Of course, we never skipped training, just for times like this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Sorry to interrupt... I'm Hazuki, Commander of the Far East Branch.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Getter Team, the Gandor unit would truly like your help.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "...I'm counting on you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Likewise. I'm glad to use Getter for the sake of peace again.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "I hope you haven't gotten rusty.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "The enemy won't accept \"we haven't flown it in a while\" as an excuse.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Foul-mouthed as ever, Tetsuya. What about you, then?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "You left Mazinger sitting in a museum, so you've forgotten how to pilot it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "That wouldn't be the case, would it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Heh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "...Could it be... they don't get along?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Not exactly. Friendship between men is a complicated thing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Is that how it is?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Wahahaha! That's how it is. Glad to see nobody's gone soft!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Enemy attack!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Wha... No way... the Dinosaur Empire!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "What the heck is going on here!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Dinosaurs or whatever, bring 'em on!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Don't be stupid, Shinobu! Do you even get what this means?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "First Dr. Hell comes back, now this... What the hell is going on!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Heh, what's the problem, Ryo? First real fight in ages. Let's go wild!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "...All right, let's go, you two!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Chaaaange Getter-1! Switch on!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "More of them...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "One after another... These Mechasaurs are a real pain!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Mechasaurs...? No, I've never seen that type before. A new model?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Ryo! We just analyzed it here...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "It resembles a Mechasaur, but there's no past data on it! Stay sharp!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Fuhahaha, don't lump this Hyakki Mecha in with Mechasaurs.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Who are you!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "I am Hidler! One of the Hyakki Empire's Hundred... Marshal Hidler!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "The Hyakki... Empire!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "A new enemy force, huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "So those Dinosaur Empire mechs earlier were merely repurposed...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Tch, quite the rough welcome for Getter's comeback party.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Bring it on!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Damn, today was just reconnaissance...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "The day our Hyakki Empire rules this world draws near... Fuhahahaha...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Tch, big talk for someone running off with his tail between his legs!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "The Hyakki Empire... Marshal Hidler, huh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "After dinosaurs, now we're up against ogres.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Heh, leave the ogre-slaying to me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "We managed to take care of them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Unlike mobile suits, their armor is so thick. What a drag.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "The Hyakki Empire, was it? That enemy just now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "It seems enemies who were lying low are making moves amid all this chaos.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Either way, all we can do now is keep fighting...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "This took far longer than expected. It's a forced march from here.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "All hands, keep up maintenance! Be ready to sortie at any time!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Whoa, whoa, that's hardcore.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "That's the military for you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Captain Bright always used to say, \"Do it even if it's impossible!\"",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "...I look forward to meeting him.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Hope you're not getting chewed out, Excellen.",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

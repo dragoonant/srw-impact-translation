@@ -1,0 +1,883 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1990,
+ "strings": [
+  {
+   "id": 0,
+   "en": "",
+   "kind": "dialogue",
+   "keep": true
+  },
+  {
+   "id": 1,
+   "en": "Daitarn 3...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Truly... it's Dai-daring.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Wasn't Daitarn 3 destroyed?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Omoikane, search data. Daitar...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Allow me to explain. That is definitely the real Daitarn 3.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "This is only speculation, but the Daitarn blown up in the last war",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "was a fake, and the rumored Banjo Haran came to Mars for the real one.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "\"Rumored\"...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "He's the son of Dr. Sozo Haran, who created the Meganoids.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Haran...! That's it, the key figure in developing Mars, the doctor",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "who made the Meganoids... his name was...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Yo, job's done. With that much explosive planted, we're set.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Oh, Yamada, what were you up to?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Oh, I wanted to destroy the nearby Tulips just in case.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "So I asked Yamada, since he looked bored.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "It's Daigoji. Geez, here I was working where enemies",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "could pop up any second, and what were you all chatting about?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "About Daitarn 3...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Whoa, why'd you talk about that while I wasn't here!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Did you see it? Did ya? That size! That power! That's a super robot!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "The size, sure, but that justice power suit squad made an impact too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "It was amazing, wasn't it? Making an entrance with a catchphrase,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "and leaving with a catchphrase, like some mysterious helper.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "And his partners being a suave swordsman and a wild drill guy,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "that hits all the right notes!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Geez, I can't keep up with this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Were those power suits, I wonder? They said they were flesh and blood...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Surely not...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Captain, enemy fleet movement detected.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "They're closing in from nearly every direction in sensor range.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Nearly every direction... You mean we're surrounded!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Yes. We're completely blockaded.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Damn... They wanna make this our graveyard!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Were they waiting until the Nadesico was the only force around here!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "All hands, take your battle stations.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Megumi, contact the Mars Frontier Base!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "About that... I can't get through... The signal should be reaching them...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "but there's no response.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "A desperate situation, with nowhere to run. That's about it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "There is somewhere to run...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Somewhere to run? All that's near is a Tuli... Captain, you don't mean...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "We'll send the Nadesico into the Tulip and Boson Jump!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Are you serious, Captain!? If you do that...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Enemy reinforcements confirmed. The gap in strength is widening.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Even the Nadesico and the Aestivalis team... can't fight those numbers...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "So, the Tulip it is~",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "What are you saying!? It's reckless! All I can calculate is losses!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Ruri, order the Aestivalis units to return.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Minato, plot an entry angle into the Tulip, quick.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Captain, I can't permit that.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "You are about to breach your contract with Nergal.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "There must be some other way...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Can't you trust the crew you chose yourself!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Entering the Tulip.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Is it really okay to go in there...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "What are you thinking!? Turn back right now!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Living things can't pass through, so the Jovian Lizards use Tulips",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "to send in unmanned machines, don't they!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Not necessarily. We have a Distortion Field, so...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Send the detonation signal to the bombs set on the Tulips.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Then keep moving forward. Engines, prioritize field stability.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "...What's going to happen to us...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "At last... we've come this far.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Abel... It seems rather noisy outside...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Pay it no mind, Keim. Machines from that blue star...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "that so-called Earth, seem to be prowling about the area...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Don't underestimate them, Abel. That one said... to conquer Earth,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "we must strike this thing called Londo Bell...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Heh, Lord Diore, inferior beings need no tactics. Before the Dirad revive,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "I believe it's vital to purge the Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "I beg you, order the whole army to sortie... Lord Diore.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Abel, Lord Diore has only just awoken from a 200-million-year slumber.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Lord Diore.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Abel! Our seed has finally found this land...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "You know as well as I what happens if we fail now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "For now, as that one says, until we strike this Londo Bell,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "I believe we shouldn't reveal our full strength.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Keim... You keep saying \"that one,\" \"that one,\" but he's...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "He's... what...? Abel...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Hm...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Lord Shapiro...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Ow ow... Dammit, where are we!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Looks like... we ended up way off the rendezvous point.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Is the Mazinger team okay!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Probably... The Gaizok ship got knocked off course... They're fine.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Better worry about ourselves than about others. ...Look.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Gaizok mecha!? Why!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Looks like they followed us. ...No battleship, though.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Guess they got swept over here same as us, huh?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Tch, no fun without a big shot, but let's smash 'em for now!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Let's do what we gotta first, Shinobu. ...There, distress signal's out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Oh, nice thinking, Masato. Let's go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Gil Berg... It seems things are not going well...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "...Sir, my apologies... Grand Captain Garimos!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Next time... next time for certain...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "The Bunker needs no incompetents... You understand what that means...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "...Sir.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "At this rate... Gades's men might be more reliable... Gil Berg...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "...!! Those people!? Grand Captain Garimos!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "...I've acquired a pawn, one with ties to them.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Using that one, this time for sure...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "The Cyber Beast Force has been found!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "It's a distress signal! Um, the location is... PLS Black Point...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Black Point? I've never heard of that sector.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "A meteor swarm passed there lately. Probes have been sent a few times,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "but apparently some kind of trouble always ends up damaging them...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Isn't something hiding out there? Sounds kinda fishy to me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Speaking of fishy, we've also heard that one of the \"Tulips\"",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "is on the move, Captain.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Tulips... You mean the Jovian Lizards' transport carriers?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Yes. Slowly, but one of them appears to be approaching Earth...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Well, whatever's out there, we gotta go get the Cyber Beast Force",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "anyway, so what's the difference?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "We'll end up heading there sooner or later anyway, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "No use frettin' about it... Huh?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Somethin's showin' up on the radar, y'know?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Huh? This reading... Captain! It's mechs from the Bunker!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "What!? Where!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "...Um... In the colony belt right near here!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Why would they be in a place like this!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Let's sortie right away!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "How hectic. Where should we go first, I wonder?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "I want to go meet the Cyber Beast Force, but the derelict colonies",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "and that Tulip reading worry me too... All right, prepare to sortie!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Doctor! They say the Bunker's started moving...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Indeed. But, hmm... it doesn't look like they're aimin' for Earth.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "What's that supposed to mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "...Hmmm, this is... a trap, I'd say.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "I think so too... It's probably Gil again...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Haaah, it's all such a drag, isn't it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "So, I've got a little proposal...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "What is it, Doctor?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "How about we just run off somewhere far away?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "No matter how much we struggle against the Bunker...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Doctor, we're heading out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "I-I was only thinkin' of you kids, y'see...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Too bad, Doctor.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "...Let's go.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Make up your mind already, old man.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "...Oh, for goodness' sake...",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

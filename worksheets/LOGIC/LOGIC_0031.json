@@ -1,0 +1,493 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 49,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed 2. Enemy enters the laboratory",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Wahahahaha!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "So this is all a lab without Great Mazinger amounts to!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Did we make it in time!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "You're late, Gandor unit!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "I'd love to take you on, but I already have what I came for!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "No way! Great Mazinger!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Isn't Great Mazinger in the robot museum in Tokyo?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Yeah, Great Mazinger was definitely there.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Then what on earth did they...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Fuhahahaha, you'll find out soon enough! Soon enough! Hahahahaha!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "What!? He ran off!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "But it looked like he got what he came for.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "What the heck is going on!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Looks like we can't go after him.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "...For now, wiping out the enemies left here comes first.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Mechanical Beasts!? Hm, looks like that one's the leader.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Nngh, they moved faster than expected.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Gandor unit, was it? You have my praise!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Tch! Praise from an all-show, no-go chump like you",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "doesn't make me happy one bit!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "All talk, aren't you?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Very well, I shall take my leave for today.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Whoa, retreating already? No excuses for that one, old man.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Unlike you lot, I'm a busy man.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Mechanical Beasts, huh... Anyway, we can't let them into the lab...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Queen Star, in!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Venus A, go!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Fire On!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Scrambler Daaash!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Queen Star, in!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Venus A, go!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Fire On!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Scrambler Daaash!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Tetsuya!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "So Great Mazinger was pulled out of the robot museum too!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "The adjustments took a while. I'll make up for it now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "You made it in time, so no worries! Now, let's go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Commander Hazuki, Dr. Kabuto told us the situation.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Great Mazinger and Venus A are joining the Gandor unit!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "You won't say no, will you, Commander!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "No, I should be the one asking.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Tsurugi, Honoo, you'll both be under my command... Is that all right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Dr. Kabuto and Prof. Yumi both think highly of you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "I'll trust you, Commander.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Enemy reinforcements!? No, this reading is... mobile suits!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Is that... a Gogg?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Showing up at a time like this...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Looks like the intel on the Federation retrieving a new weapon was true.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "But they're already in combat, you know?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Who cares? We just rain missiles on 'em from here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Tch, so being right on the sea backfired...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Looks like it's Getter-3's turn to shine!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "I see, the Getter Robo...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "A super robot that can handle land, sea, and air.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "This situation's made to order.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "It's all yours, Benkei!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Damn! The enemy's in the lab...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "...The Great General of Darkness... what's his goal?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "He was commanding the Mechanical Beast army...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Baron Ashura and Dr. Hell...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "No, he was calling himself by some fancy name, Marshal of Hell.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Is that guy the one backing them...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Who cares, I tell ya. It's just gettin' to be a real hassle.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Oh, Boss, honestly.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "It's not like before, where we just had to beat the enemy.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Right. Honestly, it doesn't look like it'll be that simple.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "If only we knew more clearly who the enemy is...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "For now, we have no choice but to build up our forces and press on.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "We still have no word from Jaburo either.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Who they are? Isn't it just leftover Mechanical Beasts and the Gaizok?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "If it were that clear-cut, we could plan our strategy...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Geez, grown-ups worry way too much about everything.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "...Not thinking enough is a problem too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Commander, let's just get moving.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Right... All units, return to the ship. Keep up repairs and upkeep.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "(...The Great General of Darkness. Just what did he get his hands on?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Battle Mastery increased by 1.",
+   "kind": "system",
+   "keep": false
+  }
+ ]
+}

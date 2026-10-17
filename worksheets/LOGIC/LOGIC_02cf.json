@@ -1,0 +1,1297 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 719,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Oh, so this area is close to Earth.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "It is. Looking at Earth like this... the war hardly seems real.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "I wonder how Gramps and the others are doing...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Heh, missing your mommy, Kappei?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Shut up, stupid! I'm just worried about everyone on Earth...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Now, now, you two, no fighting.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Geez, Daisuke's right! You two are always fighting...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Hahaha, Keiko, guys build friendships by fighting! Right, Boss?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Yeah, that's right, I tell ya.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Geez, what if somebody gets hurt...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Keiko's right. Kappei, Uchuta, you too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Leave them be, Jun. Having friends to fight with is a blessing in itself.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Unlike us back then...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Tetsuya...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "...Huh, that thing floating over there is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Something there? ...Oh, a Jovian Lizard Tulip.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "They send mecha from Jupiter through those, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "...Why don't we go around smashing them all?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Attack them carelessly and Jupiter may send drones to defend them.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "So the call is that we shouldn't touch them without good reason.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Nothing's ever easy, huh... What? An alarm!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Enemies ahead, crime syndicate mecha. All hands, prepare to launch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Tch, Uchuta! Our match is on hold! Don't you run away!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Heh, that's my line!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Geez, these brats sure are lively.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "My, my, Kappei and the others don't want to hear that from you, Shinobu.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "What was that, Sara!? You calling me a brat!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Guess he really has no clue...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Good grief. He's a hopeless case.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Heh heh heh, here they come... This time I got me a strong helper.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Like moths flyin' right into the flame!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "So they are the warriors of Earth...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Yup. They may not look it, but they're a real handful. Don't take 'em lightly.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "I know. Even when hunting a rabbit, a lion gives its all...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "I too am a swordsman, however humble. I shall not be careless.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Good, I'm countin' on ya! ......Okay, looks like those guys ain't here...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Those guys...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Uh, yeah, there's this bunch always gettin' in our way... Don't see 'em.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Let's wrap this up quick!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Heh, had they any skill, I'd have liked to cross blades... Another time.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "...Have at you, warriors of Earth!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Nngh! You there, what is your name!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "...Blue Jet!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "I am Globine! Jet, was it? I look forward to meeting you again...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "...This reading!? Captain Bright! Gravity wave reaction from the Tulip!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "What? A reaction from the Tulip...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Tch, in the middle of a battle with the Gyandlar, of all times...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "All hands, be ready for enemies from Jupiter too!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Easy for him to say.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Looks like they sent a battleship class... Hm? That ship is...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Why... Why is that thing coming out of a Tulip...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Why is that ship coming out of a Jovian machine...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "The Nadesico...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Ship has now returned to normal space. Checking coordinates...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Everyone, please wake up. Hellooo, yoo-hoo...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Hey, Jovian mecha are showing up behind the Nadesico!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Please wake up, everyooone.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Once awake, report to your stations at once. Emergency alert.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Captaaain. Captain... Captain...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Huh? Ah... Oh, what's the situation outside?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Yes... Near the moon. Surrounded by Jovian Lizards and space criminals...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "...!! Fire the Gravity Blast! Then raise the field and fall back!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Ngh, our allies... weren't caught in that...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Whoa! They show up and start blasting right away!? That's crazy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "They're on the Federation's side, right? Can we trust them?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Crazy, sure... But they seem to have pursuers.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "To clear a path, it's not such a bad move.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Well, as long as they don't drag us into it, I don't care.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "She sure likes it flashy. Isn't that a bit too close for comfort?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Nadesico, respond!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "This is Captain Bright of the Ra Cailum! Nadesico, respond!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Mm... Where...? Huh, who...? C-Captain, Captain Bright's calling!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Huh? Huh? Captain Bright, you mean...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "The Ra Cailum's captain, whom we gave the slip amid the chaos",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "of battle at the Satsuki Midori 2 ruins.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Which means... Londo Bell is in this area too?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "I was about to say so when you gave the order to attack.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Ahaha... I-I hope that attack didn't catch them...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "A-anyway, please put him through.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Captain Misumaru, what on earth is this...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Ehehe, well, um, we got surrounded by enemies on Mars,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "and we had nowhere left to run, so I thought maybe we'd just",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "go into the Tulip right in front of us...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "(Go into a Tulip? ...I thought they were mere transport carriers...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Inez can explain all that...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Wait, is Inez still out cold?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "......Very well. We are currently",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "engaged in combat with the space crime syndicate Gyandlar.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "We'll intercept them along with the Jovian Lizards you brought.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "We'd like your ship's cooperation as well. Is that agreeable?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Yes, roger thaaat! Megumi, is everyone awake?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Yes, it looks like everyone's at their stations...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Oh? A message from Captain Bright.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "What is it? Something he forgot to say?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "\"Kindly refrain from wide-area attacks without warning,\" he says.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Nobody wants to get caught in friendly fire, after all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Geez, he could've just said so. Captain Bright, you're so shy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Well... it does affect the morale of the whole force.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "While you're fooling around, the enemy's second wave is coming.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Aestivalis team, launch as soon as you're ready!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "All right, Jovian Lizards or space crime syndicate,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "I'll take 'em all down!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Looks like some small mecha slipped in before the Tulip",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "we entered got destroyed.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Okay, all units, launch! Then scatter and take 'em out one by one!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "What's the plan?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Play it by ear!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Roger! Still, we escape one battle and land right in another...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "What the heck!? A whole buncha little ones showed up again!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Hmm... But it seems some robots oppose them as well...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "That spares us the trouble of sowing chaos. We go too, Devil Saturn!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Ngh, there are just too many enemies. At this rate...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Brother, don't you start whining!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "This is great!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "I got spooked when another battleship showed up, but thanks to them",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "little bug-lookin' robots, we're on a roll!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "It is rather like snatching the spoils while others fight...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "But this is the job I took on. Earthlings, think no ill of me.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "We got this! Now our Demon Soldier ranking's sure to go up!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "...If those guys hadn't been around, it'd always have gone like this!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Kenrou! Show me your power!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Whoo, gives me chills every time! That's a real champion of justice!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Tenkawa! We're doing that next!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Akito, you're so cool!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "I haven't done it yet! And I won't! ...Anyway, they're helping us again!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Thanks for the help! Even if we still don't know who you are!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "They are pretty out of the ordinary.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "That helps. ...Though I don't like not knowing who they are.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "True, for now all we know is that they're out of the ordinary.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "\"Out of the ordinary\" is harsh. We were just born someplace else, is all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Enough, Drill.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "(So... they're from another planet...?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Sorry, everyone. We can't explain in detail right now...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "There are some unfamiliar faces among the Gyandlar...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Stay sharp, everyone... These Gyandlar aren't like the usual ones.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Oh ho, you read my swordsman's aura...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "So you too are a swordsman. Then face my Dark Twin Slayer Sword!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Interesting. The Tenku Shinken accepts your challenge!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Looks like those two are off in a world of their own...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Either way, we've got more allies! Let's hit the enemy all at once!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Huh? Eek, don't fly so rough!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Roll, don't get too worked up...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "It's no use.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Seeing that guy show up got Roll even more fired up than usual.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Your opponent is me! Haaah!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Nngh! You are skilled!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "I too have met a true swordsman for the first time in ages...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "You! What is your school!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Dark Twin Slayer Sword!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Nngh! You there, what is your name!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "...Blue Jet!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "I am Globine! Jet, was it? I look forward to meeting you again...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "H-hey! Don't just go off on your own!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Dark Twin Slayer Sword... Globine. Someday... I must cut him down.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "H-hey! Don't just go off on your own!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "Dark Twin Slayer Sword... Globine. Someday... I must cut him down.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Nngh...! I withdraw! But the wound to my warrior's pride... I shall not forget!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "What the heck!? This really ticks me off! Forget it! Retreat!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Enemy readings... gone.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "The commander-class units seem to have fully withdrawn.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Keep scanning. ...Now, then.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "Shall we go too, Rom?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Yes. If they escape now, we'll lose them again. Everyone, after them!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "All right!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "My lady, let us be off!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "People of Earth, we will pursue the Gyandlar.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "When the time comes, we will surely meet again. Farewell!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Roll, let's go after them too!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "If we follow the Gyandlar, we might run into Bunker!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Wait, Pai! They brought along different allies...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Their ties with Bunker might not be that strong...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "True... Either way, it's clear Bunker is targeting Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "No need to rush.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Then maybe staying near Earth is better than chasing the Gyandlar.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "Bunker never truly trusts anyone, even an ally...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "With the Gyandlar too, they're surely just using each other.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Just as they did with me...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Shazara...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "The mysterious power suit team has left scanning range.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Power suits... Surely not.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "...However many times I see them, they don't seem like power suits.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "...Ruri, they weren't wearing space suits, were they?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "...I don't care.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "Aww, now she's sulking. Well, I'd say they're kinda dreamy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "(They didn't show up on the Nadesico's radar again,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "and Omoikane says they're unidentified... It's definitely strange.)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "So in the end, we still couldn't learn who they are.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "...I'd be lying if I said I wasn't curious who they are.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Tch, it's a little late to be surprised by stuff like that.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "So, Bright, what now?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "For now... it's the Nadesico, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "For now, the ones we can identify come first...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "Captain Misumaru, whatever the reason, I can't let you go this time...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "For the time being, you'll accompany us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Captain Misumaru, given that our operation on Mars has failed,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "Nergal can't afford any more friction with the Federation Forces...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "But the Nadesico is a civilian battleship...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "Understood. For now, the Nadesico will be under Londo Bell's command.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "Yurika!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "Tenkawa, the safety of the crew and the Earth Sphere",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "is what the Captain put first.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "If we fight Londo Bell now, it'll only please Zeon and the invaders...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "W-Well, sure, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "If you'll excuse me. We'll be heading for our next destination at once.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "Partly because the Gyandlar held us up for quite a while...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "We did stir things up ourselves, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "Captain Bright doesn't talk in circles. You're reading too much into it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "He's not slick enough to talk in circles anyway.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "A guy who's a little clumsy is kind of cute, don't you think? Hehe.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "Ahem! ...I'll get Admiral Misumaru's approval later... Welcome aboard.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "Roger! ...Seems like a pretty quirky bunch.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "Look who's talking.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "...She's got a point.",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

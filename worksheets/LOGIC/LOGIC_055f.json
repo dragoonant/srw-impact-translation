@@ -1,0 +1,1201 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1375,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "So this is the inside of the battleship... Didn't expect this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "This is no ordinary battleship... Kappei! Be careful, okay!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Leave it to me! We're in the enemy's belly, so if we just go wild...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "You have come... descendants of the Jin family.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "What!? Where's that coming from!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Tch, over there... So you're the Gaizok!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Indeed... I am... the god of the Gaizok...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "God...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "The time has come... to destroy you once again...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Once again...!? Then you were the one who... our ancestors...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "...Indeed. Your distant ancestors, who harbored evil thoughts...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "It was I... who destroyed them...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Screw you! And what do you mean, you're a god!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "If you can reach me... and defeat me...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "you shall understand its meaning... If you can defeat me...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Oh yeah! Bring it on! Don't you move from that spot!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Keiko! Are reinforcements coming or not!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "The jamming's too strong to confirm. ...I think they're catching up, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Did we get in too deep!? Tch...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Heh, so they might not come!? Then we'll just do it ourselves!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "...Dangerous... Just as they feared... you are meant to perish...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "The Nadesico Super Express has arrived!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Geez! Steering the ship was pretty tough,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "so I wish you wouldn't say it so casually.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "This is the inside of a battleship? It's like a maze...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Oh! Londo Bell!? Quattro, over here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "You three seem unharmed.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Aw, you could've come after we'd smashed the Gaizok.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "These guys aren't worth saving.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "If you were in the same spot, Ryoko, I bet you'd say the same thing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "This is no time to dawdle! I'm heading out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "All units, sortie!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "That's... the Gaizok...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Seems so. ...What a hideous form.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "I don't wanna hear a monster like that lecture us about fighting!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Yeah, I'm gonna smash it for sure!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "I don't think it's wise to judge by appearances.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "...Appearance and the meaning of words need not match.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Captain?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Then you mean what that Butcher said before wasn't wrong?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Sorry to interrupt, but enemy reinforcements incoming.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "So they were stockpiling forces after all...! Stay alert, everyone!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "There's a lot of 'em. Is the Princess outside gonna be okay!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Let's wrap this up fast!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "All... for the sake... of...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Trying to overwhelm us with numbers now is pointless!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Quality over quantity!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Here we go...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "...This power... Is this... what you... sought...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Huh...? The power... we sought...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Quit talking nonsense! Keiko, don't let it get to you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "That's right. With this many of 'em, get distracted and you lose...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "But then... why... did they choose that land... as the beginning...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "(The land of... beginnings? It isn't speaking to us...?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "...Hm...!? What is this...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Kamille?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "...No, I have a bad feeling... like a sense of foreboding...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Bad feeling? C'mon, cut it out...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "...Looks like you nailed it. Energy readings rising.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "...You who guard me and rule death... when one who defiles the Bandock",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "appears... you shall rise again...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Tch, there's still this many!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "This... looks like it'll be back-breaking work.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "So this was your bad feeling! ...Yeah, that's a few too many...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Like I'm scared of numbers now! We won't lose!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Right, right! At times like this, it's all about guts! Guts!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "That's pure spirit talk, but it looks like it's all we've got.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "It's the Gaizok's last struggle. Let's push through, Kappei!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Yeah! I'll smash 'em!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "(Our morale holds... What concerns me is the Gaizok's true intent.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Mu... uuuuoooooh...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Is it... over!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Heh heh... Looks like it ain't a dream...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "We did it... We beat it...! We finally beat the Gaizok!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "...That voice... You are Kappei... Jin...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Huh...? S-Still...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "...I... am defeated. ...People of Earth.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "The Gaizok's true form... You're the Gaizok, aren't you!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "We won!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Now we'll avenge our ancestors!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Gaizok... no... I was built by the Gaizok aliens...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "I am merely... Computer Doll No. 8...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "What... do you mean by that!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "So it's not the enemy boss!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "This thing is just a pawn of the Gaizok...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "...Yes. I was built... to react to living beings with evil thoughts.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Long ago, I... your ancestors' planet... Planet Bial...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "I destroyed, for it was overflowing with malice...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Y-You're lying...? You... You're not the Gaizok!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Calm down, Kappei!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "...Tch, the enemy's home base... Planet Gaizok, was it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "So we've got no choice but to storm the place ourselves!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "...That would be... pointless.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Screw that! You don't know till you try...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "...The Gaizok who built me... have already... perished...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "What!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "...A robot that just... keeps on watching.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Its mechanism never died... so probably, all this time, out in space...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Huh... What does that mean!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "This is only speculation... but however advanced it may be,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "a machine can do nothing but run the program it's been given...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Something programmed only to identify enemies and fight...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "...is what we've been calling the Gaizok...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "And so... I entered two hundred years of peaceful slumber...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "But once again... a planet overflowing with evil thoughts...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "awoke me from my peace...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "And that's... Earth...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Are you saying everyone on Earth is a bad person!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "...Hating one another... lying to one another... selfish thoughts...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "and worse, creatures that kill their own kind... cannot be called good...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Their own kind... killing each other...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "...Who can say.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "(Captain...?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "...Those who destroy... the quiet peace of space... I was built",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "by the Gaizok... to sweep away... such creatures...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Destroying the peace of space...!? Us!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "That's not true! Everyone's a good person!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Kappei...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "The enemy mothership... meaning here... Heat in its core is rising.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Huh!? What does that mean!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "To put it bluntly, it's going to explode.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Huh!? Wh-Whyyy!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "I've confirmed it here too. ...We did go pretty wild.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "And besides... the core... probably the engine block, I think...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "at this rate, it'll soon...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "...Right, we're getting out! All units, maximum combat speed...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Enemy reinforcements.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Wh-Why now of all times!? It's gonna explode, y'know!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Tch, we took down the boss and they still keep coming!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Big Bro! Th-That's...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "That thing... The one that showed up right before we entered the planet!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Why's it here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "The Einst leader. What could it be after...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Jaburo, then before Planet Dirad... How many of these are there!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "But open space is one thing... why inside this battleship!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Is there some other way in?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Didn't it come in through the hole we made!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "There were no readings. ...It seems it was here from the start.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "...It may be a robot meant to defend a stronghold.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "A stronghold...? You mean the Gaizok battleship!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "A hunch.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "...But in the end, the Gaizok were nothing but a relic of the past.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "In other words, this is the Gaizok's heart.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "So... this means the Gaizok threat is gone, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "And that's when it appeared...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "On the ground... it was when we liberated Jaburo.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "In space, right before we entered Planet Dirad... Big turning points...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "...The Gaizok and the mystery enemy... If they shared a goal...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "or if they had something in common...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "Cryptic as always, Captain! If you figured something out, explain it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "No, they won't give us time to reach a conclusion... Here they come!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "(But... that wouldn't explain Excellen and Kyosuke...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Damn it! Were the Gaizok and the mystery enemy working together!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "Isn't this ever gonna end!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "What's this about disturbing the peace of space!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Gaizok computer jerk, if you wanna destroy something,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "go after guys like these!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "...It was full. Planet Gaizok too... of malice.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "But... I cannot... destroy... my creators...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "Wh-What!? That Gaizok bastard's still alive...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "It cannot... destroy its creators...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "...Then why did the Gaizok perish...? With technology this advanced.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Don't tell me...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Explain yourself, Gaizok!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "...My systems... are too badly damaged...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Answer me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Damn it... What the hell...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Kappei... We're fighting for peace, for everyone, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "There's nothing to be unsure about.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "(If what I'm thinking is right...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "then most likely, what destroyed Planet Gaizok was...!)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "No time for brooding, it seems. The enemy looks raring to go.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "...How much time!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "Estimated time to critical explosion... 5 minutes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "Five minutes!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "S-Seriously, Ruri?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "Seriously.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "All-out attack to bring down that big one! Then we break out in one go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "We have no choice. Let's go.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "1. Destroy Einst Regisseur.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "1. All allies are destroyed. 2. Victory conditions are not met within 5 turns of the Einst Regisseur appearing.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "Battle Mastery increased by 1.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "Got it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Everyone who can return, land on the ship right away!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "Escaaape!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "...The Gaizok... Is it... finally over...?",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

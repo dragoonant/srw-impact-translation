@@ -1,0 +1,1645 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1530,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Lady Janera... What shall we do now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Do not panic, Warukimedes.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "To think the Earthlings would possess such power...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "But we cannot simply sit idle like this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "I know. But... we cannot contact Planet Campbell.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "For now, we have no choice but to wait.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "What about using those fellows?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "...There has been no contact since Demon Mask Castle...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "They were merely Oleana's pawns on Earth. They cannot be relied upon.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Didn't Demon Mask Castle fail because you relied on them, brother?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Silence! ...But being unable to contact the homeworld is worrying.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Could it be...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Hold your tongue! That could never happen!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "It's here! There's no doubt!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Oh! There they are, there they are!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Wh-What, Hyoma Aoi?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "How did you find this place?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Just like ol' Deus said.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Deus... Did you say Deus?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Give it up already!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Deus... Lady Janera, could it be...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "That's right, the envoy from Planet Campbell!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Planet Campbell has called off its plan to invade Earth!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Wh... Nonsense! I won't fall for such a bluff!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Muhahaha, who cares! Whatever's become of Planet Campbell...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "I'll still settle things with you! Face me, Hyoma Aoi!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Bring it on! Dangel!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Let's settle this!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "LEEEET'S! COOOMBIIIINE!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "All right, all units, launch!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Well, what'll it be?! Janera!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "...So there is no longer anywhere for us to return...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Lady Janera... What they said... no place to return... surely not...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "It adds up... The peace faction, long opposed to us reformists,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "on Planet Campbell has retaken the government.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "L-Lady Janera... What on earth do you intend to do...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "...It is no matter.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "What do you mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "We need only bring this Earth under our rule!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Stop this pointless resistance.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Think about it. Is that even possible with the forces you have left?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "That's right. We'll take care of you all at once...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Wait, Tetsuya! ...Empress Janera, go wherever you please.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "What...?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Hey, hey, hold on! We've got these guys cornered!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Even if we let them go here, if they cause trouble somewhere else...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "...I believe I know the sorrow of those who've lost their home.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Brother...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "But still...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "...Go.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Hyoma?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "What are you playing at?! Hyoma Aoi!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "We've been fighting to protect Earth. Get outta here!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "But if you come at us, we won't hold back!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Heh... Hahahahahahahaha!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "...You underestimate me, the Empress Janera...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "Hyoma Aoi! Do you think I would shamefully flee home?! Warukimedes!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Yes! ...If we defeat you here...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Earth's military won't have its forces in order! We... we still have a chance!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "You bastards... Ignoring how Daisuke and Aoi feel...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Foolish...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "If that's your answer...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "I told you we won't hold back if you come at us! JANERAAA!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Heheheh... To think that I... the great Janera...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "would die in a place like this...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "You idiot... You had to know you couldn't win...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Heheheh... Hyoma... Aoi. If you and I were in each other's place...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "would you say... you'd flee home?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "That's...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "...We'd fight... to the end.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Everyone... thinks the same... Heheheh... And that is why...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "...strife will never vanish from this universe.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "You're so selfish! You're the ones who attacked us!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Yeah, that's right!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "...It does not change... the universe... Only those... Oleana worked with...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Heh... Heheheheheh... Not yet...! Combattler V!!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "At the very least, you're coming with me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "What?! She's comin', Hyoma!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "A suicide attack...?! Hyoma!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "...I accept, Janera! Combattler doesn't run or hide!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Nailed it... Super Electromagnetic Spin...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "That's... the end.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "What a... sad person.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "We couldn't save her...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "She couldn't become... like Daisuke and Maria.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "...Tch, this doesn't feel good... even though we won!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "And then a riddle at the end. What was that all about?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "What did she mean, the universe doesn't change?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "But now... it's over.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "The problem ain't solved. It starts now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "...Yes. Don't neglect to check our remaining forces!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Ruri, I'm counting on you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Roger.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Kyosuke? What's wrong?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "The Einst... changing... the universe?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Excellen, you... know something, don't you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "...Sorry, Kyosuke. I don't know...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "The land of beginnings, various powers, and the time has come...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "That's what you said while they were controlling you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Sorry, I'm sorry, Kyosuke... I can't remember...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Don't push her too hard... Excellen really doesn't seem to remember...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Excellen...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Hm!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "An enemy attack?! Shaff, are they Campbellian survivors?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Princess, this ID code is...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Sheesh, these Campbellians are a sorry bunch!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "They got wiped out real quick, Big Sis Diondra.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Don't call me Big Sis!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "...Heh, I never expected anything from a dying army anyway.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "That weird Kansai accent... It's the Gyandlar's grunts!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "Hey! Who're you callin' grunts?!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "We're the Gyandlar's dreaded Demon Commander unit, Devil Saturn 6!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "If you're gonna talk Kansai, you gotta play the fool more or it ain't funny...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Why make 'em any dumber?! Plus, there's a big shot with them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Diondra, you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Easy, Rom. That's what they want. You know how dirty they play.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Heheheh... Dirty? Call it strategy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Hiding 'cause you were scared, right? Always your specialty.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "What?! Keep runnin' your mouth and you'll be sorry!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Whatever, just come at us! We're angry, you know!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Well said! Get 'em...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Wait, Devil Saturn. You've walked right into the enemy's trap.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "...You... Gardy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Hm... This man... He's good...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Mm... Do not let your guard down, Domon!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Oh? You seem to have grown since last we fought,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Londo Bell.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Thanks to you guys.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "We're ready to smash creeps like you, one after another.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "That's right. Bring it on!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "Back-to-back battles... Should we pull back for now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "No... We should fight this out to the end, Captain.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Everyone's fighting spirit is high... We should push straight through.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "That's our old man Hazuki. ...That's what I'm talkin' about!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Geez, look who's talking. Even if Captain Bright ordered a retreat,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "you wouldn't listen anyway.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Captain Misumaru, are we all right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "Everyone's raring to go! In that case, let's do it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "It can't be helped, I suppose.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Though spending so much at once is hardly economical...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "It's settled. ...We can't afford to lose time in a place like this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "You've got guts... I'll make this place your grave!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Get them! Devil Saturn 6!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Gadessa!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Come on...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Diondra.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "Hm? What is it, Gardy?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Leave this to me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "What? What do you mean? Don't tell me you want the credit...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "You can have that. ...That man, Rom Stol...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "I've long been interested in him. Do as you like with the Star of La Mu.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "I see. So we carried the treasure",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "right up into space, huh?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "But... that was the right call. As long as we have it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "we won't hand it over so easily!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "Mr. Gardy! Let's do this, then!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "He is all that interests me. Do as you please with the rest.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Heheheh...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Be careful, everyone. That man... is not all talk.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Brother...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "He's asking for you, Rom.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "...Fine by me! Gardy...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Then I'll just sit back and enjoy the show!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Devil Saturn 6, you go after that battleship!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "If you can get your hands on the Star of La Mu...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "your Commander Ranking will triple!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Gadessa! Heheh, let's do this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "Looks like they're after the battleships.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Huh? Whaaaat?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Annoying! If you're coming, then come!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Battle Mastery increased by 1.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Mmgh?! To think they've grown this strong...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Well done, Earthlings...! And you too, Rom Stol.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "It's decided...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "It's over.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Now I'll end this...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "We'll take down this Gyandlar leader!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "Prepare yourself!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Wait! You sure?! That's your brother! You'd kill your brother?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "Wh-What?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "This Gardy is your brother!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "My brother...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "That's right! You seem to believe your brother is dead, Rom!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "Us... brothers...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "It can't be... Brother...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "Unbelievable!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "Now, Gardy! Finish him off!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "He and I... brothers...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "Knock it off! Making stuff up like that...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "If you're going to lie, at least make it a better one...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "...Not necessarily.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "Hayato? Come on, there's no way...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "...Too outlandish for a mere smear. Either it's pure nonsense...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "You mean it's true?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "...It backfired...?! We're pulling out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "Ah! They're running away?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "Damn it! They caught us off guard?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "Hey, Rom! Are we just gonna let them get away?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "Brother Rom! Let's go after them!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "Yes, I know. But...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "Go, Rom.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "Banjo...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "...Even if that claim that Gardy is your brother",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "is just an excuse for them to escape...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "We must make certain.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "...Leaving such a worry unresolved is bad for one's peace of mind.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "Brother.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "We'll head that way too!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "...In turn, we'll be relying on your strength",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "to track down the Gyandlar's headquarters...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "Heh, save some for us, okay?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "Thank you, everyone... I'll be back, I promise.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "May the Kenrou guide Londo Bell...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "Rom's way too formal. He doesn't have to carry it all alone.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "You said it. ...We're going too, Drill, Jim!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "Ah, wait for me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "Geez, hurry up or we'll leave you behind, Jim!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "I too shall lend my blade!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "We're going too, Colon!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "Okay, Sis.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "JEEEEET!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "Is this all right... Captain Bright?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "Yes... They'll be back, without fail.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "Just as they always have.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "All enemies in this area have been wiped out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "...So now there are no more Campbellians targeting Earth.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "...Not a very satisfying fight, though. And Rom and the others left, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "True... That Gardy guy, their officer, has me worried too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "That guy, Rom's brother... It's a little hard to believe.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "We've narrowed down the enemy groups still left...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "but splitting up our forces like this...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "Can't be helped. Things don't always go the way you want.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "Ain't that the truth. Well, we handled the Campbellians, so let's call it good.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "Cheer up, Hyoma.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "I know. ...I know...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "First Garuda, now Janera... What was it all about...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "And how are the Campbellians connected to the Einst series?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "They didn't show up this time... So they weren't allies.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "en": "Our fight with them ended before we figured out the connection...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "I do think they're deeply connected to Earth, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "Aw, come on... Even they wanna take a stroll now and then.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "en": "They even show up in Byston Well, after all.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "en": "The truth is still a total mystery...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "en": "Excellen... Do you know anything?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "en": "...The only ones with a direct connection...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "en": "were the Campbellians who came to Earth first...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "en": "You know that?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "en": "What kind of connection?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 258,
+   "en": "...I'm sorry... That's all I...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "en": "Oleana, the Campbellian vanguard, came to Earth... in the ancient past.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "en": "That's probably where Raideen's connection lies, too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 261,
+   "en": "Right. And the Gaizok were robots made by the Gaizok people,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 262,
+   "en": "who died out long ago, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 263,
+   "en": "The ancient past... That's the keyword...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 264,
+   "en": "Computer Doll No. 8... Knock it off, Keiko. I don't wanna remember that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 265,
+   "en": "The ancient past, huh... Sounds interesting.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 266,
+   "en": "Oh, Akatsuki, are you an archaeology buff?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 267,
+   "en": "W-Well... a-actually, yes, I am.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 268,
+   "en": "Isn't it lovely, the romance of letting your mind wander to ancient times...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 269,
+   "en": "...That's way too transparent.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 270,
+   "en": "(The ones who wiped out the Gaizok people... were definitely them.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 271,
+   "en": "But why... the Campbellians...?)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 272,
+   "en": "Garuda... It's over. For now, anyway...",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

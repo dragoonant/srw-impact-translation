@@ -1,0 +1,1351 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 2091,
+ "strings": [
+  {
+   "id": 0,
+   "en": "",
+   "kind": "dialogue",
+   "keep": true
+  },
+  {
+   "id": 1,
+   "en": "Is that... the Nadesico's new equipment?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "That's right! It's the Y Unit.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "It was originally designed for one of Nergal's new battleships...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "but with all the recent chaos, building new battleships is out of the question,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "so they hurriedly refitted it for the Nadesico.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Huh, looks pretty good.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "So how does the Nadesico power up once this thing's attached?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "It better not be just for show.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Allow me to explain!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "First, the phase transition engines double from the current two to four.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Simply put, the number of generators is doubled.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "In short, it can stabilize and strengthen the Distortion Field.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Yes... And for armaments, in addition to the current Gravity Blast,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "it can fire an even stronger Phase Transition Cannon.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "In other words, all of the Nadesico's capabilities get a power-up.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "That's insane! They were built to different specs to begin with!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "But it seems like it'll be fine.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Besides, aren't all of Londo Bell's robots like that?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "That's no laughing matter.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "What? ...That's it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "\"That's it\"!? Output, weapons, defense! How else would it power up!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Like, combining with that thing turns the Nadesico into a giant robot...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Ooh, I like that! One command from me, and the Nadesico goes ka-boom...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "I think the mess hall would end up in serious trouble.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Forget that, Captain, what happened with Minato and Meg's punishment?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "And the Jovian Lizards... no, the Jovians... What'll you do, Yurika?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "As for Haruka and Reinard, partly for appearances with the Federation,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "they're confined to quarters for now... As for the Jovians,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "I haven't heard anything official yet...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "...Our mission... hasn't changed at all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "What!? Hasn't changed at all...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "What's that supposed to mean!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "You mean to keep on killing those people!? Captain!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Megumi! Minato!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Hey there, sorry for barging in.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Now that we're all together, I thought I'd bring along",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "the people who know the situation best...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Banjo. ...But how did you...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "The locks on Megumi's and Haruka's quarters have been released.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Hey, hey, somebody managed to fool Omoikane?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "No one fooled anything. I am the commander of Londo Bell, after all.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "I have at least that much authority.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "So this is the Nadesico's bridge...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "It seems more livable than a Federation ship, too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Nice to meet you, everyone.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Well now... Captain Bright and the members of Londo Bell,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "all here together...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "We've never talked face to face, so I invited them!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "The Nadesico's mess hall is famous for its tasty food!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "I look forward to it... but first, our concerns. I couldn't eat a bite.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "To think they would actually stop the colony.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "And things on the surface are starting to settle... The time is right.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "You called for me, Lady Haman?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "The Federation is in chaos from the alien invasion.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Though we've been affected in no small way, too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Mashymre, lead the new models and bring down Londo Bell.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Yes, ma'am! ...Lady Haman, what are your thoughts on the surface?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "I could send men from my unit, and we could hit the Federation's main forces",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "on the surface and in space at once. That might prove amusing.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Fear not. I've already sent a unit to Jaburo. Glemy's.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Besides... there's an interesting one among the Titans' survivors.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "The Titans...? No, more importantly, Glemy Toto...!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Lady Haman, forgive my impertinence, but that man is...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "...I know.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Pardon? Then why...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "I want to see it. How that one will move...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "You need only devote all your strength to defeating Londo Bell...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "I'm counting on you, Mashymre.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "I'm unworthy of such words...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "on my honor as Mashymre Cello,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "I will not fail to meet your expectations, Lady Haman.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "...Yes, Glemy left someone behind... Take that one with you as well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Huh? No, I don't need that one's help, I can manage alone...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Just to be safe.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "...Y-yes, understood...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "(A Newtype squad... Frankly, I don't like it...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "\"Nothing's changed\"... So in the end, that means we're going to war",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "with the people from Jupiter, doesn't it!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "That's right! How could you... They were Earth people too, you know?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Minato, Megumi, please don't get so worked up...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "...But... so what if they were human too!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "It doesn't change the fact that they attacked the people on Mars!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "So just because they're human... we forgive them for killing!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "...!! ...Akito...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "It's true, just as you heard from Major Tsukumo Shiratori...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "these people who call themselves Jovians were originally from Earth.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "We've received a top-secret report as well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "In the space colony autonomy disputes at the start of the Universal Century,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "they were driven out of the Earth Sphere by the Federation, it seems.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Colonies, the moon, Mars... They were driven out time after time, and",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "a media blackout buried all of it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "I looked into it on my end, too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Around the same time... several large emigrant fleets, to avoid chaos,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "secretly set off for deep space.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Apparently they used that as cover to hush up the Jovian Alliance, too...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "That's just too cruel...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Why does it have to turn into a war...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Hm? Captain Misumaru never said anything about going to war, did she?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Huh? ...But she said nothing would change...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Captain Misumaru. Has the Nadesico been actively waging war...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "No. With the Jovian Liz... the Jovians' drones, when there's no choice,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "we do take them out... but basically we only intercept.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "...Well, sometimes we do go a little overboard.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "Now that you mention it... that's true...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Which is a bit of a problem for a battleship...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "It's the same for us. Basically, at least.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "Then...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "We brush off the sparks that fall on us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "But we won't start an all-out war with a group we can negotiate with.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "So, with the people from Jupiter too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "That's right. Otherwise, Londo Bell and the Gandor Team",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "would never have drawn so many civilian allies.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Our current mission isn't them.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Besides, much about the situation on Jupiter is still unclear.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "All we can do is pray they don't make the first move.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "That's how it is. So, Meg, Minato, won't you please relax?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "...I guess... you're right...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Realistically, this is probably the best we can do...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Akito... Mr. Shiratori said he loves Gekiganger...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "He said on Jupiter, Gekiganger is their holy scripture...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Geki... ganger...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "A robot anime from long ago, in an old-fashioned style.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Technology's advanced so far that civilians can now build such robots.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "(I'll just have to sit back and watch... until things develop, anyway.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "In any case, there's still a lot we don't know about the Jovian forces.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "The Nadesico will continue to join us in our current operations.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Is that all right, Captain Misumaru?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Yes, sir! We look forward to working with you again! ...Ah!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Hm?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "Is it... something important? Captain, if there's anything I can do...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "Oh, no... About the mess hall earlier, I forgot to say",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "that I recommend the Mars Bowl.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "...Idiot...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Can we make it...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "Is it true!? Iron Mask is...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "...Yeah, at Frontier Colony... they're going to run an experiment...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "An experiment... with those things called Bugs...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "I don't really know much about it...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "But... I do know we absolutely can't let them do it...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "...Can we do it... on our own?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "I don't know... But I heard the only Federation unit",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "that can move right now is Londo Bell!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "With this many problems happening at once, there's no telling when",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "they'll make it to Frontier Colony...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "At worst... it'll be just us...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "...So, Cecily.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Don't push yourself. If things get hopeless, pull out.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "If you keep running, you won't die.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "...I won't... run. No, I mustn't run.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Let's hurry, Seabook.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "I see... So there are difficult problems among Earthlings as well...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "No kidding. This is no time for humans to be squabbling with each other...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Geez, you say that so often it's practically your catchphrase...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "And yet this is no time for humans to be fighting each other...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "No matter how often we say it, it doesn't help...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "but as people of Earth, it's shameful.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "Yeah... Oh, Captain Bright, welcome back.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "Brother, how were the Nadesico people...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Well... maybe not completely,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "but it seems they managed to sort out their feelings.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "They may not look it, but the Nadesico's crew",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "is a group of specialists gathered from all over the world...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Huh... Looks can be deceiving...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Well, we're not really in a position to talk, are we?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "No doubt.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "So, what do we do now?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "We stopped the colony from falling, and we protected this place...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "Yes... About that...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "we've learned something serious about the plant planet.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "S-something serious...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "You know it's been gradually approaching Earth, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Its speed... is increasing at an accelerating rate...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "Then... it'll reach Earth soon!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Shapiro... Don't tell me he's...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "First a colony, now an asteroid. Earth sure never runs short of events.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "This is no time to be impressed!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Bright, is there any way to stop it!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "There's... one thing we could try.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Quit stalling, what is it, Captain?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "We snipe... the planet's core.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "Ridiculous! Even with all units firing at once, that mass...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "...No, Captain. We use the colony laser...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "A colony... laser...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Ah! You don't mean...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "...Gryps II, then.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "The one used in the war against the Titans...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Yes, it should still be usable... With that, we have a chance...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "What a reckless plan... But better than doing nothing, I guess.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "So that means... we aim that colony laser at the asteroid, and...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "Boom! ...If only it were that easy...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "If only he... if only Shapiro would let things go that smoothly...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "Still, you've gotta be kidding me!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Why does every problem have to pop up all at once!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "But... it started moving as if on cue.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "Most likely... until now, they were just watching.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "Now that the colony drop has been averted, for the enemy, this",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "should be their last chance to break the stalemate...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "Brother... then...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "Gyandlar will probably make their move too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "(That mystery enemy... and that little miss too... They might try something...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "I've got a bad feeling about this...)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "What Leina told me... about the Mutron worries me too...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "I hope Gyandlar and the Bunker don't make a move...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "Captain!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "Lieutenant? Has something happened!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "...Enemies are gathering... at the Frontier I colony and Konpeito...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "What...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "It's the endgame here in more ways than one... It's all coming at once...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "We set out at once!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "But what about resupply!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "It can't be helped. We can't spare the time.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "If we resupply and arrive late when it counts, it defeats the purpose.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "Still, running out of gas there would be a problem too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "I'll have my assistant bring supplies after us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "Beauty should do, I think.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "Got it. Just tell me the rendezvous point later.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "You already slipped up with that Jovian Alliance guy, so get it right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "So did you, Reika!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "Either way, that's the only plan we've got.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "All right, the Ra Cailum is departing Von Braun! Notify the Nadesico!",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

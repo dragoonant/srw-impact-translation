@@ -1,0 +1,775 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 2229,
+ "strings": [
+  {
+   "id": 0,
+   "en": "Master Hazuki... A transmission from Ichiro Hibiki of the Mutron Laboratory.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Put him through, please.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Ah, Commander Hazuki, thank you for the other day.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "We've analyzed the tablet found in those Mutron ruins...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "and learned a great deal, so I thought I should let you know.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "I see... And what did you learn?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Information on Mutron, of course, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "it also contained records of the Einst.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "It would be best to speak in person.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "...By the way, how is the Gran Garan for supplies?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "...With the Cyber Beast Force base in that state... frankly, it's hard.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "I thought so... Won't you let us prepare supplies for you?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Though you would need to come to Mutropolis once...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "That's much appreciated. Queen Sheela, is that all right with you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "By all means, we would be grateful...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "No, please, there's no need to be so formal.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "It's the least I can do for saving my life and my wife's.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Thank you for your kindness... Dr. Hibiki. We'll see you shortly.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "We'll be waiting.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "So... the Star of La Mu has fallen into those humans' hands at last... Grrr...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Lord Barao... what will you do now...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Calm yourself, Gorai. ...We are out of time... There is only one way...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "D-Don't tell me... Lord Barao, this... Demon Island!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Yes, I shall make bloody sacrifices of them myself...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "You understand your role... do you not?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "I understand. ...Raideen is the foe who killed my brother Gekido...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "I will defeat it without fail...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "I understand.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "...I will take back the Star of La Mu without fail!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Accursed Raideen...! Next time for certain...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "(Twelve thousand years ago... I was caught off guard then,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "but this time they show no sign of stirring... I cannot fail again...!)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Now then, we'd like to hear about Mutron.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Of course. But before that, there's something I must tell Akira.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Me...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "The reason your mother... Reiko disappeared",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "was to search for a certain object while hiding from Barao.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "...And what that object is... you know as well, don't you?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "The Star of La Mu...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "...This tablet was found in the ruins where the Star of La Mu lay.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Weird hieroglyphs... I've never seen anything like 'em.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Yes... It almost looks like a little mosaic.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "It says La Mu, king of the ancient Mu Empire, just before its fall...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "in preparation for the coming revival of Demon Emperor Barao,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "left behind three things.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "...One of them is the Star of La Mu.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "And what are the other two?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "...The brave Raideen, which Akira pilots, and my wife Reiko...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "or rather, Lemuria, by her name in the ancient Mu Empire.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Mom!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Wowee! So Reiko's from twelve thousand years ago?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "...Yes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Whoa, so you're twelve thousand years old?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Koji! It's rude to ask a woman about her age!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Besides, it must have been cryosleep or something like that!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Twelve thousand years of cold sleep... Can anyone survive that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "True, after cryosleep for that long...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "I can't imagine someone waking up unharmed...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Lemuria, of the ancient Mu bloodline... like our son Akira,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "has psychokinesis.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Mom has psychokinesis too!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "I protected my body with that psychokinesis and slept in cryosleep",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "until the present day...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "You said earlier there was something written about the Einst...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Yes, this tablet also contains records about the Einst...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "In other words, twelve thousand years ago, in the Mu Empire's age,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "the Einst series had already appeared...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "What!? They were showing up way back then...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "It says the Einst series fought both the Demon Empire and the Mu Empire.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Fought both? A three-way war with the Demon and Mu Empires...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "According to the tablet, yes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "We can guess the Einst may have been after the Star of La Mu,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "but the truth is unknown...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "What kind of power does the Star of La Mu hold?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "The Star of La Mu is merely a means to unleash Mutron energy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "And what happens if that Mutron energy is unleashed?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "It's said to grant power that could destroy the Demon Empire instantly.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Didn't Rom's home, planet Cronos, have something similar...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "The Hyper Libido.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "From what Rom and the others told us, the Hyper Libido could even",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "shift a planet's axis...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Amazing...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "To think something like that existed here on Earth...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Then why don't we just hurry up and use this Star of La Mu thing?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "The tablet also says this... When the Star of La Mu is activated,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Lemuria will face grave danger...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "You mean...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Akira's mom's life would be on the line?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Grave danger... most likely, that is what it means...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Oh no...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "If my life can destroy the Demon Empire,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "I will gladly offer it up to the god of La Mu...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "M-Mom...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Don't worry, Akira.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "If we take out the Demon Empire with our own hands, there's no problem.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "Koji's right. Those who can fight must fight.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "But... there are more than a few who'd seize the Star of La Mu",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "and try to use its power.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Maybe it'd be better if we held on to the Star of La Mu",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "ourselves.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "I see. So we would lure the enemy to us ourselves.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Hmm... If the Star of La Mu stays in Mutropolis, it'll always be a target.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "If we've got the Star of La Mu, the enemy'll come right to us,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "so that works out fine, doesn't it?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "I'd rather they didn't come too often, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "We're on guard, but Mutropolis's defenses can only do so much.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "What do you think? Perhaps we could",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "take custody of the Star of La Mu...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Indeed... Leaving it with you would be safest.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "But, dear...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Leave it to us. As long as it's in our hands,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "we won't let anyone else lay a finger on it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "What's going on!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Enemy attack! And it's...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Wh-What is that!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Dear... I'm certain. That is Demon Emperor Barao's base... Demon Island!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "That's Barao's island!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "What a... sinister aura it gives off...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Commander Hazuki...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "I know... It seems the enemy is serious...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "The Gran is ready to launch.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "The Goraon is ready as well, Lady Elle.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Commander Hazuki!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "Yes. All right, recall everyone and take battle stations at once!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "We will intercept Demon Emperor Barao...!",
+   "kind": "page",
+   "keep": false
+  }
+ ]
+}

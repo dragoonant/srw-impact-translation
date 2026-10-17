@@ -1,0 +1,1771 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1612,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "No way! Not pirates!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "I ran away from Dr. Tarsan's once already",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "because I didn't want to be sold off here!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Shut up! I've remembered too...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "where I truly belong...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "What's this all about, Pai!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "No welcome, huh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Hey, wait!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "I have returned... Father...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "F-Father!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Barias... I hear you... ran away from Tarsan...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "That's a misunderstanding... Tarsan manipulated my memories,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "and that's why...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "You betrayed us once... The Bunker does not trust traitors...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Father! Please, show me your face! And look at me...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "I am still your loyal daughter... Barias!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "No way... Pai...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "I entrusted you to Tarsan to amplify your psychic powers",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "and make you an invincible weapon... I trust only those who risk their lives!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "...Father...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "You're kidding, Pai! That... that can't be...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Prove that you have become the ultimate weapon...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "that you have become a killing machine. ...Then",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "I shall acknowledge you as my daughter, Barias...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "H-How... do I do that!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Kill the man you brought with you! That shall prove your loyalty to me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Huh...!? Pai!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "...I am a weapon... That's why he sent me to Tarsan...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "By becoming a weapon... I'll make Father happy...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Pai... stop it, Pai! Are you really... really...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "In the battles so far... I've struck down many people...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Become a perfect killing machine... a murderer...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Yes... my daughter. That is exactly the quality I demand of you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Pai?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "What... what did I even come back here for...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "All I wanted... was my memories... to find out who I really am...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "That's all it was...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Kill that man, and show your loyalty to the Bunker...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "...I'm...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "What's wrong... Barias?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "...I'm Pai Thunder! I'm not Barias...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "...Traitor!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Hang in there! Pai! Roll!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Mia!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Mia! Lamba! ...I...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "...You don't have to say anything, Pai.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "...The four of us are linked by telepathy, after all...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Even without words, we can more or less tell.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "...Sorry...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "So you've come... Heh heh. The strongest combat robot",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "Tarsan ever built...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "That's... Grand Captain Garimos...! Everyone, let's combine...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Got it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Okay!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "...Let's do it...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "...Hearts as one... Cross Fiiight! Dan-gai-ohhh!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Dangaioh, ready for battle!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "So that is your answer, Barias...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Father... No, Grand Captain Garimos...! I've changed.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Meeting the people of Earth...! There was a father praying for his child,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "a man fighting to right his father's wrongs... My fight starts here!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Heh... Hahahahahahaha! Well said, little girl!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Ties of blood no longer matter! As ruler of the space pirates, the Bunker,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "I shall bury you!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "The power of Dangaioh...! Don't underestimate it, Bunker pirates...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "I've been wanting to see that power. Heh heh... All according to plan.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "...I thought getting here was way too easy...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "So they let us through... is that it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Heh heh heh... Exactly... Come forth!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "So you've come, Dangaioh Team... No, Roll Kran.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Today, before Grand Captain Garimos, we'll take your lives.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Show us a lovely death.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Aah! Them again!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Roll... those two...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Yeah... Don't worry, Mia. ...I'm going to overcome my past too!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "They're not my old comrades... They're Bunker executives,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Flash and Burst!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Let's go... everyone...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "You'll regret bringing us all together!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "No, no...! You're the one who's supposed to die, Roll!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Flaaaash!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "I won't die... I refuse to... aaaaaaah!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Th-This... This can't be happening!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Burst! Get out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "We were going to... earn glory here! Rise in the Bunker...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "Ngh, did we get him?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Looks like it... If that didn't do it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Ugh... uuh... W-Wasn't I... the ultimate warrior Tarsan built...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "It's true... that machine had tremendous power.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "But...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "What... was I lacking...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "The moment you let the flames of revenge consume you...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "the outcome of this battle was decided.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Let's end this now... Gil.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "I...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Yaaay! We beat the grand captain!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "All right, let's get ready to bail out of here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Wait... Looks like it's not over yet...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "Heh... heh... And yet you went and flew right in... with the treasure...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "all by yourselves...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "Treasure...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "You mean the Star of La Mu...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "The Star of La Mu Mom protected... I won't give it up so easily!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "What were you planning to do with Mutron's power!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Is it not obvious... I have conquered many planets",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "in the name of the Bunker... but the universe is vast...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "and so I need eternal life, that is all...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Eternal life!? Old man! Quit dreaming!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Eternal life here, too... Is it really that great?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "To live a limited life to the fullest... that is what gives life its value...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "Those were Father's words.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Master Kirai... Truly fine words.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "You hear that, pirate scum!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "(So... the Hyper Libido and the Star of La Mu hold similar powers?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Earth and planet Cronos... What could connect them...?)",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "...Fools... Not even knowing what that treasure means...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "Your mother protected it...? Nonsense...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "You...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "That's why you lost... you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Barias... you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Ngh... We're through! Princess!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "This is... the core, isn't it!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "That's...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "Whoa! It's the Elshank!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "What!? Where on earth did that come from!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "I never said to let anyone but the Dangaioh Team through!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "Microworm navigation... Of course!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Are you all right, everyone?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "Yoo-hoo, Princess Romina! We're still good!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "...So this is the Bunker's home base!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "That... is Shema's battleship... Warping straight into my flagship.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "...Interesting...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "Damn, that was one hell of a rough ride.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Seriously. Princess Romina, next time we do this,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "first-class treatment, please.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "First... class? Is that a battle formation?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "I still have much to learn...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "Princess Romina, we're in combat...! Hey, she's an alien. Think.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Whoa, that's right. Okay, so first class is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Enough already! Captain, I'm launching!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "Come on, it's just the usual banter, Tetsuya.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "All right, let's launch!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "That's...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "Whoa! It's the Nadesico!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "What!? Where on earth did that come from!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "I never said to let anyone but the Dangaioh Team through!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "Microworm navigation... Of course!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "The Nadesico has Boson Jumped.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Ugh, honestly...! We're running low on CC, you know!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Are you all right, everyone?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "Yoo-hoo, Princess Romina! We're still good!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "...So this is the Bunker's home base!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "That... is an Earth battleship... Warping straight into my flagship.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "...Interesting...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "...Well, whatever.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "All hands, launch! While supporting Dangaioh,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "we'll defeat the Bunker's leader!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "When you think about it calmly, this operation seems insane...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "But it's strange, being in this unit makes me feel it'll work out somehow.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "Looks like Erina's finally getting the hang of Londo Bell and the Nadesico.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "And so, we're gonna beat up the space pirate boss!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Thanks, I owe you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "Why'd you come all the way out here, Pai?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "Huh... Oh, this place is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "Pai...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "...Because this used to be my home...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Whaaat!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "...Used to be?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "I...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "Pai, we're in battle. ...You needn't say what you'd rather not...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "We kinda get it anyway.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Just one message. ...\"You're like a daughter to me,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "so please come home soon.\" That's from Dr. Tarsan.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "Daughter... The doctor said that...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Let's get you home soon. ...You can do it, right? Dangaioh Team.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Pirate hunting, eh? Has a nice romantic ring to it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "Already think you've won... Heh heh heh. When I haven't yet played",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "all my pieces.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Big talk!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "...I wouldn't think so. But... we must defeat him",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "before the surrounding fleet intervenes. ...How long until",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "we can use Microworm navigation again?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "10 more... minutes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Hey, Quattro, why's that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "This is the heart of the enemy fleet. ...Surrounded by thousands of ships",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "and tens of thousands of enemies... even the Tobikage wouldn't last.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "True...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Enemies all around, huh... Sounds like fun.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "10 minutes... Heh, bring it on!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "All right, commit all forces and annihilate the enemy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "All riiight! They're space pirates, so I can cut loose with no holding back!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "But they look pretty tough...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Come to think of it... do we still have CC?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "Rest assured.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "I figured it would come to this, so I loaded all of Nergal's stock",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "onto the Nadesico.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "That's Prospector for you, always thinking ahead.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "What are you saying! Precious CC would never come our way",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "unless the Chairman approved it.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "Well, we may gather more CC later, but the Nadesico's another story.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "After all, every Nergal battleship but the Nadesico has been sunk.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "Ugh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "Are you really okay with this... Pai?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "...Yeah... The place I belong... isn't here...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "Barias... you will regret this... Heh heh heh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "1. All allies destroyed 2. Victory conditions not met within 13 turns",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "Heh heh heh, not bad... I see, I can almost understand",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "why he's so obsessed... heh.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "Show, hey! He seems awfully relaxed!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "He's still... hiding something.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "Don't let your guard down!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "Heh... You're up, Gil Berg!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "I knew it...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "I had a feeling.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "Bring it...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "Gil...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "Heh heh heh heh... Never thought we'd end up fighting here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "Gil... Do we really have to kill",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "each other!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "Enough of this, Mia Alice!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "No good... This one's hopeless.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "It's pointless talking to someone who can't understand the heart.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "...Gil, I used to think things like heart and sentiment",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "had no place in a fight. But... I was wrong.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "You poor man... Gil, what are you trying to gain",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "by all this...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "Tch... Nonsense! Sentiment has no place in battle!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "I'll make you understand that right now!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "You're the one who'll understand! Feel this power, Gil Berg!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "Tch... A guy who'd sell out his own comrades shouldn't run his mouth.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "Flash...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "Small fry... Useless fool...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "Gil, you...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "That was a nasty opponent...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "Yes... Not hatred or anger... People who start wars out of greed...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "That is the mark of a true pirate. Greed is the source of all power!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "I won't forgive you... Damn you, Bunker!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "Gil...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "Bye-bye... you human weapon... driven mad by revenge...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "...Whatever my parents were... I'm gonna live by the path",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "I chose myself...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "...Pai.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "Battle Mastery increased by 1.",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "en": "We drove them all back!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "Looks like it. I'd love a breather... but we don't have time, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "Indeed. With their leader fallen, they seem to be in some",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "en": "disarray... However, a large fleet is heading",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "en": "our way, it seems.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "en": "How's it look, Ruri?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "en": "If I counted them exactly, we'd run out of time to escape.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "en": "Whoa, that's bad.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "en": "Then we'd better hurry. Princess, is your pumpkin carriage",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "en": "ready to roll?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 258,
+   "en": "Pumpkin... Oh, you mean the Elshank.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "en": "Shaff?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "en": "We can go. Everyone, please return to the ship!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 261,
+   "en": "Hurry!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 262,
+   "en": "All units, return to the ship, now!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 263,
+   "en": "Nadesico, prepare for Boson Jump! Distortion Field to maximum output!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 264,
+   "en": "All crew and pilots, please stand by.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 265,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 266,
+   "en": "All right... Hm? Pai?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 267,
+   "en": "...There seems to be a story there.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 268,
+   "en": "So that's it... Now I've got nowhere to go back to...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 269,
+   "en": "Same here, Pai.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 270,
+   "en": "Lamba... That's right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 271,
+   "en": "But we avenged planet Lilith... avenged everyone.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 272,
+   "en": "Yes, Princess. ...Surely the people of Lilith are rejoicing",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 273,
+   "en": "as well...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 274,
+   "en": "We still don't know when anyone can live on our planet Fleed again...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 275,
+   "en": "But for the sake of everyone who suffered,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 276,
+   "en": "we have to keep going.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 277,
+   "en": "Right. As long as it lives in your heart... your home can never be lost.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 278,
+   "en": "Heh... Smooth as ever, Duke Fleed.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 279,
+   "en": "Hey! Get back here already! The enemy's right on top of us!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 280,
+   "en": "I dunno what happened, but quit moping over stupid crap!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 281,
+   "en": "Wow... He sure knows how to kill the mood.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 282,
+   "en": "Shinobu! Can't you read the room at all!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 283,
+   "en": "It's fine, Yuki. ...Heh... I'm okay.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 284,
+   "en": "...Don't need Fujiwara of all people telling me!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 285,
+   "en": "Tch, say what you want! ...That's more like you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 286,
+   "en": "Heh... Thanks, Fujiwara.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 287,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 288,
+   "en": "Cheer up, Mia. It's over. Gil... that was the only way he",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 289,
+   "en": "could've ended.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 290,
+   "en": "...Yeah, I know... I know...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 291,
+   "en": "Pirates who sail the sea of space... We may fight them again someday.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 292,
+   "en": "Huh? But we beat their captain, didn't we, Brother?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 293,
+   "en": "A new captain will rise. That is... the history of war, Leina.",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

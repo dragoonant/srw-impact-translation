@@ -1,0 +1,577 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 1813,
+ "strings": [
+  {
+   "id": 0,
+   "en": "Man, everywhere we go, it's nothing but",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "fighting. What the heck is going on?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "...But to reach the truth, we have to keep fighting... Quite the dilemma.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Either way, nothing starts until we get back to the surface.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Can we really get back? What if we end up never being able to go back...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Then we just live here. I kind of like this place.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Whaaat! I still want the surface!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "Me too! I want the surface, where Domon is!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "I have to... get back to the surface, too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Right. Show... if we really",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "go to this place called Drake's castle, can we get back to the surface?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "...Honestly... I don't know.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "But there, the one who summons surface people is Silky Mau,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "an E Ferario.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "There might be a way to send people back to the surface, too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "It's unsettling that nothing's certain...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "Even so... we have no choice but to try.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "That's right... I must ask you to go.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Lady Sheela...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Holy Warrior Show Zama, and all of you...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "Byston Well now faces a threat to its very existence...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "brought on by the wicked machines of the surface.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "And the root of it all is the one who thought to summon surface people",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "to build up his own power: Drake...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "If there's a way to call people here... there's a way to send them back?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Right now it's all we can bet on. And... it's for Byston Well's sake, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Yes. As long as we're surface people... that's our responsibility.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Besides, those bone-like enemies that have appeared lately... I feel they",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "belong neither to the surface nor to Byston Well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "So they really are invaders from outer space?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "What's outer space?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Who knows? Do you know, Cham?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Nope. Hey, Show...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "I'll tell you some other time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "You always say that! Tell me properly!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "It's a long story.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "In any case, right now let's defeat Drake and rescue Silky Mau.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Then it's decided.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "We've received some news, Show.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "That Wil Wiph you fought at Karakara...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "apparently took more damage than anyone thought.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Seems it can't sortie yet. So Drake's castle is in an uproar right now.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "They're deploying tons of Aura Battlers in case anyone attacks.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "...So if we attack now... we won't have to worry about the battleship.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "But there'll be tooons of Aura Battlers, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "The barrier will be tough, but if we put Getter, Kurojishi, Houraiou...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "and the Nobel Gundam out front, it's not impossible.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Enemies in the air are a pain... but we can't complain about that now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "I'd hate it more if the battleship came out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "...That settles it. We've got no choice but to go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "We have the Goraon as well. Strike all at once, and we can win...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "We will help as well, so that the surface people can return home.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Thank you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Show Zama, I don't know how much help this will be...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "but I give you our new Aura Battler, the Billbine. Please put it to use.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "...Billbine...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "It's a new model our engineers built based on the Dunbine.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "It's a prototype, so there's only one, but I vouch for its performance...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Wooow! Show, that's great!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "...Lady Sheela...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Understood. I'll borrow the Aura Battler Billbine...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Looks like we're all set, then.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Knowing the enemy's lying in wait for us... is pretty depressing, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "Nie and I are going out too. Let's do our best!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Heh, an all-out battle, huh? Now I'm fired up.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "If only Tobikage would show up...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Looks like even he can't cross the dimensional wall.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "The Dinosaur Empire's old junk keeps pouring in, though, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "That guy just doesn't have enough guts.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Honestly, we usually tell him to stay away. Talk about unfair.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "If guts were all it took, everyone in Londo Bell could make it here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Let's just go. Once that battleship's repaired, we've got no chance.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "All right. ...Lady Sheela, we're going.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "It frustrates me that all I can do is ask this of you, Holy Warrior Show Zama.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "If the Gran's adjustments are done in time... I will come to support you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Lady Sheela... if you push yourself too hard, it'll all be for nothing.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Please leave this to us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "The Billbine is plenty, Lady Sheela.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "...Very well. Oh, yes. El, Bell!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "You called, Lady Sheela?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Yaaay! Lady Sheewa, you called? You called?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "Please take these two with you as support.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "They should be of some help.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Just leave it all to meee!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Will you be okay? Fighting is scary, you know!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "I'm not a scaredy-cat like you, Cham!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "Let me ride in the Billbine! Okay, Holy Warrior?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "...All the tension's suddenly gone...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "...Great, it's gonna be three times as noisy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "We aren't going off to die.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Maybe being this cheerful is just right.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Captain, it's time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Right. ...All units, head for Drake's castle. Show, please lead the way.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Understood. Lady Sheela, farewell.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "...Good fortune in battle, Holy Warrior Show Zama... and surface people.",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

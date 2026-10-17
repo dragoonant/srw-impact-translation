@@ -1,0 +1,2213 @@
+{
+"file": "BTL/SROLPACK.BIN",
+"note": "Staff credits. The 35 pages scroll as one 512 x 17920 strip (file order); lines are [y0, y1, text] in strip rows (page = y // 512), detected from the original art, so a line may straddle a page seam and is drawn once. Names romanized by the project (Western order, Hepburn without macrons); character names as in glossary/impact_names.tsv; uncertain readings: see choices.md item 25.",
+"font": "arial.ttf",
+"pt": 19,
+"lines": [
+[
+14,
+35,
+"Super Robot Wars IMPACT Staff"
+],
+[
+113,
+134,
+"Producer"
+],
+[
+162,
+183,
+"Soichiro Morizumi"
+],
+[
+186,
+207,
+"Jippa Hitokarage"
+],
+[
+211,
+233,
+"Hiroshi Kikuchi"
+],
+[
+236,
+257,
+"Takanobu Terada"
+],
+[
+335,
+355,
+"Planning"
+],
+[
+384,
+405,
+"SR Produce Team"
+],
+[
+482,
+503,
+"Original Mecha Design"
+],
+[
+532,
+553,
+"Kazue Saito"
+],
+[
+556,
+578,
+"Kenichiro Morino"
+],
+[
+630,
+651,
+"Original Character Design"
+],
+[
+679,
+701,
+"Sachiko Kono (Ray-Up)"
+],
+[
+778,
+800,
+"Story & Script"
+],
+[
+827,
+849,
+"Soichiro Morizumi"
+],
+[
+852,
+873,
+"Tomio Kawakami"
+],
+[
+877,
+898,
+"Masakazu Mizutani"
+],
+[
+975,
+996,
+"Game Design & Direction"
+],
+[
+1025,
+1046,
+"Asuka Kaze"
+],
+[
+1050,
+1070,
+"Akira Iwanami"
+],
+[
+1172,
+1193,
+"Programming"
+],
+[
+1222,
+1243,
+"Hajime Saito"
+],
+[
+1247,
+1267,
+"Reiji Nada"
+],
+[
+1271,
+1292,
+"Ayumu Kasuga"
+],
+[
+1296,
+1317,
+"Satoshi Ishiwata"
+],
+[
+1394,
+1415,
+"Programming Support"
+],
+[
+1444,
+1465,
+"Ken Hashimoto"
+],
+[
+1542,
+1563,
+"Graphics Director"
+],
+[
+1591,
+1613,
+"Atsushi Itakawa"
+],
+[
+1690,
+1711,
+"Robot Key Art"
+],
+[
+1739,
+1760,
+"Kazue Saito"
+],
+[
+1764,
+1785,
+"Taisei Fujii (Ray-Up)"
+],
+[
+1788,
+1809,
+"Maichiko Kageya (Ray-Up)"
+],
+[
+1813,
+1834,
+"Shinichi Takehiro (Ray-Up)"
+],
+[
+1912,
+1933,
+"2D Battle Animation"
+],
+[
+1961,
+1982,
+"Mamoru Kuroda"
+],
+[
+1986,
+2007,
+"Kyo Nagai"
+],
+[
+2011,
+2031,
+"Hiromi Itoi"
+],
+[
+2035,
+2056,
+"Kintaro Takaragi"
+],
+[
+2060,
+2081,
+"Tomomi Aizawa"
+],
+[
+2084,
+2106,
+"Aoi Teshima"
+],
+[
+2109,
+2130,
+"Satoko Kanbe"
+],
+[
+2134,
+2155,
+"Takaaki Abe"
+],
+[
+2183,
+2204,
+"Toshiro Sugiura"
+],
+[
+2208,
+2228,
+"Manabu Sakai"
+],
+[
+2232,
+2253,
+"Makoto Nobetani"
+],
+[
+2257,
+2278,
+"Nobuyuki Tanaka"
+],
+[
+2281,
+2302,
+"Hiroshi Ando"
+],
+[
+2307,
+2327,
+"Seiji Ono"
+],
+[
+2331,
+2352,
+"Hidehiro Tsuchiya"
+],
+[
+2355,
+2377,
+"Kenichiro Morino"
+],
+[
+2379,
+2401,
+"Naoto Obana"
+],
+[
+2479,
+2500,
+"Battle Backgrounds"
+],
+[
+2528,
+2549,
+"Edamoto Jinke"
+],
+[
+2577,
+2598,
+"Kyoko Muto"
+],
+[
+2602,
+2623,
+"Kazue Nakajima"
+],
+[
+2627,
+2647,
+"Shoichi Kawamura"
+],
+[
+2725,
+2746,
+"Battle Cut-in Graphics"
+],
+[
+2774,
+2795,
+"Shinya Kobayakawa"
+],
+[
+2799,
+2820,
+"Edamoto Jinke"
+],
+[
+2824,
+2845,
+"Hiromi Itoi"
+],
+[
+2873,
+2894,
+"Daisuke Kobayashi"
+],
+[
+2897,
+2919,
+"Junichi Sugawara"
+],
+[
+2996,
+3017,
+"Character Graphics"
+],
+[
+3045,
+3066,
+"Harutaka Ota (Studio Omega)"
+],
+[
+3070,
+3091,
+"Toshige Kyozuka (Studio Omega)"
+],
+[
+3119,
+3141,
+"Suguru Okuda"
+],
+[
+3144,
+3165,
+"Hiromi Itoi"
+],
+[
+3169,
+3190,
+"Kyo Nagai"
+],
+[
+3267,
+3288,
+"Dialogue Backgrounds"
+],
+[
+3316,
+3338,
+"Sachiko Nakamura"
+],
+[
+3341,
+3362,
+"Suguru Okuda"
+],
+[
+3439,
+3460,
+"3D Map Graphics"
+],
+[
+3489,
+3510,
+"Atsumu Watanabe"
+],
+[
+3514,
+3535,
+"Shinnosuke Wakamatsu"
+],
+[
+3538,
+3559,
+"Takeshi Miyamoto"
+],
+[
+3637,
+3657,
+"Map Effects"
+],
+[
+3686,
+3707,
+"Suguru Okuda"
+],
+[
+3711,
+3732,
+"Ayumu Kasuga"
+],
+[
+3760,
+3781,
+"Hitoshi Kanamaru"
+],
+[
+3858,
+3879,
+"Map Unit Graphics"
+],
+[
+3908,
+3929,
+"Suguru Okuda"
+],
+[
+3957,
+3978,
+"Akifumi Yama"
+],
+[
+3982,
+4003,
+"Kenji Yamamoto"
+],
+[
+4082,
+4101,
+"3DCG Animation"
+],
+[
+4130,
+4151,
+"Narikin Shorai"
+],
+[
+4154,
+4175,
+"Mitsuyo Fuji"
+],
+[
+4179,
+4200,
+"Ryu Doseki"
+],
+[
+4204,
+4225,
+"Shinji Inoue"
+],
+[
+4228,
+4249,
+"Masashi Ozawa"
+],
+[
+4253,
+4274,
+"Daichi Ito"
+],
+[
+4277,
+4299,
+"Makio Tomi"
+],
+[
+4302,
+4323,
+"Maruta Itaya"
+],
+[
+4330,
+4349,
+"Allan Kyu"
+],
+[
+4355,
+4374,
+"Li Ying Jun"
+],
+[
+4379,
+4395,
+"H. J Hu"
+],
+[
+4404,
+4423,
+"Baby Chen"
+],
+[
+4429,
+4448,
+"Bird Huang"
+],
+[
+4453,
+4469,
+"Bei Wen"
+],
+[
+4478,
+4497,
+"Tiger-EXSBH"
+],
+[
+4502,
+4521,
+"H. R Tang"
+],
+[
+4524,
+4545,
+"Koichiro Yamamoto (Wave Edge)"
+],
+[
+4548,
+4570,
+"Katsumi Kawagoe (Wave Edge)"
+],
+[
+4573,
+4595,
+"Hideki Fujii (Wave Edge)"
+],
+[
+4598,
+4619,
+"Sanshiro Miyazaki (Wave Edge)"
+],
+[
+4622,
+4643,
+"Kimihiro Ozaki (Wave Edge)"
+],
+[
+4647,
+4668,
+"Tadami Uragami (Wave Edge)"
+],
+[
+4672,
+4693,
+"Shuichi Muramoto (Wave Edge)"
+],
+[
+4696,
+4717,
+"Hiromi Sugimoto (Wave Edge)"
+],
+[
+4796,
+4816,
+"Sound / SE"
+],
+[
+4844,
+4865,
+"Wataru Yumura"
+],
+[
+4869,
+4890,
+"Satoru Okada"
+],
+[
+4894,
+4915,
+"Shihiro Oshima"
+],
+[
+4918,
+4939,
+"Sakurako Nishi"
+],
+[
+4943,
+4964,
+"Ichiro Sasaki"
+],
+[
+4967,
+4989,
+"Shin Kannaga"
+],
+[
+5066,
+5087,
+"Voice Editing"
+],
+[
+5115,
+5137,
+"Hiroshi Kikuchi"
+],
+[
+5140,
+5161,
+"Akira Iwanami"
+],
+[
+5263,
+5285,
+"Voice Cast"
+],
+[
+5362,
+5383,
+"Mazinger Z"
+],
+[
+5410,
+5431,
+"Koji Kabuto - Hiroya Ishimaru"
+],
+[
+5435,
+5456,
+"Baron Ashura - H. Kitahama/H. Shibata"
+],
+[
+5460,
+5481,
+"Count Brocken - Junpei Takiguchi"
+],
+[
+5484,
+5505,
+"Boss - Hiroshi Otake"
+],
+[
+5509,
+5530,
+"Sayaka Yumi - Minori Matsushima"
+],
+[
+5583,
+5605,
+"Great Mazinger"
+],
+[
+5633,
+5653,
+"Tetsuya Tsurugi - Keiichi Noda"
+],
+[
+5657,
+5678,
+"Jun Honoo - Yumi Nakatani"
+],
+[
+5681,
+5703,
+"Great Dark General - Kenichi Ogata"
+],
+[
+5706,
+5727,
+"Marshal of Hell - Kosei Tomita"
+],
+[
+5780,
+5802,
+"UFO Robo Grendizer"
+],
+[
+5829,
+5850,
+"Duke Fleed/Daisuke Umon - Koichi Yamadera"
+],
+[
+5854,
+5875,
+"Grace Maria Fleed - Miho Yoshida"
+],
+[
+5878,
+5900,
+"Kirika - Kazuko Sugiyama"
+],
+[
+5903,
+5924,
+"Commander Gandal - Kosei Tomita"
+],
+[
+5928,
+5949,
+"Captain Gorman - Keiichi Noda"
+],
+[
+5953,
+5973,
+"Commander Zigra - Keaton Yamada"
+],
+[
+5977,
+5998,
+"Commander Zuril - Banjo Ginga"
+],
+[
+6001,
+6023,
+"King Vega - Joji Yanami"
+],
+[
+6076,
+6098,
+"Getter Robo / G / Shin Getter Robo"
+],
+[
+6125,
+6146,
+"Ryoma Nagare - Akira Kamiya"
+],
+[
+6150,
+6170,
+"Hayato Jin - Keaton Yamada"
+],
+[
+6174,
+6195,
+"Benkei Kuruma - Joji Yanami"
+],
+[
+6199,
+6220,
+"Jack King - Makio Inoue"
+],
+[
+6224,
+6244,
+"Mary King - Yumi Nakatani"
+],
+[
+6248,
+6269,
+"Marshal Hidler - Kenichi Ogata"
+],
+[
+6273,
+6294,
+"Emperor Burai - Joji Yanami"
+],
+[
+6347,
+6369,
+"Brave Raideen"
+],
+[
+6396,
+6417,
+"Akira Hibiki - Akira Kamiya"
+],
+[
+6421,
+6442,
+"Riki Jinguji - Makio Inoue"
+],
+[
+6445,
+6466,
+"Rei Asuka - Nako Egawa"
+],
+[
+6470,
+6491,
+"Mari Sakurano - Makoto Kosaka"
+],
+[
+6495,
+6516,
+"Prince Sharkin - Osamu Ichikawa"
+],
+[
+6519,
+6540,
+"Gekido Kokuretsu - Shozo Iizuka"
+],
+[
+6544,
+6565,
+"Gorai Kokuretsu - Seizo Kato"
+],
+[
+6568,
+6590,
+"Barao - Junpei Takiguchi"
+],
+[
+6643,
+6664,
+"Super Electromagnetic Robo Combattler V"
+],
+[
+6692,
+6713,
+"Hyoma Aoi - Yuji Mitsuya"
+],
+[
+6717,
+6737,
+"Juzo Naniwa - Keaton Yamada"
+],
+[
+6741,
+6762,
+"Daisaku Nishikawa - Kazuya Tatekabe"
+],
+[
+6766,
+6786,
+"Chizuru Nanbara - Miyuki Ueda"
+],
+[
+6790,
+6812,
+"Kosuke Kita - Sachiko Chijimatsu"
+],
+[
+6815,
+6836,
+"Garuda - Osamu Ichikawa"
+],
+[
+6839,
+6861,
+"Mia - Sachiko Chijimatsu"
+],
+[
+6864,
+6885,
+"Oreana - Masako Nozawa"
+],
+[
+6889,
+6910,
+"General Dangel - Kenichi Ogata"
+],
+[
+6914,
+6935,
+"Supreme Leader Warukimedes - Osamu Ichikawa"
+],
+[
+6938,
+6959,
+"Empress Janera - Akari Hibino"
+],
+[
+7013,
+7034,
+"Invincible Super Man Zambot 3"
+],
+[
+7062,
+7082,
+"Kappei Jin - Chika Sakamoto"
+],
+[
+7086,
+7107,
+"Uchuta Kamie - Nobutoshi Kanna"
+],
+[
+7111,
+7132,
+"Keiko Kamikita - Yoshiko Matsuo"
+],
+[
+7135,
+7157,
+"Killer the Butcher - Akira Shimada"
+],
+[
+7210,
+7231,
+"Invincible Steel Man Daitarn 3"
+],
+[
+7258,
+7280,
+"Banjo Haran - Hirotaka Suzuoki"
+],
+[
+7283,
+7304,
+"Garrison Tokita - Koichi Kitamura"
+],
+[
+7308,
+7329,
+"Commander Neros - Banjo Ginga"
+],
+[
+7332,
+7354,
+"Commander Benmel - Seizo Kato"
+],
+[
+7357,
+7378,
+"Commander Mylene - Yoshiko Asai"
+],
+[
+7382,
+7403,
+"Koros - Naoko Matsui"
+],
+[
+7456,
+7478,
+"Mobile Suit Gundam: The 08th MS Team"
+],
+[
+7505,
+7526,
+"Shiro Amada - Nobuyuki Hiyama"
+],
+[
+7530,
+7551,
+"Aina Sahalin - Kikuko Inoue"
+],
+[
+7554,
+7575,
+"Norris Packard - Osamu Ichikawa"
+],
+[
+7579,
+7600,
+"Ginias Sahalin - Sho Hayami"
+],
+[
+7653,
+7675,
+"MS Gundam 0080: War in the Pocket"
+],
+[
+7702,
+7723,
+"Christina Mackenzie - Megumi Hayashibara"
+],
+[
+7727,
+7748,
+"Bernard Wiseman - Koji Tsujitani"
+],
+[
+7801,
+7823,
+"Mobile Suit Gundam 0083: Stardust Memory"
+],
+[
+7850,
+7871,
+"Kou Uraki - Ryo Horikawa"
+],
+[
+7874,
+7896,
+"South Burning - Masashi Sugawara"
+],
+[
+7899,
+7920,
+"Anavel Gato - Akio Otsuka"
+],
+[
+7924,
+7945,
+"Kelly Layzner - Tessho Genda"
+],
+[
+7948,
+7970,
+"Cima Garahau - Mari Mashiba"
+],
+[
+8023,
+8044,
+"Mobile Suit Zeta Gundam"
+],
+[
+8072,
+8093,
+"Quattro Bajeena - Shuichi Ikeda"
+],
+[
+8097,
+8118,
+"Kamille Bidan - Nobuo Tobita"
+],
+[
+8121,
+8142,
+"Emma Sheen - Maya Okamoto"
+],
+[
+8146,
+8167,
+"Fa Yuiry - Miyuki Matsuoka"
+],
+[
+8170,
+8191,
+"Jerid Messa - Kazuhiko Inoue"
+],
+[
+8195,
+8216,
+"Rosamia Badam - Kayoko Fujii"
+],
+[
+8220,
+8241,
+"Yazan Gable - Yoshitada Otsuka"
+],
+[
+8294,
+8316,
+"Mobile Suit Gundam ZZ"
+],
+[
+8343,
+8364,
+"Judau Ashta - Kazuki Yao"
+],
+[
+8368,
+8389,
+"Roux Louka - Naoko Matsui"
+],
+[
+8393,
+8413,
+"Elle Vianno - Eriko Hara"
+],
+[
+8417,
+8438,
+"Elpeo Ple - Chieko Honda"
+],
+[
+8441,
+8462,
+"Ple Two - Chieko Honda"
+],
+[
+8466,
+8487,
+"Mashymre Cello - Kenyu Horiuchi"
+],
+[
+8491,
+8512,
+"Rakan Dahkaran - Ryusuke Obayashi"
+],
+[
+8515,
+8536,
+"Ilia Pazom - Kimie Sawaki"
+],
+[
+8540,
+8561,
+"Gottn Goh - Koji Totani"
+],
+[
+8565,
+8586,
+"Glemy Toto - Tsutomu Kashiwakura"
+],
+[
+8589,
+8610,
+"Haman Karn - Yoshiko Sakakibara"
+],
+[
+8664,
+8686,
+"Mobile Suit Gundam: Char's Counterattack"
+],
+[
+8712,
+8733,
+"Amuro Ray - Toru Furuya"
+],
+[
+8737,
+8758,
+"Bright Noa - Hirotaka Suzuoki"
+],
+[
+8762,
+8783,
+"Rezin Schnyder - Kazue Ikura"
+],
+[
+8786,
+8807,
+"Gyunei Guss - Koichi Yamadera"
+],
+[
+8811,
+8832,
+"Quess Paraya - Maria Kawamura"
+],
+[
+8836,
+8857,
+"Nanai Miguel - Yoshiko Sakakibara"
+],
+[
+8860,
+8882,
+"Char Aznable - Shuichi Ikeda"
+],
+[
+8935,
+8956,
+"Mobile Suit Gundam F91"
+],
+[
+8984,
+9005,
+"Seabook Arno - Koji Tsujitani"
+],
+[
+9008,
+9029,
+"Cecily Fairchild - Yumi Toma"
+],
+[
+9033,
+9054,
+"Zabine Chareux - Kiyoyuki Yanada"
+],
+[
+9057,
+9078,
+"Carozzo Ronah - Masae Maeda"
+],
+[
+9132,
+9153,
+"Mobile Fighter G Gundam"
+],
+[
+9181,
+9202,
+"Domon Kasshu - Tomokazu Seki"
+],
+[
+9206,
+9226,
+"Rain Mikamura - Yuri Amano"
+],
+[
+9230,
+9251,
+"Allenby Beardsley - Narumi Hidaka"
+],
+[
+9255,
+9276,
+"Schwarz Bruder - Hideyuki Hori"
+],
+[
+9280,
+9301,
+"Ulube Ishikawa - Nobuo Tobita"
+],
+[
+9304,
+9325,
+"Kyoji Kasshu - Hideyuki Hori"
+],
+[
+9329,
+9350,
+"Master Asia - Yosuke Akimoto"
+],
+[
+9403,
+9424,
+"Aura Battler Dunbine"
+],
+[
+9452,
+9473,
+"Show Zama - Shigeru Nakahara"
+],
+[
+9476,
+9497,
+"Marvel Frozen - Mika Doi"
+],
+[
+9501,
+9522,
+"Cham Huau - Maria Kawamura"
+],
+[
+9526,
+9547,
+"Nie Given - Makoto Ataka"
+],
+[
+9550,
+9571,
+"Keen Kiss - Yumi Takada"
+],
+[
+9575,
+9596,
+"Rimul Ruft - Kyoko Irokawa"
+],
+[
+9600,
+9620,
+"Elle Hamm - Run Sasaki"
+],
+[
+9624,
+9645,
+"Abe Tamari - Ryuichi Horibe"
+],
+[
+9649,
+9670,
+"Elle Fino - Michie Tomizawa"
+],
+[
+9673,
+9695,
+"Bell Ahl - Konami Yoshida"
+],
+[
+9698,
+9719,
+"Sheela Lapana - Miki Takahashi"
+],
+[
+9723,
+9744,
+"Kawasse Goo - Shingo Hiromori"
+],
+[
+9747,
+9768,
+"Galalia Nyamhee - Shinobu Adachi"
+],
+[
+9772,
+9793,
+"Todd Guinness - Hidemi Osaka"
+],
+[
+9797,
+9818,
+"Burn Bunnings - Sho Hayami"
+],
+[
+9821,
+9843,
+"Allen Brady - Norio Wakamoto"
+],
+[
+9846,
+9867,
+"Fei Chenka - Koichi Hashimoto"
+],
+[
+9871,
+9892,
+"Jeryl Kuchibi - Tomoko Otsuka"
+],
+[
+9895,
+9916,
+"Musie Poe - Mari Yokoo"
+],
+[
+9920,
+9941,
+"Shot Weapon - Masahiko Tanaka"
+],
+[
+9944,
+9966,
+"Black Knight - Sho Hayami"
+],
+[
+9970,
+9990,
+"Drake Luft - Shoji Oki"
+],
+[
+10044,
+10065,
+"Super Beast Machine God Dancougar"
+],
+[
+10093,
+10114,
+"Shinobu Fujiwara - Kazuki Yao"
+],
+[
+10117,
+10138,
+"Sara Yuki - Yuriko Yamamoto"
+],
+[
+10142,
+10163,
+"Ryo Shiba - Kaneto Shiozawa"
+],
+[
+10166,
+10187,
+"Masato Shikibu - Shigeru Nakahara"
+],
+[
+10191,
+10212,
+"Kotaro Hazuki - Hiroya Ishimaru"
+],
+[
+10216,
+10237,
+"Abel - Koichi Yamadera"
+],
+[
+10242,
+10263,
+"Keim - Ryo Horikawa"
+],
+[
+10267,
+10287,
+"Diore - Eiko Yamada"
+],
+[
+10291,
+10313,
+"Shapiro Keats - Norio Wakamoto"
+],
+[
+10316,
+10337,
+"Muge Zorbados - Tetsu Inada"
+],
+[
+10390,
+10411,
+"Machine Robo: Revenge of Cronos"
+],
+[
+10439,
+10460,
+"Rom Stoll - Kazuhiko Inoue"
+],
+[
+10464,
+10485,
+"Leina Stoll - Yuko Mizutani"
+],
+[
+10488,
+10509,
+"Blue Jet - Shinya Otaki"
+],
+[
+10513,
+10534,
+"Rod Drill - Koichi Hashimoto"
+],
+[
+10537,
+10559,
+"Triple Jim - Toshiharu Sakurai"
+],
+[
+10562,
+10583,
+"Kina - Chieko Honda"
+],
+[
+10587,
+10608,
+"Gardy Stoll - Sho Hayami"
+],
+[
+10612,
+10633,
+"Devil Satan No. 1 - Kenichi Ono"
+],
+[
+10636,
+10657,
+"Globine - Hideyuki Umezu"
+],
+[
+10661,
+10682,
+"Bug Newman - Tsubasa Shioya"
+],
+[
+10685,
+10707,
+"Diondra - Hiroko Takahashi"
+],
+[
+10710,
+10731,
+"Gardy - Yosuke Akimoto"
+],
+[
+10735,
+10756,
+"Gades - Ryuzaburo Otomo"
+],
+[
+10808,
+10830,
+"Dangaioh"
+],
+[
+10858,
+10879,
+"Roll Kran - Akira Kamiya"
+],
+[
+10882,
+10904,
+"Mia Alice - Mayumi Sho"
+],
+[
+10907,
+10928,
+"Lamba Nom - Maya Okamoto"
+],
+[
+10932,
+10953,
+"Pai Thunder - Naoko Matsui"
+],
+[
+10956,
+10978,
+"Gil Berg - Shigeru Chiba"
+],
+[
+10981,
+11003,
+"Shazala - Masako Katsuki"
+],
+[
+11006,
+11027,
+"Burst - Kazuhiko Inoue"
+],
+[
+11031,
+11052,
+"Flash - Ryo Horikawa"
+],
+[
+11055,
+11076,
+"Grand Captain Garimos - Kenichi Ogata"
+],
+[
+11129,
+11150,
+"Ninja Senshi Tobikage"
+],
+[
+11178,
+11199,
+"Joe Maya - Kazuhiko Inoue"
+],
+[
+11203,
+11224,
+"Lenny Ai - Noriko Hidaka"
+],
+[
+11227,
+11249,
+"Mike Coil - Masami Kikuchi"
+],
+[
+11252,
+11273,
+"Damian - Masamichi Sato"
+],
+[
+11277,
+11298,
+"Romina Radorio - Sumi Shimamoto"
+],
+[
+11302,
+11323,
+"Ilbora Saro - Kenyu Horiuchi"
+],
+[
+11326,
+11347,
+"Sharum Baker - Eiko Yamada"
+],
+[
+11351,
+11372,
+"Hazard Pasha - Takeshi Aono"
+],
+[
+11425,
+11446,
+"Martian Successor Nadesico"
+],
+[
+11474,
+11495,
+"Akito Tenkawa - Yuji Ueda"
+],
+[
+11499,
+11520,
+"Yurika Misumaru - Noriko Kuwashima"
+],
+[
+11523,
+11544,
+"Ruri Hoshino - Omi Minami"
+],
+[
+11548,
+11569,
+"Gai Daigoji - Tomokazu Seki"
+],
+[
+11573,
+11594,
+"Ryoko Subaru - Chisa Yokoyama"
+],
+[
+11597,
+11619,
+"Hikaru Amano - Shiho Kikuchi"
+],
+[
+11622,
+11643,
+"Izumi Maki - Miki Nagasawa"
+],
+[
+11647,
+11668,
+"Jun Aoi - Kentaro Ito"
+],
+[
+11671,
+11692,
+"Nagare Akatsuki - Ryutaro Okiayu"
+],
+[
+11696,
+11717,
+"Minato Haruka - Maya Okamoto"
+],
+[
+11720,
+11742,
+"Megumi Reinard - Naoko Takano"
+],
+[
+11745,
+11766,
+"Inez Fressange - Naoko Matsui"
+],
+[
+11770,
+11791,
+"Prospector - Kenichi Ono"
+],
+[
+11794,
+11816,
+"Tsukumo Shiratori - Tomokazu Seki"
+],
+[
+11819,
+11840,
+"Saburota Takasugi - Shinichiro Miki"
+],
+[
+11844,
+11865,
+"Genpachiro Akiyama - Yasunori Matsumoto"
+],
+[
+11868,
+11889,
+"Genichiro Tsukiomi - Toshiyuki Morikawa"
+],
+[
+11893,
+11914,
+"Haruki Kusakabe - Kunihiko Yasui"
+],
+[
+11967,
+11988,
+"Banpresto Originals"
+],
+[
+12016,
+12037,
+"Kyosuke Nanbu - Toshiyuki Morikawa"
+],
+[
+12041,
+12062,
+"Excellen Browning - Yuko Mizutani"
+],
+[
+12066,
+12087,
+"Alfimi - Yuko Mizutani"
+],
+[
+12090,
+12111,
+"Neu Legiseia - Norio Wakamoto"
+],
+[
+12190,
+12210,
+"(In no particular order)"
+],
+[
+12312,
+12333,
+"Sound Director"
+],
+[
+12361,
+12382,
+"Aya Mizoguchi"
+],
+[
+12459,
+12481,
+"Sound Production"
+],
+[
+12509,
+12530,
+"Yoshiro Abiru (Arts Pro)"
+],
+[
+12533,
+12555,
+"Kaoru Machida (Arts Pro)"
+],
+[
+12632,
+12653,
+"Recording Studio"
+],
+[
+12681,
+12702,
+"Tavac"
+],
+[
+12804,
+12825,
+"Opening Theme"
+],
+[
+12854,
+12875,
+"\"GO!!\""
+],
+[
+12903,
+12924,
+"Lyrics: Hironobu Kageyama"
+],
+[
+12928,
+12949,
+"Music: Yogo Kono"
+],
+[
+12952,
+12974,
+"Arrangement: Yogo Kono"
+],
+[
+12978,
+12999,
+"Vocals: JAM Project"
+],
+[
+13075,
+13096,
+"Ending Theme"
+],
+[
+13125,
+13147,
+"\"Departure\""
+],
+[
+13174,
+13196,
+"Lyrics: Hironobu Kageyama"
+],
+[
+13198,
+13220,
+"Music: Yogo Kono, Hironobu Kageyama"
+],
+[
+13224,
+13245,
+"Arrangement: Yogo Kono"
+],
+[
+13249,
+13270,
+"Vocals: JAM Project"
+],
+[
+13322,
+13343,
+"Released by: Lantis Co., Ltd."
+],
+[
+13346,
+13368,
+"Distributed by: King Record Co., Ltd."
+],
+[
+13495,
+13515,
+"Special Thanks"
+],
+[
+13544,
+13565,
+"Ichiro Mizuki"
+],
+[
+13568,
+13590,
+"Hironobu Kageyama"
+],
+[
+13593,
+13615,
+"Rica Matsumoto"
+],
+[
+13618,
+13639,
+"Eizo Sakamoto"
+],
+[
+13642,
+13663,
+"Masaaki Endo"
+],
+[
+13668,
+13689,
+"(JAM Project)"
+],
+[
+13716,
+13737,
+"Chumei Watanabe"
+],
+[
+13765,
+13787,
+"Tatsuhiko Dan (Dynamic Planning)"
+],
+[
+13790,
+13811,
+"Yashu Tokuhara (Dynamic Planning)"
+],
+[
+13840,
+13861,
+"Toshitsugu Inoue (Lantis)"
+],
+[
+13864,
+13886,
+"Yoshiyuki Ito (Lantis)"
+],
+[
+13913,
+13935,
+"Yoshitaka Shido (Bandai)"
+],
+[
+13938,
+13959,
+"MAX Watanabe (Max Factory)"
+],
+[
+13987,
+14009,
+"Yasunori Honda (Arts Pro)"
+],
+[
+14037,
+14058,
+"Naoto Shimazaki"
+],
+[
+14061,
+14083,
+"Yukiya Hanawa (Toho Eizo Bijutsu)"
+],
+[
+14086,
+14107,
+"Homare Muto (Sotsu Agency)"
+],
+[
+14136,
+14157,
+"Hikaru Midorikawa"
+],
+[
+14160,
+14181,
+"Tetsu Inada"
+],
+[
+14308,
+14329,
+"Sales Staff"
+],
+[
+14357,
+14378,
+"Toshihiro Nada"
+],
+[
+14382,
+14403,
+"Atsushi Yamazaki"
+],
+[
+14406,
+14427,
+"Yoshihisa Kanesaka"
+],
+[
+14431,
+14452,
+"Yutaka Watanabe"
+],
+[
+14456,
+14477,
+"Momoko Suzuki"
+],
+[
+14480,
+14501,
+"Shoichi Yoshiba"
+],
+[
+14506,
+14526,
+"Eriko Totsuka"
+],
+[
+14628,
+14649,
+"Publicity Staff"
+],
+[
+14678,
+14699,
+"Yoshifumi Matsuda"
+],
+[
+14702,
+14723,
+"Chikae Kimura"
+],
+[
+14727,
+14748,
+"Takashi Watanabe"
+],
+[
+14850,
+14871,
+"Support Staff"
+],
+[
+14899,
+14920,
+"Yuta Kadohara"
+],
+[
+14924,
+14945,
+"Hirotomo Morisada"
+],
+[
+14948,
+14970,
+"Tetsuichi Hiyama"
+],
+[
+15071,
+15092,
+"Debugging"
+],
+[
+15121,
+15142,
+"Takeshi Otabe (Studio Stat)"
+],
+[
+15146,
+15167,
+"Tatsuya Onishi (Studio Stat)"
+],
+[
+15170,
+15192,
+"Shinpei Aida (Studio Stat)"
+],
+[
+15195,
+15216,
+"Soichiro Kawaguchi (Studio Stat)"
+],
+[
+15219,
+15241,
+"Takashi Koyoshi (Studio Stat)"
+],
+[
+15244,
+15265,
+"Yasuharu Sato (Studio Stat)"
+],
+[
+15269,
+15290,
+"Toshu Kosaka (Studio Stat)"
+],
+[
+15294,
+15315,
+"Sho Nishiyama (Studio Stat)"
+],
+[
+15318,
+15339,
+"Hiroyuki Yoshida (Studio Stat)"
+],
+[
+15343,
+15364,
+"Hideaki Ishikura (Studio Stat)"
+],
+[
+15367,
+15389,
+"Yumi Yajima (Studio Stat)"
+],
+[
+15417,
+15438,
+"Tatsu Kitagawa"
+],
+[
+15441,
+15463,
+"Sora Aoi"
+],
+[
+15466,
+15487,
+"Fukue Kiyonaga"
+],
+[
+15491,
+15512,
+"Shinji Minami"
+],
+[
+15614,
+15635,
+"Production Cooperation"
+],
+[
+15663,
+15684,
+"Arts Pro Co., Ltd."
+],
+[
+15688,
+15709,
+"Art Prest Co., Ltd."
+],
+[
+15713,
+15734,
+"Wave Edge Co., Ltd."
+],
+[
+15737,
+15758,
+"A.I Co., Ltd."
+],
+[
+15762,
+15783,
+"Coamix Co., Ltd."
+],
+[
+15786,
+15807,
+"Studio Stat Ltd."
+],
+[
+15811,
+15832,
+"Lantis Co., Ltd."
+],
+[
+15836,
+15857,
+"Ray-Up Co., Ltd."
+],
+[
+15860,
+15881,
+"Design Studio Omega"
+],
+[
+15984,
+16005,
+"Cooperation"
+],
+[
+16032,
+16054,
+"Ashi Productions Co., Ltd."
+],
+[
+16057,
+16079,
+"Anime International Co., Ltd."
+],
+[
+16082,
+16103,
+"Rights In Co., Ltd."
+],
+[
+16106,
+16128,
+"Pierrot Project Co., Ltd."
+],
+[
+16131,
+16153,
+"Sotsu Agency Co., Ltd."
+],
+[
+16156,
+16177,
+"Dynamic Planning Co., Ltd."
+],
+[
+16181,
+16202,
+"Toei Co., Ltd."
+],
+[
+16205,
+16227,
+"Tohokushinsha Co., Ltd."
+],
+[
+16328,
+16350,
+"Super Robot Wars Committee"
+],
+[
+16378,
+16399,
+"Yuta Kadohara"
+],
+[
+16403,
+16424,
+"Junichi Sato"
+],
+[
+16427,
+16448,
+"Yoshifumi Matsuda"
+],
+[
+16452,
+16473,
+"Chikae Kimura"
+],
+[
+16476,
+16498,
+"Takashi Watanabe"
+],
+[
+16501,
+16522,
+"Yutaka Watanabe"
+],
+[
+16526,
+16547,
+"Hiroshi Kikuchi"
+],
+[
+16550,
+16572,
+"Soichiro Morizumi"
+],
+[
+16574,
+16596,
+"Jippa Hitokarage"
+],
+[
+16600,
+16621,
+"Takanobu Terada"
+],
+[
+16748,
+16769,
+"General Producer"
+],
+[
+16797,
+16818,
+"Katsuhiro Suzuki"
+],
+[
+16944,
+16965,
+"Executive Producer"
+],
+[
+16994,
+17015,
+"Yukimasa Sugiura"
+],
+[
+17019,
+17040,
+"Tsuchita Goga"
+],
+[
+17240,
+17261,
+"Sales"
+],
+[
+17289,
+17311,
+"Banpresto Co., Ltd."
+],
+[
+17613,
+17629,
+"SUPER ROBOT WARS IMPACT"
+],
+[
+17638,
+17654,
+"THANKS FOR YOUR PLAYING"
+],
+[
+17786,
+17801,
+"THE END"
+]
+]
+}

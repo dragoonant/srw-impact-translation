@@ -1,0 +1,769 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 102,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Hahahahaha! Fragile! So very fragile! So this is Earth... heh, pathetic.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "Come quickly, Mia Alice.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "Hurry, or your home planet will be torn to pieces...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Kukuku. Fufufufufu.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "Is that a mobile mech of the space pirates, Bunker...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "It's huge! The Dinosaur Empire and Mechanical Beasts can't compare!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Tch, if it's just big, Getter-2 will run rings around it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "It'll be worth throwing, too. Even Musashi never threw one like that!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "...I'm heading out! Open the hatch.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Hmm? This planet's defense force...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Hmph, they'll help kill time until they arrive.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Heh, being big isn't everything!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "Joe! Don't get careless!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Show... how are we gonna beat something that big?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "My Aura Power's grown stronger too. It'll be fine, Cham.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "Hm... this reading...?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "I see, the treasure Grand Captain Garimos spoke of... is in that robot.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Heh, I meant to lure out Mia Alice,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "but what a prize has fallen into my net...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Whoa? What's wrong, Raideen!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Akira, what's up?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "I don't know, Mister.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "It's just... Raideen seemed to be trying to tell me something...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Something...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "What are you doing? Is something wrong?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "No, it's nothing. Let's go, everyone!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Muohh!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Yay! ...Huh, what!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "The radar? Hm... flying objects!? Enemy reinforcements!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Whaaat, something else is coming!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "We're full up already!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "So this is... Earth... my planet...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Federation fighters...? No, I've never seen that type.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "There it is, Mia! Gil's robot!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Whoa, it's huge... It's fighting this planet's army... It looks strong...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Roll! You're a man, so quit your whining!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Hmm, that's...!? Heh, heh heh... Hahahahaha!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "I've waited... waited so long for you, Mia Alice!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Earth... my planet. ...Let's combine!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Right!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "C-Can we do it...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "We've got no choice.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Something's off...? They're not on the same side!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "Let our hearts become one...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Cross Fight!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Four fighters combined into a robot!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "A new type of enemy. Heh, Koji would love this.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Tetsuya, quit being so laid-back! Nothing's any clearer!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "One after another... Which side is friendly!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "The ones chasing the big guy must be on our side...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "It's a combining, transforming robot! Damn, that's awesome!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "True. But it doesn't seem to transform like Getter does.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "This is no time to be impressed! Koji, Ryoma!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Things are only getting more tangled up!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Easy, Sayaka, don't panic. Looks like those two are enemies.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Whose side are we supposed to be on!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "People of Earth, can you hear me!? We're not your enemy!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "We came to drive out Bunker's robot!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "Picking a fight with Bunker takes guts... But that doesn't matter!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "All I'm after is you, Mia Alice... your life!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Not yet, I'm not beaten yet... Bloody II will settle this...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "What... there was a robot inside it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Wh-What kind of mechanics is that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Hmph. Cheap tricks!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "That big lug was a combining robot too? Tch, if only we could combine...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "No matter how often you show up, Dangaioh won't lose! Gil Berg!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Silence... brat!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Bunker aside... what is that robot? Hm!? An energy reading...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "What!? That bastard Gil was hiding more forces!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "No, Pai! The ID code is different... That's another enemy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "The Hyakki Empire's AI robots!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Guess we made too much noise. Looks like they found us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "What's going on? Mia's planet seems to be in trouble too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Let's just blast 'em, Ryo!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "No time to think! Let's go, everyone!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "If they stand in our way, we beat them... Go, Hayato! Benkei!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "Bloody, driven into a corner like this!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Nngh, did I underestimate Earth's forces...!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Ah! He's running away!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "So he won't come back to haunt us. Let's go after him, Roll!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Lamba, Pai! ...It's all right now. Let's leave him be.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "Are you sure, Mia? We can still catch him.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "We managed to beat them... Now, what to do about that robot?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "...What, a call on the military's private channel? Fine, put it through.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Mia... Mia, this is where we say goodbye.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "It's sad, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "...See ya.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Huh!? W-Wait a second! Why are you dropping just me off!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "Because this is your planet. The home you finally remembered.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Right. You're not a weapon, Mia... Go live in peace on your own planet.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "You've got a place to come home to, after all...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Come on, Mia...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "...I... I'm not getting off!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Mia!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "I'm going with all of you...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "What!? Stay with us and you'll face more of the fighting you hate...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "But I... still can't remember much, and being left alone would be hard...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "This mech needs all four of us, so I can't just go home by myself...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "And... and besides, we're friends...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "That's right! Friends who've risked our lives... so...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "All right, Mia.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "Hehe, honestly, I wanted to stay together!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "...You sure? You won't have a home to go back to, you know?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "I'll be fine!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "...All right, it's settled!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "You are... the Dangaioh Team, I take it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "Hm? What? How do you know about us?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "Oh, I'm Mia Alice. Um, I'm an Earthling!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Thank you so much for helping us earlier.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "The feeling is mutual.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "I'm Hazuki, Commander of the Federation Far East Gandor Team.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "Just now, we got a call from a man calling himself Dr. Tarsan.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "Are you fighting under him?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "Under him... Well, I guess you could say that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "What did... the Doctor say?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "...The transmission cut out. It seems they've entered combat.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "...What will you do? If you've nowhere to go, I'd like you to come with us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "There's no catch here, right, old man?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "I won't force you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "...To be honest, we want information on Bunker.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "We don't know what kind of organization we're fighting.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Mia, what do you think?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "...We'll go with you.",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

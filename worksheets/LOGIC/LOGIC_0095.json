@@ -1,0 +1,625 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 149,
+ "strings": [
+  {
+   "id": 0,
+   "en": "1. Destroy all enemies",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "1. All allies destroyed",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Ngh, is this my limit...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "He held out well... Is this the power of what they call a Newtype?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "With Jaburo in that state... who knows what's become of the Federation...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Capture him alive if at all possible!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "He's a valuable source of information on Jaburo's situation.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "I've sent a distress signal. Now... can I hold out...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Kamille!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Fa? Is that you, Fa!? Are you riding that dragon!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Ngh, that's the Far East Branch's...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "Looks like a troublesome foe has shown up... Send reinforcements!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "Kamille Bidan, I presume?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "This is the Federation Forces Far East Branch, the Gandor Team.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "We'll provide support now. Please join up with us.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Understood. I'm counting on you...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "That Gouf again...! I'm going out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "That enemy lineup... Commander, aren't those Titans mobile suits!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "Indeed. After Paptimus Scirocco's rebellion,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "there were rumors that the technology had leaked to Neo Zeon...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "So it was true...!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "Heh, these are easier to fight than tough Mechanical Beasts.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "You said it. Let's smash 'em all at once!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "Doesn't mean much if you can't hit 'em, you two.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Why you little...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "But they evade better. Power means nothing if you can't hit them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "True... I hate the nimble ones.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "At a disadvantage in strength... I hope they arrive in time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "Whoa, a whole bunch of stuff is flying in! Show!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Enemy reinforcements!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Bring on as many as you like!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "As many as they like would be a problem, Benkei.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Titans high-mobility types...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "What...? This feeling... Four... Can it be, Four!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "Kamille!? Four... Four is gone!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Drop the sky... the enemies who drop the sky... that's them...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "Could it be... a Cyber-Newtype? Lord Ginias... what foolishness...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Four!? ...No... you're... Rosamie? That's it, Rosamia Badam!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "How awful...! The Titans have fallen, and still another war!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "Wh-Who are you...! Stay away!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "Don't you know me!? Rosamie, it's Kamille, your big brother!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "...Ugh... my head... what... big brother...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "That's right, Rosamie. It's Kamille, your big brother!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Rosamie...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "Ugh, uuh... Big... brother...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "That's right, Rosamie, you mustn't become a tool of war!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Come with me... and live for Four too...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Big brother...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "Acquired skill \"SP+15\".",
+   "kind": "system",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "What!? What is that!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Enemy reinforcements!? What the heck is that round thing!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Eeek!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "That's... the Apsaras...! It should still be incomplete. Who's in it!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "Did I shake them off?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "To keep up with the Apsaras and a Gaplant, even unfinished ones...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Something else showed up! What's that big rice-cake-looking thing!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "No visible thrusters, so how is it floating... Minovsky Craft...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "A Zaku head!? I see, they're using it as the main monitor!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "Norris? Norris!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "...Lady Aina!? Why are you in a place like this!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "The Apsaras Project is behind schedule.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "And the surface is already in such chaos...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "Brother told me to come here as a test flight, even if it's risky.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "What... a new model I've never seen...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Damn Zeon, when did they build a mobile armor that big...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "Re-GZ?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "Geez, they just keep on coming.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "Ngh, this is no time for people of Earth to fight each other!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "...No? This is... it's him!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "Kamille?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Guess I couldn't get this unit perfectly tuned...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "...Captain Amuro!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Captain Amuro!? The Argama's former ace pilot...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "This is Amuro Ray. I'll back you up!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "I never thought I'd meet the real deal.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "So that's the pilot of the original Gundam...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "Everyone's sure making a fuss.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "Not much news from the Earth Sphere reached Mars, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "he seems to be a powerful ally, anyway.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "Heh, now if that guy shows up too, we'll be unstoppable.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "The unit's stability...!? Ngh, withdrawing from the battle...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "That Zaku-head... it's running!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "We only drove it back.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "A facility that can build a mobile armor like that... on Earth?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "Tobikage!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "So that's the ninja robot everyone's talking about?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "I see. Calling it a ninja is spot on.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Another one!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "A unit I've never seen...? It's awfully small...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Everyone, that's on our side!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "...Don't tell me Tobikage was listening to me?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "We managed to drive off Zeon.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Amuro, Bidan, thanks for coming... Let's hear the details on the bridge.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "Rosamie...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "Cyber-Newtypes like her are being used in war again...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "It's a sad reality...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Still, I can't believe Zeon can afford to produce new models.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "That Zaku-head thing, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "Maybe they have a secret base somewhere.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "On the way here, I intercepted several Zeon transmissions.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "If we analyze them, we might learn something...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "All right, everyone, return to the ship for now.",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}

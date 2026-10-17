@@ -1,0 +1,1627 @@
+{
+ "file": "MAP/LOGIC.BIN",
+ "format": "LOGIC",
+ "block": 2313,
+ "strings": [
+  {
+   "id": 0,
+   "en": "Good work. That was a tough one...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "Yes... In all our long fighting, we've never faced an enemy that big...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "No matter how big the enemy, once we got inside,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "en": "it wasn't much different from usual.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "en": "No foe can stand against a Tsurugi... I let the others rest, Captain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "en": "Understood. ...It can't be helped.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "en": "The ones who came up from the surface especially had no time to rest.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "en": "...Open a channel to the Elshank and the Nadesico.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "en": "Yes, sir.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "en": "Hm? Where's Dr. Kasshu?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "en": "Ah, he went to meet Domon. A long-awaited reunion...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "en": "We're connected? Princess Romina, Captain Misumaru... Hm?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "en": "You're the first officer, Aoi... right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "en": "Y-yes! Captain Bright,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "en": "...Captain Misumaru is currently away on, um, important ship business...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "en": "Oh my... Has some trouble arisen on the Nadesico?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "en": "If there's anything we can do...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "en": "No, no, it's nothing so serious, I assure you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "en": "...It seems we'd be better off not asking why...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "en": "Be honest: she wanted a confession like Rain got, so she went to",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "en": "barge in on Tenkawa. I think it's better to just say so.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "en": "Sigh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "en": "So, Bright, you had something about our next steps?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "en": "Ahem... Right. About our future course...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "I'm thinking of moving Londo Bell's flagship to the Elshank.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "en": "Oh my...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "en": "Now that's a big decision.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "en": "...The Elshank and the Nadesico, and the Ra Cailum...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "en": "Indeed, the Ra Cailum lacks something.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "en": "Lacks something...? ...I see, jump travel.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "en": "Hmm...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "en": "Having the whole fleet held back by one ship is hardly ideal.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "It's a shame to lose the Ra Cailum's combat power, though...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "en": "The Elshank's micro-worm drive, the Nadesico's Boson Jump...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "en": "Indeed.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "en": "On that point, Federation warships can't keep up...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "en": "Yes.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "We can't always rely on Dr. Tarsan.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "en": "I'd like to return to Von Braun once to make the transfer, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "en": "What do you think, Princess Romina?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "en": "Yes, I'd be delighted to welcome you all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "en": "Jeez. After monster hunting, now we're moving house.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "en": "Tetsuya, it's necessary!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "en": "First Officer Aoi, this doesn't directly concern the Nadesico, but",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "please report it to Captain Misumaru.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "Yes, sir, understood!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "All right, all ships, set course for Von Braun.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "en": "You okay, Rain? Don't push yourself too hard...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Come on, Domon, don't worry so much. I'm fine now...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Well, well, showing off for us, huh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Now, now, don't be jealous. He's only just managed to confess.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "en": "Hmph... I thought him still a fledgling in matters of love...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "en": "but it seems he's found himself a fine girl...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "en": "But at this rate, he'll be henpecked in no time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "en": "Geez, you've got no sense of romance...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "en": "Someday, I'd like to get a confession like that too...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "en": "Huh? You say something, Lenny?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "en": "...! Geez, Joe, you idiot! ...Oh, that's...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "en": "...Domon...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "en": "...F... Father... Father!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Dr. Kasshu...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "...Domon, well done... You stopped the Devil Gundam...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "en": "No, Father... it's because everyone lent me their strength.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "en": "Waaah, Kabuto!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "en": "I'm a sucker for these touching reunions!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "en": "C'mon, Boss, a guy your age crying... *sniff*",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "en": "*Sniff* You're crying too, Kabuto!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "en": "Anyway... all that hard work paid off.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "en": "It sure did.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "en": "Yes... A father, huh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "en": "Father... Mother...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Princess...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "en": "Geez, is being moved contagious or something?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "en": "Dad this, Dad that... Ugh...!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "en": "Hey! Pai! Why do you always... Huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "en": "...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "en": "What's wrong, Pai? Upset stomach?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "en": "N-nothing!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "en": "(Dad... Father...? What's... Bari... as...?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "en": "Rain. Don't worry about Mikamura. He was merely led astray.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "en": "The Neo Japan authorities understand that as well.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "en": "Yes...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "en": "And you must be Schwarz... I've heard about you too.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "en": "Do you... have no intention of removing that mask?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "en": "...None. I am Schwarz Bruder.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "en": "As long as there is war in the Earth Sphere, that will not change.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "en": "Now, I take my leave...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "en": "Schwarz!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "en": "It's all right, Domon...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "Someday, the day may come when he removes that mask.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "en": "But that is for him to decide.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "Schwarz......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "Anyway, as far as the Devil Gundam goes, all's well that ends well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "As far as the Devil Gundam goes, anyway...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "That's right... There are still plenty of enemy forces left.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "No sweat! We just smash 'em like we did the Gaizok!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "en": "Being spirited is fine, but...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "en": "the ones still around have been building up their strength all this time.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "en": "And here we are, wiped out from nonstop fighting...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Yes. The battles ahead will be harder than ever.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "en": "Don't make that face! Let's do our best, Brother.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "We gotta kick those Gyandlar guys off Earth fast, too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "Domon, about what comes next...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "I know, Father.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "We beat the Devil Gundam... but the Earth Sphere is still in this state.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "I'll fight...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Yes, that's best.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Put your strength to good use for all those who've helped you.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "en": "I'm coming with you... Domon.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "en": "According to Captain Bright, this ship is headed for Von Braun.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "en": "I'll recuperate there for a while.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "en": "Rebuilding the Neo Japan colony will take time, it seems.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "en": "Got it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "en": "From what he said, we're going back to the Moon again.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "en": "That's right.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "en": "It's a big port, so it's probably handy in many ways.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "en": "I hope we can relax a little.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "en": "Yep, gotta rest up some, or we'll fall apart.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "en": "So naive,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "en": "like Captain Bright would ever give us that kind of free time.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "en": "Yeah. Even with free time, he'd have us tidying up gear or something.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "Nah, just slack off on the chores!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Tidying up's no big deal. It's not like we're moving house.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "Oh, then I'll do that too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Hyoma, stop saying weird stuff!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "People will think the whole Combattler team are slackers!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "O-okay, okay... Don't get so mad...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Lady Haman, I believe the time is nearly right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "Major Anavel Gato... Don't be so hasty.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "...Surely you haven't forgotten the failure of Operation Stardust?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "Yes. Underestimating Londo Bell's strength was my own blunder...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "en": "It's not as if I have no next move...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "We've waited this long. Surely you can wait a little longer?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "...Understood.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "Lady Haman, you summoned me?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "You've come, Mashymre.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "Yes.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "en": "My failure in the Gate of Zedan operation... I deeply apologize.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "What's done is done... Make up for it next time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "Yes... Lady Haman.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "I've already made my move. That will be your chance to clear your name.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "Together with Major Gato... understood?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "Yes, ma'am!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "(Her next move...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "en": "Welcome, everyone.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "We are honored to have you aboard the Elshank...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "No need for stiff greetings, Princess!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "en": "Been a while since we met face-to-face, but you look well!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "Yes, and I'm so glad to see you looking well too, Koji...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "You bet!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "en": "Geez, you always get so pumped around a pretty girl!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "Seriously! Honestly, Koji.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "Wh-what's with you two?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "en": "...You've still got a lot to learn in this department, Koji.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "Ahem...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "en": "From now on, the Elshank will be Londo Bell's flagship.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "Oh yeah, that was the plan, huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "With the Elshank's wormhole drive, getting around will be easier.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "en": "I am all but an amateur when it comes to battle...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "So I ask that you take command, Captain Bright.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "Understood. ...Which means,",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "en": "who commanded your battles on the way here from the Schema system?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "...That is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "Tch. Captain, drop it!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "There's a lot to it, a whole lot!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "It seems... that's something we shouldn't have asked.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "en": "(...Ilbora...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "We're off, huh...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "Hmm, no matter how often I see them, those sparkly glimmers are so pretty.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "I keep telling you, those are stars, Cham.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "Huh...? Show... something's coming! That's not a glimmer or a star!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "It's true, something's...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "en": "What?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "Hear me, people of Earth. Hear me, people of Earth...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "What? More aliens?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "en": "What...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "Captain! A signal at two o'clock. Putting it on the monitor.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Big Bro, there's a person floating out there!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "en": "A person...!? We're in space!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "Hear me, people of Earth... Hear me, people of Earth...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "My name is... Deus.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "en": "Deus...? I've never heard that name. Who are you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "H-how can you all be so calm?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "In outer space... and clearly without a suit!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "en": "Mmm, I guess we're just used to surprises...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "Someone's already hogged plenty of big moments doing just that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "en": "I come... as an envoy from planet Campbell, 340,000 light-years away.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "en": "Planet Campbell!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "...Is that true!? Campbell...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "Anyway, let's hear what Deus has to say!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "en": "The warlike faction that long ruled Campbell has been driven out...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "and order has been restored under us pacifists...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "...Pacifists, huh.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "en": "So not all the Campbellians were bad guys?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "en": "To the people of Earth, who suffered disaster at the hands of",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "the wicked Campbellians, I offer my deepest apologies...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "Seriously, what a nuisance it was.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "en": "Ah, who cares?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "We won't be bothered by the Campbellians anymore, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "...However, though our planet Campbell is now at peace...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "en": "here, Empress Janera and her subordinates still remain...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "en": "General Dangel and Supreme Leader Warukimedes.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "Empress Janera!? ...If we beat her...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "...there'll be no more Campbellians targeting Earth?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "en": "Precisely...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "en": "But I lack the power to defeat the Empress...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "In that case, leave it to us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "But Tetsuya, we don't know where this Empress is, do we!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "en": "Friend from a distant world, the Empress of Campbell...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "Have you any information on Janera's whereabouts?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "You do not appear to be from Earth... Your name?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "en": "Rom Stol.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "...Stol...!?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "Tenku Chushin Ken... one with ties to planet Cronos...!",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "en": "Huh, looks like you're famous.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "...Empress Janera is at what you call Lagrange point L3...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "en": "L3... that means Side 7.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "Captain, it's true. Somewhere in Side 7 space, Minovsky density",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "has risen to extreme levels.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "en": "All right! If that's settled, hide-and-seek is over...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "Yeah, let's go take her down quick!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "en": "No running off on your own, Hyoma.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "Our enemies ain't just the Campbellians, y'know.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "That's right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "en": "I wish you luck... friends of Earth...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "Huh!? That big old guy went off somewhere!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "Is that all right, Bright?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "en": "Well, since we couldn't track him, there's nothing we can do.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "That was surprising... What will you do, Captain Bright?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "Yes, Londo Bell's next move...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "en": "...A messenger of peace from planet Campbell... Can we trust that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "If we defeat Empress Janera...",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "there'll be no more evil Campbellians, he said, right?",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "en": "If that Empress is at Green Oasis, then it should be true, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "Side 7, hm...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "en": "What about the enemies besides Campbell?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "en": "For now, Neo Zeon seems to be the one to watch...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "Those guys kept their heads down in the Devil Colony fight and before.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "They must be building up their strength.",
+   "kind": "page",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "en": "The Nu Gundam's in good shape. ...I can go anytime, Bright.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "Captain! This is bad!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "en": "What is it? What happened?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "ID codes... Delaz's fleet is on the move!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "en": "Hoh... Speak of the devil.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "en": "And... the Neo Zeon fleet as well!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "Where are they headed!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "Fa, can you tell where on the Moon the Delaz Fleet is headed?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "en": "Fifth Luna!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "en": "What do you think, Amuro?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "en": "Haman and Fifth Luna... I don't see the connection.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "en": "It may be a diversion.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "en": "Nah, the big boss Haman as a diversion? No way, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "en": "Could be they want us to think that...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "en": "...Captain, I'd like to go to the Dark Zone...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 258,
+   "en": "Hm? Is something there?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "en": "On the way to Fifth Luna is fine... I'd like us to stop by.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "en": "All right, but only if we have time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 261,
+   "en": "Let's sortie. We're out of time, Bright!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 262,
+   "en": "Please contact the Nadesico as well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 263,
+   "en": "Understood.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 264,
+   "en": "Huh? Come to think of it, what happened to Captain Quattro?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 265,
+   "en": "Oh, he said he had some business to take care of.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 266,
+   "en": "Huh, that's unusual.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 267,
+   "en": "......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 268,
+   "en": "Yes, it's all fine. Things are proceeding smoothly... Colonel.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 269,
+   "en": "Understood. I'm counting on you...",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ]
+}
